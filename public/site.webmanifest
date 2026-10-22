@@ -1,0 +1,9 @@
+{
+  "name": "Bản tin 24h",
+  "short_name": "Tin 24h",
+  "lang": "vi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#10243a"
+}

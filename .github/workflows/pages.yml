@@ -1,0 +1,111 @@
+name: Sync news and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 2,8,14,20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    outputs:
+      data_changed: ${{ steps.commit-data.outputs.changed }}
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Synchronize Google Sheets
+        id: sync-news
+        continue-on-error: true
+        env:
+          GOOGLE_SHEETS_ID: ${{ vars.GOOGLE_SHEETS_ID }}
+          GOOGLE_SHEETS_GID: ${{ vars.GOOGLE_SHEETS_GID }}
+          GOOGLE_SHEETS_RANGE: ${{ vars.GOOGLE_SHEETS_RANGE }}
+          GOOGLE_SHEETS_API_KEY: ${{ secrets.GOOGLE_SHEETS_API_KEY }}
+          GOOGLE_SHEETS_ACCESS_TOKEN: ${{ secrets.GOOGLE_SHEETS_ACCESS_TOKEN }}
+        run: npm run sync:news
+      - name: Commit changed data
+        id: commit-data
+        if: steps.sync-news.outcome == 'success'
+        run: |
+          if git diff --quiet -- public/data && [ -z "$(git ls-files --others --exclude-standard public/data)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "News data did not change."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add public/data
+            git commit -m "chore: sync news data"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Restore tracked data after a failed sync
+        if: steps.sync-news.outcome == 'failure'
+        run: git restore --worktree -- public/data
+      - name: Preserve current data for deployment
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-data
+          path: public/data/
+          if-no-files-found: error
+      - name: Report synchronization failure
+        if: steps.sync-news.outcome == 'failure'
+        run: |
+          echo "::error::Google Sheets synchronization failed. The last valid dataset is retained."
+          exit 1
+
+  build-and-deploy:
+    needs: sync
+    if: always() && needs.sync.result != 'cancelled' && (github.event_name == 'push' || needs.sync.outputs.data_changed == 'true')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+      - name: Restore synchronized data
+        uses: actions/download-artifact@v4
+        with:
+          name: news-data
+          path: public/data
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Run tests
+        run: npm test
+      - name: Build website
+        run: npm run build
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
