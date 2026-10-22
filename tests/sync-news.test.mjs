@@ -156,6 +156,32 @@ test("adding source URLs updates legacy records instead of creating duplicates",
   assert.equal(merged[0].sourceUrl, "https://example.com/story");
 });
 
+test("updates an existing URL/title when the Sheet stops providing its date", () => {
+  const previous = {
+    id: "dated-record",
+    title: "Tin cập nhật",
+    sheetUpdatedAt: "2026-10-22",
+    sourceUrl: "https://example.com/story",
+    imageUrl: "https://example.com/image.jpg",
+    imageLookupAt: "2026-10-22T06:00:00.000Z",
+    imageLookupStatus: "found",
+    tags: [],
+    language: "vi",
+  };
+  const incoming = {
+    ...previous,
+    id: "undated-record",
+    sheetUpdatedAt: undefined,
+    collectedAt: "2026-10-22T07:00:00.000Z",
+    sourceRow: 42,
+  };
+  const merged = mergeArticles([previous], [incoming]);
+  assert.equal(merged.length, 1);
+  assert.equal(merged[0].id, "undated-record");
+  assert.equal(merged[0].imageUrl, previous.imageUrl);
+  assert.equal(merged[0].imageLookupAt, previous.imageLookupAt);
+});
+
 test("rejects empty sheets and schemas with no title field", () => {
   assert.equal(mapRows([]).articles.length, 0);
   assert.equal(mapRows([["Columna"], ["dato"]]).rejectedRows, 1);
@@ -164,9 +190,10 @@ test("rejects empty sheets and schemas with no title field", () => {
 test("handles null cells, invalid dates, and unsafe source links", () => {
   const rows = mapRows([headers, [
     "31/02/2026", "PHẦN B", "Công nghệ", "Tiêu đề", null, null, null, "javascript:alert(1)",
-  ]]);
+  ]], new Date("2026-10-22T06:00:00.000Z"));
   assert.equal(rows.articles.length, 1);
   assert.equal(rows.articles[0].sheetUpdatedAt, undefined);
+  assert.equal(rows.articles[0].collectedAt, "2026-10-22T06:00:00.000Z");
   assert.equal(rows.articles[0].summary, "");
   assert.equal(rows.articles[0].sourceUrl, undefined);
   assert.equal(rows.rejectedRows, 0);

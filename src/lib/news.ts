@@ -54,14 +54,20 @@ export function matchesDateFilter(article: NewsArticle, filter: DateFilter, now 
     return published <= now.getTime() && published >= now.getTime() - 24 * 60 * 60 * 1000;
   }
 
-  const dateValue = article.publishedAt ?? article.sheetUpdatedAt ?? article.collectedAt;
-  if (!dateValue) return false;
-  const date = article.publishedAt ? getLocalDateKey(dateValue) : dateValue.slice(0, 10);
+  const date = articleDateKey(article);
+  if (!date) return false;
   const today = getLocalDateKey(now);
   const reference = new Date(`${today}T12:00:00Z`);
   reference.setUTCDate(reference.getUTCDate() - 1);
   const yesterday = reference.toISOString().slice(0, 10);
   return filter === "today" ? date === today : date === yesterday;
+}
+
+function articleDateKey(article: NewsArticle): string {
+  if (article.publishedAt) return getLocalDateKey(article.publishedAt);
+  if (article.sheetUpdatedAt) return article.sheetUpdatedAt.slice(0, 10);
+  if (article.collectedAt) return getLocalDateKey(article.collectedAt);
+  return "";
 }
 
 export function searchArticles(articles: NewsArticle[], query: string): NewsArticle[] {
@@ -99,9 +105,7 @@ export function getUniqueValues(articles: NewsArticle[], selector: (article: New
 export function sortArticles(articles: NewsArticle[], direction: "newest" | "oldest"): NewsArticle[] {
   return [...articles].sort((a, b) => {
     const dayKey = (article: NewsArticle) => {
-      const dateValue = article.publishedAt
-        ? getLocalDateKey(article.publishedAt)
-        : article.sheetUpdatedAt ?? article.collectedAt?.slice(0, 10) ?? "1970-01-01";
+      const dateValue = articleDateKey(article);
       return /^\d{4}-\d{2}-\d{2}$/.test(dateValue) ? dateValue : "1970-01-01";
     };
     const dayDifference = dayKey(b).localeCompare(dayKey(a));
@@ -126,12 +130,7 @@ export interface ArticleDayGroup {
 export function groupArticlesByDay(articles: NewsArticle[]): ArticleDayGroup[] {
   const groups = new Map<string, ArticleDayGroup>();
   for (const article of articles) {
-    const dateValue = article.publishedAt ?? article.sheetUpdatedAt ?? article.collectedAt;
-    const key = dateValue
-      ? article.publishedAt
-        ? getLocalDateKey(article.publishedAt)
-        : dateValue.slice(0, 10)
-      : "unknown";
+    const key = articleDateKey(article) || "unknown";
     if (!groups.has(key)) {
       const date = parseSheetDate(key);
       groups.set(key, {

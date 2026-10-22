@@ -293,7 +293,7 @@ function isTopSection(section) {
   return normalizeHeader(section).includes("top 5 tin quan trong");
 }
 
-export function mapRows(rows) {
+export function mapRows(rows, collectedAt = new Date()) {
   if (!Array.isArray(rows) || rows.length < 2) {
     return { articles: [], inputRows: Math.max(0, (rows?.length ?? 0) - 1), rejectedRows: 0, duplicates: 0 };
   }
@@ -358,6 +358,7 @@ export function mapRows(rows) {
       ...(sourceUrl ? { sourceUrl } : {}),
       ...(safeSourceUrl(get(columns.imageUrl)) ? { imageUrl: safeSourceUrl(get(columns.imageUrl)) } : {}),
       ...(sheetUpdatedAt ? { sheetUpdatedAt } : {}),
+      ...(!sheetUpdatedAt ? { collectedAt: collectedAt.toISOString() } : {}),
       sourceRow: rowOffset + 2,
       ...(context || impact ? { analysis: [context, impact].filter(Boolean).join("\n") } : {}),
       ...(isTopSection(section) ? { importance: Math.max(1, 5 - articles.filter((entry) => entry.section === section).length) } : {}),
@@ -375,16 +376,24 @@ function articleTitleDateKey(article) {
   return `title:${normalizeHeader(article.title)}|${article.sheetUpdatedAt ?? "undated"}`;
 }
 
+function articleSourceTitleKey(article) {
+  if (!article.title || !safeSourceUrl(article.sourceUrl)) return undefined;
+  return `source:${article.sourceUrl.toLowerCase()}|title:${normalizeHeader(article.title)}`;
+}
+
 export function mergeArticles(existing, incoming) {
   const incomingKeys = new Set(incoming.map(articleTitleDateKey).filter(Boolean));
+  const incomingSourceKeys = new Set(incoming.map(articleSourceTitleKey).filter(Boolean));
   const existingByKey = new Map(existing.map((article) => [articleTitleDateKey(article), article]));
+  const existingBySourceKey = new Map(existing.map((article) => [articleSourceTitleKey(article), article]));
   const byId = new Map();
   for (const article of existing) {
-    if (incomingKeys.has(articleTitleDateKey(article))) continue;
+    if (incomingKeys.has(articleTitleDateKey(article)) || incomingSourceKeys.has(articleSourceTitleKey(article))) continue;
     byId.set(article.id, article);
   }
   for (const article of incoming) {
-    const previous = existingByKey.get(articleTitleDateKey(article));
+    const previous = existingByKey.get(articleTitleDateKey(article))
+      ?? existingBySourceKey.get(articleSourceTitleKey(article));
     const merged = {
       ...article,
       ...(article.imageUrl ? {} : previous?.imageUrl ? { imageUrl: previous.imageUrl } : {}),
@@ -472,7 +481,7 @@ async function getExistingArticles() {
 
 export async function synchronizeNews({ fetchData = fetchRows, now = new Date() } = {}) {
   const rows = await fetchData();
-  const mapped = mapRows(rows);
+  const mapped = mapRows(rows, now);
   if (mapped.inputRows === 0 || mapped.articles.length === 0) {
     throw new Error(`Sheet rỗng hoặc không có tiêu đề hợp lệ (dòng vào: ${mapped.inputRows}, dòng lỗi: ${mapped.rejectedRows}); giữ nguyên dữ liệu hiện tại.`);
   }
@@ -512,6 +521,7 @@ export async function synchronizeNews({ fetchData = fetchRows, now = new Date() 
     const enriched = {
       ...article,
       ...(!article.imageUrl && sameSource && previous.imageUrl ? { imageUrl: previous.imageUrl } : {}),
+      ...(!article.sheetUpdatedAt && previous?.collectedAt ? { collectedAt: previous.collectedAt } : {}),
       ...(sameSource && previous.imageLookupAt
         ? {
             imageLookupAt: previous.imageLookupAt,

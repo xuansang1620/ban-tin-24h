@@ -38,6 +38,13 @@ describe("news utilities", () => {
     expect(matchesDateFilter(article, "last24", now)).toBe(false);
   });
 
+  it("uses the collection timestamp date when source update date is unavailable", () => {
+    const now = new Date("2026-10-22T01:00:00.000Z");
+    const collected = { ...article, sheetUpdatedAt: undefined, collectedAt: "2026-10-21T18:30:00.000Z" };
+    expect(matchesDateFilter(collected, "today", now)).toBe(true);
+    expect(groupArticlesByDay([collected])[0].key).toBe("2026-10-22");
+  });
+
   it("accepts only HTTP(S) URLs", () => {
     expect(isSafeHttpUrl("https://example.com/story")).toBe(true);
     expect(isSafeHttpUrl("javascript:alert(1)")).toBe(false);
