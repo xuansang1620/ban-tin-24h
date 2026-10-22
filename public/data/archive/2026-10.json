@@ -554,9 +554,7 @@
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "d49cf74c9d8afb43a1561832bfc4a8cd23eecdc07c161f230b8d5d5d282d748a",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "da4842e23dc014a09c36f99acfe25b11952d39581f3cd9430020a8850d75e7de"
   },
   {
     "id": "ada76d4de567be2732c6ec1378802fb84f82adf512d8b28632a0ee7ca2fea87f",
@@ -574,9 +572,7 @@
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "99eac6d624880487105a5456dde85acf5fc41c79eb97f0fbae3693000a2dc453",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "6589503f4e8c4b6e796316875a00412c5f61e9048ad39ff9207cea0c3a045441"
   },
   {
     "id": "d4a78cc75afa8b3631172340a73d2730937014b18a0014b783902a5ccfed784d",
@@ -593,9 +589,7 @@
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "8aa0fe7921463c2df0ea9dedc7962fbf45c13accb39aa3d91ba9c55b1a4c526b",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "d54781c07560ae6111a3b7ca21a839c0cfce2baec92dae3ab3491d13d22d6518"
   },
   {
     "id": "e1703516351f9a54c62ee7eed9a2f1d9347abb01893c3cfd05488a6a1f0cc283",
@@ -605,6 +599,7 @@
     "section": "A - Top 5",
     "sourceUrl": "https://vov.vn/chinh-tri/hom-nay-2210-quoc-hoi-thao-luan-ve-viec-sua-doi-luat-dat-dai-luat-nha-o-post1343526.vov",
     "imageUrl": "https://media.vov.vn/sites/default/files/styles/large/public/2026-10/quoc-hoi-3_1.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 5,
     "analysis": "Ba luật này là khung pháp lý trung tâm của thị trường đất đai và nhà ở; việc sửa đổi diễn ra trong kỳ họp thứ 2 của Quốc hội khóa hiện tại.\nKết quả thảo luận sẽ ảnh hưởng quyền sử dụng đất, thị trường nhà ở và kinh doanh bất động sản; cần theo dõi nội dung sửa đổi cụ thể được thống nhất ở các phiên tiếp theo.",
@@ -613,7 +608,7 @@
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "b6731d4b324868dbd3a150602c45d8d9118492be8faefac8449069ff45d9f2e0"
+    "contentHash": "166e4ba0bcf22d06309faca6a985db9f01249b16e09a7457b464d294cdc00cab"
   },
   {
     "id": "3d7e10b32b0f4d9a54d40b8272623b3005653bc402e4d57e2f35b9d5d35e32c9",
@@ -630,10 +625,7 @@
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "ea4f3e9b808a630a793450486e756c3aaf1812fd381653576ef1c768e3677dc3",
-    "imageUrl": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/php2shell-frequently-asked-questions-cve-2026-109618-cve-2026-109619.png?itok=Mrwy-zf-",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "e69643d383b2adf36dd1c84fa0e12c5c131f35377dd7e6a7938c80e5695e0a5a"
   },
   {
     "id": "2a55a8ecf6f9c69776a4eb4745a9a7ccf9fbf69b59e3ecb791a683142e9e983b",
@@ -650,9 +642,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "4562566fd6b2fa0dd3e88a68211793196f7c5c12361afabbd064650f480b5713",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "3c60ae5cb008278d20669eb3399343d305f280261314eb9fd87fe608cc847d31"
   },
   {
     "id": "216f70c168baaf70023c3776f6bdad1ede1f7fe202b97a3074b10f87da72bafe",
@@ -670,9 +660,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "0efa32816825d83abfa578c50029e2d584084dc974f8094c5f9da7e4a248b33c",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "7aa744cd69971c9a25c857cf76896472f30ca44d0c7007d72455e5175ecaf673"
   },
   {
     "id": "ca80b685db69b23d42ea44748a73ae3a6f8427886b1edb09f45882d26e52a573",
@@ -689,10 +677,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "7af85f32ca777168dc7d8eeb294de1a0024d15a2603d1f4470d51edaa922dee8",
-    "imageUrl": "https://nqs.1cdn.vn/thumbs/1200x630/2026/10/22/5EB2_dautukinhtechungkhoanvn-stores-news-dataimages-2023-122023-24-19-in-social-nganh-nghe-kinh-doanh-co-dieu-kien-doi-voi-nha-dau-tu-nuoc-ngoai20231224193004202502172.jpg",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "c4d1494410b00db23522d626a2a4dd4683f4b1ad2f7a3870acf761b504becfc9"
   },
   {
     "id": "62370451a8f399e70761c8d50d3dc3f3a772528a31bdbd135a11b0191fac8bd2",
@@ -709,9 +694,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "516a33892e5984d63b15e8ece9c3167744465beea4c25f470a59181f5a4c4ef4",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "8e10b67f68740c7e5382a2b3111d6863e5119e45bd88317e4a876e847bf12414"
   },
   {
     "id": "9ff64c765b1cfbcd0e5f4fc7b84dc1fdb58cb4aa68da50404069c388498efcac",
@@ -729,10 +712,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "6d5ff41ac3be128bc920dd3c9ba74b923442752e38c2ffa8c01194f64d719bdb",
-    "imageUrl": "https://cdn-images.vtv.vn/fb_thumb_bn/66349b6076cb4dee98746cf1/2026/10/21/kham-suc-khoe-51771760943613812494398-06862241314543865045167.jpg",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "8286a3b322a1fd87d71ac23b3d1d081527c0671f81c92ecfa1eeb20918c43d47"
   },
   {
     "id": "3f2bb6649b35c58264f1822d009e82b1e889146f876060b82a768242497f5ed5",
@@ -749,10 +729,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "ed25846abb4940907925b91b3858bdbe4435d9080ae7d4410ced70bcc7a22fcc",
-    "imageUrl": "https://baomoi-photo-fbcrawler.bmcdn.me/w1200_r16x9/2026_10_22_281_56326181/d68e880e2045c91b9054.jpg",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "3a6b26db64dc120b7b9d48ede1af89d873459a51a51cfffcded79ec50ca55f8f"
   },
   {
     "id": "12230de97800ce8cebfe46495586e225e4e7137358f087a44907ab3732270968",
@@ -769,10 +746,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "1a8f2c6746d12b5bf5cb857fe2bdda363c27b644596a22a30c06c00f51ed35e3",
-    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/22/1792634998151_1792633979702-jpg.webp",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "3d01f0b59dbcafc35c6d28a0a68221d15adea5ecad5e48b34219b4f3a3c147ed"
   },
   {
     "id": "01d803b07f5db08b6b3fcc06bc0544c34c0f647a395fc628db8c562eb271ffbc",
@@ -789,10 +763,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "f47d5185b071b9846f60a8a60bd0986d417c7fae278f71cbab2e05d768e0146d",
-    "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "a9d965490dd0a24fcfec010cb42988595118007187a6d27720209fcdd16ce8fe"
   },
   {
     "id": "553c88845e878fcd3c47c195b953668dbfbec6f60b43818dfa2d043b6099cc4c",
@@ -809,9 +780,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "31c8bdc90dab1834f02373d507c19de022d061c1be8d60409a6ec84daf0de47a",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "9062893e2b1f499abd84c8a8fae763861c1e179d81a95b97d636630035ac7b47"
   },
   {
     "id": "e0793c01c6a8b76b59d77ee7ce64be371c3642575ca15608c1fdd4fb307f29cf",
@@ -828,10 +797,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "5906f803bf4ca562284f39396e58aba069660ba7e4c8c4e1ed9f10d19b4012a6",
-    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "435e4b1731f5901f5897fee7051409072f5ec4821e3892276ea80c22884e9d27"
   },
   {
     "id": "016971d2ee978dc4e90055ec71533045faec1108b649c875f5ac726c876980c1",
@@ -848,10 +814,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "175a1fdc6c8fd6a7bb456ac4c2b470a814ea8b639bd416e50d6295b27baacffd",
-    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "e50b5e9561cfd72280f48b1723eeeee8646ce05d7fa8016b25fd3b4a95789971"
   },
   {
     "id": "84c1042cbd72ae2771db9501d83a7355a61b5520f981074a7842b524e8c3befe",
@@ -868,10 +831,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "4d6a6d93cc050cd0c7cd8d3b32752f60648d899369abdd4eecbda6a7ad54f4ac",
-    "imageUrl": "https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "8a896c36cc3bfcd9bf461dd1ddc683d5650e70604e0a8e530ef7e2e5de932a12"
   },
   {
     "id": "c5551032deb3eef317aff142e7fa1d301ea8e0d12c2c9adde710b6c43c925b4e",
@@ -888,10 +848,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "3aac4bdc39d398080efd52b603ac8a4c14fb2ee9fdc0b4baaf94c5da54531865",
-    "imageUrl": "https://ghtrends.dev/og/daily.png",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "2153999554656711c871613cfa66401ccad4f56326c123afea8f66adea65dc9d"
   },
   {
     "id": "1fb19126f69b465255f111d8f853936ed916cca7daace0c7fe7d5a6da7861b5c",
@@ -909,9 +866,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "f77725e4137fff161a5fc845ea292926e41aaf57d2241446ca9c4efdb1ca5797",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "a2987647688c0a05f64467557ba5685583115a96f5f3b7eaf520d5f36f027dfe"
   },
   {
     "id": "601ffbcd7c195b2aceb0113cc70802ac201668597dd5f43143116430ba40dad0",
@@ -929,9 +884,7 @@
       "B - Theo lĩnh vực"
     ],
     "language": "vi",
-    "contentHash": "fc0ed6d64bb5890e77e06d910d7c5afadf50c2c70c46a057598aff896eedd175",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "not-found"
+    "contentHash": "4032f1742a48c48fd1bc721ada5ae88ad85c9fe341caba7a76e4c59f44caddc7"
   },
   {
     "id": "94fd90c41ffd465f3cf576def18f0eee7989cc37f4f976984dcf831c7dc80d0b",
@@ -941,6 +894,7 @@
     "section": "D - Công nghệ đáng thử",
     "sourceUrl": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
     "imageUrl": "https://images.macrumors.com/t/zDVYQzbPatEc5AcrGU6yy4yraL8=/400x0/article-new/2026/10/claude-duet-scaled.jpg?lossy",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 22,
     "analysis": "Anthropic nhắm tới chuyên gia và chủ doanh nghiệp nhỏ có quá nhiều việc phải theo dõi; Duet chạy trên Claude Opus 5.5.\nHạn chế: chỉ mở waitlist cho thuê bao Pro/Max tại Mỹ (iOS, Android, web); lượt kiểm tra nền tính vào hạn mức gói; Anthropic thừa nhận agent có thể đánh giá sai mức khẩn cấp và còn yếu ở tác vụ cá nhân như đặt vé. Giá: dùng chung hạn mức gói Pro/Max hiện có, chưa có giá riêng công bố.",
@@ -949,7 +903,7 @@
       "D - Công nghệ đáng thử"
     ],
     "language": "vi",
-    "contentHash": "2242f7433d62a90d881504a316a7d4c37950a52e8663732e1ebc0b723885bf71"
+    "contentHash": "c68d60111af38ac59cbc131ec8a25786373de69507925cf047c048c772982638"
   },
   {
     "id": "f6884091bdf04b5d9cadf5646a6bf276df08e12ef620a531cc08624177692820",
@@ -966,10 +920,7 @@
       "D - Công nghệ đáng thử"
     ],
     "language": "vi",
-    "contentHash": "befe57030e18a51a4132a2e57fab5c0869adb66c59a636f549cecfdf920668f7",
-    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
-    "imageLookupAt": "2026-10-22T07:59:14.067Z",
-    "imageLookupStatus": "found"
+    "contentHash": "7cb4f20f79931e547bdf5fa371555455f87f74aea49765942129c4e464b9c2f4"
   },
   {
     "id": "748200c752291fba52935f1beb1bc152fa17f957a6667ab2eda92a8c0719acbc",
@@ -980,6 +931,7 @@
     "region": "Quốc tế",
     "sourceUrl": "https://vietnamnet.vn/tong-bi-thu-chu-tich-nuoc-va-phu-nhan-den-brussels-bi-2567174.html",
     "imageUrl": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/21/tong-bi-thu-chu-tich-nuoc-va-phu-nhan-den-brussels-3148.jpg?width=760&s=PNC_dnWd_dZh_p31aYlLeQ",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 24,
     "analysis": "Việt Nam là quốc gia ASEAN đầu tiên thiết lập quan hệ Đối tác chiến lược toàn diện với EU; quan hệ ngoại giao Việt - Bỉ đạt mốc hơn 50 năm với 8 năm triển khai Đối tác chiến lược về nông nghiệp.\nKhẳng định vai trò cầu nối ASEAN - EU, mở rộng hợp tác công nghệ cao, bán dẫn, chuyển đổi năng lượng xanh và logistics cảng biển. Thách thức là sự thích ứng với các rào cản tiêu chuẩn xanh ngặt nghèo của châu Âu.",
@@ -988,7 +940,7 @@
       "Phần A – Top tin quan trọng"
     ],
     "language": "vi",
-    "contentHash": "f12442104cec47e99d0ae08fe6f7d8f031965540dc7df4b67b3abfbe25fa8cdd"
+    "contentHash": "04c5b0abd44b7877ad226367113fc1a8528c8928e5c539fa40416b1576a31d8f"
   },
   {
     "id": "69bcba0fba515050eb089c9e03cf6b52a4ac0745be2be161f58b8ef7666ec2ec",
@@ -998,6 +950,7 @@
     "section": "Phần A – Top tin quan trọng",
     "sourceUrl": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1700-nu-rw-lo-l85-e365/git-rce.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 25,
     "analysis": "Lỗ hổng do nhà nghiên cứu \"joaxcar\" báo cáo, là lỗi RCE nghiêm trọng thứ tư liên quan đến engine regex trong vòng 1 tháng qua; GitLab phải backport bản vá cho cả các bản cũ đến 18.11.13.\nNguy cơ kiểm soát máy chủ CI/CD và can thiệp chuỗi cung ứng phần mềm toàn cầu; quản trị viên hệ thống buộc phải tiến hành nâng cấp khẩn cấp để ngăn chặn tấn công tự động.",
@@ -1006,7 +959,7 @@
       "Phần A – Top tin quan trọng"
     ],
     "language": "vi",
-    "contentHash": "cd49c1299c534f0335c86fa9a1897791e18745067ae4eecfaa416a28ee9095e9"
+    "contentHash": "fed36bc6e39278299513f44b9c7a4c7bec58042d020dde3516a179fb761bbc97"
   },
   {
     "id": "ebf2e8885d75e258ff7e6be8d3a212e25acf129d3fdb224fd9f9d00cbacd1761",
@@ -1016,6 +969,7 @@
     "section": "Phần A – Top tin quan trọng",
     "sourceUrl": "https://aiweekly.co/alerts/walmart-debuts-agent-gateway-mcp-server-and-agent-profiles-for-approved-ai",
     "imageUrl": "https://cdn-cabinet.ua.news/uploads/images/walmart_launches_agent_gateway_for_ai_ag_1792611472616.webp",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 26,
     "analysis": "Xu hướng mua sắm qua trợ lý cá nhân bùng nổ mạnh mẽ; trái ngược với Amazon đang chủ động chặn các bot AI bên thứ ba, Walmart chọn chiến lược mở cửa đón đầu dòng người dùng AI.\nĐổi mới phương thức bán lẻ tự động hóa (Agentic commerce), thúc đẩy giao thức MCP trở thành tiêu chuẩn chung; thách thức là bảo vệ dữ liệu người dùng và tránh mua sắm ngoài kiểm soát.",
@@ -1024,7 +978,7 @@
       "Phần A – Top tin quan trọng"
     ],
     "language": "vi",
-    "contentHash": "f8e50d835d374799d527551c02e02cb8fd1205c39b89169c7fb87443513e2592"
+    "contentHash": "8b7d2cdd771ee57e68c56091895efce413a37a3f33e30c43c4a2ba9b7e02b4df"
   },
   {
     "id": "6648d110f9a018017a5f2b23573f441a83fccd7c47a651beda4a638291df9c21",
@@ -1035,6 +989,7 @@
     "region": "Việt Nam",
     "sourceUrl": "https://baochinhphu.vn/xuat-nhap-khau-2026-uoc-dat-1110-ty-usd-lan-dau-tien-vuot-nguong-1000-ty-usd-102261017095143679.htm",
     "imageUrl": "https://bcp.cdnchinhphu.vn/334894974524682240/2026/10/22/0-17926229770981564705969-77-0-677-960-crop-1792622981664356061014.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 27,
     "analysis": "Tận dụng hiệu quả các hiệp định thương mại tự do (EVFTA, CPTPP) cùng sự phục hồi của các thị trường lớn và làn sóng dịch chuyển sản xuất công nghệ cao sang Việt Nam.\nĐóng góp to lớn cho tăng trưởng GDP cả nước và dự trữ ngoại hối; tuy nhiên đối mặt với nguy cơ gia tăng các biện pháp phòng vệ thương mại và yêu cầu phát thải ròng thấp từ quốc tế.",
@@ -1043,7 +998,7 @@
       "Phần A – Top tin quan trọng"
     ],
     "language": "vi",
-    "contentHash": "4a3cd1979d5f1a591b3951d4b9ba5a6f7bb22ab3dd8998eb4b4232b2928adaa6"
+    "contentHash": "8aa4c810991ca0cbdd6e6cac0fa422246cf0cdbdb87cc0c64da1f73e653397cd"
   },
   {
     "id": "557dff370e8ff0ea3e9dbb353f7507767272c8805fcc2ee2a25d4f775ed66cb7",
@@ -1053,6 +1008,7 @@
     "section": "Phần A – Top tin quan trọng",
     "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio/",
     "imageUrl": "https://cdn.buttercms.com/mRswz7EOToG5EN4jegIu",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 28,
     "analysis": "Phát triển tân dược là quá trình tốn kém và phân tán giữa nhiều phòng thí nghiệm; OpenAI đang tích cực mở rộng ứng dụng AI chuyên sâu sau các thỏa thuận với Novo Nordisk và Moderna.\nTăng tốc khám phá dược phẩm và điều trị bệnh hiểm nghèo, thúc đẩy kỷ nguyên y học chính xác; rủi ro về mặt quy chuẩn kiểm định an toàn lâm sàng nghiêm ngặt của FDA/EMA.",
@@ -1061,7 +1017,7 @@
       "Phần A – Top tin quan trọng"
     ],
     "language": "vi",
-    "contentHash": "f5657d31be791726797ab73baa1959022998eddd39cc8b972a43978b73df3980"
+    "contentHash": "af4c76913834e5577dfb4f7465dce241375721c520221359c4a736e1a98a2185"
   },
   {
     "id": "449de3e63928890dd98225f056a3e6e3e640a3c993168fb0e6382ea9ce8c69bb",
@@ -1072,6 +1028,7 @@
     "region": "Quốc tế",
     "sourceUrl": "https://vietnamnet.vn/gia-vang-hom-nay-22-10-sjc-tiep-tuc-giam-kho-luong-2-thang-cuoi-nam-2567192.html",
     "imageUrl": "https://images2.thanhnien.vn/zoom/642_401/528068263637045248/2026/10/22/edit-tnw-edit-img4385-17884301986001479819013-17884361850752130183919-46-0-769-1157-crop-17926399679561351745409.png",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 29,
     "analysis": "Lạm phát Mỹ (CPI 3,7%) và Anh (3,5%) dai dẳng khiến giới đầu tư dự báo Fed có khả năng nâng lãi suất vào tháng 12, kiềm chế đà bứt phá của giá kim loại quý.\nNhà đầu tư trong nước có tâm lý chờ đợi, giao dịch thận trọng; tỷ giá USD tự do dao động 26.000 - 26.080 VND/USD tạo sức ép nhất định lên thị trường ngoại hối.",
@@ -1080,7 +1037,7 @@
       "Phần B – Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "87029a9b908240cf2b237efe3115178f7afc383e312648d891b1082d967d63e5"
+    "contentHash": "1d089792afda083c932702b074a07a29751b289159e0be32d92b0245b1142c1f"
   },
   {
     "id": "9baaae1d1b7e57a21e2a70ff9b51608b459082784925515298fa723406804086",
@@ -1091,6 +1048,7 @@
     "region": "Việt Nam",
     "sourceUrl": "https://vietnamnet.vn/gia-vang-hom-nay-22-10-sjc-tiep-tuc-giam-kho-luong-2-thang-cuoi-nam-2567192.html",
     "imageUrl": "https://images2.thanhnien.vn/zoom/642_401/528068263637045248/2026/10/22/edit-tnw-edit-img4385-17884301986001479819013-17884361850752130183919-46-0-769-1157-crop-17926399679561351745409.png",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 30,
     "analysis": "Dòng tiền lan tỏa mạnh mẽ nhờ triển vọng tích cực của mảng xe điện toàn cầu và các dự án đô thị, hạ tầng quy mô lớn bước vào giai đoạn bàn giao ghi nhận lợi nhuận.\nTạo động lực tâm lý bứt phá cho toàn thị trường chứng khoán, kích hoạt dòng vốn ngoại và dòng tiền tiết kiệm quay lại kênh đầu tư cổ phiếu.",
@@ -1099,7 +1057,7 @@
       "Phần B – Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "3ef8e8f918e20fa3eefb833dbdf9231f380d8979f9f5b7efcb55b8e91539fb62"
+    "contentHash": "855fcf21f77c46cb9cf7df2b691496c2a6a0cfbe6fef7bf847acb326cc4beadf"
   },
   {
     "id": "a2894e78a15341858f24db7d6e1dda67d802d2aed9ed4053018bf0bf20d483d6",
@@ -1110,6 +1068,7 @@
     "region": "Quốc tế",
     "sourceUrl": "https://www.investing.com/news/stock-market-news/nestle-third-quarter-organic-sales-beat-forecast-deconsolidates-russian-business-4964618",
     "imageUrl": "https://reutersbest.com/wp-content/uploads/2025/01/2012-11-05T120000Z_328051980_GM1E8B606P901_RTRMADP_3_MARKETS-STOCKS-scaled.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 31,
     "analysis": "Quá trình tái cấu trúc hoạt động nhằm tuân thủ quy định trừng phạt quốc tế và tinh giản bảng cân đối tài chính sau giai đoạn duy trì hàng thiết yếu tại Nga.\nGiúp giải tỏa lo ngại pháp lý và rủi ro danh tiếng cho cổ đông, giữ vững triển vọng tăng trưởng doanh số hữu cơ toàn cầu năm 2026 ở mức khoảng 3%.",
@@ -1118,7 +1077,7 @@
       "Phần B – Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "070c956c65c4c1f20fcf75768bd6d3ecbaf0ec297e8d6e4398d597cd7f058770"
+    "contentHash": "4b941e99e829f83f4c49f8770f8640cb4318e6a51a367299ae89174ae51ba8df"
   },
   {
     "id": "c369f10e3ee751ed007844f6c9e997dd4d7082d4e126b683e3e1e57378ea5e22",
@@ -1128,6 +1087,7 @@
     "section": "Phần B – Kinh tế",
     "sourceUrl": "https://vietnamnet.vn/gia-vang-hom-nay-22-10-sjc-tiep-tuc-giam-kho-luong-2-thang-cuoi-nam-2567192.html",
     "imageUrl": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/22/tong-bi-thu-chu-tich-nuoc-gap-go-dai-dien-cong-dong-nguoi-viet-nam-tai-chau-au-803.avif?width=760&s=zpyFU0mnSJ09dkIj1hVquw",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 32,
     "analysis": "Đáp ứng nhu cầu vốn lưu động cho sản xuất hàng hóa phục vụ mùa mua sắm cuối năm theo chủ trương chỉ đạo của Chính phủ và Ngân hàng Nhà nước.\nHỗ trợ phục hồi sản xuất và dòng tiền cho khối kinh tế tư nhân; thách thức là quản trị chất lượng tín dụng và phòng ngừa nợ xấu phát sinh.",
@@ -1136,7 +1096,7 @@
       "Phần B – Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "88f9f3a38665f3e9f84ef98015766b19c08cbc961b0d81bfc95b074a22ba0da9"
+    "contentHash": "2cbd6ecd29f65bea69f743a3001eed941eb664818fdecf82d5598c0ae819c329"
   },
   {
     "id": "18929a4df2a66598c3c64c80feb2dd681e1445bde480387d2e6db5f09b42d011",
@@ -1146,6 +1106,7 @@
     "section": "Phần B – Xã hội",
     "sourceUrl": "https://vietnamnet.vn/khoi-to-nu-tai-xe-lexus-tang-ga-bo-chay-2567212.html",
     "imageUrl": "https://baomoi-photo-fbcrawler.bmcdn.me/w1200_r16x9/2026_10_22_91_56325974/f655f4d35c98b5c6ec89.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 33,
     "analysis": "Ý thức chấp hành pháp luật kém của một bộ phận tài xế trong đợt cao điểm siết chặt an toàn giao thông trên các tuyến quốc lộ và cao tốc.\nNhận được sự đồng tình lớn từ công chúng, răn đe mạnh mẽ các hành vi coi thường kỷ cương pháp luật khi tham gia giao thông.",
@@ -1154,7 +1115,7 @@
       "Phần B – Xã hội"
     ],
     "language": "vi",
-    "contentHash": "a8a8fa21c526c34c54ddcc586d5e4106c7fcb743a031ff5fe87c3b02230084e6"
+    "contentHash": "4453b5b20de97021b714395e30a14fa51845291ef0f0f418ef215755cd976661"
   },
   {
     "id": "a1df39ceede3d34828233bcadb299b1ae41c97fd4ee47d52579fdeb8d12e1725",
@@ -1165,6 +1126,7 @@
     "region": "Việt Nam",
     "sourceUrl": "https://vietnamnet.vn/thoi-su",
     "imageUrl": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/22/lay-y-kien-ve-dieu-chinh-4-1380.jpg?width=550&s=IvvfqcofFop00zY8NcUoDw",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 34,
     "analysis": "Sự suy giảm kỷ cương và gia tăng áp lực tâm lý vị thành niên trong môi trường học đường dưới ảnh hưởng của mạng xã hội và thiếu kỹ năng kiểm soát cảm xúc.\nCảnh báo đỏ về văn hóa ứng xử học đường, thúc đẩy sự phối hợp giữa gia đình và nhà trường trong việc bảo vệ an toàn cho giáo viên và giáo dục nhân cách học sinh.",
@@ -1173,7 +1135,7 @@
       "Phần B – Xã hội"
     ],
     "language": "vi",
-    "contentHash": "432f55123f4c3258671874688ce5fc75d5eae568055bea0622cbdd952fdc1f72"
+    "contentHash": "b1a79f00b9f8639b63eb8d220c1b24aa208ed7ff80b16db14b0c06b6b1e3801b"
   },
   {
     "id": "7e775e24d1f6575eead17bc37cde13263187e49fcb8d38942a8a5f2a08db6bc8",
@@ -1183,6 +1145,7 @@
     "section": "Phần B – Xã hội",
     "sourceUrl": "https://tuoitre.vn/thoi-tiet-hom-nay-22-10-ca-nuoc-ngay-nang-chieu-toi-mua-rao-den-mua-to-100261021164024993.htm",
     "imageUrl": "https://cdn2.tuoitre.vn/zoom/576_360/471584752817336320/2026/10/22/image002-17926429674451412673536-110-166-604-956-crop-17926476815391793420291-20-34-469-753-crop-1792648306749685891919.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 35,
     "analysis": "Tác động của rãnh áp thấp xích đạo và các đợt không khí lạnh đầu mùa di chuyển lệch đông trong giai đoạn thời tiết giao mùa cuối tháng 10.\nNgười dân vùng đô thị cần đề phòng ngập úng giờ cao điểm tan tầm; các địa phương ven biển chủ động phòng tránh lốc xoáy và gió giật mạnh trên biển.",
@@ -1191,7 +1154,7 @@
       "Phần B – Xã hội"
     ],
     "language": "vi",
-    "contentHash": "c86347f43d8c960d8b9974e83e5e7548998f31fbe7a3bb4e14b008901014f7cc"
+    "contentHash": "afb5e77009e56025fa5c8ad20069da91bfef1fd7e89c57f5dc2d0ddc6c7a9a91"
   },
   {
     "id": "5b19b8b272fd1c116f2291cb6e009344f241340fca77ef998273fae5082d41f0",
@@ -1201,6 +1164,7 @@
     "section": "Phần B – Công nghệ",
     "sourceUrl": "https://dev.ua/en/news/microsoft-zapustyla-zakhyst-vid-neperedbachuvanykh-shi-ahentiv-1792479116",
     "imageUrl": "https://cdn-cabinet.ua.news/uploads/images/microsoft_predstavyla_guardian_agents_dl_1792452394324.webp",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 36,
     "analysis": "Hiện tượng nhân viên tự ý tích hợp trợ lý AI tự hành (Shadow AI) xử lý tài liệu nội bộ gây ra nhiều vụ rò rỉ thông tin tài chính và dữ liệu khách hàng.\nThiết lập tiêu chuẩn giám sát thực thi an toàn cho doanh nghiệp ứng dụng AI, thúc đẩy các giải pháp phần mềm kiểm soát thẩm quyền của trợ lý ảo.",
@@ -1209,7 +1173,7 @@
       "Phần B – Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "a6724668c7d2a49b76543bcc4a69b0e8a1c58c0daeb15cb60c470f52eb3adaa8"
+    "contentHash": "f712b123a67d58269fb62d89e4f1a5ab16f4ff6de3c7281e82eecb438920d9fc"
   },
   {
     "id": "fd699d74c07fec50a55b6a0550477e28b8d88142712a0d8b999580cd29f19ff9",
@@ -1220,6 +1184,7 @@
     "region": "Quốc tế",
     "sourceUrl": "https://qz.com/meta-muse-ai-agent-10-million-us-downloads-102126",
     "imageUrl": "https://helios-i.mashable.com/imagery/articles/02UirpsQMXW3S3tPwP1hy5z/hero-image.fill.size_1248x702.v1710928198.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 37,
     "analysis": "Lợi thế phân phối khổng lồ nhờ tích hợp sâu vào hệ sinh thái Facebook, Instagram, WhatsApp và kính thông minh Ray-Ban Meta.\nGia tăng sức ép cạnh tranh lên các đối thủ OpenAI và Google trong phân khúc trợ lý AI phổ thông; mở ra kênh kiếm tiền quảng cáo và thương mại qua trò chuyện tự nhiên.",
@@ -1228,7 +1193,7 @@
       "Phần B – Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "815fee992049887482faebc8f53cdbbf3dcf972f75e665387aae2322ef3e4058"
+    "contentHash": "7d88d0227b2624cb7e714f18e7803b67e85087a76aed001da4529f819157a7a0"
   },
   {
     "id": "7f99a751069e2cfc0af3ae556a278b72669647417906b72754c31d3e3a2b82c2",
@@ -1238,6 +1203,7 @@
     "section": "Phần B – Công nghệ",
     "sourceUrl": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
     "imageUrl": "https://aiweekly.co/themes/custom/aiweekly/images/logo.png",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 38,
     "analysis": "Các công cụ quét mã tự động bằng AI đang bóc tách hàng loạt lỗi lập trình bộ nhớ cổ điển trong các thư viện nền tảng C/C++ tồn tại từ hàng chục năm trước.\nBuộc các nhà phát triển và đơn vị vận hành cloud đẩy nhanh việc vá lỗi; thúc đẩy xu hướng tái cấu trúc phần mềm bằng ngôn ngữ an toàn bộ nhớ như Rust.",
@@ -1246,7 +1212,7 @@
       "Phần B – Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "57c4f188e451f52a0670cf1fa4828273e5bf80e94e6ba35fe81eb61c93098ae6"
+    "contentHash": "8d6134a2013d050c1998ab88af8fa6a5c23328af70ccf705d1854be24296edbd"
   },
   {
     "id": "69b924dc19c7707672c8fcb671bb5194114fd73724c04d67457ffcb2cbb9c210",
@@ -1256,6 +1222,7 @@
     "section": "Phần B – Công nghệ",
     "sourceUrl": "https://dev.ua/en/news/microsoft-zapustyla-zakhyst-vid-neperedbachuvanykh-shi-ahentiv-1792479116",
     "imageUrl": "https://assets.bizclikmedia.net/290/ece613381805025970f385273b1ad8db:87c3473fd804ac28b1a8d012fad91157/ilya.png",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 39,
     "analysis": "Khi AI Agent được cấp quyền truy cập tài khoản ngân hàng và hạ tầng kỹ thuật, rủi ro lỗi suy luận dây chuyền có thể gây ra thiệt hại tài chính và vật lý không thể vãn hồi.\nThiết lập tiêu chuẩn công nghiệp mới về an toàn phần cứng cho trung tâm dữ liệu AI, tạo sự an tâm cho các tổ chức tài chính và hạ tầng quốc gia khi triển khai Agentic AI.",
@@ -1264,7 +1231,7 @@
       "Phần B – Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "19c00edef09d29f40e12b5c8df9e5b94cd34b4767f65fea666c7d3153b8cc5d6"
+    "contentHash": "1137d540f1e0f3f2a17da1a542f95889195059a8744777847f97c42977b895e3"
   },
   {
     "id": "0cd8069b9ea0a12361ebc30bbb5fea5cc8a6805cdb59c2c2365361cd9d9de9c6",
@@ -1274,6 +1241,7 @@
     "section": "Phần B – Hot Trends",
     "sourceUrl": "https://www.reddit.com/r/technology/comments/1xc5rq2/xbox_mandates_a_fourday_return_to_office/",
     "imageUrl": "https://external-preview.redd.it/xbox-mandates-a-four-day-return-to-office-v0-lzEFGRGcLU53JNfpHzyRNEDrJ9Fmq5yYhz744H5AaZo.png?auto=webp&s=63fc385ad7828e7b8901dcecc50afccd6999e3e4",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 40,
     "analysis": "Lãnh đạo Microsoft tái cơ cấu bộ phận game sau các đợt cắt giảm nhân sự và rà soát các trường hợp đặc cách làm việc từ xa.\nGây căng thẳng giữa giới quản lý và kỹ sư phát triển phần mềm; rủi ro chảy máu chất xám sang các công ty duy trì chính sách làm việc linh hoạt.",
@@ -1282,7 +1250,7 @@
       "Phần B – Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "78fcd6de251e455d6b791f6c295fbbd38962f8ab12b51fffc7448bb7b5505b69"
+    "contentHash": "41372dd0eadc3ac9424fb317d132c114155ca85c2c5a741c26211ebd02e903a4"
   },
   {
     "id": "ecc58bb05956274740b4f570ae850b3d03eb8966d25fe938ba000f4015c8aa5e",
@@ -1292,6 +1260,7 @@
     "section": "Phần B – Hot Trends",
     "sourceUrl": "https://news.ycombinator.com/item?id=50185869",
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1700-nu-rw-lo-l85-e365/git-rce.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 41,
     "analysis": "Việc ứng dụng AI vào tự động tìm kiếm chuỗi khai thác khiến số lượng lỗ hổng nghiêm trọng trong mã nguồn cũ được phát hiện với tần suất dày đặc.\nThúc đẩy tự động hóa vá lỗi bằng AI Agent (Renovate) và chuyển dịch kiến trúc sang Zero Trust để bảo vệ hệ thống trước các đợt quét tự động.",
@@ -1300,7 +1269,7 @@
       "Phần B – Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "71231a9c1edd3a3af57a9434cdd2a5468c896da23b68fac9096cd5eab795981c"
+    "contentHash": "52cab5fba970612439141e71826c123b4970c657a62eed103f989fd36ee95bf5"
   },
   {
     "id": "8f03a8bd6f03f7b88c3fa52b66ddc5ee1cad186aed856ef9f3e40723ab32695d",
@@ -1311,6 +1280,7 @@
     "region": "Việt Nam",
     "sourceUrl": "https://baomoi.com/lao-cai-khoi-to-nu-tai-xe-lexus-tang-ga-bo-chay-khi-lam-viec-voi-csgt-c56325974.epi",
     "imageUrl": "https://baomoi-photo-fbcrawler.bmcdn.me/w1200_r16x9/2026_10_22_91_56325974/f655f4d35c98b5c6ec89.jpg",
+    "imageUrlSource": "sheet",
     "collectedAt": "2026-10-22T08:02:46.581Z",
     "sourceRow": 42,
     "analysis": "Hành vi manh động, coi thường an toàn giao thông và pháp luật của tài xế khi bị xử lý lỗi vi phạm tốc độ.\nCủng cố niềm tin của cộng đồng vào tinh thần thượng tôn pháp luật không có vùng cấm; nâng cao ý thức chấp hành luật giao thông trong nhân dân.",
@@ -1319,6 +1289,6 @@
       "Phần B – Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "d34c6a8ae3bea16000987951f7b5b3f8bd5dab2bd5e100342e24b349fbdea708"
+    "contentHash": "1f9f6b62524b729605175da17ad2776c021085b00d418bd30c2ebe4fc0ea9e15"
   }
 ]

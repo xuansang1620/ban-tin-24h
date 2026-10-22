@@ -19,11 +19,11 @@ Website tĩnh React + TypeScript, tối ưu cho điện thoại. Dữ liệu đ�
 | Bối cảnh / Nguyên nhân (Context & Background) | `analysis` | Ghép với cột tác động nếu có |
 | Tác động / Cơ hội & Rủi ro (Impact, Opportunities & Risks) | `analysis` | Giữ nguyên nội dung, không tạo thêm phân tích |
 | Link bài gốc (Source URL) | `sourceUrl` | Chỉ nhận URL HTTP(S) hợp lệ |
-| Cột URL ảnh (nếu Sheet bổ sung) | `imageUrl` | Ưu tiên ảnh được cung cấp trực tiếp trong Sheet |
+| Cột URL ảnh (nếu Sheet bổ sung) | `imageUrl` | Chỉ hiển thị ảnh có URL HTTP(S) riêng được cung cấp trong chính hàng đó |
 
-Một số giới hạn dữ liệu đã xác nhận: cột link ban đầu xuất chuỗi “Xem nguồn” cho cả 32 hàng; các URL được thêm vào Sheet sau đó đã được đồng bộ. Sheet có ngày cập nhật nhưng không có giờ/ngày xuất bản hoặc thời gian thu thập. Khi Sheet chưa có URL ảnh riêng, ETL thử đọc thẻ `og:image` từ trang bài gốc để làm thumbnail; chỉ truy cập HTTP(S) công khai sau khi kiểm tra DNS/địa chỉ IP, không theo redirect chưa xác minh, timeout 8 giây và giới hạn đọc 512 KB. Nếu trang chặn truy cập/không cung cấp ảnh, tin vẫn hiển thị bình thường và lần kiểm tra “không có ảnh” được cache 30 ngày. Liên kết nguồn chỉ hiện khi URL HTTP(S) hợp lệ. Nhãn Việt Nam/quốc tế chỉ được gán khi có chỉ dấu từ nội dung, nếu không để trống.
+Một số giới hạn dữ liệu đã xác nhận: cột link ban đầu xuất chuỗi “Xem nguồn” cho cả 32 hàng; các URL được thêm vào Sheet sau đó đã được đồng bộ. Sheet có ngày cập nhật nhưng không có giờ/ngày xuất bản hoặc thời gian thu thập. ETL không tự lấy ảnh từ trang bài gốc; nếu Sheet không cung cấp URL ảnh riêng, bài viết không có thumbnail. Ảnh lịch sử không xác minh được là do Sheet cung cấp sẽ bị loại bỏ khi đồng bộ. Liên kết nguồn chỉ hiện khi URL HTTP(S) hợp lệ. Nhãn Việt Nam/quốc tế chỉ được gán khi có chỉ dấu từ nội dung, nếu không để trống.
 
-Tin được xếp theo ngày giảm dần; trong cùng ngày, hàng nằm thấp hơn trong Sheet được đưa lên trước. Giao diện gom tin vào tiêu đề ngày. Trên điện thoại, thumbnail (khi nguồn có ảnh) hiển thị cạnh nội dung để tiết kiệm diện tích màn hình.
+Tin được xếp theo ngày giảm dần; trong cùng ngày, hàng nằm thấp hơn trong Sheet được đưa lên trước. Giao diện gom tin vào tiêu đề ngày. Trên điện thoại, thumbnail chỉ hiển thị cạnh nội dung khi URL ảnh riêng có trong hàng Sheet.
 
 ## Chạy tại máy
 

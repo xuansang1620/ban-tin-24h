@@ -5,9 +5,6 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
   inferRegion,
-  extractOpenGraphImage,
-  isPublicHttpUrl,
-  fetchOpenGraphImage,
   mapRows,
   mergeArticles,
   normalizeHeader,
@@ -54,61 +51,8 @@ test("maps optional image URL columns without accepting unsafe image links", () 
     "https://example.com/story-2", "javascript:alert(1)",
   ]]);
   assert.equal(valid.articles[0].imageUrl, "https://images.example.com/story.jpg");
+  assert.equal(valid.articles[0].imageUrlSource, "sheet");
   assert.equal(unsafe.articles[0].imageUrl, undefined);
-});
-
-test("extracts a safe Open Graph thumbnail URL from source page metadata", () => {
-  const html = '<html><head><meta content="../thumb.jpg?size=large&amp;v=2" property="og:image"></head></html>';
-  assert.equal(
-    extractOpenGraphImage(html, "https://publisher.example/news/story"),
-    "https://publisher.example/thumb.jpg?size=large&v=2",
-  );
-  assert.equal(
-    extractOpenGraphImage('<meta property="og:image" content="javascript:alert(1)">', "https://publisher.example/story"),
-    undefined,
-  );
-});
-
-test("blocks private metadata addresses and validates public DNS results", async () => {
-  assert.equal(await isPublicHttpUrl("http://127.0.0.1/image.jpg"), false);
-  assert.equal(await isPublicHttpUrl("https://example.com/image.jpg", async () => [{ address: "203.0.113.10" }]), false);
-  assert.equal(await isPublicHttpUrl("https://example.com/image.jpg", async () => [{ address: "93.184.216.34" }]), true);
-});
-
-test("reads Open Graph image metadata from public source pages", async () => {
-  const calls = [];
-  const page = async (url, options) => {
-    calls.push({ url, redirect: options.redirect });
-    return new Response('<meta property="og:image" content="https://images.example.com/story.jpg">', {
-      status: 200,
-      headers: { "content-type": "text/html; charset=utf-8" },
-    });
-  };
-  const image = await fetchOpenGraphImage(
-    "https://publisher.example/story",
-    page,
-    async () => [{ address: "93.184.216.34" }],
-  );
-  assert.equal(calls.length, 1);
-  assert.equal(calls[0].redirect, "manual");
-  assert.deepEqual(image, { status: "found", imageUrl: "https://images.example.com/story.jpg" });
-});
-
-test("does not follow a redirect to a private network address", async () => {
-  let calls = 0;
-  const page = async () => {
-    calls++;
-    return new Response(null, { status: 302, headers: { location: "http://127.0.0.1/latest/meta-data" } });
-  };
-  const result = await fetchOpenGraphImage(
-    "https://publisher.example/story",
-    page,
-    async (hostname) => hostname === "publisher.example"
-      ? [{ address: "93.184.216.34" }]
-      : [{ address: "127.0.0.1" }],
-  );
-  assert.equal(calls, 1);
-  assert.equal(result, undefined);
 });
 
 test("deduplicates repeated rows and infers region only from available text", () => {
@@ -178,8 +122,45 @@ test("updates an existing URL/title when the Sheet stops providing its date", ()
   const merged = mergeArticles([previous], [incoming]);
   assert.equal(merged.length, 1);
   assert.equal(merged[0].id, "undated-record");
-  assert.equal(merged[0].imageUrl, previous.imageUrl);
-  assert.equal(merged[0].imageLookupAt, previous.imageLookupAt);
+  assert.equal(merged[0].imageUrl, undefined);
+  assert.equal(merged[0].imageLookupAt, undefined);
+});
+
+test("cleans unverified historical images but preserves explicit Sheet images", () => {
+  const merged = mergeArticles([
+    {
+      id: "legacy",
+      title: "Tin cũ",
+      sheetUpdatedAt: "2026-10-22",
+      imageUrl: "https://example.com/old-image.jpg",
+      imageLookupStatus: "found",
+    },
+    {
+      id: "sheet-image",
+      title: "Tin có ảnh riêng",
+      sheetUpdatedAt: "2026-10-22",
+      imageUrl: "https://example.com/sheet-image.jpg",
+      imageUrlSource: "sheet",
+    },
+  ], []);
+  assert.equal(merged.find((article) => article.id === "legacy").imageUrl, undefined);
+  assert.equal(merged.find((article) => article.id === "legacy").imageLookupStatus, undefined);
+  assert.equal(merged.find((article) => article.id === "sheet-image").imageUrl, "https://example.com/sheet-image.jpg");
+});
+
+test("clearing an image URL in the Sheet removes the previous image", () => {
+  const previous = {
+    id: "record",
+    title: "Tin có ảnh",
+    sheetUpdatedAt: "2026-10-22",
+    imageUrl: "https://example.com/sheet-image.jpg",
+    imageUrlSource: "sheet",
+  };
+  const incoming = { ...previous, imageUrl: undefined, imageUrlSource: undefined };
+  const merged = mergeArticles([previous], [incoming]);
+  assert.equal(merged.length, 1);
+  assert.equal(merged[0].imageUrl, undefined);
+  assert.equal(merged[0].imageUrlSource, undefined);
 });
 
 test("rejects empty sheets and schemas with no title field", () => {

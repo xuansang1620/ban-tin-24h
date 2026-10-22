@@ -8,8 +8,7 @@ export interface NewsArticle {
   source?: string;
   sourceUrl?: string;
   imageUrl?: string;
-  imageLookupAt?: string;
-  imageLookupStatus?: "found" | "not-found";
+  imageUrlSource?: "sheet";
   publishedAt?: string;
   collectedAt?: string;
   sheetUpdatedAt?: string;

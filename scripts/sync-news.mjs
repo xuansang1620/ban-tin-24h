@@ -1,9 +1,5 @@
 import { createHash } from "node:crypto";
-import { lookup } from "node:dns/promises";
-import { request as httpRequest } from "node:http";
-import { request as httpsRequest } from "node:https";
 import { mkdir, readFile, readdir, rename, writeFile } from "node:fs/promises";
-import { isIP } from "node:net";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import Papa from "papaparse";
@@ -71,207 +67,6 @@ export function safeSourceUrl(value) {
 
 function stableHash(value) {
   return createHash("sha256").update(value).digest("hex");
-}
-
-function isPublicIpAddress(address) {
-  if (isIP(address) === 4) {
-    const [first, second, third] = address.split(".").map(Number);
-    return !(first === 0
-      || first === 10
-      || first === 127
-      || (first === 100 && second >= 64 && second <= 127)
-      || (first === 169 && second === 254)
-      || (first === 172 && second >= 16 && second <= 31)
-      || (first === 192 && (second === 0 || second === 168))
-      || (first === 192 && second === 0 && third === 2)
-      || (first === 198 && (second === 18 || second === 19 || second === 51))
-      || (first === 203 && second === 0 && third === 113)
-      || first >= 224);
-  }
-  if (isIP(address) === 6) {
-    const normalized = address.toLowerCase();
-    if (normalized.startsWith("::ffff:")) return isPublicIpAddress(normalized.slice(7));
-    const firstGroup = Number.parseInt(normalized.split(":")[0] || "0", 16);
-    return firstGroup >= 0x2000
-      && firstGroup <= 0x3fff
-      && !normalized.startsWith("2001:db8:")
-      && !normalized.startsWith("2001:0:")
-      && !normalized.startsWith("2001:20:");
-  }
-  return false;
-}
-
-async function resolvePublicAddresses(value, resolveHost = lookup) {
-  let url;
-  try {
-    url = new URL(value);
-  } catch {
-    return undefined;
-  }
-  if ((url.protocol !== "https:" && url.protocol !== "http:")
-    || url.username
-    || url.password
-    || !url.hostname
-    || url.hostname === "localhost"
-    || url.hostname.endsWith(".localhost")
-    || url.hostname.endsWith(".local")
-    || url.hostname.endsWith(".internal")) return undefined;
-  const hostname = url.hostname.replace(/^\[|\]$/g, "");
-  if (isIP(hostname)) return isPublicIpAddress(hostname) ? [{ address: hostname, family: isIP(hostname) }] : undefined;
-  try {
-    const addresses = await resolveHost(hostname, { all: true, verbatim: true });
-    return addresses.length > 0 && addresses.every(({ address }) => isPublicIpAddress(address))
-      ? addresses
-      : undefined;
-  } catch {
-    return undefined;
-  }
-}
-
-export async function isPublicHttpUrl(value, resolveHost = lookup) {
-  return Boolean(await resolvePublicAddresses(value, resolveHost));
-}
-
-function decodeHtmlEntities(value) {
-  return value
-    .replace(/&amp;/gi, "&")
-    .replace(/&quot;/gi, '"')
-    .replace(/&#39;|&apos;/gi, "'")
-    .replace(/&lt;/gi, "<")
-    .replace(/&gt;/gi, ">")
-    .replace(/&#(x[0-9a-f]+|\d+);/gi, (entity, code) => {
-      const value = code[0].toLowerCase() === "x"
-        ? Number.parseInt(code.slice(1), 16)
-        : Number.parseInt(code, 10);
-      return Number.isInteger(value) && value >= 0 && value <= 0x10ffff
-        ? String.fromCodePoint(value)
-        : entity;
-    });
-}
-
-export function extractOpenGraphImage(html, pageUrl) {
-  for (const tag of html.matchAll(/<meta\b[^>]*>/gi)) {
-    const attributes = new Map();
-    for (const attribute of tag[0].matchAll(/([:\w-]+)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/g)) {
-      attributes.set(attribute[1].toLowerCase(), decodeHtmlEntities(attribute[2] ?? attribute[3] ?? attribute[4] ?? ""));
-    }
-    const property = (attributes.get("property") ?? attributes.get("name") ?? "").toLowerCase();
-    if (!["og:image", "og:image:url", "twitter:image"].includes(property)) continue;
-    const candidate = attributes.get("content");
-    if (!candidate) continue;
-    try {
-      const resolved = new URL(candidate, pageUrl);
-      if (resolved.protocol === "https:" || resolved.protocol === "http:") return resolved.toString();
-    } catch {
-      continue;
-    }
-  }
-  return undefined;
-}
-
-async function readLimitedResponse(response, maxBytes) {
-  if (!response.body) return "";
-  const reader = response.body.getReader();
-  const chunks = [];
-  let totalBytes = 0;
-  while (true) {
-    const { done, value } = await reader.read();
-    if (done) break;
-    totalBytes += value.byteLength;
-    if (totalBytes > maxBytes) {
-      await reader.cancel();
-      break;
-    }
-    chunks.push(value);
-  }
-  const bytes = new Uint8Array(totalBytes > maxBytes ? 0 : totalBytes);
-  let offset = 0;
-  for (const chunk of chunks) {
-    bytes.set(chunk, offset);
-    offset += chunk.byteLength;
-  }
-  return new TextDecoder().decode(bytes);
-}
-
-function fetchPinnedPublicPage(value, { headers, signal }, addresses) {
-  return new Promise((resolve, reject) => {
-    const url = new URL(value);
-    const request = (url.protocol === "https:" ? httpsRequest : httpRequest)(url, {
-      headers: { ...headers, "Accept-Encoding": "identity" },
-      signal,
-      lookup: (_hostname, options, callback) => {
-        if (options.all) {
-          callback(null, addresses);
-        } else {
-          const address = addresses[0];
-          callback(null, address.address, address.family);
-        }
-      },
-    }, (response) => {
-      const chunks = [];
-      let length = 0;
-      response.on("data", (chunk) => {
-        length += chunk.length;
-        if (length > 512 * 1024) {
-          response.destroy(new Error("Article metadata page exceeded 512 KB"));
-          return;
-        }
-        chunks.push(chunk);
-      });
-      response.on("end", () => {
-        const body = Buffer.concat(chunks);
-        const status = response.statusCode ?? 502;
-        resolve(new Response(status === 204 || status === 304 ? null : body, {
-          status,
-          headers: response.headers,
-        }));
-      });
-      response.on("error", reject);
-    });
-    request.on("error", reject);
-    request.end();
-  });
-}
-
-export async function fetchOpenGraphImage(sourceUrl, fetchPage = fetch, resolveHost = lookup) {
-  let pageUrl = sourceUrl;
-  for (let redirectCount = 0; redirectCount <= 3; redirectCount++) {
-    const addresses = await resolvePublicAddresses(pageUrl, resolveHost);
-    if (!addresses) return undefined;
-    let response;
-    try {
-      const options = {
-        redirect: "manual",
-        signal: AbortSignal.timeout(8_000),
-        headers: { Accept: "text/html,application/xhtml+xml" },
-      };
-      response = fetchPage === fetch
-        ? await fetchPinnedPublicPage(pageUrl, options, addresses)
-        : await fetchPage(pageUrl, options, addresses);
-    } catch {
-      return undefined;
-    }
-    if ([301, 302, 303, 307, 308].includes(response.status)) {
-      const location = response.headers.get("location");
-      await response.body?.cancel();
-      if (!location || redirectCount === 3) return undefined;
-      try {
-        pageUrl = new URL(location, pageUrl).toString();
-      } catch {
-        return undefined;
-      }
-      continue;
-    }
-    if (!response.ok || !/text\/html|application\/xhtml\+xml/i.test(response.headers.get("content-type") ?? "")) {
-      await response.body?.cancel();
-      return { status: "not-found" };
-    }
-    const html = await readLimitedResponse(response, 512 * 1024);
-    const imageUrl = extractOpenGraphImage(html, pageUrl);
-    if (!imageUrl || !await isPublicHttpUrl(imageUrl, resolveHost)) return { status: "not-found" };
-    return { status: "found", imageUrl };
-  }
-  return undefined;
 }
 
 function canonical(value) {
@@ -356,7 +151,9 @@ export function mapRows(rows, collectedAt = new Date()) {
       ...(region ? { region } : {}),
       ...(get(columns.source) ? { source: get(columns.source) } : {}),
       ...(sourceUrl ? { sourceUrl } : {}),
-      ...(safeSourceUrl(get(columns.imageUrl)) ? { imageUrl: safeSourceUrl(get(columns.imageUrl)) } : {}),
+      ...(safeSourceUrl(get(columns.imageUrl))
+        ? { imageUrl: safeSourceUrl(get(columns.imageUrl)), imageUrlSource: "sheet" }
+        : {}),
       ...(sheetUpdatedAt ? { sheetUpdatedAt } : {}),
       ...(!sheetUpdatedAt ? { collectedAt: collectedAt.toISOString() } : {}),
       sourceRow: rowOffset + 2,
@@ -382,29 +179,33 @@ function articleSourceTitleKey(article) {
 }
 
 export function mergeArticles(existing, incoming) {
-  const incomingKeys = new Set(incoming.map(articleTitleDateKey).filter(Boolean));
-  const incomingSourceKeys = new Set(incoming.map(articleSourceTitleKey).filter(Boolean));
-  const existingByKey = new Map(existing.map((article) => [articleTitleDateKey(article), article]));
-  const existingBySourceKey = new Map(existing.map((article) => [articleSourceTitleKey(article), article]));
+  const cleanImage = (article) => {
+    const imageUrl = article.imageUrlSource === "sheet" ? safeSourceUrl(article.imageUrl) : undefined;
+    if (imageUrl) return { ...article, imageUrl, imageUrlSource: "sheet" };
+    const {
+      imageUrl: _imageUrl,
+      imageUrlSource: _imageUrlSource,
+      imageLookupAt: _imageLookupAt,
+      imageLookupStatus: _imageLookupStatus,
+      ...cleaned
+    } = article;
+    if (_imageUrl || _imageUrlSource || _imageLookupAt || _imageLookupStatus) {
+      const { contentHash: _contentHash, ...content } = cleaned;
+      cleaned.contentHash = stableHash(JSON.stringify(content));
+    }
+    return cleaned;
+  };
+  const cleanedExisting = existing.map(cleanImage);
+  const cleanedIncoming = incoming.map(cleanImage);
+  const incomingKeys = new Set(cleanedIncoming.map(articleTitleDateKey).filter(Boolean));
+  const incomingSourceKeys = new Set(cleanedIncoming.map(articleSourceTitleKey).filter(Boolean));
   const byId = new Map();
-  for (const article of existing) {
+  for (const article of cleanedExisting) {
     if (incomingKeys.has(articleTitleDateKey(article)) || incomingSourceKeys.has(articleSourceTitleKey(article))) continue;
     byId.set(article.id, article);
   }
-  for (const article of incoming) {
-    const previous = existingByKey.get(articleTitleDateKey(article))
-      ?? existingBySourceKey.get(articleSourceTitleKey(article));
-    const merged = {
-      ...article,
-      ...(article.imageUrl ? {} : previous?.imageUrl ? { imageUrl: previous.imageUrl } : {}),
-      ...(previous?.sourceUrl === article.sourceUrl && previous?.imageLookupAt
-        ? {
-            imageLookupAt: previous.imageLookupAt,
-            ...(previous.imageLookupStatus ? { imageLookupStatus: previous.imageLookupStatus } : {}),
-          }
-        : {}),
-    };
-    byId.set(merged.id, merged);
+  for (const article of cleanedIncoming) {
+    byId.set(article.id, article);
   }
   return [...byId.values()];
 }
@@ -489,46 +290,11 @@ export async function synchronizeNews({ fetchData = fetchRows, now = new Date() 
   const existing = await getExistingArticles();
   const previousMetadata = await readJson(path.join(dataDir, "metadata.json"), null);
   const existingById = new Map(existing.map((article) => [article.id, article]));
-  const imageLookupCutoff = now.getTime() - 30 * 24 * 60 * 60 * 1000;
-  let nextImageIndex = 0;
-  const articlesNeedingImages = mapped.articles.filter((article) => {
-    const previous = existingById.get(article.id);
-    if (article.imageUrl || !article.sourceUrl) return false;
-    if (previous?.sourceUrl !== article.sourceUrl) return true;
-    if (previous.imageUrl) return false;
-    return previous.imageLookupStatus !== "not-found"
-      || !previous.imageLookupAt
-      || Date.parse(previous.imageLookupAt) < imageLookupCutoff;
-  });
-  const fetchedImages = new Map();
-  const workers = Array.from({ length: Math.min(4, articlesNeedingImages.length) }, async () => {
-    while (nextImageIndex < articlesNeedingImages.length) {
-      const article = articlesNeedingImages[nextImageIndex++];
-      const result = await fetchOpenGraphImage(article.sourceUrl);
-      if (result) {
-        fetchedImages.set(article.id, {
-          ...(result.imageUrl ? { imageUrl: result.imageUrl } : {}),
-          imageLookupAt: now.toISOString(),
-          imageLookupStatus: result.status,
-        });
-      }
-    }
-  });
-  await Promise.all(workers);
   const enrichedArticles = mapped.articles.map((article) => {
     const previous = existingById.get(article.id);
-    const sameSource = previous?.sourceUrl === article.sourceUrl;
     const enriched = {
       ...article,
-      ...(!article.imageUrl && sameSource && previous.imageUrl ? { imageUrl: previous.imageUrl } : {}),
       ...(!article.sheetUpdatedAt && previous?.collectedAt ? { collectedAt: previous.collectedAt } : {}),
-      ...(sameSource && previous.imageLookupAt
-        ? {
-            imageLookupAt: previous.imageLookupAt,
-            ...(previous.imageLookupStatus ? { imageLookupStatus: previous.imageLookupStatus } : {}),
-          }
-        : {}),
-      ...(fetchedImages.get(article.id) ?? {}),
     };
     const { contentHash, ...content } = enriched;
     enriched.contentHash = stableHash(JSON.stringify(content));
