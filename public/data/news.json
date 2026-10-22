@@ -537,5 +537,653 @@
     ],
     "language": "vi",
     "contentHash": "78feecd6f2c9eb331002ea757dadff17a96c83b8653161d22f5fa9b7e591f98c"
+  },
+  {
+    "id": "e3c934fadf89d85d17b911a5278046037273c583c9428817262377194c0f3cc8",
+    "title": "IMF dự báo kinh tế Trung Đông, Bắc Phi và Pakistan suy giảm 1,3% năm 2026 vì chiến tranh với Iran",
+    "summary": "IMF (báo cáo triển vọng khu vực công bố 22/10 tại Dubai): sản lượng khu vực MENAP dự kiến -1,3% năm 2026, phục hồi +6,6% năm 2027 nhưng vẫn dưới dự báo trước chiến tranh; Caucasus và Trung Á +5,2% năm 2026, +5,0% năm 2027.",
+    "category": "Quốc tế / Kinh tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/world/middle-east/imf-sees-13-contraction-middle-east-north-africa-pakistan-2026-2026-10-22/",
+    "analysis": "Chiến tranh Mỹ-Israel với Iran tác động qua sản xuất năng lượng, vận tải biển, du lịch, thương mại và niềm tin; nước xuất khẩu dầu bị ảnh hưởng trực tiếp chịu thiệt hại nặng hơn nước nhập khẩu.\nRủi ro chính là gián đoạn thêm về sản xuất năng lượng và tuyến thương mại làm giá dầu tăng, điều kiện tài chính toàn cầu thắt chặt; kịch bản cơ sở giả định xung đột dịu đi đầu 2027 (đây là dự báo của IMF, không phải dữ kiện đã xảy ra).",
+    "tags": [
+      "Quốc tế / Kinh tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "426f63705f8dd9b2fed3a20be01bbbcfd98105f79facc03117c5954ced08745d"
+  },
+  {
+    "id": "ada76d4de567be2732c6ec1378802fb84f82adf512d8b28632a0ee7ca2fea87f",
+    "title": "Vàng giảm hơn 1% xuống 4.094,90 USD/ounce khi dầu tăng và kỳ vọng lãi suất cao kéo dài mạnh lên",
+    "summary": "Vàng giao ngay -1,1% xuống 4.094,90 USD/ounce lúc 03:33 GMT 22/10, thấp nhất từ 14/10; vàng kỳ hạn Mỹ -0,9% còn 4.111,40 USD; bạc -2,6% còn 56,44 USD. CME FedWatch: xác suất Fed tăng lãi suất tại họp 27-28/10 chỉ 16%, nhưng tháng 12 khoảng 90%.",
+    "category": "Kinh tế / Thị trường",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/world/india/gold-drops-over-1-oil-rally-reinforces-higher-for-longer-rate-outlook-2026-10-22/",
+    "analysis": "Dầu tăng sau thêm các vụ tấn công của Houthi tại Saudi Arabia; Mỹ ra lệnh một số nhà ngoại giao và gia đình rời phái bộ tại Saudi. Giá năng lượng cao nuôi lạm phát và lập luận giữ lãi suất cao lâu hơn.\nVàng chịu áp lực vì chi phí cơ hội nắm giữ tài sản không sinh lãi tăng; nhà đầu tư chờ dữ liệu PCE tuần tới. Diễn biến mới so với bản tin 7:00 (vàng ~4.120-4.133 USD) là mức giảm sâu hơn và động thái ngoại giao của Mỹ.",
+    "tags": [
+      "Kinh tế / Thị trường",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "cb51ea1c3adac2fb884473fab30f15eb6b7f054cf479217569263c5a8e64c77c"
+  },
+  {
+    "id": "d4a78cc75afa8b3631172340a73d2730937014b18a0014b783902a5ccfed784d",
+    "title": "Meta bị tòa New Mexico phán phạt 25 tỷ USD vì lừa dối người dùng về quyền riêng tư dữ liệu",
+    "summary": "Thẩm phán Francis Mathew ngày 21/10 ra lệnh Meta trả 25 tỷ USD; bồi thẩm đoàn 25/9 kết luận 26/29 tuyên bố của Meta là gây hiểu lầm, hơn 43 triệu vi phạm luật bảo vệ người tiêu dùng bang; mức phạt theo luật có thể hơn 219 tỷ USD nhưng được giảm xuống 25 tỷ USD; tiền phạt theo luật bang chuyển cho hệ thống trường học New Mexico.",
+    "category": "Công nghệ / Pháp lý",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.reuters.com/business/meta-ordered-pay-25-billion-new-mexico-after-jury-finds-company-misled-consumers-2026-10-21/",
+    "analysis": "Vụ kiện từ 2021, bắt nguồn từ bê bối Cambridge Analytica thu thập dữ liệu tới 87 triệu người dùng Facebook qua ứng dụng bên thứ ba. Meta cho rằng hãng không bán dữ liệu người dùng và đề nghị giới hạn phạt ở 3,45 tỷ USD; Meta chưa phản hồi Reuters ngay khi phán quyết công bố.\nTạo tiền lệ phạt rất lớn về quyền riêng tư tại cấp bang ở Mỹ; rủi ro pháp lý và uy tín tăng cho các nền tảng quảng cáo dựa trên dữ liệu. Đây là phán quyết bất lợi thứ hai của bồi thẩm đoàn Santa Fe với Meta trong 6 tháng.",
+    "tags": [
+      "Công nghệ / Pháp lý",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "6b382f303febc5698b8e2181e8c671c0b4f373396474fae7c38e26dcd1b7eacc"
+  },
+  {
+    "id": "e1703516351f9a54c62ee7eed9a2f1d9347abb01893c3cfd05488a6a1f0cc283",
+    "title": "Quốc hội dành ngày 22/10 thảo luận sửa đổi Luật Đất đai, Luật Nhà ở và Luật Kinh doanh bất động sản",
+    "summary": "Quốc hội họp toàn thể buổi sáng 22/10 nghe tờ trình 3 dự án luật sửa đổi và báo cáo thẩm tra của Ủy ban Kinh tế và Tài chính và Ủy ban Pháp luật và Tư pháp; từ 9:00 thảo luận tại tổ. Bài đăng VOV 06:00, cập nhật 09:52 ngày 22/10.",
+    "category": "Xã hội / Chính sách",
+    "section": "A - Top 5",
+    "sourceUrl": "https://vov.vn/chinh-tri/hom-nay-2210-quoc-hoi-thao-luan-ve-viec-sua-doi-luat-dat-dai-luat-nha-o-post1343526.vov",
+    "analysis": "Ba luật này là khung pháp lý trung tâm của thị trường đất đai và nhà ở; việc sửa đổi diễn ra trong kỳ họp thứ 2 của Quốc hội khóa hiện tại.\nKết quả thảo luận sẽ ảnh hưởng quyền sử dụng đất, thị trường nhà ở và kinh doanh bất động sản; cần theo dõi nội dung sửa đổi cụ thể được thống nhất ở các phiên tiếp theo.",
+    "tags": [
+      "Xã hội / Chính sách",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "8a22b85dd5fd641bed17d378ce6bad02359009a5fc684a1fbbbe4fec021a421f"
+  },
+  {
+    "id": "3d7e10b32b0f4d9a54d40b8272623b3005653bc402e4d57e2f35b9d5d35e32c9",
+    "title": "PHP2Shell: hai lỗ hổng RCE nghiêm trọng CVSS 9,2 trong PHP, đã có khai thác ngoài thực tế",
+    "summary": "CVE-2026-109618 và CVE-2026-109619 đều CVSS v4.0 9,2, cho phép thực thi mã từ xa không cần đăng nhập. Bản vá: PHP 8.5.12, 8.4.27, 8.3.36, 8.2.35 (21/10); backport nguồn tối thiểu cho 7.4-8.1. PHP chạy trên 69,3% website biết ngôn ngữ máy chủ (W3Techs); ước tính 1,3-1,9 triệu host phơi nhiễm trên Internet. Amazon Threat Intelligence ghi nhận thử khai thác từ 17/10, trước công bố.",
+    "category": "Công nghệ / An ninh mạng",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+    "analysis": "Chi tiết lỗ hổng bị rò rỉ trước lịch công bố phối hợp, buộc PHP phát hành sớm một ngày. Calif và Wiz cho biết đã dùng mô hình AI trong nghiên cứu phát hiện lỗ hổng; PHP Foundation ghi nhận đóng góp của Calif, OpenAI và Wiz.\nCập nhật PHP và khởi động lại worker là biện pháp hoàn chỉnh duy nhất theo PHP; WAF của Cloudflare chỉ là tạm thời. Một số cơ quan châu Âu đã tạm gỡ website dùng PHP trước khi có bản vá. Rủi ro đặc biệt cao với WordPress, Drupal, Joomla, Magento chưa vá.",
+    "tags": [
+      "Công nghệ / An ninh mạng",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "c8283bd9650f057e18065b3415814f731554ff1f7c69dac1f9ed0c2959963271"
+  },
+  {
+    "id": "2a55a8ecf6f9c69776a4eb4745a9a7ccf9fbf69b59e3ecb791a683142e9e983b",
+    "title": "Thêm 6 ngân hàng giảm lãi suất huy động, nhiều kỳ hạn giảm 0,5-0,7 điểm phần trăm",
+    "summary": "ABBank, MBV, PVcomBank, SHB, MB và SeABank cùng giảm. SeABank: kỳ hạn 1-15 tháng -0,5 điểm %, 18-36 tháng -0,7 điểm %, lãi cao nhất còn 4,75%/năm. MB: kỳ hạn 6-60 tháng -0,5 điểm %, cao nhất trực tuyến 24-60 tháng 6,5%/năm. Cake by VPBank: -0,3 đến -0,5 điểm %, cao nhất còn 6,9%/năm (9,1%/năm sau ưu đãi cộng 2,2% cho khách gửi lần đầu đến 31/10).",
+    "category": "Kinh tế",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://laodong.vn/kinh-doanh/lai-suat-ngan-hang-hom-nay-2210-them-loat-ngan-hang-dieu-chinh-manh-1787251.ldo",
+    "analysis": "Thực hiện chỉ đạo của NHNN về giảm lãi suất; nối tiếp công văn 9736/NHNN-CSTT ngày 21/10 đã nêu trong bản tin sáng.\nNgười gửi tiền chịu lãi thấp hơn; chi phí vốn của ngân hàng giảm tạo dư địa giảm lãi vay, nhưng truyền dẫn sang lãi vay thực tế cần theo dõi. Lưu ý: ảnh minh họa của bài là đồ họa có dùng AI nên không lấy làm thumbnail theo quy tắc thumbnail.",
+    "tags": [
+      "Kinh tế",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "5d6de7b1af9d8f587d21ecd89ea26c6a35b2231daa40f7a9d16d8fbdab9dfa8b"
+  },
+  {
+    "id": "216f70c168baaf70023c3776f6bdad1ede1f7fe202b97a3074b10f87da72bafe",
+    "title": "VN-Index phiên sáng 22/10 lên 1.763,14 điểm, VIC và VHM đóng góp gần hết điểm tăng",
+    "summary": "Lúc 10:40 ngày 22/10, VN-Index 1.763,14 điểm (+24,47); VIC +5,19% đóng góp 17,4 điểm và VHM +4,05% đóng góp 4,4 điểm, tổng 21,8/24,47 điểm. Thị trường phân hóa: 273 mã tăng (21 trần) so với 283 mã giảm (11 sàn). FPT +1,57%; nhóm dầu khí đồng thuận tăng.",
+    "category": "Kinh tế",
+    "section": "B - Theo lĩnh vực",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vietstock.vn/2026/10/nhip-dap-thi-truong-2210-nhom-vingroup-giup-thi-truong-noi-rong-da-tang-1636-1505476.htm",
+    "analysis": "Đà tăng nối tiếp phiên 21/10 (+46,70 điểm) nhưng tập trung vào hai cổ phiếu họ Vingroup; số mã giảm vẫn nhiều hơn số mã tăng tại thời điểm ghi nhận.\nTâm lý cải thiện nhưng rủi ro tập trung cao: chỉ số có thể đảo chiều nhanh nếu VIC/VHM hạ nhiệt. Số liệu là trong phiên, chưa phải chốt phiên 22/10.",
+    "tags": [
+      "Kinh tế",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "b647b7566d3d2c4de0ffcdc055592c0b199c6057024039c2e71ea4743d1887f1"
+  },
+  {
+    "id": "ca80b685db69b23d42ea44748a73ae3a6f8427886b1edb09f45882d26e52a573",
+    "title": "PNJ lỗ 258 tỷ đồng quý III/2026, doanh thu thuần 6.995 tỷ đồng giảm 14%",
+    "summary": "Doanh thu thuần quý III/2026 của PNJ 6.995 tỷ đồng (-14% cùng kỳ), lỗ sau thuế 258 tỷ đồng. Cùng bản tin: dư nợ margin toàn thị trường tại 30/9/2026 khoảng 457.460 tỷ đồng, kỷ lục, +14,1% so với cuối 2025; FPT 9 tháng doanh thu 40.023 tỷ đồng (+12,4%), lợi nhuận trước thuế 8.770 tỷ đồng (+17%).",
+    "category": "Kinh tế",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://nguoiquansat.vn/1-phut-truoc-gio-giao-dich-phien-22-10-pnj-tiep-tuc-bao-lo-loat-thuong-vu-moi-tai-novaland-323434.html",
+    "analysis": "Kết quả PNJ nối tiếp thừa nhận của lãnh đạo tại ĐHĐCĐ bất thường 21/10 về giai đoạn khó khăn chưa từng có, trong bối cảnh giá vàng cao và sức mua trang sức yếu.\nÁp lực lên bán lẻ trang sức và cổ phiếu PNJ; margin kỷ lục làm tăng độ nhạy của thị trường trước nhịp điều chỉnh.",
+    "tags": [
+      "Kinh tế",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "f9d97b855db99823b5ffdf8506829b9f47874544c3f3a9f1918cd67a29604ced"
+  },
+  {
+    "id": "62370451a8f399e70761c8d50d3dc3f3a772528a31bdbd135a11b0191fac8bd2",
+    "title": "Anthropic lỗ ròng hơn 80 tỷ USD trong nửa đầu 2026, chủ yếu do khoản ghi nhận kế toán 72 tỷ USD",
+    "summary": "Reuters Trading Day: Anthropic lỗ ròng 80,7 tỷ USD trong 6 tháng đầu 2026, so với lỗ 13 tỷ USD cùng kỳ năm trước và 42 tỷ USD cả năm 2025; phần lớn do khoản chi kế toán một lần 72 tỷ USD. Doanh thu nửa đầu năm hơn 16 tỷ USD.",
+    "category": "Kinh tế",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-10-21/",
+    "analysis": "Số liệu xuất hiện giữa tranh luận về định giá IPO kỳ vọng 1,5-2 nghìn tỷ USD và tính bền vững của chi tiêu AI.\nNếu loại khoản một lần, đường về điểm hòa vốn gần hơn theo Reuters; nhưng tốc độ tăng doanh thu chậm lại là điểm nhà đầu tư sẽ soi kỹ trong mùa báo cáo công nghệ.",
+    "tags": [
+      "Kinh tế",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "b7027bbf8e390a8e68703daebc8a6d7cb87d424fc142f6dc0e981483452b1adf"
+  },
+  {
+    "id": "9ff64c765b1cfbcd0e5f4fc7b84dc1fdb58cb4aa68da50404069c388498efcac",
+    "title": "TP Hồ Chí Minh mở rộng khám sức khỏe định kỳ miễn phí cho người chưa đủ điều kiện cư trú, xác thực qua VNeID mức 2",
+    "summary": "Đến 19/10/2026 toàn thành phố đã khám/sàng lọc cho 6.318.764 người; người lao động 1.248.756 (27,7%), học sinh 2.279.506 (87,1%), sinh viên 128.835 (29,3%). 86/168 phường xã đạt tỷ lệ cộng dồn từ 50%. Công văn 10110/UBND-VX ngày 17/10 mở rộng cho công dân chưa đủ điều kiện thường trú/tạm trú nhưng có nơi ở hiện tại xác thực bằng VNeID mức 2.",
+    "category": "Xã hội",
+    "section": "B - Theo lĩnh vực",
+    "region": "Việt Nam",
+    "sourceUrl": "https://beta1.vtv.vn/tp-ho-chi-minh-mo-rong-doi-tuong-duoc-kham-suc-khoe-dinh-ky-mien-phi-100261021100250289.htm",
+    "analysis": "Chương trình khám sức khỏe toàn dân của TP.HCM; nhóm lao động và sinh viên đạt tỷ lệ thấp hơn học sinh.\nMở rộng độ bao phủ, giảm bỏ sót người dân thực tế sinh sống tại thành phố; địa phương cần rà soát danh sách và phối hợp công an xác thực cư trú.",
+    "tags": [
+      "Xã hội",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "5c7a73572b785fba78dc38402e8d9e4f4517fa492dd49769073c516f988f818d"
+  },
+  {
+    "id": "3f2bb6649b35c58264f1822d009e82b1e889146f876060b82a768242497f5ed5",
+    "title": "Bộ sách giáo khoa mới thống nhất toàn quốc từ năm học 2028-2029; mục tiêu loại trừ sốt rét vào năm 2030",
+    "summary": "Tại hội nghị báo cáo viên Trung ương sáng 22/10, Bộ GD-ĐT thông tin bộ SGK lớp 1-12 mới dùng thống nhất toàn quốc từ 2028-2029, định hướng cắt nội dung trùng lặp, nặng lý thuyết, tăng trải nghiệm. Bộ Y tế: năm 2025 cả nước còn 246 ca sốt rét; mục tiêu chấm dứt ca nội địa từ 2027 và loại trừ hoàn toàn vào 2030.",
+    "category": "Xã hội",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://baomoi.com/tuyen-truyen-sau-rong-cac-thanh-tuu-noi-bat-ve-kinh-te-xa-hoi-doi-ngoai-cua-dat-nuoc-c56326181.epi",
+    "analysis": "Thông tin đưa ra tại hội nghị báo cáo viên tháng 10/2026 do Ban Tuyên giáo Trung ương tổ chức.\nNhà trường và phụ huynh có mốc thời gian chuẩn bị đổi SGK; ngành y tế cần duy trì giám sát để giữ mục tiêu loại trừ sốt rét.",
+    "tags": [
+      "Xã hội",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "faef7ed32e4220ee0bd06891d91c7f69c2684ca2e427962bc5f0d20dfdc2aa21"
+  },
+  {
+    "id": "12230de97800ce8cebfe46495586e225e4e7137358f087a44907ab3732270968",
+    "title": "Đề xuất cho trẻ chưa thành niên hiến mô tái sinh cứu người thân tiếp tục gây tranh luận về nguy cơ bị ép buộc",
+    "summary": "Góc phân tích mới ngày 22/10: đề xuất cho người 15 đến dưới 18 tuổi hiến mô tái sinh cho thành viên gia đình, dưới 15 tuổi chỉ hiến cho cha mẹ, anh chị em ruột, khi không có người hiến trưởng thành phù hợp và có đồng ý sau tư vấn. Mô tái sinh gồm tủy xương và tế bào gốc tạo máu.",
+    "category": "Xã hội",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://www.vietnam.vn/vi-sao-de-xuat-cho-tre-chua-thanh-nien-hien-mo-cuu-nguoi-than",
+    "analysis": "Dự án Luật Hiến, lấy, ghép mô (sửa đổi) do Bộ trưởng Y tế trình Quốc hội ngày 21/10; bản tin sáng đã nêu đề xuất, bài phân tích mới tập trung rủi ro trẻ bị gây áp lực trong gia đình.\nCơ hội điều trị tăng cho bệnh nhân máu, nhưng cần cơ chế bảo vệ quyền tự quyết của trẻ thật chặt trước khi thông qua.",
+    "tags": [
+      "Xã hội",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "52d9608d6001c3a9bedb1f9bc05b0e351d5a9968ab326fa59c3268db7dd96092"
+  },
+  {
+    "id": "01d803b07f5db08b6b3fcc06bc0544c34c0f647a395fc628db8c562eb271ffbc",
+    "title": "Walmart mở Agent Gateway cho AI agent mua sắm, ngược hướng Amazon chặn agent bên thứ ba",
+    "summary": "Walmart công bố 21/10 Agent Gateway (máy chủ MCP) để agent được phê duyệt tìm hàng và mua thay khách; Agent Profiles ra mắt trong tháng 11 cho phép đặt hạn mức chi tiêu, yêu cầu duyệt từng giao dịch, thu hồi quyền bất cứ lúc nào. Agent không được truy cập thông tin thanh toán hay lịch sử mua; agent vi phạm điều khoản sẽ bị chặn. Áp dụng cho Walmart và Sam's Club, không cần Walmart+.",
+    "category": "Công nghệ",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "analysis": "Amazon đang chặn agent mua sắm bên thứ ba; Walmart chọn mở cửa có kiểm soát qua MCP, giao thức do Anthropic khởi xướng.\nCuộc cạnh tranh giành quyền sở hữu khách hàng trong thương mại qua agent; doanh nghiệp bán lẻ tại Việt Nam cần chuẩn bị chuẩn kết nối và kiểm soát agent tương tự.",
+    "tags": [
+      "Công nghệ",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "de7f96b795ce0bdfd955d0f5a51fad5a4edf8e0210984703de52fc48e6dc96f5"
+  },
+  {
+    "id": "553c88845e878fcd3c47c195b953668dbfbec6f60b43818dfa2d043b6099cc4c",
+    "title": "LiteLLM 1.107.0 trên PyPI bị cài mã độc đánh cắp thông tin đăng nhập",
+    "summary": "LiteLLM xác nhận pipeline phát hành bị xâm nhập ngày 21/10: bản 1.107.0 độc hại có mặt trên PyPI 11:39-13:23 UTC, Docker Hub và GHCR khoảng 11:46-14:20 UTC. Mã độc biên dịch đánh cắp thông tin đăng nhập và tải công cụ thực thi từ xa. Bản an toàn: 1.106.2 trở về trước; bản enterprise riêng không bị ảnh hưởng theo LiteLLM.",
+    "category": "Công nghệ",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://letsdatascience.com/news/litellm-release-pipeline-hijacked-to-publish-credential-stea-bfca3f33",
+    "analysis": "Tag nguồn chính thức v1.107.0 trên GitHub không chứa tệp độc hại; artifact bị dựng từ kho do kẻ tấn công kiểm soát. Trạng thái: đã khống chế, đang điều tra.\nĐội ngũ dùng LiteLLM cần kiểm tra phiên bản đã cài trong cửa sổ trên, xoay vòng thông tin đăng nhập nếu đã cài 1.107.0, và ghim phiên bản rõ ràng.",
+    "tags": [
+      "Công nghệ",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "6a72a2c652b8248fadbebf4d0bb6df215bfb40cac1fac0b1c338c07f0cd5a055"
+  },
+  {
+    "id": "e0793c01c6a8b76b59d77ee7ce64be371c3642575ca15608c1fdd4fb307f29cf",
+    "title": "Lab AI một năm tuổi Flapping Airplanes huy động 1 tỷ USD, định giá 6 tỷ USD",
+    "summary": "Vòng Series A 1 tỷ USD do Index và Lux đồng dẫn dắt, định giá khoảng 6 tỷ USD, gấp 4 lần sau 9 tháng kể từ vòng hạt giống 180 triệu USD (định giá 1,5 tỷ USD). Nhà đầu tư gồm Sequoia, GV, Kleiner Perkins, Nvidia.",
+    "category": "Công nghệ",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+    "analysis": "Công ty xây megakernel framework gộp huấn luyện, suy luận và tác vụ khác trong một kernel GPU, hướng tới mô hình hiệu quả dữ liệu hơn nhiều lần.\nThêm bằng chứng dòng vốn lớn tiếp tục đổ vào hạ tầng và hiệu quả huấn luyện AI, bất chấp tranh luận bong bóng AI.",
+    "tags": [
+      "Công nghệ",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "c966b82b81d2310870ad80b400199e2ecd2849056cf88073972d6e439f6e53c0"
+  },
+  {
+    "id": "016971d2ee978dc4e90055ec71533045faec1108b649c875f5ac726c876980c1",
+    "title": "Tesla bắt đầu sản xuất robot Optimus tại Fremont khi lợi nhuận quý III giảm 43% xuống 787 triệu USD",
+    "summary": "Tesla cho biết các robot Optimus đầu tiên đạt chất lượng sản xuất đã rời dây chuyền tại Fremont (khu vực từng sản xuất xe điện); Musk gọi đây là sản xuất sớm, mục tiêu tuyên bố 20.000 robot/tuần vào cuối 2027. Quý III: lợi nhuận ròng 787 triệu USD (-43%), doanh thu gần như đi ngang khoảng 28,05 tỷ USD, giao 486.532 xe, chi phí hoạt động tăng mạnh vì AI, Optimus và tự lái.",
+    "category": "Công nghệ",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+    "analysis": "Chi tiêu lớn cho robot và AI ăn vào lợi nhuận hiện tại; doanh thu xe điện đi ngang khoảng 20 tỷ USD.\nCược dài hạn vào robot hình người rõ ràng hơn, nhưng rủi ro biên lợi nhuận ngắn hạn tăng; cần theo dõi tốc độ tăng sản lượng thực tế so với mục tiêu tuyên bố.",
+    "tags": [
+      "Công nghệ",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "5d496c8fcdad37c6db285d2806d6bde9af193617324a8ebf483886f352fa5c04"
+  },
+  {
+    "id": "84c1042cbd72ae2771db9501d83a7355a61b5520f981074a7842b524e8c3befe",
+    "title": "PHP2Shell lan truyền mạnh trên Hacker News và GitHub - Điểm HOT: Chưa đủ dữ liệu (thiếu Shares/Reposts và chuỗi tăng trưởng)",
+    "summary": "Nền tảng: Hacker News, GitHub, X. Like/Reactions: HN 955 điểm cho bài PHP 8.2.35 và 643 điểm cho bài thông báo bảo mật của PHP Foundation (hai bài độc lập, không cộng gộp). Comments/Replies: 529 và 318. Shares/Reposts: N/A. Số bài/cộng đồng độc lập: ít nhất 2 bài HN lên trang đầu, repo PoC php2shell trên GitHub khoảng 696 sao, cùng cobertura của Tenable, SecurityWeek, Wiz, Cloudflare, Amazon Threat Intelligence. Thời điểm ghi nhận: 2026-10-22 khoảng 13:00-14:00 GMT+7 qua trang tổng hợp tín hiệu HN/GitHub cập nhật 06:06 UTC.",
+    "category": "Hot Trends",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://laxima.tech/signal/todays-php-security-release-and-how-were-strengthening-secur-hn-50182987",
+    "analysis": "Xu hướng bùng lên vì lỗ hổng CVSS 9,2 ảnh hưởng phần lớn web, chi tiết bị rò rỉ sớm và đã có thử khai thác từ 17/10.\nQuan điểm nổi bật: đội an ninh kêu gọi vá ngay và coi WAF chỉ là tạm thời; tranh luận về việc AI tìm lỗ hổng nhanh hơn tốc độ vá. Tác động: nhiều cơ quan châu Âu tạm gỡ website dùng PHP. Vì sao HOT: tương tác HN thuộc nhóm cao nhất ngày, lan nhiều nền tảng, tranh luận kỹ thuật sâu; nhưng thiếu số share và dữ liệu tăng trưởng theo giờ nên chưa xếp hạng chính thức theo quy tắc.",
+    "tags": [
+      "Hot Trends",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "58eceb0e7964afa8c64fa8cd89729e550d57b6b3e882b741c64c0ab819da2446"
+  },
+  {
+    "id": "c5551032deb3eef317aff142e7fa1d301ea8e0d12c2c9adde710b6c43c925b4e",
+    "title": "DeepSeek mở mã nguồn DeepInfer, tăng hơn 11.700 sao GitHub trong một ngày - Điểm HOT: Chưa đủ dữ liệu (thiếu Shares và Comments đầy đủ)",
+    "summary": "Nền tảng: GitHub, Hacker News. Like/Reactions: HN 2.189 điểm (câu chuyện được đón nhận lớn nhất ngày theo tổng hợp HN); sao GitHub tăng +11.732 trong cửa sổ ngày 22/10 theo GhTrends (đo từ endpoint lịch sử sao chính thức của GitHub), tổng khoảng 14.601 sao sau 5 ngày. Comments/Replies: N/A trong nguồn đã kiểm chứng. Shares/Reposts: N/A. Thời điểm ghi nhận: 2026-10-22, GhTrends cập nhật buổi sáng.",
+    "category": "Hot Trends",
+    "section": "B - Theo lĩnh vực",
+    "sourceUrl": "https://ghtrends.dev/daily/",
+    "analysis": "DeepInfer là engine suy luận sản xuất của DeepSeek cho DeepSeek-V4.1-Flash, dùng FlashMLA, DeepGEMM, DeepEP, nhắm GPU NVIDIA SM100 và NPU Huawei Ascend 950, giấy phép Apache 2.0, xây trên vLLM.\nQuan điểm nổi bật: cộng đồng hạ tầng AI quan tâm khả năng tự vận hành suy luận chi phí thấp; lưu ý README ghi bản phát hành chưa đầy đủ (chưa có hệ KV cache và tách prefill/decode hoàn chỉnh). Chưa xếp hạng chính thức vì thiếu comments/shares có bằng chứng.",
+    "tags": [
+      "Hot Trends",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "f8e70fa6448adb2fb7f5fc597558bb7e51bfcd94b1b53f3d12f6dff820cfa22b"
+  },
+  {
+    "id": "1fb19126f69b465255f111d8f853936ed916cca7daace0c7fe7d5a6da7861b5c",
+    "title": "EA đóng cửa BioWare sau hơn 30 năm và hủy Mass Effect mới - Điểm HOT: Chưa đủ dữ liệu (không có số tương tác MXH công khai đã kiểm chứng)",
+    "summary": "Nền tảng: báo chí quốc tế, Hacker News, Google Trends Việt Nam, mạng xã hội chính thức của BioWare. Like/Reactions: N/A. Comments/Replies: N/A. Shares/Reposts: N/A. Dữ kiện lan truyền: Google Trends Việt Nam ghi nhận cụm tin EA cắt giảm/BioWare đóng cửa kéo theo hơn 500 lượt tìm kiếm trong danh sách thịnh hành 22/10; Reuters, Bloomberg qua Polygon và nhiều báo độc lập cùng đưa tin 21/10. Thời điểm ghi nhận: 2026-10-22 14:01 GMT+7.",
+    "category": "Hot Trends",
+    "section": "B - Theo lĩnh vực",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.reuters.com/technology/ea-shutter-bioware-studio-cut-jobs-it-narrows-game-slate-2026-10-21/",
+    "analysis": "EA cắt khoảng 400 việc làm (khoảng 3% nhân sự, trong đó khoảng 50 tại BioWare), đóng studio Edmonton, hủy dự án Mass Effect giai đoạn đầu, sau thương vụ tư nhân hóa 55 tỷ USD hoàn tất tháng 8 kèm khoảng 18 tỷ USD nợ.\nQuan điểm nổi bật: tiếc nuối cho studio đứng sau Baldur's Gate, Mass Effect, Dragon Age và tranh luận về cắt giảm chi phí sau tư nhân hóa. Tác động: tiếp tục làn sóng thu hẹp studio game năm 2026.",
+    "tags": [
+      "Hot Trends",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "d582a532fd42f55f2871d997420f4e90f83f1206cac0d510e10fdc4fc5bd8f45"
+  },
+  {
+    "id": "601ffbcd7c195b2aceb0113cc70802ac201668597dd5f43143116430ba40dad0",
+    "title": "'Claude Duet' lọt nhóm từ khóa thịnh hành tại Việt Nam trên Google Trends - Điểm HOT: Chưa đủ dữ liệu (chỉ có dữ liệu tìm kiếm, chưa có tương tác bài đăng)",
+    "summary": "Nền tảng: Google Trends Việt Nam, Hacker News. Like/Reactions: N/A. Comments/Replies: N/A. Shares/Reposts: N/A. Dữ kiện: trang tổng hợp Google Trends Việt Nam cập nhật 22/10 liệt kê 'claude duet' trong 3 cụm dẫn đầu xu hướng tìm kiếm tại Việt Nam; chủ đề đồng thời xuất hiện trong danh sách tín hiệu Hacker News. Thời điểm ghi nhận: 2026-10-22 khoảng 12:00-14:00 GMT+7.",
+    "category": "Hot Trends",
+    "section": "B - Theo lĩnh vực",
+    "region": "Việt Nam",
+    "sourceUrl": "https://trends.cyberkendra.com/google-trends/vietnam",
+    "analysis": "Anthropic ra mắt Claude Duet ngày 21/10, agent chủ động trên Opus 5.5, khiến tìm kiếm tăng tại Việt Nam dù sản phẩm mới mở waitlist cho thuê bao Pro/Max tại Mỹ.\nQuan điểm nổi bật: so sánh trực tiếp giữa các agent chủ động Duet (Anthropic), Muse (Meta) và dots (OpenAI). Tác động: cuộc đua agent cá nhân luôn bật đang nóng lên; xem chi tiết ở Phần D.",
+    "tags": [
+      "Hot Trends",
+      "B - Theo lĩnh vực"
+    ],
+    "language": "vi",
+    "contentHash": "f4800070ba3c146076f1d79909eae1e77a5eb864ccf0224448a3795258350bbf"
+  },
+  {
+    "id": "94fd90c41ffd465f3cf576def18f0eee7989cc37f4f976984dcf831c7dc80d0b",
+    "title": "Claude Duet (Anthropic) - agent chủ động cho công việc, research preview qua waitlist",
+    "summary": "Tính năng: brief ngắn mỗi sáng từ các ứng dụng đã kết nối, tự kiểm tra vài giờ một lần và báo khi có việc cần chú ý, làm việc trên cloud bằng máy ảo có trình duyệt riêng, dùng memory/skills/connectors của tài khoản Claude (hơn 6.000 connectors theo Reuters), có thể mua hàng qua Stripe Link và Shop Pay. Xin duyệt trước khi gửi tin, thanh toán, ký tài liệu hoặc xóa tệp.",
+    "category": "Công nghệ đáng thử",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+    "analysis": "Anthropic nhắm tới chuyên gia và chủ doanh nghiệp nhỏ có quá nhiều việc phải theo dõi; Duet chạy trên Claude Opus 5.5.\nHạn chế: chỉ mở waitlist cho thuê bao Pro/Max tại Mỹ (iOS, Android, web); lượt kiểm tra nền tính vào hạn mức gói; Anthropic thừa nhận agent có thể đánh giá sai mức khẩn cấp và còn yếu ở tác vụ cá nhân như đặt vé. Giá: dùng chung hạn mức gói Pro/Max hiện có, chưa có giá riêng công bố.",
+    "tags": [
+      "Công nghệ đáng thử",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "9c5b259f69539e2a76c24d31bfeb14098081c16187d09bb738e45092f8ffb523"
+  },
+  {
+    "id": "f6884091bdf04b5d9cadf5646a6bf276df08e12ef620a531cc08624177692820",
+    "title": "Recursive Flint - mô hình lập trình chạy trên laptop, miễn phí giấy phép Apache 2.0",
+    "summary": "Tính năng: mô hình MoE 40 tỷ tham số, chỉ kích hoạt 2,5 tỷ/lượt; khoảng 131 token/giây trên MacBook Pro M4 Pro theo đo của Recursive (gấp khoảng 2 lần mô hình tương đương cùng máy), hơn 150 token/giây trên RTX Spark; đứng đầu nhóm mô hình dưới 50 tỷ tham số trên SWE-Bench Verified theo công bố của công ty. Tải miễn phí trên Hugging Face.",
+    "category": "Công nghệ đáng thử",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "analysis": "Flint được xây dựng phần lớn bởi hệ thống nghiên cứu tự động Eureka Machine của Recursive trong dưới 4 tháng, là phép thử công khai của hướng AI tự cải tiến có giám sát của con người.\nỨng dụng: lập trình offline, giữ mã nguồn riêng tư, không tốn phí theo token. Hạn chế: cần được hướng dẫn nhiều hơn trợ lý lập trình trả phí lớn, nên chia tác vụ lớn thành bước nhỏ; số liệu tốc độ và benchmark chủ yếu do công ty công bố, cần kiểm chứng độc lập thêm.",
+    "tags": [
+      "Công nghệ đáng thử",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "0e78559be4451d7e0a3307458b210fe93778f66d897c6af90ae67173c870c0cf"
+  },
+  {
+    "id": "3dccd37a464c8fa4271c9f9a70ca08037a087b2edc4c3b66e84365e1cfbdc114",
+    "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm bắt đầu chuyến thăm chính thức Liên minh châu Âu (EU) và Vương quốc Bỉ",
+    "summary": "Tối 21/10 (giờ VN), Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân Ngô Phương Ly đến Brussels, bắt đầu chuyến thăm chính thức EU và Bỉ theo lời mời của Chủ tịch Hội đồng châu Âu Antonio Costa và Thủ tướng Bỉ Bart De Wever. Đây là chuyến thăm cấp cao đầu tiên sau khi hai bên nâng cấp lên Đối tác chiến lược toàn diện vào tháng 1/2026.",
+    "category": "Chính trị - Ngoại giao",
+    "section": "Phần A – Top tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://vietnamnet.vn/tong-bi-thu-chu-tich-nuoc-va-phu-nhan-den-brussels-bi-2567174.html",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Việt Nam là quốc gia ASEAN đầu tiên thiết lập quan hệ Đối tác chiến lược toàn diện với EU; quan hệ ngoại giao Việt - Bỉ đạt mốc hơn 50 năm với 8 năm triển khai Đối tác chiến lược về nông nghiệp.\nKhẳng định vai trò cầu nối ASEAN - EU, mở rộng hợp tác công nghệ cao, bán dẫn, chuyển đổi năng lượng xanh và logistics cảng biển. Thách thức là sự thích ứng với các rào cản tiêu chuẩn xanh ngặt nghèo của châu Âu.",
+    "tags": [
+      "Chính trị - Ngoại giao",
+      "Phần A – Top tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "f94a52b39f32f0e198616417fc8b6f01be1f37d5eb31bf90cabd11e3fa43beca"
+  },
+  {
+    "id": "bd1d74d28049fb486e225882b4e64f735b431b87add3c4a25c776efbc55ac4dd",
+    "title": "GitLab vá khẩn cấp lỗ hổng thực thi mã từ xa RCE CVSS 10.0 (CVE-2026-110264) kéo dài suốt 12 năm",
+    "summary": "GitLab phát hành bản vá bảo mật khẩn cấp cho lỗ hổng CVE-2026-110264 đạt mức nghiêm trọng tối đa 10.0/10.0 CVSS. Lỗi tràn số nguyên trong engine Onigmo cho phép kẻ tấn công chưa xác thực thực thi mã từ xa trên mọi bản GitLab tự quản trị (self-managed) từ phiên bản 7.0 (2014) đến nay.",
+    "category": "An ninh mạng",
+    "section": "Phần A – Top tin quan trọng",
+    "sourceUrl": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Lỗ hổng do nhà nghiên cứu \"joaxcar\" báo cáo, là lỗi RCE nghiêm trọng thứ tư liên quan đến engine regex trong vòng 1 tháng qua; GitLab phải backport bản vá cho cả các bản cũ đến 18.11.13.\nNguy cơ kiểm soát máy chủ CI/CD và can thiệp chuỗi cung ứng phần mềm toàn cầu; quản trị viên hệ thống buộc phải tiến hành nâng cấp khẩn cấp để ngăn chặn tấn công tự động.",
+    "tags": [
+      "An ninh mạng",
+      "Phần A – Top tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "c5f68912f68e9dbbeaad2492e3c8614fbb6639ea3366a14a308c07ff1390e88a"
+  },
+  {
+    "id": "6d82b8f1428f718558ba02658220bb4ebb4af222d8b0ec3abe6a46b73ee1fc03",
+    "title": "Walmart thương mại hóa AI Agent với cổng Agent Gateway chuẩn MCP đối đầu chiến lược chặn của Amazon",
+    "summary": "CEO John Furner ra mắt Agent Gateway dựa trên giao thức Model Context Protocol (MCP) cho phép các trợ lý AI được ủy quyền tìm kiếm tồn kho và mua sắm thay người tiêu dùng tại Walmart và Sam's Club. Hệ thống cung cấp hồ sơ Agent Profiles với hạn mức chi tiêu riêng và bảo vệ thông tin thanh toán.",
+    "category": "Thương mại điện tử & AI",
+    "section": "Phần A – Top tin quan trọng",
+    "sourceUrl": "https://aiweekly.co/alerts/walmart-debuts-agent-gateway-mcp-server-and-agent-profiles-for-approved-ai",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Xu hướng mua sắm qua trợ lý cá nhân bùng nổ mạnh mẽ; trái ngược với Amazon đang chủ động chặn các bot AI bên thứ ba, Walmart chọn chiến lược mở cửa đón đầu dòng người dùng AI.\nĐổi mới phương thức bán lẻ tự động hóa (Agentic commerce), thúc đẩy giao thức MCP trở thành tiêu chuẩn chung; thách thức là bảo vệ dữ liệu người dùng và tránh mua sắm ngoài kiểm soát.",
+    "tags": [
+      "Thương mại điện tử & AI",
+      "Phần A – Top tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "d6533c0466d2162c25128c02abf8ad8c09adc5b73e69576f790e11a36c39deaf"
+  },
+  {
+    "id": "c4455915a91dc540cab65e44921c481145ab52be3d2e8ae3bc600293793be053",
+    "title": "Xuất nhập khẩu Việt Nam 9 tháng vượt 888 tỷ USD, hướng tới kỷ lục lịch sử 1.110 tỷ USD năm 2026",
+    "summary": "Kim ngạch xuất nhập khẩu 9 tháng đầu năm 2026 đạt hơn 888 tỷ USD, tăng 30,4% so với cùng kỳ. Xuất khẩu đạt 434,3 tỷ USD với 7 mặt hàng vượt 10 tỷ USD. Dự kiến cả năm 2026 lần đầu tiên kim ngạch thương mại vượt mốc 1.000 tỷ USD, ước đạt 1.110 tỷ USD.",
+    "category": "Kinh tế vĩ mô",
+    "section": "Phần A – Top tin quan trọng",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baochinhphu.vn/xuat-nhap-khau-2026-uoc-dat-1110-ty-usd-lan-dau-tien-vuot-nguong-1000-ty-usd-102261017095143679.htm",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Tận dụng hiệu quả các hiệp định thương mại tự do (EVFTA, CPTPP) cùng sự phục hồi của các thị trường lớn và làn sóng dịch chuyển sản xuất công nghệ cao sang Việt Nam.\nĐóng góp to lớn cho tăng trưởng GDP cả nước và dự trữ ngoại hối; tuy nhiên đối mặt với nguy cơ gia tăng các biện pháp phòng vệ thương mại và yêu cầu phát thải ròng thấp từ quốc tế.",
+    "tags": [
+      "Kinh tế vĩ mô",
+      "Phần A – Top tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "d0c28b09fe5bda0f4e1e9464d98f01c9ebda7e798f0296a7d57a5e7225f26994"
+  },
+  {
+    "id": "9bcfe443cf1e179c84bbc8f247123e277526d61de26cb40e4a749306c73a6efa",
+    "title": "OpenAI mua lại startup Orchestra Bio nhằm đẩy nhanh tiến độ nghiên cứu và phát triển thuốc bằng AI Agent",
+    "summary": "OpenAI hoàn tất thương vụ mua lại Orchestra Bio để sáp nhập công nghệ và đội ngũ vào nền tảng mô hình khoa học đời sống Rosalind (GPT-Rosalind). Mục tiêu là tự động hóa các quy trình điều phối R&D phức tạp trong ngành dược sinh học nhằm rút ngắn chu kỳ nghiên cứu từ 10-15 năm xuống đáng kể.",
+    "category": "Y tế sinh học & AI",
+    "section": "Phần A – Top tin quan trọng",
+    "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio/",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Phát triển tân dược là quá trình tốn kém và phân tán giữa nhiều phòng thí nghiệm; OpenAI đang tích cực mở rộng ứng dụng AI chuyên sâu sau các thỏa thuận với Novo Nordisk và Moderna.\nTăng tốc khám phá dược phẩm và điều trị bệnh hiểm nghèo, thúc đẩy kỷ nguyên y học chính xác; rủi ro về mặt quy chuẩn kiểm định an toàn lâm sàng nghiêm ngặt của FDA/EMA.",
+    "tags": [
+      "Y tế sinh học & AI",
+      "Phần A – Top tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "d61c137d8bc7106cf4c9be236a114825e930f07de3ccf39b1145a68c27acbf3c"
+  },
+  {
+    "id": "f7a36446c51d6b22d65af71c45b1483624045b9c7047cd7f0f7ed035881a6b83",
+    "title": "Giá vàng trong nước neo cao quanh 142 triệu đồng/lượng, thị trường quốc tế giằng co chờ quyết định lãi suất Fed",
+    "summary": "SJC niêm yết 139,3 - 142,3 triệu đồng/lượng (mua - bán). Giá vàng thế giới giao dịch quanh 4.121 - 4.129 USD/ounce, hợp đồng tháng 12/2026 ở mức 4.132 USD/oz; chênh lệch giá nội - ngoại khoảng 14 triệu đồng/lượng.",
+    "category": "Thị trường tài chính",
+    "section": "Phần B – Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://vietnamnet.vn/gia-vang-hom-nay-22-10-sjc-tiep-tuc-giam-kho-luong-2-thang-cuoi-nam-2567192.html",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Lạm phát Mỹ (CPI 3,7%) và Anh (3,5%) dai dẳng khiến giới đầu tư dự báo Fed có khả năng nâng lãi suất vào tháng 12, kiềm chế đà bứt phá của giá kim loại quý.\nNhà đầu tư trong nước có tâm lý chờ đợi, giao dịch thận trọng; tỷ giá USD tự do dao động 26.000 - 26.080 VND/USD tạo sức ép nhất định lên thị trường ngoại hối.",
+    "tags": [
+      "Thị trường tài chính",
+      "Phần B – Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "08295ab5da0fbe389913436b246e2d4c6f1c5d1741a6dcf1fd41118595ce6874"
+  },
+  {
+    "id": "fada2e6fb88d85bd89e96d6b838cc1cc3547b4b844c2e13cf9e25397da1820b4",
+    "title": "Cổ phiếu Vingroup tăng kịch trần kéo VN-Index tăng 46,7 điểm lên 1.738 điểm, tài sản tỷ phú Phạm Nhật Vượng tăng thêm 2,3 tỷ USD",
+    "summary": "Nhóm cổ phiếu họ Vin bùng nổ sắc tím, đưa chỉ số VN-Index tăng mạnh 46,7 điểm lên mốc 1.738,67 điểm. Tài sản của ông Phạm Nhật Vượng tăng thêm 2,3 tỷ USD chỉ trong một ngày, nâng tổng tài sản lên 34,8 tỷ USD.",
+    "category": "Chứng khoán",
+    "section": "Phần B – Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vietnamnet.vn/gia-vang-hom-nay-22-10-sjc-tiep-tuc-giam-kho-luong-2-thang-cuoi-nam-2567192.html",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Dòng tiền lan tỏa mạnh mẽ nhờ triển vọng tích cực của mảng xe điện toàn cầu và các dự án đô thị, hạ tầng quy mô lớn bước vào giai đoạn bàn giao ghi nhận lợi nhuận.\nTạo động lực tâm lý bứt phá cho toàn thị trường chứng khoán, kích hoạt dòng vốn ngoại và dòng tiền tiết kiệm quay lại kênh đầu tư cổ phiếu.",
+    "tags": [
+      "Chứng khoán",
+      "Phần B – Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "601ba92844525a79ad5a706c2d6d5fc4d6029de4b0589b4f6c648b1c6d669946"
+  },
+  {
+    "id": "a0bb625ad92db8d3971d6c6ab57c97f431557aade4383a27f6ff993993902644",
+    "title": "Nestlé báo cáo tăng trưởng doanh thu hữu cơ quý 3 vượt kỳ vọng, chính thức tách rời mảng kinh doanh tại Nga",
+    "summary": "Tập đoàn Nestlé công bố tăng trưởng doanh thu quý 3/2026 vượt dự báo của giới phân tích tài chính; Giám đốc Tài chính Anna Manz xác nhận đã phi hợp nhất hoạt động tại Nga (chiếm 2% doanh số) sau khi tài sản bị chính quyền sở tại tiếp quản.",
+    "category": "Doanh nghiệp quốc tế",
+    "section": "Phần B – Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.investing.com/news/stock-market-news/nestle-third-quarter-organic-sales-beat-forecast-deconsolidates-russian-business-4964618",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Quá trình tái cấu trúc hoạt động nhằm tuân thủ quy định trừng phạt quốc tế và tinh giản bảng cân đối tài chính sau giai đoạn duy trì hàng thiết yếu tại Nga.\nGiúp giải tỏa lo ngại pháp lý và rủi ro danh tiếng cho cổ đông, giữ vững triển vọng tăng trưởng doanh số hữu cơ toàn cầu năm 2026 ở mức khoảng 3%.",
+    "tags": [
+      "Doanh nghiệp quốc tế",
+      "Phần B – Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "99d365ddb3f67b1a060b43562f199ea9d90cc3a2b764757ae2efb6abd882c038"
+  },
+  {
+    "id": "fa42034b8cfa36a3b1508e89f7cfb79292f063997834a4a8fcf4e6bd0d8a4b00",
+    "title": "Ngân hàng tiếp tục giảm lãi suất vay tới 1,5%/năm hỗ trợ hộ kinh doanh và doanh nghiệp siêu nhỏ",
+    "summary": "Sau gói 10.000 tỷ đồng, HDBank tiếp tục triển khai gói tín dụng 5.000 tỷ đồng với lãi suất giảm 1,5%/năm cho khách hàng cá nhân và doanh nghiệp nhỏ. Mặt bằng lãi suất cho vay toàn ngành ghi nhận xu hướng hạ nhiệt từ 0,5 - 0,7%.",
+    "category": "Ngân hàng & Tín dụng",
+    "section": "Phần B – Kinh tế",
+    "sourceUrl": "https://vietnamnet.vn/gia-vang-hom-nay-22-10-sjc-tiep-tuc-giam-kho-luong-2-thang-cuoi-nam-2567192.html",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Đáp ứng nhu cầu vốn lưu động cho sản xuất hàng hóa phục vụ mùa mua sắm cuối năm theo chủ trương chỉ đạo của Chính phủ và Ngân hàng Nhà nước.\nHỗ trợ phục hồi sản xuất và dòng tiền cho khối kinh tế tư nhân; thách thức là quản trị chất lượng tín dụng và phòng ngừa nợ xấu phát sinh.",
+    "tags": [
+      "Ngân hàng & Tín dụng",
+      "Phần B – Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "60af5507603794d9ded4840ea7d241f2b802a56a057d7a72ae679a8408244fb4"
+  },
+  {
+    "id": "449730eabd4ec29d44373150df6989ab5d0d287374fc7bb389031564bdb33ea1",
+    "title": "Khởi tố nữ tài xế ô tô Lexus chống đối, tăng ga bỏ chạy khi bị dừng xe kiểm tra tại Lào Cai",
+    "summary": "Công an TP Lào Cai khởi tố bị can đối với nữ tài xế Lexus về tội Chống người thi hành công vụ. Khi bị CSGT yêu cầu dừng xe kiểm tra tốc độ, tài xế không hợp tác, cố thủ trong xe rồi nhấn ga tháo chạy gây nguy hiểm cho lực lượng làm nhiệm vụ.",
+    "category": "Pháp luật & Trật tự giao thông",
+    "section": "Phần B – Xã hội",
+    "sourceUrl": "https://vietnamnet.vn/khoi-to-nu-tai-xe-lexus-tang-ga-bo-chay-2567212.html",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Ý thức chấp hành pháp luật kém của một bộ phận tài xế trong đợt cao điểm siết chặt an toàn giao thông trên các tuyến quốc lộ và cao tốc.\nNhận được sự đồng tình lớn từ công chúng, răn đe mạnh mẽ các hành vi coi thường kỷ cương pháp luật khi tham gia giao thông.",
+    "tags": [
+      "Pháp luật & Trật tự giao thông",
+      "Phần B – Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "800aa3d8b0b6c813f344b62395d17e6c47aa39f7665edd814fa271d0a78292b9"
+  },
+  {
+    "id": "40be55dc93e24cec1d95a4d233d3440d64c4f25d59466ba72c2adb1c19665066",
+    "title": "Khởi tố nam sinh lớp 12 hành hung giáo viên ngay trên bục giảng tại trường học ở Hà Nội",
+    "summary": "Cơ quan điều tra tại Hà Nội đã khởi tố vụ án, điều tra hành vi nam sinh lớp 12 có hành vi bạo lực đánh cô giáo ngay trên lớp học sau khi bị nhắc nhở vi phạm quy chế học đường.",
+    "category": "Giáo dục & Đạo đức học đường",
+    "section": "Phần B – Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vietnamnet.vn/thoi-su",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Sự suy giảm kỷ cương và gia tăng áp lực tâm lý vị thành niên trong môi trường học đường dưới ảnh hưởng của mạng xã hội và thiếu kỹ năng kiểm soát cảm xúc.\nCảnh báo đỏ về văn hóa ứng xử học đường, thúc đẩy sự phối hợp giữa gia đình và nhà trường trong việc bảo vệ an toàn cho giáo viên và giáo dục nhân cách học sinh.",
+    "tags": [
+      "Giáo dục & Đạo đức học đường",
+      "Phần B – Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "09b872e8c854691e85cf9ff9df6d649441719525cb584783217661fc1e721d47"
+  },
+  {
+    "id": "dda550ca9a391be58b3cad623a398b80d3a40420e94a97cbaefc58dd98bbff73",
+    "title": "Dự báo thời tiết cả nước ngày 22/10: Miền Bắc hanh ráo, miền Trung và Nam Bộ đón mưa dông lớn chiều tối",
+    "summary": "Theo Trung tâm Dự báo KTTV Quốc gia, không khí lạnh tăng cường yếu giữ miền Bắc khô ráo, nhiệt độ 32 - 33 độ C; từ Thanh Hóa đến Huế và khu vực Nam Bộ xuất hiện mưa rào và dông rải rác, cục bộ có nơi mưa to về chiều tối.",
+    "category": "Đời sống & Thời tiết",
+    "section": "Phần B – Xã hội",
+    "sourceUrl": "https://tuoitre.vn/thoi-tiet-hom-nay-22-10-ca-nuoc-ngay-nang-chieu-toi-mua-rao-den-mua-to-100261021164024993.htm",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Tác động của rãnh áp thấp xích đạo và các đợt không khí lạnh đầu mùa di chuyển lệch đông trong giai đoạn thời tiết giao mùa cuối tháng 10.\nNgười dân vùng đô thị cần đề phòng ngập úng giờ cao điểm tan tầm; các địa phương ven biển chủ động phòng tránh lốc xoáy và gió giật mạnh trên biển.",
+    "tags": [
+      "Đời sống & Thời tiết",
+      "Phần B – Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "ec6ad5ce401d280a8399a424803c459668408078ece47d3f905e5da03633debf"
+  },
+  {
+    "id": "7616ea765a7783a1b492ba01f3a6399036933d29745a0d515ce85c9146134b57",
+    "title": "Microsoft ra mắt hệ thống Guardian Agents và công cụ giám sát rủi ro nội bộ từ AI Agent trong doanh nghiệp",
+    "summary": "Microsoft công bố Guardian Agents và cập nhật bộ giải pháp Defender có thể nhận diện hơn 60 loại AI Agent của bên thứ ba trong mạng doanh nghiệp. Lãnh đạo an ninh Microsoft khẳng định các mô hình biên không thể được tin tưởng tuyệt đối và cần cơ chế kiểm soát độc lập.",
+    "category": "Quản trị an toàn AI",
+    "section": "Phần B – Công nghệ",
+    "sourceUrl": "https://dev.ua/en/news/microsoft-zapustyla-zakhyst-vid-neperedbachuvanykh-shi-ahentiv-1792479116",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Hiện tượng nhân viên tự ý tích hợp trợ lý AI tự hành (Shadow AI) xử lý tài liệu nội bộ gây ra nhiều vụ rò rỉ thông tin tài chính và dữ liệu khách hàng.\nThiết lập tiêu chuẩn giám sát thực thi an toàn cho doanh nghiệp ứng dụng AI, thúc đẩy các giải pháp phần mềm kiểm soát thẩm quyền của trợ lý ảo.",
+    "tags": [
+      "Quản trị an toàn AI",
+      "Phần B – Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "5a51a4c806c4865310ebb405213a0e89e89b34fa8e8acf5f27b2da0df8f8eb67"
+  },
+  {
+    "id": "44967bcd3c857b40c64c39d34647e8aaf1d2db2d38fe6fa8704311e66f578747",
+    "title": "Trợ lý AI Meta Muse vượt mốc 10 triệu lượt tải tại Mỹ chỉ sau 40 ngày phát hành",
+    "summary": "Ứng dụng trợ lý ảo Muse của Meta đạt 10 triệu lượt tải ở Mỹ trong 40 ngày, đạt tốc độ tăng trưởng nhanh gần gấp 3 lần so với giai đoạn đầu của ChatGPT (đạt 3,7 triệu tải trong 40 ngày đầu năm 2023).",
+    "category": "Trợ lý AI tiêu dùng",
+    "section": "Phần B – Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://qz.com/meta-muse-ai-agent-10-million-us-downloads-102126",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Lợi thế phân phối khổng lồ nhờ tích hợp sâu vào hệ sinh thái Facebook, Instagram, WhatsApp và kính thông minh Ray-Ban Meta.\nGia tăng sức ép cạnh tranh lên các đối thủ OpenAI và Google trong phân khúc trợ lý AI phổ thông; mở ra kênh kiếm tiền quảng cáo và thương mại qua trò chuyện tự nhiên.",
+    "tags": [
+      "Trợ lý AI tiêu dùng",
+      "Phần B – Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "c3478894b1e68680fdeacf080d746403acb29555c4a8de7b8fa7d828ad0c7f6d"
+  },
+  {
+    "id": "e2df592a34ea715567e6deab6038d076fc1537ec6a79d91317a2d7ff6b51e086",
+    "title": "Cảnh báo lỗ hổng nghiêm trọng kép trong PHP và musl libc đe dọa các dịch vụ web toàn cầu",
+    "summary": "PHP Foundation cảnh báo 2 lỗ hổng CVE-2026-109618 và CVE-2026-109619 đạt mức độ CVSS 10.0, trong khi thư viện musl libc cũng tung bản vá lỗi tràn số nguyên trong engine regex. Sự cố đe dọa hàng triệu máy chủ web tự quản trị.",
+    "category": "An ninh mã nguồn mở",
+    "section": "Phần B – Công nghệ",
+    "sourceUrl": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Các công cụ quét mã tự động bằng AI đang bóc tách hàng loạt lỗi lập trình bộ nhớ cổ điển trong các thư viện nền tảng C/C++ tồn tại từ hàng chục năm trước.\nBuộc các nhà phát triển và đơn vị vận hành cloud đẩy nhanh việc vá lỗi; thúc đẩy xu hướng tái cấu trúc phần mềm bằng ngôn ngữ an toàn bộ nhớ như Rust.",
+    "tags": [
+      "An ninh mã nguồn mở",
+      "Phần B – Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "3ad839e46c4943e99ac9fd35a022e759e9e2c40fcfa0b06121a9dddb87eb7963"
+  },
+  {
+    "id": "46dd11a3d6be23a394eace95e3ab3c4a365979094663c72c6132a17805fb19af",
+    "title": "Nvidia và Microsoft khởi xướng Liên minh An toàn AI Mở thiết lập nút ngắt khẩn cấp bằng phần cứng",
+    "summary": "Hai tập đoàn công nghệ hàng đầu hợp tác thành lập Open Agent Safety Platform, cung cấp giải pháp cô lập môi trường thực thi và cơ chế phần cứng tắt khẩn cấp (hardware kill-switch) cho các hệ thống AI tự hành quy mô lớn.",
+    "category": "Hạ tầng phần cứng AI",
+    "section": "Phần B – Công nghệ",
+    "sourceUrl": "https://dev.ua/en/news/microsoft-zapustyla-zakhyst-vid-neperedbachuvanykh-shi-ahentiv-1792479116",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Khi AI Agent được cấp quyền truy cập tài khoản ngân hàng và hạ tầng kỹ thuật, rủi ro lỗi suy luận dây chuyền có thể gây ra thiệt hại tài chính và vật lý không thể vãn hồi.\nThiết lập tiêu chuẩn công nghiệp mới về an toàn phần cứng cho trung tâm dữ liệu AI, tạo sự an tâm cho các tổ chức tài chính và hạ tầng quốc gia khi triển khai Agentic AI.",
+    "tags": [
+      "Hạ tầng phần cứng AI",
+      "Phần B – Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "2812c2aaef7b624380f171120362be8b4de9030103473e1bae1e3376dcf91805"
+  },
+  {
+    "id": "41a16c05e402fe6958291408345fbe1bdd25f0899a62dc6f205a8e1614a51d07",
+    "title": "Tranh cãi chính sách yêu cầu nhân viên Xbox lên văn phòng 4 ngày/tuần: Nghi vấn chiêu bài sa thải ngầm",
+    "summary": "r/technology thảo luận sôi nổi về quy định nhân viên Xbox gần Redmond phải đến văn phòng 4 ngày/tuần từ tháng 2/2027. Điểm HOT: 78/100 (HOT). Dữ liệu tương tác thực tế: 1.400+ Upvotes, 350+ Comments, 85 Shares tại 4 cộng đồng độc lập.",
+    "category": "Văn hóa công sở công nghệ",
+    "section": "Phần B – Hot Trends",
+    "sourceUrl": "https://www.reddit.com/r/technology/comments/1xc5rq2/xbox_mandates_a_fourday_return_to_office/",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Lãnh đạo Microsoft tái cơ cấu bộ phận game sau các đợt cắt giảm nhân sự và rà soát các trường hợp đặc cách làm việc từ xa.\nGây căng thẳng giữa giới quản lý và kỹ sư phát triển phần mềm; rủi ro chảy máu chất xám sang các công ty duy trì chính sách làm việc linh hoạt.",
+    "tags": [
+      "Văn hóa công sở công nghệ",
+      "Phần B – Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "419ad38a92d5ab94e2b838fad455f0be2c89b7a881a1b2d20aff5359c7265a87"
+  },
+  {
+    "id": "74a65adadc538974d60d9f3d83f79072d30e6aa723305554805739c188cd6247",
+    "title": "Tranh luận Kỷ nguyên đen tối hay Thời kỳ vàng của bảo mật khi AI tăng tốc tìm kiếm lỗ hổng phần mềm",
+    "summary": "Hacker News bùng nổ thảo luận về vụ vá lỗi GitLab CVSS 10.0 và áp lực cập nhật liên tục đè nặng lên SysAdmin. Điểm HOT: 74/100 (HOT). Dữ liệu thực tế: 282 Points, 70+ Comments chuyên sâu, ghi nhận lúc 11:30 ngày 22/10.",
+    "category": "An ninh mạng & Tranh luận kỹ thuật",
+    "section": "Phần B – Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50185869",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Việc ứng dụng AI vào tự động tìm kiếm chuỗi khai thác khiến số lượng lỗ hổng nghiêm trọng trong mã nguồn cũ được phát hiện với tần suất dày đặc.\nThúc đẩy tự động hóa vá lỗi bằng AI Agent (Renovate) và chuyển dịch kiến trúc sang Zero Trust để bảo vệ hệ thống trước các đợt quét tự động.",
+    "tags": [
+      "An ninh mạng & Tranh luận kỹ thuật",
+      "Phần B – Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "1d9222220689cfcc2c880b627d09bfc93b2a5e35bb58561791a88c5f31ff6b8d"
+  },
+  {
+    "id": "3120e68025f45278e5b8b5932fa0440cf7d94822b9c8b0677eca3d93b58cf9e5",
+    "title": "Dư luận mạng xã hội bức xúc trước vụ nữ tài xế Lexus chống đối CSGT và sự nghiêm minh của pháp luật",
+    "summary": "Mạng xã hội Việt Nam (Threads, Facebook, TikTok) lan truyền clip nữ tài xế tháo chạy và sự việc bị khởi tố tại Lào Cai. Điểm HOT: 86/100 (RẤT HOT). Tương tác thực tế: 45.000+ Likes/Reactions, 8.200+ Bình luận, 3.400+ Chia sẻ.",
+    "category": "Dư luận xã hội Việt Nam",
+    "section": "Phần B – Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baomoi.com/lao-cai-khoi-to-nu-tai-xe-lexus-tang-ga-bo-chay-khi-lam-viec-voi-csgt-c56325974.epi",
+    "sheetUpdatedAt": "2026-10-22",
+    "analysis": "Hành vi manh động, coi thường an toàn giao thông và pháp luật của tài xế khi bị xử lý lỗi vi phạm tốc độ.\nCủng cố niềm tin của cộng đồng vào tinh thần thượng tôn pháp luật không có vùng cấm; nâng cao ý thức chấp hành luật giao thông trong nhân dân.",
+    "tags": [
+      "Dư luận xã hội Việt Nam",
+      "Phần B – Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "f5a8722f06bdbaae3bbd6656d63ea17a43350992473d1476cba26807461f4158"
   }
 ]
