@@ -98,8 +98,57 @@ export function getUniqueValues(articles: NewsArticle[], selector: (article: New
 
 export function sortArticles(articles: NewsArticle[], direction: "newest" | "oldest"): NewsArticle[] {
   return [...articles].sort((a, b) => {
-    const value = (article: NewsArticle) =>
-      article.publishedAt ? new Date(article.publishedAt).getTime() : Date.parse(`${article.sheetUpdatedAt ?? "1970-01-01"}T00:00:00+07:00`);
-    return direction === "newest" ? value(b) - value(a) : value(a) - value(b);
+    const dayKey = (article: NewsArticle) => {
+      const dateValue = article.publishedAt
+        ? getLocalDateKey(article.publishedAt)
+        : article.sheetUpdatedAt ?? article.collectedAt?.slice(0, 10) ?? "1970-01-01";
+      return /^\d{4}-\d{2}-\d{2}$/.test(dateValue) ? dateValue : "1970-01-01";
+    };
+    const dayDifference = dayKey(b).localeCompare(dayKey(a));
+    if (dayDifference !== 0) return direction === "newest" ? dayDifference : -dayDifference;
+    if (a.sourceRow !== undefined && b.sourceRow !== undefined && a.sourceRow !== b.sourceRow) {
+      return direction === "newest" ? b.sourceRow - a.sourceRow : a.sourceRow - b.sourceRow;
+    }
+    const timestamp = (article: NewsArticle) => article.publishedAt
+      ? new Date(article.publishedAt).getTime()
+      : Date.parse(`${article.sheetUpdatedAt ?? "1970-01-01"}T00:00:00+07:00`);
+    if (Number.isNaN(timestamp(a)) || Number.isNaN(timestamp(b))) return 0;
+    return direction === "newest" ? timestamp(b) - timestamp(a) : timestamp(a) - timestamp(b);
   });
+}
+
+export interface ArticleDayGroup {
+  key: string;
+  label: string;
+  articles: NewsArticle[];
+}
+
+export function groupArticlesByDay(articles: NewsArticle[]): ArticleDayGroup[] {
+  const groups = new Map<string, ArticleDayGroup>();
+  for (const article of articles) {
+    const dateValue = article.publishedAt ?? article.sheetUpdatedAt ?? article.collectedAt;
+    const key = dateValue
+      ? article.publishedAt
+        ? getLocalDateKey(article.publishedAt)
+        : dateValue.slice(0, 10)
+      : "unknown";
+    if (!groups.has(key)) {
+      const date = parseSheetDate(key);
+      groups.set(key, {
+        key,
+        label: date
+          ? new Intl.DateTimeFormat("vi-VN", {
+              timeZone: "Asia/Ho_Chi_Minh",
+              weekday: "long",
+              day: "numeric",
+              month: "long",
+              year: "numeric",
+            }).format(date)
+          : "Chưa rõ ngày",
+        articles: [],
+      });
+    }
+    groups.get(key)!.articles.push(article);
+  }
+  return [...groups.values()];
 }

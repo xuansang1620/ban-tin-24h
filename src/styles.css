@@ -146,6 +146,12 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .category-chip.active { border-color: var(--navy); background: var(--navy); color: #fff; }
 
 .article-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.day-groups { display: grid; gap: 27px; }
+.day-group { min-width: 0; }
+.day-group-heading { display: flex; align-items: center; gap: 11px; margin: 0 0 12px; }
+.day-group-heading h3 { margin: 0; font-size: 14px; font-weight: 750; text-transform: capitalize; }
+.day-group-heading > span { color: var(--muted); font-size: 10px; }
+.day-group-heading::after { height: 1px; flex: 1; background: var(--line); content: ""; }
 .article-card { min-width: 0; display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 15px; background: var(--surface); box-shadow: 0 5px 20px rgba(18, 37, 57, .025); scroll-margin-top: 15px; }
 .article-image { width: 100%; aspect-ratio: 16 / 8; object-fit: cover; border-radius: 14px 14px 0 0; }
 .article-content { flex: 1; display: flex; flex-direction: column; padding: 17px; }
@@ -248,8 +254,17 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
   .article-content { padding: 14px; }
   .article-card h3 { margin-top: 10px; font-size: 14px; }
   .article-summary { font-size: 11px; }
-  .article-actions { gap: 5px; }
+  .article-actions { flex-wrap: wrap; gap: 3px; }
   .action-button { min-height: 38px; padding-inline: 7px; }
+  .article-card.has-image { display: grid; grid-template-columns: 86px minmax(0, 1fr); align-items: stretch; }
+  .article-card.has-image .article-image { width: 86px; height: 100%; min-height: 140px; aspect-ratio: auto; border-radius: 14px 0 0 14px; }
+  .article-card.has-image .article-content { min-width: 0; padding: 11px 10px; }
+  .article-card.has-image h3 { margin-top: 8px; font-size: 12px; line-height: 1.4; }
+  .article-card.has-image .article-summary { font-size: 10px; line-height: 1.5; -webkit-line-clamp: 3; }
+  .article-card.has-image .article-actions { gap: 1px; }
+  .article-card.has-image .source-link, .article-card.has-image .no-source { font-size: 9px; }
+  .article-card.has-image .action-button { min-height: 32px; padding-inline: 4px; font-size: 9px; }
+  .article-card.has-image .action-button svg { width: 15px; height: 15px; }
   .list-card { flex-direction: column; }
   .insight-strip { align-items: start; gap: 9px; padding: 12px; }
   .insight-strip > a { align-self: end; font-size: 0; }

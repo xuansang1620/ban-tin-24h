@@ -24,6 +24,7 @@ import {
 } from "lucide-react";
 import {
   formatVietnameseDate,
+  groupArticlesByDay,
   getUniqueValues,
   isSafeHttpUrl,
   matchesDateFilter,
@@ -291,6 +292,7 @@ function App() {
   }
 
   const shownArticles = filteredArticles.slice(0, visibleCount);
+  const articleGroups = groupArticlesByDay(shownArticles);
 
   return (
     <div className="app-shell" style={{ "--text-scale": textScale } as React.CSSProperties}>
@@ -373,7 +375,7 @@ function App() {
           <div className="section-heading news-heading">
             <div>
               <span className="section-kicker">{activeSection === "saved" ? "CÁ NHÂN" : activeSection === "search" ? "TRA CỨU" : "TỔNG HỢP"}</span>
-              <h2>{activeSection === "saved" ? "Tin đã lưu" : "Bản tin hôm nay"} <span className="result-count">{filteredArticles.length}</span></h2>
+              <h2>{activeSection === "saved" ? "Tin đã lưu" : "Bản tin theo ngày"} <span className="result-count">{filteredArticles.length}</span></h2>
             </div>
             <div className="view-toggle" role="group" aria-label="Kiểu hiển thị">
               <button className={viewMode === "cards" ? "selected" : ""} type="button" onClick={() => setViewMode("cards")} aria-label="Hiển thị dạng thẻ"><Menu size={17} /></button>
@@ -405,8 +407,18 @@ function App() {
             <div className="empty-state"><Search size={28} /><h3>{articles.length ? "Không tìm thấy tin phù hợp" : "Chưa có dữ liệu tin"}</h3><p>{articles.length ? "Thử đổi từ khóa hoặc nới bộ lọc ngày, chuyên mục." : "Dữ liệu sẽ xuất hiện sau khi đồng bộ Google Sheets thành công."}</p>{articles.length > 0 && <button type="button" className="secondary-button" onClick={() => { setQuery(""); setCategory("Tất cả"); setRegion("Tất cả"); setSource("Tất cả"); setDateFilter("all"); }}>Xem tất cả tin</button>}</div>
           ) : (
             <>
-              <div className={viewMode === "cards" ? "article-grid" : "article-list"}>
-                {shownArticles.map((article) => <ArticleCard key={article.id} article={article} saved={savedIds.includes(article.id)} list={viewMode === "list"} onSave={() => toggleSaved(article.id)} onShare={() => void shareArticle(article)} />)}
+              <div className="day-groups">
+                {articleGroups.map((group) => (
+                  <section className="day-group" key={group.key} aria-labelledby={`day-${group.key}`}>
+                    <div className="day-group-heading">
+                      <h3 id={`day-${group.key}`}>{group.label}</h3>
+                      <span>{group.articles.length} {group.articles.length === 1 ? "tin" : "tin tức"}</span>
+                    </div>
+                    <div className={viewMode === "cards" ? "article-grid" : "article-list"}>
+                      {group.articles.map((article) => <ArticleCard key={article.id} article={article} saved={savedIds.includes(article.id)} list={viewMode === "list"} onSave={() => toggleSaved(article.id)} onShare={() => void shareArticle(article)} />)}
+                    </div>
+                  </section>
+                ))}
               </div>
               {visibleCount < filteredArticles.length && <button type="button" className="load-more" onClick={() => setVisibleCount((count) => count + 12)}>Xem thêm tin <span>({filteredArticles.length - visibleCount} còn lại)</span></button>}
             </>
@@ -445,9 +457,12 @@ function ArticleCard({ article, saved, list, onSave, onShare }: {
   onSave: () => void;
   onShare: () => void;
 }) {
+  const hasImageUrl = isSafeHttpUrl(article.imageUrl);
+  const [imageFailed, setImageFailed] = useState(false);
+  const showImage = hasImageUrl && !imageFailed;
   return (
-    <article className={`article-card${list ? " list-card" : ""}`} id={`tin-${article.id}`}>
-      {article.imageUrl && isSafeHttpUrl(article.imageUrl) && <img className="article-image" src={article.imageUrl} alt="" loading="lazy" />}
+    <article className={`article-card${list ? " list-card" : ""}${showImage ? " has-image" : ""}`} id={`tin-${article.id}`}>
+      {showImage && <img className="article-image" src={article.imageUrl} alt="" loading="lazy" decoding="async" onError={() => setImageFailed(true)} />}
       <div className="article-content">
         <div className="article-topline"><span className="category-pill">{article.category}</span>{article.region && <span className="region-label">{article.region}</span>}</div>
         <h3>{article.title}</h3>

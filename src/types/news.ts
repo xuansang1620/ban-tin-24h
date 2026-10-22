@@ -8,9 +8,12 @@ export interface NewsArticle {
   source?: string;
   sourceUrl?: string;
   imageUrl?: string;
+  imageLookupAt?: string;
+  imageLookupStatus?: "found" | "not-found";
   publishedAt?: string;
   collectedAt?: string;
   sheetUpdatedAt?: string;
+  sourceRow?: number;
   analysis?: string;
   importance?: number;
   tags: string[];

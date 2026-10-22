@@ -5,6 +5,9 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
   inferRegion,
+  extractOpenGraphImage,
+  isPublicHttpUrl,
+  fetchOpenGraphImage,
   mapRows,
   mergeArticles,
   normalizeHeader,
@@ -37,6 +40,75 @@ test("maps the observed sheet schema without treating its date as publication ti
   assert.equal(mapped.articles[0].sourceUrl, undefined);
   assert.equal(mapped.articles[0].analysis, "Bối cảnh\nTác động");
   assert.equal(mapped.articles[0].importance, 5);
+  assert.equal(mapped.articles[0].sourceRow, 2);
+});
+
+test("maps optional image URL columns without accepting unsafe image links", () => {
+  const imageHeaders = [...headers, "Ảnh minh họa (Image URL)"];
+  const valid = mapRows([imageHeaders, [
+    "22/10/2026", "PHẦN B", "Công nghệ", "Tin có ảnh", "Tóm tắt", "", "",
+    "https://example.com/story", "https://images.example.com/story.jpg",
+  ]]);
+  const unsafe = mapRows([imageHeaders, [
+    "22/10/2026", "PHẦN B", "Công nghệ", "Tin ảnh không an toàn", "Tóm tắt", "", "",
+    "https://example.com/story-2", "javascript:alert(1)",
+  ]]);
+  assert.equal(valid.articles[0].imageUrl, "https://images.example.com/story.jpg");
+  assert.equal(unsafe.articles[0].imageUrl, undefined);
+});
+
+test("extracts a safe Open Graph thumbnail URL from source page metadata", () => {
+  const html = '<html><head><meta content="../thumb.jpg?size=large&amp;v=2" property="og:image"></head></html>';
+  assert.equal(
+    extractOpenGraphImage(html, "https://publisher.example/news/story"),
+    "https://publisher.example/thumb.jpg?size=large&v=2",
+  );
+  assert.equal(
+    extractOpenGraphImage('<meta property="og:image" content="javascript:alert(1)">', "https://publisher.example/story"),
+    undefined,
+  );
+});
+
+test("blocks private metadata addresses and validates public DNS results", async () => {
+  assert.equal(await isPublicHttpUrl("http://127.0.0.1/image.jpg"), false);
+  assert.equal(await isPublicHttpUrl("https://example.com/image.jpg", async () => [{ address: "203.0.113.10" }]), false);
+  assert.equal(await isPublicHttpUrl("https://example.com/image.jpg", async () => [{ address: "93.184.216.34" }]), true);
+});
+
+test("reads Open Graph image metadata from public source pages", async () => {
+  const calls = [];
+  const page = async (url, options) => {
+    calls.push({ url, redirect: options.redirect });
+    return new Response('<meta property="og:image" content="https://images.example.com/story.jpg">', {
+      status: 200,
+      headers: { "content-type": "text/html; charset=utf-8" },
+    });
+  };
+  const image = await fetchOpenGraphImage(
+    "https://publisher.example/story",
+    page,
+    async () => [{ address: "93.184.216.34" }],
+  );
+  assert.equal(calls.length, 1);
+  assert.equal(calls[0].redirect, "manual");
+  assert.deepEqual(image, { status: "found", imageUrl: "https://images.example.com/story.jpg" });
+});
+
+test("does not follow a redirect to a private network address", async () => {
+  let calls = 0;
+  const page = async () => {
+    calls++;
+    return new Response(null, { status: 302, headers: { location: "http://127.0.0.1/latest/meta-data" } });
+  };
+  const result = await fetchOpenGraphImage(
+    "https://publisher.example/story",
+    page,
+    async (hostname) => hostname === "publisher.example"
+      ? [{ address: "93.184.216.34" }]
+      : [{ address: "127.0.0.1" }],
+  );
+  assert.equal(calls, 1);
+  assert.equal(result, undefined);
 });
 
 test("deduplicates repeated rows and infers region only from available text", () => {
