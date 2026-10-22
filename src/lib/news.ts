@@ -115,7 +115,11 @@ export function sortArticles(articles: NewsArticle[], direction: "newest" | "old
     }
     const timestamp = (article: NewsArticle) => article.publishedAt
       ? new Date(article.publishedAt).getTime()
-      : Date.parse(`${article.sheetUpdatedAt ?? "1970-01-01"}T00:00:00+07:00`);
+      : article.sheetUpdatedAt
+        ? Date.parse(`${article.sheetUpdatedAt}T00:00:00+07:00`)
+        : article.collectedAt
+          ? new Date(article.collectedAt).getTime()
+          : 0;
     if (Number.isNaN(timestamp(a)) || Number.isNaN(timestamp(b))) return 0;
     return direction === "newest" ? timestamp(b) - timestamp(a) : timestamp(a) - timestamp(b);
   });

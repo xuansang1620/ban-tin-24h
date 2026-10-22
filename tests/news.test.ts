@@ -45,6 +45,20 @@ describe("news utilities", () => {
     expect(groupArticlesByDay([collected])[0].key).toBe("2026-10-22");
   });
 
+  it("places newly collected rows before same-day legacy records", () => {
+    const collected = {
+      ...article,
+      id: "collected",
+      sheetUpdatedAt: undefined,
+      collectedAt: "2026-10-22T08:02:46.581Z",
+      sourceRow: 42,
+    };
+    expect(sortArticles([article, collected], "newest").map((item) => item.id)).toEqual([
+      "collected",
+      "1",
+    ]);
+  });
+
   it("accepts only HTTP(S) URLs", () => {
     expect(isSafeHttpUrl("https://example.com/story")).toBe(true);
     expect(isSafeHttpUrl("javascript:alert(1)")).toBe(false);
