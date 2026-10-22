@@ -126,14 +126,15 @@ export function mapRows(rows) {
     const sheetUpdatedAt = parseSheetDate(get(columns.date));
     const category = get(columns.category) || "Chưa phân loại";
     const sourceUrl = safeSourceUrl(get(columns.sourceUrl));
-    const dedupeKey = sourceUrl
-      ? `url:${sourceUrl.toLowerCase()}`
-      : `title:${normalizeHeader(title)}|${sheetUpdatedAt ?? "undated"}`;
-    if (seen.has(dedupeKey)) {
+    const normalizedTitle = normalizeHeader(title);
+    const titleDateKey = `title:${normalizedTitle}|${sheetUpdatedAt ?? "undated"}`;
+    const sourceTitleKey = sourceUrl ? `source:${sourceUrl.toLowerCase()}|title:${normalizedTitle}` : undefined;
+    if (seen.has(titleDateKey) || (sourceTitleKey && seen.has(sourceTitleKey))) {
       duplicates++;
       continue;
     }
-    seen.add(dedupeKey);
+    seen.add(titleDateKey);
+    if (sourceTitleKey) seen.add(sourceTitleKey);
 
     const section = get(columns.section) || undefined;
     const summary = get(columns.summary);
@@ -141,7 +142,7 @@ export function mapRows(rows) {
     const impact = get(columns.impact);
     const region = inferRegion(`${title} ${summary} ${category} ${section ?? ""}`);
     const article = {
-      id: stableHash(dedupeKey),
+      id: stableHash(titleDateKey),
       title,
       summary,
       category,
@@ -159,6 +160,22 @@ export function mapRows(rows) {
     articles.push(article);
   }
   return { articles, inputRows: rows.length - 1, rejectedRows, duplicates };
+}
+
+function articleTitleDateKey(article) {
+  if (!article.title) return undefined;
+  return `title:${normalizeHeader(article.title)}|${article.sheetUpdatedAt ?? "undated"}`;
+}
+
+export function mergeArticles(existing, incoming) {
+  const incomingKeys = new Set(incoming.map(articleTitleDateKey).filter(Boolean));
+  const byId = new Map();
+  for (const article of existing) {
+    if (incomingKeys.has(articleTitleDateKey(article))) continue;
+    byId.set(article.id, article);
+  }
+  for (const article of incoming) byId.set(article.id, article);
+  return [...byId.values()];
 }
 
 async function fetchRows() {
@@ -248,9 +265,7 @@ export async function synchronizeNews({ fetchData = fetchRows, now = new Date() 
     || previousMetadata?.validRows !== mapped.articles.length
     || previousMetadata?.duplicates !== mapped.duplicates
     || previousMetadata?.rejectedRows !== mapped.rejectedRows;
-  const byId = new Map();
-  for (const article of [...existing, ...mapped.articles]) byId.set(article.id, article);
-  const allArticles = [...byId.values()];
+  const allArticles = mergeArticles(existing, mapped.articles);
   const byMonth = new Map();
   for (const article of allArticles) {
     const month = (article.publishedAt ?? article.sheetUpdatedAt ?? article.collectedAt ?? "").slice(0, 7);

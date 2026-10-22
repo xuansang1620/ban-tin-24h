@@ -6,6 +6,7 @@ import { fileURLToPath } from "node:url";
 import {
   inferRegion,
   mapRows,
+  mergeArticles,
   normalizeHeader,
   parseSheetDate,
   safeSourceUrl,
@@ -48,6 +49,39 @@ test("deduplicates repeated rows and infers region only from available text", ()
   assert.equal(mapped.duplicates, 1);
   assert.equal(mapped.articles[0].region, "Việt Nam");
   assert.equal(inferRegion("Một bài viết không nêu khu vực nào"), undefined);
+});
+
+test("keeps distinct headlines that share a source URL", () => {
+  const first = [
+    "22/10/2026", "PHẦN B", "Xã hội", "Tiêu đề thứ nhất",
+    "Tóm tắt thứ nhất", "", "", "https://example.com/daily-roundup",
+  ];
+  const second = [
+    "22/10/2026", "PHẦN B", "Xã hội", "Tiêu đề thứ hai",
+    "Tóm tắt thứ hai", "", "", "https://example.com/daily-roundup",
+  ];
+  const mapped = mapRows([headers, first, second]);
+  assert.equal(mapped.articles.length, 2);
+  assert.equal(mapped.duplicates, 0);
+});
+
+test("adding source URLs updates legacy records instead of creating duplicates", () => {
+  const legacy = {
+    id: "legacy",
+    title: "Một tin thật",
+    sheetUpdatedAt: "2026-10-22",
+    tags: [],
+    language: "vi",
+  };
+  const updated = {
+    ...legacy,
+    id: "url-based-id",
+    sourceUrl: "https://example.com/story",
+  };
+  const merged = mergeArticles([legacy, { ...legacy }], [updated]);
+  assert.equal(merged.length, 1);
+  assert.equal(merged[0].id, "url-based-id");
+  assert.equal(merged[0].sourceUrl, "https://example.com/story");
 });
 
 test("rejects empty sheets and schemas with no title field", () => {
