@@ -1769,5 +1769,355 @@
     ],
     "language": "vi",
     "contentHash": "7eaac27ad324c86825b802c7902ebe6a349ab1a85f971f9b612799c7949fbf91"
+  },
+  {
+    "id": "28deaf4018e39385cb1c7b5390aaf5a585a20862123cba92bf8cb5c7bf01df38",
+    "title": "Trump: Mỹ \"không đàm phán\" với Iran, \"sẽ có chuyện khá sớm\"; NYT: Mỹ-Israel lên kế hoạch tấn công mới sau bầu cử giữa kỳ",
+    "summary": "Trump tối 21/10 (giờ Mỹ) sau rally Nam Carolina: \"We are not negotiating\" với Iran; \"something one way or the other\" sẽ xảy ra \"fairly soon\", nhiều khả năng sau bầu cử giữa kỳ 3/11. NYT dẫn quan chức Mỹ: Mỹ-Israel đã xây dựng kế hoạch tấn công mới vào Iran sau bầu cử, mục tiêu gồm cơ sở năng lượng, hạt nhân, kho tên lửa/drone; chưa chắc Trump phê chuẩn. Cố vấn Chủ tịch Quốc hội Iran cảnh báo hai bên gần \"giờ G\"; có vụ nổ gần eo Hormuz; Ngoại trưởng Iran nói vẫn mở cửa ngoại giao nếu Mỹ xây dựng lòng tin.",
+    "category": "Quốc tế",
+    "section": "A - TOP 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.trtworld.com/article/0e242f51e01c/amp",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 69,
+    "analysis": "Bối cảnh: chiến tranh Mỹ-Israel-Iran từ 28/2; MoU tháng 6 qua trung gian Pakistan/Qatar đình trệ. Vì sao quan trọng: phát ngôn trực tiếp của Trump + kế hoạch quân sự cụ thể đẩy rủi ro leo thang lên mức cao nhất nhiều tuần.\nTác động: giá dầu duy trì >110 USD; rủi ro gián đoạn Hormuz; thị trường phòng thủ. Cơ hội: phe mua năng lượng. Rủi ro: xung đột lan rộng sau 3/11.",
+    "tags": [
+      "Quốc tế",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "282061ce0fa785f36193a2c2882cb9150631edd875bc810ef11f5472f82adb0d"
+  },
+  {
+    "id": "848a04dcf6a43fa76743d855b90bfc42d835e6b6e9dace51bfe6d00776cefeb1",
+    "title": "DeepSeek chốt vòng gọi vốn ~15 tỷ USD ngay sau lệnh cấm của Mỹ",
+    "summary": "Reuters/Bloomberg 22/10: DeepSeek huy động ~100 tỷ NDT (~15 tỷ USD), gấp đôi mục tiêu ban đầu 50 tỷ NDT; định giá trước vốn 500 tỷ NDT (~75 tỷ USD). Nhà đầu tư lớn: CATL, Tencent; thêm Midea, Meituan, Geely, GigaDevice, Boyu, CPE, Legend, IDG; >15 nhà đầu tư. Chỉ 2 ngày sau khi Mỹ yêu cầu cơ quan liên bang gỡ bỏ công nghệ DeepSeek. Hồi tháng 6 gọi >7 tỷ USD ở định giá 50 tỷ USD; đang chuẩn bị IPO STAR Market với CITIC.",
+    "category": "Công nghệ",
+    "section": "A - TOP 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 70,
+    "analysis": "Bối cảnh: Mỹ siết công nghệ AI Trung Quốc; DeepSeek đẩy mạnh hạ tầng và mô hình mở. Vì sao quan trọng: vòng gọi vốn AI lớn nhất Trung Quốc, cho thấy dòng vốn nhà nước + tập đoàn đặt cược vào cuộc đua với Mỹ bất chấp cấm vận.\nTác động: tăng tốc cạnh tranh mô hình mở toàn cầu; sức ép lên các lab Mỹ. Rủi ro: căng thẳng công nghệ Mỹ-Trung leo thang; định giá AI bị soi.",
+    "tags": [
+      "Công nghệ",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "cc46f7c3c3dab49f50603ce44d40317ad46e416745dcabda39f6d69ea69940d6"
+  },
+  {
+    "id": "231f5597e00434df568f586e97502426e57c277cae44f3ebd9d9e943a81a0179",
+    "title": "Australia: Tòa án liên bang buộc Apple mở iPhone cho kho ứng dụng đối thủ từ 1/3/2027",
+    "summary": "Ngày 22/10, Thẩm phán Jonathan Beach (Tòa án Liên bang Australia) ra phán quyết trong vụ Epic kiện Apple: Apple phải cho người dùng tài khoản Apple vùng Australia cài app từ kho ứng dụng đối thủ và website nhà phát triển, dùng thanh toán ngoài, từ 12h trưa 1/3/2027 (giờ Melbourne). Phí Apple bị giới hạn; app ngoài App Store vẫn phải qua quét an ninh và công chứng. Fortnite phải được đưa trở lại App Store Australia. Apple sẽ kháng cáo và xin hoãn.",
+    "category": "Công nghệ",
+    "section": "A - TOP 5",
+    "sourceUrl": "https://www.ithinkdiff.com/apple-ordered-rival-app-stores-iphone-australia/",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 71,
+    "analysis": "Bối cảnh: tháng 8/2025 tòa đã kết luận Apple lạm dụng vị thế thị trường. Vì sao quan trọng: biện pháp mạnh hơn cả DMA của EU; tạo tiền lệ cho các vụ kiện tại EU, Nhật, Mỹ, Anh.\nTác động: nhà phát triển giảm được phí 15-30%; người dùng có thêm lựa chọn. Rủi ro: Apple kháng cáo kéo dài; tranh cãi về an ninh khi sideload.",
+    "tags": [
+      "Công nghệ",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "f0f7ad4ffd2893d4b0b7fce0b1263ecaecd36cf93ccf03de687d9bc49183cd8e"
+  },
+  {
+    "id": "87635385d4fd34afbcde070c34dc2ec92e795875142072eb0e8ceecc07ac2b4d",
+    "title": "eMudhra rút khỏi mảng chứng chỉ SSL/TLS toàn cầu sau sự cố khóa CA yếu",
+    "summary": "Hội đồng quản trị eMudhra (Ấn Độ) ngày 22/10 quyết định rút khỏi mảng chứng chỉ xác thực website toàn cầu (chiếm ~1% doanh thu) sau khi 8 chứng chỉ CA trung gian bị phát hiện khóa riêng yếu đến mức đoán được (một khóa chỉ là số \"4\"). Chrome, Mozilla, Apple, Microsoft đã chặn; Mozilla gỡ root khỏi danh sách tin cậy (20/10), Chrome gỡ ngày 27/10. Cổ phiếu eMudhra -20%. CERT-In Ấn Độ ra khuyến cáo CIAD-2026-0050.",
+    "category": "An ninh mạng",
+    "section": "A - TOP 5",
+    "sourceUrl": "https://www.businesstoday.in/technology/news/story/emudhra-to-exit-global-ssltls-certificate-business-after-security-incident-563155-2026-10-22",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 72,
+    "analysis": "Bối cảnh: nhà nghiên cứu \"Wayne\" báo cáo ngày 17/10; lỗ hổng tồn tại ~18 tháng qua 2 cuộc kiểm toán độc lập. Vì sao quan trọng: CA là nền tảng niềm tin Internet; khóa CA bị lộ cho phép giả mạo chứng chỉ HTTPS của bất kỳ website nào.\nTác động: doanh nghiệp phải rà soát, thay chứng chỉ; siết kiểm toán CA toàn cầu. Rủi ro: mất niềm tin vào CA nhỏ; chi phí chuyển đổi.",
+    "tags": [
+      "An ninh mạng",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "c31bf150e10884a04a1e1042fd10bd0940d183900725f12a61affdde60009bf0"
+  },
+  {
+    "id": "7d1a4a398041a5f1344fbe0bdb80471776c7c4bd173d59a9f2fef1233c4a5e1b",
+    "title": "Phố Wall đảo chiều giữa phiên: S&P 500 -1,4%, Bitcoin -3,8% vì lo ngại chi phí AI",
+    "summary": "Giữa phiên 22/10 (giờ Mỹ): S&P 500 ~7.658 (-1,4%), Nasdaq futures -1,7%, SOXX -3%; Lam Research -7% sau dự báo thất vọng; Tesla -5%, Meta -2% trước giờ mở cửa. Bitcoin ~81.450 USD (-3,8%), vàng futures ~4.075 USD (-2%), WTI ~99,5 USD (+2%), lợi suất 10 năm ~5,05%. Nguyên nhân chính: nhà đầu tư lo ngại ai sẽ trả tiền cho cuộc đua hạ tầng AI, không phải nhu cầu AI yếu.",
+    "category": "Kinh tế",
+    "section": "A - TOP 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-thursday-october-22-2026-12187570",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 73,
+    "analysis": "Bối cảnh: hôm trước Phố Wall vừa tăng nhờ báo cáo công nghệ. Vì sao quan trọng: cú đảo chiều cho thấy thị trường chuyển từ \"AI tăng trưởng\" sang \"AI ai trả tiền\", đúng trước thềm họp Fed 27-28/10.\nTác động: áp lực chốt lời cổ phiếu AI/chip; dòng tiền vào trái phiếu. Cơ hội: mua khi điều chỉnh nếu báo cáo Big Tech tốt. Rủi ro: biến động kéo dài đến sau bầu cử giữa kỳ.",
+    "tags": [
+      "Kinh tế",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "5def185def11112331d4c169eea35a27120e1e76c2364650f5572105a8e1c876"
+  },
+  {
+    "id": "9ebb7eceaa82ef6a7f097e7617fbfa27baccaf2e375e00c91b405cdbf963c151",
+    "title": "Dự trữ dầu nổi của Iran cạn kiệt hoàn toàn, mất nguồn thu then chốt",
+    "summary": "WSJ dẫn Kpler ngày 22/10: dự trữ dầu Iran trên tàu biển từng đạt đỉnh ~90 triệu thùng, đến 5/10 còn dưới 1 triệu thùng và nay đã cạn kiệt. \"Không còn dầu để giao cho Trung Quốc\". Doanh thu bán dầu chiếm khoảng 30-40% thu ngân sách Iran; tiền thanh toán của Trung Quốc có thể mất 2 tháng mới về.",
+    "category": "Kinh tế",
+    "section": "B - TỔNG HỢP",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.jpost.com/middle-east/iran-news/article-912528",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 74,
+    "analysis": "Bối cảnh: Mỹ phong tỏa/phá vỡ chuỗi xuất khẩu dầu lậu của Iran; IRGC thừa nhận 7 tàu bị tấn công quanh Hormuz. Vì sao quan trọng: đòn kinh tế mạnh nhất vào Tehran kể từ đầu chiến tranh.\nTác động: sức ép buộc Iran đàm phán hoặc bất ổn nội bộ; giá dầu được hỗ trợ ở mức cao. Rủi ro: Iran leo thang quân sự để đáp trả.",
+    "tags": [
+      "Kinh tế",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "6a0789a5235bc9a027cc467733ec51e88db8ed7822a638001c4565066aa9abd3"
+  },
+  {
+    "id": "5049a6e201fe755725f45426b97805327d084659630ee8070809a3def8c9f89d",
+    "title": "OpenAI gấp rút gọi 30 tỷ USD, định giá vượt 1,4 nghìn tỷ USD trước IPO của Anthropic",
+    "summary": "Reuters (20/10): OpenAI đàm phán gọi ~30 tỷ USD, định giá sau vòng vượt 1,4 nghìn tỷ USD (so với 852 tỷ USD hồi tháng 3 sau vòng 122 tỷ USD). SoftBank, MGX (Abu Dhabi) tham gia. OpenAI báo doanh thu niên hóa 50 tỷ USD, kỳ vọng 70 tỷ USD cuối năm nhờ GPT-6 Astra. Anthropic IPO giữa tháng 11; doanh thu Q3 16,8 tỷ USD (từ 11,6 tỷ USD Q2), niên hóa ~65 tỷ USD tính đến tháng 7.",
+    "category": "Kinh tế",
+    "section": "B - TỔNG HỢP",
+    "sourceUrl": "https://www.tradingkey.com/analysis/stocks/us-stocks/262224881-openai-vies-anthropic-ipo-30-billion-round-tradingkey",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 75,
+    "analysis": "Bối cảnh: hai lab AI cạnh tranh cùng nhóm nhà đầu tư (quỹ quốc gia, long-only funds). Vì sao quan trọng: cuộc đua vốn nghìn tỷ định hình lại định giá toàn ngành AI.\nTác động: dòng tiền kỷ lục vào AI; sức ép chứng minh doanh thu theo kịp chi tiêu hạ tầng. Rủi ro: định giá bong bóng nếu tăng trưởng chậm lại.",
+    "tags": [
+      "Kinh tế",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "f998c939fec46dc0f81e3bc080828f0e506881874b85258ebbc3187074325a44"
+  },
+  {
+    "id": "3262291d41e8fc13583946651034aa70884737241afcb5ba5aa8b4487ce64b79",
+    "title": "Quốc hội 22/10: đề xuất bảng giá đất điều chỉnh 3 năm/lần, siết bán lại nhà ở xã hội",
+    "summary": "Ngày 22/10, Quốc hội nghe tờ trình và thảo luận tổ về 3 dự án: Luật Đất đai (sửa đổi), Luật Nhà ở (sửa đổi), Luật Kinh doanh BĐS (sửa đổi). Chính phủ đề xuất bảng giá đất điều chỉnh 3 năm một lần thay vì hằng năm; siết điều kiện bán lại nhà ở xã hội sau 5 năm thanh toán.",
+    "category": "Kinh tế",
+    "section": "B - TỔNG HỢP",
+    "region": "Việt Nam",
+    "sourceUrl": "https://nhandan.vn/video-thoi-su-24h-ngay-22102026-ky-hop-thu-2-quoc-hoi-khoa-xvi-quoc-hoi-thao-luan-ve-3-du-an-luat-quan-trong-lien-quan-den-dat-dai-va-nha-o-post997384.html",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 76,
+    "analysis": "Bối cảnh: kỳ họp thứ 2, Quốc hội khóa XVI; định giá đất là điểm nghẽn lớn của thị trường BĐS. Vì sao quan trọng: chu kỳ 3 năm giảm gánh nặng hành chính nhưng có thể khiến giá đất lạc hậu so với thị trường.\nTác động: doanh nghiệp BĐS dễ dự báo chi phí đất đai hơn; siết đầu cơ nhà ở xã hội. Rủi ro: tranh cãi về tính kịp thời của bảng giá.",
+    "tags": [
+      "Kinh tế",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "fa36aafc3f0a9695c25a85d098bfe35ceea471bb26f3d0722e9191c27da9810a"
+  },
+  {
+    "id": "986c9283d785ab87df6c1f799b5549ec185bfaffcb2d499c0fe5ae266543c4a5",
+    "title": "Tồn kho dầu thô Mỹ giảm mạnh 3,06 triệu thùng, hỗ trợ giá dầu",
+    "summary": "EIA 22/10: tồn kho dầu thô Mỹ giảm 3,06 triệu thùng xuống 412,5 triệu thùng tuần trước, mạnh hơn nhiều so với dự báo giảm 820.000 thùng (Reuters poll). Cùng lúc Houthi tấn công Saudi Arabia và IRGC tấn công tàu quanh Hormuz đẩy Brent lên ~111,6 USD, WTI ~99,4 USD.",
+    "category": "Kinh tế",
+    "section": "B - TỔNG HỢP",
+    "region": "Quốc tế",
+    "sourceUrl": "https://985theriver.com/2026/10/21/oil-rises-as-us-orders-diplomats-to-leave-saudi-arabia-amid-escalating-tensions/",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 77,
+    "analysis": "Bối cảnh: nguồn cung thắt chặt cả từ tồn kho lẫn địa chính trị. Vì sao quan trọng: tồn kho giảm sâu củng cố đà tăng của dầu bất chấp lo ngại nhu cầu.\nTác động: áp lực lạm phát năng lượng toàn cầu; ngân sách các nước nhập khẩu dầu căng thẳng. Rủi ro: giá xăng dầu trong nước chịu sức ép tăng.",
+    "tags": [
+      "Kinh tế",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "b51e2d6c0f5e762fc50a0bcbadb77914909c25938268a568762c321d8d5853a9"
+  },
+  {
+    "id": "f395b93d46be5bdf5bc270f0bf19dd6f8e099116127bf756f0b5b33aabd1baf8",
+    "title": "Chỉ đạo điều hành của Chính phủ ngày 22/10: xử lý dứt điểm dự án tồn đọng, số hóa dữ liệu đất đai",
+    "summary": "Báo Chính phủ 22/10: xử lý dứt điểm dự án tồn đọng, tài sản công dôi dư; số hóa, làm sạch dữ liệu đất đai đồng bộ dữ liệu quốc gia; Bí thư Thành ủy/Chủ tịch UBND TP chịu trách nhiệm theo NQ 312. Đẩy nhanh cấp Giấy chứng nhận QSDĐ; hoàn thành khám sức khỏe toàn dân 2026 gắn Sổ sức khỏe điện tử; sắp xếp đơn vị sự nghiệp y tế, giáo dục nghề nghiệp trong tháng 10/2026; tổ chức tốt Ngày Văn hóa Việt Nam 24/11.",
+    "category": "Xã hội",
+    "section": "B - TỔNG HỢP",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-22-10-2026-102261022173557587.htm",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 78,
+    "analysis": "Bối cảnh: triển khai các nghị quyết về sắp xếp bộ máy và chuyển đổi số. Vì sao quan trọng: lần đầu gắn trách nhiệm cá nhân người đứng đầu địa phương với số hóa đất đai.\nTác động: tháo gỡ điểm nghẽn đất đai, cấp sổ đỏ nhanh hơn; an sinh xã hội được đẩy mạnh. Rủi ro: áp lực tiến độ lớn với cấp xã.",
+    "tags": [
+      "Xã hội",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "d36ffdb7bd582a4279b3342df0e9e7a489aaa8dbd80072867502c58b35f17416"
+  },
+  {
+    "id": "04172a8dbda1d7ed6c8cf31a30f3c43b2f33b7af1ab0de69ed6b520d142529f7",
+    "title": "Cáo trạng Xôi Lạc TV: 74 bị can, thu lợi bất chính 133,7 tỷ đồng",
+    "summary": "VKSND Hưng Yên ban hành cáo trạng truy tố 74 người về xâm phạm quyền tác giả, tổ chức đánh bạc, đánh bạc, truyền bá văn hóa phẩm đồi trụy. Nhóm vận hành Xôi Lạc TV (dự án 90 Phút, Cakhia) bị cáo buộc thu lợi bất chính 133,7 tỷ đồng từ quảng cáo cá cược (2,7 triệu USDT ~69 tỷ + 2,5 triệu USDT ~64,7 tỷ). Ngoại hạng Anh ước thiệt hại tối thiểu 122 tỷ; K+ tối thiểu 2.207 tỷ; tổng thiệt hại ước tính >2.329 tỷ. 1.529 bản ghi hình trận đấu bị phát lậu.",
+    "category": "Xã hội",
+    "section": "B - TỔNG HỢP",
+    "sourceUrl": "https://vnexpress.net/vu-xoi-lac-tv-uoc-tinh-gay-thiet-hai-hon-2-300-ty-dong-5135479.html",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 79,
+    "analysis": "Bối cảnh: đường dây hoạt động từ 2018 qua nhiều tên miền (90PhutTV, VeboTV, CakhiaTV...). Vì sao quan trọng: vụ án bản quyền thể thao lớn nhất Việt Nam, phơi bày mô hình kiếm tiền từ quảng cáo cá cược của web lậu.\nTác động: răn đe web lậu; bảo vệ bản quyền truyền hình thể thao. Rủi ro: các web lậu đổi tên miền tiếp tục hoạt động.",
+    "tags": [
+      "Xã hội",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "47dcad7f0055a3d225b51f4d9bfb7eaadc1c01cc38f183900e85d8b505f6e056"
+  },
+  {
+    "id": "702ce1627fed5d42f040ad569e01f887039d8910708a9c992ca8a71bb6e03651",
+    "title": "Phát động cuộc thi trực tuyến \"Tìm hiểu về chuyển đổi số quốc gia\" từ 22/10",
+    "summary": "Sáng 22/10, Ban Tuyên giáo Trung ương tổ chức Hội nghị báo cáo viên tháng 10/2026 (hơn 2.000 điểm cầu, 34 tỉnh thành) và phát động cuộc thi trực tuyến \"Tìm hiểu về chuyển đổi số quốc gia\": đợt 1 từ 22/10-8/11 trên baocaovien.vn; đợt 2 từ 9/11-22/11 trên ứng dụng Tuyên giáo. Hội nghị thông tin 3 chuyên đề: bộ SGK thống nhất toàn quốc từ 2028-2029; loại trừ sốt rét vào 2030; tháo gỡ điểm nghẽn chuyển đổi số.",
+    "category": "Xã hội",
+    "section": "B - TỔNG HỢP",
+    "sourceUrl": "https://baomoi.com/tap-trung-tuyen-truyen-cac-chu-truong-chinh-sach-moi-c56328173.epi",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 80,
+    "analysis": "Bối cảnh: đẩy mạnh kỹ năng số toàn dân. Vì sao quan trọng: cuộc thi quy mô quốc gia đầu tiên về chuyển đổi số do Ban Tuyên giáo phát động.\nTác động: nâng nhận thức số cho cán bộ, đảng viên và người dân. Rủi ro: hiệu quả phụ thuộc vào độ lan tỏa thực tế.",
+    "tags": [
+      "Xã hội",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "b3befdd086d474e1a54bb530b00d99e5d430fadb93db8da856df90fb5315d33d"
+  },
+  {
+    "id": "72c24757f06b723d35202c645628368833a96e79aef053f2da8cccdbb1ba008a",
+    "title": "eMudhra: 8 khóa CA trung gian yếu đến mức một khóa chỉ là số \"4\"",
+    "summary": "Chi tiết kỹ thuật 22/10: 8 chứng chỉ CA trung gian của eMudhra (6 TLS + 2 ký mã) có khóa riêng P-384 chỉ mang giá trị 1 byte (4, 56, 66, 115, 155, 156, 230, 237) — nhà nghiên cứu Scott Helme khôi phục toàn bộ trong chưa đầy 1 giây từ chứng chỉ công khai. Chrome chặn trong ngày 17/10, Mozilla qua OneCRL, Apple 19/10, Microsoft 20/10. Lỗ hổng tồn tại ~18 tháng dù qua 2 cuộc kiểm toán. mitmproxy bổ sung tùy chọn --emudhra (HN 518 điểm/122 bình luận).",
+    "category": "Công nghệ",
+    "section": "B - TỔNG HỢP",
+    "sourceUrl": "https://english.mathrubhumi.com/technology/emudhra-certificate-controversy-weak-keys-browser-block-stock-crash-yp83ktuj",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 81,
+    "analysis": "Bối cảnh: sự cố bị phát hiện khi researcher \"Wayne\" ký thông điệp bằng các khóa bị lộ. Vì sao quan trọng: minh chứng thất bại kiểm soát căn bản của một CA được tin cậy toàn cầu.\nTác động: cộng đồng bảo mật soi lại quy trình ceremony sinh khóa của mọi CA; công cụ như mitmproxy phải cập nhật. Rủi ro: còn CA nào khác có lỗi tương tự?",
+    "tags": [
+      "Công nghệ",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "918926836982562d3355feaa22ea6c76b2e6639bff505aff931278b77ed63bd4"
+  },
+  {
+    "id": "4be62bd33432be272758a536b1a280686c9561430d69739d4704973363f2bce8",
+    "title": "Nintendo Switch 2 bị jailbreak lần đầu nhờ AI (OpenAI Codex)",
+    "summary": "Ngày 22/10, nhà nghiên cứu Sammy Hajhamid (pepsipu) công bố ns2jb — jailbreak phần mềm đầu tiên cho Switch 2 sau ~16 tháng ra mắt. Khai thác lỗ hổng tràn số nguyên 32-bit trong trình thông dịch game SmileBASIC 4 (Switch 1, giá 25 USD) rồi leo thang qua lỗi tràn bộ đệm ở module filesystem; demo mod Mario Kart World. Codex được dùng để dò lỗi trong ~2 tuần. Jailbreak dạng tethered: mất hiệu lực khi tắt máy. Nintendo nhiều khả năng gỡ SmileBASIC 4 khỏi eShop.",
+    "category": "Công nghệ",
+    "section": "B - TỔNG HỢP",
+    "sourceUrl": "https://www.polygon.com/nintendo-switch-2-ai-jailbreak-mario-kart-world/",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 82,
+    "analysis": "Bối cảnh: lớp tương thích ngược trở thành bề mặt tấn công. Vì sao quan trọng: ví dụ điển hình AI làm giảm chi phí nghiên cứu lỗ hổng trên nền tảng đóng.\nTác động: Nintendo vá trong bản cập nhật tới; nhà phát triển game yêu cầu đảm bảo an ninh. Rủi ro: mở đường cho homebrew và tiềm ẩn vi phạm bản quyền.",
+    "tags": [
+      "Công nghệ",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "075b2541335a8622d8d751b9c054d3d83672d02bb66ec805bce7c2bbee04195a"
+  },
+  {
+    "id": "4b33e9eaa458d61d398b3440d0ccd90a7445df7e295089eed715fab593e88c63",
+    "title": "Claude Duet gây tranh luận sôi nổi trên Hacker News (431 điểm/393 bình luận)",
+    "summary": "Thread về Claude Duet trên HN đạt 431 điểm, 393 bình luận sau 16 giờ. Cộng đồng tranh luận về agent \"luôn bật\" chạy nền của Anthropic (Opus 5.5, đợi duyệt tại Mỹ cho gói Pro/Max): phe ủng hộ thấy đây là bước tiến tự động hóa công việc văn phòng; phe phản đối lo ngại quyền riêng tư, agent hành động khi điện thoại tắt, và 6.000+ connector là bề mặt tấn công mới.",
+    "category": "Công nghệ",
+    "section": "B - TỔNG HỢP",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.timesnownews.com/technology-science/anthropic-introduces-new-claude-duet-ai-agent-that-can-work-even-when-your-phone-is-off-article-156382347/amp",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 83,
+    "analysis": "Bối cảnh: Anthropic, OpenAI, Meta (Muse) cùng đua agent tự chủ. Vì sao quan trọng: phản ứng của cộng đồng kỹ thuật là thước đo sớm cho mức độ chấp nhận agent nền.\nTác động: thúc đẩy chuẩn mực guardrail và phân quyền cho agent. Rủi ro: sự cố bảo mật đầu tiên của agent nền sẽ định hình quy định.",
+    "tags": [
+      "Công nghệ",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "5dbb3d66fc475fcd9f559ced169e2fd41c22d288507801b3ee0e052029797b99"
+  },
+  {
+    "id": "7e25781bf92bd56403fe34f0815c1d52f31243d916c216026b96259eaeb4fe80",
+    "title": "Google Cloud và NVIDIA đưa hạ tầng Vera Rubin vào khai thác đại trà tháng 11",
+    "summary": "Ngày 21/10, Google Cloud và NVIDIA công bố các máy ảo A5X dùng chip Vera Rubin sẽ generally available trong tháng 11; Google Cloud dự kiến mở rộng tới 960.000 GPU Rubin trên nhiều site. Động thái nối tiếp việc mở TorchTPU/TorchNeuron thách thức CUDA.",
+    "category": "Công nghệ",
+    "section": "B - TỔNG HỢP",
+    "sourceUrl": "https://news-insight-ai.web.app/en/news/20261022_ai-news-daily",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 84,
+    "analysis": "Bối cảnh: nhu cầu compute AI vượt cung; các hyperscaler đa dạng hóa khỏi CUDA. Vì sao quan trọng: Rubin là thế hệ GPU tiếp theo của NVIDIA, quyết định cán cân sức mạnh hạ tầng AI 2027.\nTác động: giảm nghẽn GPU cho lab AI; cạnh tranh giá thuê compute. Rủi ro: chi phí đầu tư khổng lồ đè nặng lên dòng tiền Big Tech.",
+    "tags": [
+      "Công nghệ",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "5a62af90b4a18617db1639a1b0ce6349ee6ec5aa4e2a8c9d9350b5563cd0ab95"
+  },
+  {
+    "id": "250dcd6ba1e1638b796fb741a4e10c1b310f2872b0da0c6d78110bdc2a3e2095",
+    "title": "Xu hướng: sụp đổ niềm tin vào CA eMudhra lan khắp cộng đồng bảo mật",
+    "summary": "Nền tảng: Hacker News + báo công nghệ. Nội dung: 8 khóa CA trung gian eMudhra yếu đến mức đoán được; trình duyệt đồng loạt chặn; eMudhra rút khỏi mảng TLS toàn cầu. Like/Reactions: điểm HN — 1.171 (20/10) + 518 (thread mitmproxy 22/10) + 179 (thread CVE NIST 22/10). Comments/Replies: 457 + 122 + 46 bình luận. Shares/Reposts: N/A (HN không công khai). Số bài đăng/cộng đồng độc lập: 3+ thread HN trong 3 ngày + báo chí quốc tế. Thời điểm ghi nhận: 22/10/2026 22:15 VN. Điểm HOT: Chưa đủ dữ liệu (thiếu shares và tốc độ tăng trưởng 24h).",
+    "category": "Hot Trends",
+    "section": "B - TỔNG HỢP",
+    "region": "Quốc tế",
+    "sourceUrl": "https://dailypioneer.com/technology/emudhra-certificates-carried-keys-anyone-could-guess-forcing-a-global-cleanup",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 85,
+    "analysis": "Bối cảnh: CA là nền tảng niềm tin HTTPS; sự kiện CA sụp đổ rất hiếm. Vì sao HOT: đe dọa nền tảng Internet toàn cầu; tranh luận gay gắt về kiểm toán CA.\nTác động: làn sóng rà soát CA toàn cầu; công cụ bảo mật (mitmproxy) cập nhật khẩn. Quan điểm nổi bật: \"lỗi căn bản không thể tha thứ với một CA\"; khen phản ứng chặn nhanh của trình duyệt.",
+    "tags": [
+      "Hot Trends",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "7a9030d0ca786ee1db8a7971089b5de0c7638d74fb99527d767ba8a8c68d414e"
+  },
+  {
+    "id": "968509ec139be22dddd0e02b60b81f5a0fd3845015509998cd10ac59515b6f41",
+    "title": "Xu hướng: jailbreak Switch 2 bằng AI gây sốt cộng đồng game và AI",
+    "summary": "Nền tảng: Hacker News + X. Nội dung: ns2jb — jailbreak phần mềm đầu tiên cho Switch 2, được hỗ trợ bởi OpenAI Codex, qua game SmileBASIC 4. Like/Reactions: HN 112 điểm/32 bình luận; X: bài gốc ~740.000 lượt xem/7.400 likes, bài đăng lại của CentroLeaks 6.800 likes (theo AI News Daily 22/10). Shares/Reposts: N/A (số repost không công khai đầy đủ). Số bài đăng/cộng đồng độc lập: thread HN + nhiều báo game (Polygon, Kotaku, Gameranx) + X. Thời điểm ghi nhận: 22/10/2026 22:15 VN. Điểm HOT: Chưa đủ dữ liệu (thiếu dữ liệu tăng trưởng và repost đầy đủ).",
+    "category": "Hot Trends",
+    "section": "B - TỔNG HỢP",
+    "sourceUrl": "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 86,
+    "analysis": "Bối cảnh: lần đầu Switch 2 bị bẻ khóa sau ~16 tháng ra mắt; yếu tố \"AI hack console\" gây tò mò. Vì sao HOT: minh chứng AI hạ giá thành nghiên cứu lỗ hổng.\nTác động: Nintendo phải vá; nhà sản xuất phần cứng rà soát lớp tương thích cũ. Quan điểm nổi bật: thán phục kỹ thuật nhưng lo AI hạ giá thành tấn công nền tảng đóng; tranh cãi tethered jailbreak có đáng gọi là jailbreak.",
+    "tags": [
+      "Hot Trends",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "788013156530ad7bed838c321cbd1d6bd11fcbe91485e8696e0984e49dcac17d"
+  },
+  {
+    "id": "394c2a9290f32bd63c48cda0af6da8dc27f9b31fe7640698851a99a689f16dea",
+    "title": "Xu hướng: tranh luận về agent \"luôn bật\" Claude Duet",
+    "summary": "Nền tảng: Hacker News. Nội dung: Claude Duet (Opus 5.5) — agent chủ động chạy nền, làm việc cả khi thiết bị tắt, đang đợi duyệt tại Mỹ. Like/Reactions: 431 điểm HN. Comments/Replies: 393 bình luận. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 thread chính HN (16 giờ) + báo công nghệ quốc tế. Thời điểm ghi nhận: 22/10/2026 22:15 VN. Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng, thiếu shares/tăng trưởng).",
+    "category": "Hot Trends",
+    "section": "B - TỔNG HỢP",
+    "region": "Quốc tế",
+    "sourceUrl": "https://news.ycombinator.com/",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 87,
+    "analysis": "Bối cảnh: Anthropic, OpenAI, Meta cùng đua agent tự chủ; agent nền là mô hình tương tác mới. Vì sao HOT: chạm vào nỗi lo quyền riêng tư và kiểm soát.\nTác động: định hình kỳ vọng guardrail cho thế hệ agent tiếp theo. Quan điểm nổi bật: ủng hộ năng suất vs lo agent hành động ngoài ý muốn; tranh cãi 6.000 connector là tiện ích hay rủi ro.",
+    "tags": [
+      "Hot Trends",
+      "B - TỔNG HỢP"
+    ],
+    "language": "vi",
+    "contentHash": "4ea41f7541d30c236bc68adec23a8f22e0b33b606610b968c45ff1e6d3e8bd39"
+  },
+  {
+    "id": "d1acd949c62657354ee220baf848a8d5bb1856ed8a40a55e990b6731a6dccee7",
+    "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\" — cơ sở dữ liệu phân tích nhúng",
+    "summary": "Tính năng: cơ sở dữ liệu OLAP nhúng (in-process), chạy SQL phân tích ngay trong ứng dụng không cần server. Điểm mới: bản 2.0.0 LTS \"Cinnamon Teal\" là bản hỗ trợ dài hạn, được cộng đồng developer quan tâm (430 điểm/58 bình luận trên HN ngày 22/10). Ứng dụng thực tế: phân tích dữ liệu local, ETL nhẹ, tích hợp Python/R. Giá: miễn phí, open-source (MIT).",
+    "category": "Công cụ",
+    "section": "D - ĐÁNG THỬ",
+    "sourceUrl": "https://duckdb.org/",
+    "collectedAt": "2026-10-22T18:14:29.913Z",
+    "sourceRow": 88,
+    "analysis": "Bối cảnh: DuckDB là lựa chọn phổ biến cho analytics nhúng, cạnh tranh với pandas/polars ở tập dữ liệu vừa.\nHạn chế: không thay được data warehouse phân tán cho dữ liệu rất lớn; chi tiết tính năng 2.0 chưa được xác minh đầy đủ từ nguồn chính thức trong lần chạy này.",
+    "tags": [
+      "Công cụ",
+      "D - ĐÁNG THỬ"
+    ],
+    "language": "vi",
+    "contentHash": "d6de02c1704d0048fcaf9c8e8267319eb6ab2b302c3902cd3bcdf1880829987a"
   }
 ]
