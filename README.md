@@ -2,6 +2,9 @@
 
 Website tĩnh React + TypeScript, tối ưu cho điện thoại. Dữ liệu được đọc từ Google Sheets, chuẩn hóa thành JSON bằng Node.js và phát hành qua GitHub Pages. Frontend không cần backend hoặc API key.
 
+- Repository: https://github.com/xuansang1620/ban-tin-24h
+- Website: https://xuansang1620.github.io/ban-tin-24h/
+
 ## Phase 1: kiểm tra nguồn và mapping
 
 Đã kiểm tra quyền đọc CSV công khai của Spreadsheet `1BKvEFsK-SjtW0CPBylrXOWSNIo7vDEWhEFemPsOs--Y`, GID `0`. Tại thời điểm kiểm tra, Sheet có 32 bản ghi và 8 cột:
@@ -46,7 +49,7 @@ npm run dev
 3. Workflow `.github/workflows/pages.yml` chạy đồng bộ 4 lần/ngày (02:00, 08:00, 14:00, 20:00 UTC; tương ứng 09:00, 15:00, 21:00, 03:00 giờ Việt Nam), khi push `main`, hoặc thủ công qua **Run workflow**.
 4. Workflow kiểm tra/đồng bộ dữ liệu, chỉ commit JSON và deploy khi dữ liệu đổi (push `main` vẫn deploy mã nguồn). Nếu đồng bộ thất bại khi push mã, bước đồng bộ báo đỏ nhưng website vẫn build bằng dữ liệu hợp lệ gần nhất; nếu thất bại trong lần chạy lịch/thủ công, website đang xuất bản tiếp tục giữ nguyên. GitHub có thể chạy cron trễ nên đây không phải dịch vụ thời gian thực.
 5. Cấu hình repository để `GITHUB_TOKEN` có quyền ghi Contents nếu muốn workflow commit JSON; quyền Pages được cấp tối thiểu trong job deploy.
-6. `vite.config.ts` dùng base tương đối để hỗ trợ URL dạng `https://<owner>.github.io/<repository>/` và custom domain. Sau khi biết URL thật, cập nhật địa chỉ mẫu trong `public/sitemap.xml`.
+6. `vite.config.ts` dùng base tương đối để hỗ trợ URL dạng `https://<owner>.github.io/<repository>/` và custom domain. Sitemap đã được cấu hình cho URL public hiện tại; cập nhật `public/sitemap.xml` nếu đổi chủ sở hữu hoặc tên repository.
 
 ## Tính năng
 
