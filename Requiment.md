@@ -131,7 +131,7 @@ Yêu cầu:
 
 1. Kiểm tra quyền đọc CSV hoặc Google Sheets API và ánh xạ cột thực tế.
 2. Thiết kế script ETL bằng Python hoặc Node.js.
-3. Đồng bộ theo GitHub Actions, mặc định 4 lần/ngày theo múi giờ Việt Nam, có thể cấu hình.
+3. Đồng bộ theo GitHub Actions, mặc định mỗi 2 giờ; lịch chạy có thể cấu hình.
 4. Chuẩn hóa Unicode, URL, chuyên mục, thời gian và dữ liệu thiếu.
 5. Loại bản ghi trùng theo định danh ổn định.
 6. Tính hash nội dung để phát hiện thay đổi.

@@ -49,7 +49,7 @@ npm run dev
 
 1. Tạo repository GitHub và đưa toàn bộ source lên nhánh `main`.
 2. Trong **Settings → Pages → Build and deployment**, chọn **GitHub Actions**.
-3. Workflow `.github/workflows/pages.yml` chạy đồng bộ 4 lần/ngày (02:00, 08:00, 14:00, 20:00 UTC; tương ứng 09:00, 15:00, 21:00, 03:00 giờ Việt Nam), khi push `main`, hoặc thủ công qua **Run workflow**.
+3. Workflow `.github/workflows/pages.yml` chạy đồng bộ mỗi 2 giờ (phút 00 theo UTC; tương ứng giờ lẻ theo giờ Việt Nam), khi push `main`, hoặc thủ công qua **Run workflow**.
 4. Workflow kiểm tra/đồng bộ dữ liệu, chỉ commit JSON và deploy khi dữ liệu đổi (push `main` vẫn deploy mã nguồn). Nếu đồng bộ thất bại khi push mã, bước đồng bộ báo đỏ nhưng website vẫn build bằng dữ liệu hợp lệ gần nhất; nếu thất bại trong lần chạy lịch/thủ công, website đang xuất bản tiếp tục giữ nguyên. GitHub có thể chạy cron trễ nên đây không phải dịch vụ thời gian thực.
 5. Cấu hình repository để `GITHUB_TOKEN` có quyền ghi Contents nếu muốn workflow commit JSON; quyền Pages được cấp tối thiểu trong job deploy.
 6. `vite.config.ts` dùng base tương đối để hỗ trợ URL dạng `https://<owner>.github.io/<repository>/` và custom domain. Sitemap đã được cấu hình cho URL public hiện tại; cập nhật `public/sitemap.xml` nếu đổi chủ sở hữu hoặc tên repository.
