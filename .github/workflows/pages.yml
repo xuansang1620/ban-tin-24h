@@ -3,8 +3,12 @@ name: Sync news and deploy
 on:
   push:
     branches: [main]
+
   schedule:
-    - cron: "0 */2 * * *"
+    # Chạy theo giờ Việt Nam (UTC+7)
+    - cron: "7 0,4,8,12,16,20 * * *"
+      timezone: "Asia/Ho_Chi_Minh"
+
   workflow_dispatch:
 
 permissions:
