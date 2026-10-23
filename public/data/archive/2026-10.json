@@ -4267,5 +4267,750 @@
     ],
     "language": "vi",
     "contentHash": "bc55b57e08e988762564760bb2ff4364cf681ae990853242ff8eb7c6938277be"
+  },
+  {
+    "id": "53e2033bd8356fb3642a33cb7e4c95f3eb0a48d84fe90e23d365a49cd259057e",
+    "title": "VN-Index chốt phiên 23/10 tăng 13,52 điểm lên 1.774,15; cả tuần tăng 4%, chấm dứt chuỗi 4 tuần giảm",
+    "summary": "Sau buổi sáng giằng co, lực cầu tăng mạnh phiên chiều 23/10 đưa VN-Index đóng cửa tại 1.774,15 điểm (+13,52; +0,77%). HOSE: 144 mã tăng/156 mã giảm; thanh khoản hơn 777,1 triệu đơn vị, giá trị 16.942 tỷ đồng (+16% khối lượng, +11% giá trị so với phiên trước). Nhóm ngân hàng dẫn dắt: STB kịch trần +6,9% lên 68.500đ, ACB +4% lên 21.300đ với khớp lệnh gần 41 triệu đơn vị (cao nhất hơn 3 tháng), SSB +3,7%, LPB +3,6%. Cả tuần tăng 68,24 điểm (+4%) so với 1.705,91 điểm cuối tuần trước, chấm dứt chuỗi 4 tuần giảm; phiên tăng thứ ba liên tiếp, lấy lại hơn 82 điểm — bằng mức giảm của cả tháng 10. Khối ngoại bán ròng ~478 tỷ đồng trên HOSE sau 2 phiên mua ròng (mua ròng TCB 152 tỷ, MSN 92 tỷ).",
+    "category": "Kinh tế & Tài chính",
+    "section": "A – TOP 5 TIN QUAN TRỌNG",
+    "region": "Việt Nam",
+    "sourceUrl": "https://thuonghieucongluan.com.vn/chung-khoan-phien-chieu-23-10-co-phieu-ngan-hang-dan-dong-tien-vn-index-dao-chieu-tang-diem-a339213.html",
+    "imageUrl": "https://media.thuonghieucongluan.vn/uploads/2026/10/23/anh-3-1267-copy-1792749473.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 210,
+    "analysis": "Diễn biến mới trong cửa sổ: kết quả chốt phiên chiều, khác với tin phiên sáng 23/10 đã đưa (VN-Index ~1.752, khối ngoại bán 205 tỷ). Dòng tiền quay lại chủ động sau chuỗi tin tích cực về KQKD ngân hàng quý III. TPS nhận định chỉ số đóng cửa sát EMA100 tại 1.775 điểm, thuộc cụm kháng cự EMA50/EMA100/EMA200 (1.755–1.775), áp lực chốt lời có thể gia tăng.\nTín hiệu phục hồi củng cố tâm lý ngắn hạn, thanh khoản vượt bình quân. Rủi ro: độ lan tỏa hạn chế (mã giảm vẫn nhỉnh hơn mã tăng), khối ngoại quay lại bán ròng, rung lắc quanh vùng kháng cự 1.755–1.775 trong phiên tới.",
+    "importance": 1,
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A – TOP 5 TIN QUAN TRỌNG"
+    ],
+    "language": "vi",
+    "contentHash": "002b3a723cb983f0d171ccbb725b861d3d394fedcba1d22406452475dd7077e9"
+  },
+  {
+    "id": "854f751a144c6d57c01029d5c4705559480c1748b55aeaa7a7168a6bb17505c1",
+    "title": "PHP cảnh báo lỗ hổng RCE chưa vá CVE-2026-115560, chỉ 2 ngày sau bản vá khẩn PHP2Shell",
+    "summary": "PHP Foundation phát hành khuyến cáo ngày 23/10 về CVE-2026-115560 — đường tấn công thực thi mã từ xa (RCE) mới qua tính năng session upload progress. Lỗ hổng kích hoạt trong cấu hình hẹp: session.serialize_handler đặt php_binary/php_serialize rồi app đổi thành php bằng ini_set() trước session_start(), đồng thời session upload progress vẫn bật (mặc định). Chưa có bản vá; biện pháp khắc phục là một dòng cấu hình session.upload_progress.enabled=0. Chưa công bố CVSS, danh sách phiên bản ảnh hưởng, chưa ghi nhận khai thác thực tế. Admin đã tắt upload progress theo khuyến cáo 21/10 không cần làm gì thêm.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "A – TOP 5 TIN QUAN TRỌNG",
+    "sourceUrl": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLc5CkmqMPCNMKxkUjSlDL5IlCQeWS-_TIRXTt7oKMQRRpvUpoVLSIAcyQQgK8sBLs3cdO2aftMc2GUCAVnvhAtT6ekj58gJT80Ex5ol52Be9N10QpdyjzUGNPdcXDqc_hoPIFr-4GsUDNXUcwRiJf0dPlFLQsTfwqOlyym6eAJLMWFbk4VNBmgOxQQbc/s1600/phpx.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 211,
+    "analysis": "Tiếp nối sự cố PHP2Shell (CVE-2026-109618/619, vá khẩn 21/10); bản vá ngày 21/10 không khắc phục lỗ hổng mới này. Nỗ lực khai thác PHP2Shell tăng vọt: Amazon ghi nhận tấn công đầu từ 17/10 (trước công bố), Cloudflare ghi nhận từ hàng chục nghìn lên hàng triệu lượt tấn công trong 45 phút sau công bố 21/10; Sophos và Arctic Wolf ghi nhận kẻ tấn công thử cài biến thể botnet Mirai (đều thất bại).\nQuản trị viên PHP phải kiểm tra cấu hình session ngay; nguy cơ 'mệt mỏi vá lỗi' (patch fatigue) khi cảnh báo dồn dập trong 1 tuần. Nếu CVE-2026-115560 bị vũ khí hóa, cộng đồng PHP đối mặt đợt tấn công hàng loạt thứ hai trong 10 ngày.",
+    "importance": 1,
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "A – TOP 5 TIN QUAN TRỌNG"
+    ],
+    "language": "vi",
+    "contentHash": "8e123d2f918a3aecf55ab298267271b3375a33fdfe04cfcf7161de7cf9b43944"
+  },
+  {
+    "id": "0af20c47e3d44070cf066bee71ac0fc5e5a967452c942dca251e53d62dde3bb1",
+    "title": "Nhà sáng lập Unitree đảo ngược dự báo: robot hình người có thể hoàn thành 80% nhiệm vụ ngay năm 2028",
+    "summary": "Wang Xingxing (36 tuổi), nhà sáng lập Unitree Robotics, tuyên bố tại hội nghị ngành ở Hàng Châu (23/10) rằng robot hình người có thể hoàn thành 80% nhiệm vụ trong nhà máy và gia đình vào năm 2028 chỉ bằng mệnh lệnh giọng nói — ngưỡng ông gọi là khoảnh khắc 'aha' của robot ứng dụng thực tế. Động lực chính: tiến bộ của các mô hình AI biên (frontier) như GPT-6 của OpenAI, vốn đã dẫn dắt robot thực hiện các công việc vật lý chưa từng được huấn luyện (nhặt đồ vật, vẽ tranh, đặt quân cờ vây). Unitree đặt mục tiêu tăng sản lượng từ hàng chục nghìn lên hàng chục triệu robot/năm. Cổ phiếu giao dịch quanh 624 CNY (+20%, đã điều chỉnh ~25% từ đỉnh sau IPO Thượng Hải tháng 8). Vốn rót vào startup robot Trung Quốc năm nay vượt 100 tỷ nhân dân tệ (~15 tỷ USD) — số liệu ITjuzi.",
+    "category": "Công nghệ & AI",
+    "section": "A – TOP 5 TIN QUAN TRỌNG",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.tipranks.com/news/unitree-founder-expects-humanoid-robots-to-complete-80-of-tasks-by-2028",
+    "imageUrl": "https://blog.tipranks.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-at-11-1024x268.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 212,
+    "analysis": "Chỉ 2 tháng trước (hội nghị robot thế giới Bắc Kinh tháng 8), chính ông dự báo phải mất 10 năm robot hình người mới thay thế lao động quy mô lớn — đây là sự đảo ngược hoàn toàn. Đối đầu trực tiếp với Tesla Optimus (bắt đầu sản xuất tại Fremont).\nTăng tốc cuộc đua 'physical AI' Trung–Mỹ. Rủi ro: bong bóng định giá robot nếu phần mềm không theo kịp phần cứng — chính Wang thừa nhận robot hiện tại chưa dọn được phòng theo yêu cầu thực tế.",
+    "importance": 1,
+    "tags": [
+      "Công nghệ & AI",
+      "A – TOP 5 TIN QUAN TRỌNG"
+    ],
+    "language": "vi",
+    "contentHash": "1a828c6a396473e6ff03c04f30fcd919a8a88fea3caf0c7dda30de7b5e83d16b"
+  },
+  {
+    "id": "39a10063225ea4f04c6b2c2fbb084a5019ee4bc19319d73d0028da0bdeef3cce",
+    "title": "Quốc hội tranh luận miễn thuế suất ăn trường học: cân nhắc kỹ 'kẻo lợi ích rơi hết vào túi doanh nghiệp'",
+    "summary": "Chiều 23/10, thảo luận tổ về dự án Luật sửa đổi, bổ sung Luật Thuế TNDN, TNCN: Chính phủ đề xuất miễn thuế TNDN với thu nhập từ cung cấp suất ăn cho cơ sở giáo dục, khám chữa bệnh; cá nhân cư trú kinh doanh dịch vụ này được đề xuất miễn TNCN. ĐB Vương Quốc Thắng (Đà Nẵng): nhiều doanh nghiệp vừa cung cấp suất ăn trường học/bệnh viện vừa phục vụ khách hàng khác, khó xác định doanh thu/chi phí thuộc diện miễn — cần công cụ miễn thuế hướng đúng người học, người bệnh. ĐB Nguyễn Hải Long (Đà Nẵng): chỉ miễn cho đơn vị bảo đảm an toàn thực phẩm; không miễn trong 3 năm với cơ sở từng ngộ độc thực phẩm do lỗi của mình. Thủ tướng Lê Minh Hưng: số thu ngân sách từ nhóm này không lớn, ý nghĩa chính sách lớn hơn số thu giảm; an toàn thực phẩm đặt lên hàng đầu.",
+    "category": "Chính sách",
+    "section": "A – TOP 5 TIN QUAN TRỌNG",
+    "region": "Việt Nam",
+    "sourceUrl": "https://thanhnien.vn/mien-thue-cho-suat-an-truong-hoc-lo-loi-ich-roi-het-vao-tui-doanh-nghiep-185261023170110182.htm",
+    "imageUrl": "https://images2.thanhnien.vn/528068263637045248/2026/10/23/tnw-base64-17927492782201094515979-1792749455789721410547.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 213,
+    "analysis": "Thể chế hóa Nghị quyết 71 và 72 của Bộ Chính trị, trong Kỳ họp thứ 2 Quốc hội khóa XVI. Sáng cùng ngày, Bộ trưởng Tài chính đã trình 5 dự án luật kinh tế (trong đó có đề xuất thuế 0,2% đất bỏ hoang — tin đã đưa trưa nay); đây là góc phân tích mới: tranh luận về cơ chế miễn thuế suất ăn.\nNếu thông qua, suất ăn học đường/bệnh viện được hỗ trợ chi phí, góp phần nâng chất lượng bữa ăn; đòi hỏi cơ chế bóc tách chi phí, hậu kiểm và kiểm soát an toàn thực phẩm chặt để tránh trục lợi thuế.",
+    "importance": 1,
+    "tags": [
+      "Chính sách",
+      "A – TOP 5 TIN QUAN TRỌNG"
+    ],
+    "language": "vi",
+    "contentHash": "f67d00c945a956c0ef04cb4e9368569f6573ec722d05015ab7baa7133cba90b3"
+  },
+  {
+    "id": "dc82c856b9592a848ac10e814859de9e541a45e1f5bc71f20b629412b1bf726a",
+    "title": "Chính phủ Thụy Điển chặn ChatGPT và Claude tại văn phòng chính phủ từ 26/10",
+    "summary": "Văn phòng Chính phủ Thụy Điển (Regeringskansliet) chặn truy cập mạng tới ChatGPT và Claude trên máy tính công vụ từ thứ Hai 26/10; nhân viên được yêu cầu dùng Microsoft Copilot — công cụ AI duy nhất được phê duyệt và tăng cường bảo mật; một nhóm nhỏ vẫn dùng nền tảng nội bộ để tương tác an toàn với ChatGPT/Claude. Cơ quan Thuế Thụy Điển và National Board of Institutional Care đã chặn trước đó. Giám đốc Số hóa Mikael Wettercrantz cảnh báo dùng AI chưa phê duyệt có thể gây 'hậu quả cho an ninh thông tin'. Đáng chú ý, Thủ tướng Ulf Kristersson từng thừa nhận dùng ChatGPT xin 'ý kiến thứ hai' khi ra quyết định.",
+    "category": "Công nghệ & AI",
+    "section": "A – TOP 5 TIN QUAN TRỌNG",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 214,
+    "analysis": "Dấu hiệu xu hướng 'AI sovereignty'/siết shadow AI trong khu vực công châu Âu, nối tiếp làn sóng EU AI Act. Thread lên front page Hacker News (266 points/93 comments, quan sát 22:28 VN 23/10) cùng ≥5 nguồn tin độc lập.\nCó thể tạo hiệu ứng domino — các chính phủ/cơ quan EU khác siết tương tự; OpenAI/Anthropic đối mặt áp lực cung cấp gói enterprise 'sovereign' cho khu vực công. Phe phản biện: Copilot của Microsoft cũng là đám mây nước ngoài, tính 'chủ quyền số' bị nghi ngờ.",
+    "importance": 1,
+    "tags": [
+      "Công nghệ & AI",
+      "A – TOP 5 TIN QUAN TRỌNG"
+    ],
+    "language": "vi",
+    "contentHash": "cf634df3dfb1912655d8e62d57a5b4d9821d81c76d728b0a00a5e8a85089e9da"
+  },
+  {
+    "id": "447f0326abde783d7b5080c934e35cec7db8b92d9bb4a596434d657b4e786333",
+    "title": "KQKD ngân hàng 9 tháng: VPBank gần 30.000 tỷ đồng dẫn đầu, Techcombank lập kỷ lục quý, 2 nhà băng báo lãi giảm",
+    "summary": "Tính đến 23/10, 9 tổ chức tín dụng công bố KQKD 9 tháng, phần lớn tăng trưởng hai chữ số. VPBank: lợi nhuận trước thuế hợp nhất 9 tháng gần 30.000 tỷ đồng, tương đương kết quả cả năm 2025, +47% so với cùng kỳ, đạt 72,4% kế hoạch năm (riêng quý III hơn 11.000 tỷ). Techcombank: LNTT quý III đạt 10.400 tỷ đồng — mức cao nhất từ trước đến nay, lũy kế 9 tháng 28.900 tỷ (+23,7%). ABBank +85% (4.301 tỷ, hoàn thành 96% kế hoạch), Nam A Bank +25%, Vietbank +50%, SHB +17%, PGBank 930 tỷ (+27%). Ngược lại, BAOVIET Bank: LNTT quý III chỉ 17 tỷ (-41% YoY), lũy kế 9 tháng 50 tỷ (-14,2%).",
+    "category": "Kinh tế & Tài chính",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://vnbiznews.com/cap-nhat-loi-nhuan-ngan-hang-quy-iii-ngay-23-slash-10-vpbank-tam-dan-dau-2-nha-bang-bao-lai-giam-pid1989612005",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 215,
+    "analysis": "Mùa báo cáo tài chính quý III/2026 cho thấy phân hóa: ngân hàng lớn hưởng lợi từ tín dụng doanh nghiệp phục hồi và thu dịch vụ, trong khi một số nhà băng nhỏ chịu áp lực dự phòng rủi ro.\nCủng cố triển vọng cổ phiếu ngân hàng — đúng nhóm dẫn dắt thị trường phiên 23/10 (STB trần, ACB, LPB, SSB tăng mạnh). Rủi ro: định giá đã phản ánh nhanh; tăng trưởng tín dụng cuối năm cần duy trì để bảo toàn mục tiêu lợi nhuận cả năm.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "d813f482476e14c9fcb934a2d969b50b711bc9d56826f9288e305f384506503c"
+  },
+  {
+    "id": "3632958399590b7d0e788f5f83e8e3186e618c2afdacdf1952bfbdcc143f57f3",
+    "title": "Ngân hàng ngoại nhập cuộc: Shinhan Việt Nam giảm lãi suất cho vay tới 1,5%/năm chiều 23/10",
+    "summary": "Chiều 23/10, Ngân hàng TNHH MTV Shinhan Việt Nam thông báo giảm biên độ lãi suất cho vay tới 1,5%/năm đối với một số sản phẩm tín dụng, tập trung hộ kinh doanh, doanh nghiệp nhỏ và khách hàng cá nhân. Đây là ngân hàng có vốn ngoại mới nhất tham gia làn sóng giảm lãi suất sau khi Agribank giảm lãi cho vay tới 2,5% và 22 ngân hàng giảm lãi suất huy động những ngày qua.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baotintuc.vn/diem-tin-kinh-te-viet-nam-noi-bat-ngay-23102026-post1396923.html",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 216,
+    "analysis": "Theo chỉ đạo của Chính phủ và Ngân hàng Nhà nước về hỗ trợ tăng trưởng, hướng tới mục tiêu tăng trưởng 2 con số giai đoạn 2026–2030. (Tin xuất hiện trong điểm tin tổng hợp kinh tế 23/10, chưa có bài riêng để đối chiếu — ghi rõ khi sử dụng.)\nGiảm chi phí vốn cho hộ kinh doanh và doanh nghiệp nhỏ, kích cầu tín dụng cuối năm; tạo áp lực cạnh tranh mặt bằng lãi suất chung. Rủi ro: biên lãi thuần (NIM) của các ngân hàng thu hẹp nếu giảm nhanh hơn khả năng giảm chi phí vốn.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "63f9955d6d6c11537e99090022c76f46fe2b08b7f4d332cd23e1812b04a57245"
+  },
+  {
+    "id": "93e30857a67fa650243aaf5249d2f9f2fb761659415af30ace77c922b29c048e",
+    "title": "Dự toán chi ngân sách 2027 tăng hơn 915 nghìn tỷ so với 2026; khơi thông 31 nghìn tỷ đồng + 2,8 tỷ USD tín dụng vùng Đông Nam Bộ",
+    "summary": "Dự toán tổng chi ngân sách nhà nước năm 2027 tăng hơn 915 nghìn tỷ đồng so với dự toán 2026. Cùng ngày 23/10, NHNN phối hợp UBND TP. Hồ Chí Minh tổ chức hội nghị khơi thông nguồn vốn tín dụng vùng Đông Nam Bộ giai đoạn 2026–2030; các TCTD và doanh nghiệp ký thỏa thuận hợp tác triển khai dự án công nghiệp chế tạo, năng lượng, hạ tầng giao thông, khu công nghiệp, nhà ở xã hội với tổng số tiền ban đầu trên 31 nghìn tỷ đồng và 2,8 tỷ USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vnbiznews.com/diem-tin-kinh-te-viet-nam-noi-bat-ngay-23-slash-10-slash-2026-pid1989612189",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 217,
+    "analysis": "Triển khai Kết luận 18-KL/TW về kế hoạch phát triển kinh tế–xã hội, tài chính quốc gia và đầu tư công trung dài hạn 5 năm 2026–2030, gắn mục tiêu tăng trưởng 2 con số. Sáng 23/10, Quốc hội nghe tờ trình dự án Luật Ngân sách nhà nước (hợp nhất), Luật Đấu thầu (sửa đổi) và các luật thuế.\nChi ngân sách mở rộng và dòng tín dụng khơi thông tạo động lực cho đầu tư công, hạ tầng và sản xuất vùng kinh tế trọng điểm. Rủi ro: hiệu quả giải ngân, áp lực nợ công và kiểm soát lạm phát khi chi tiêu công tăng mạnh.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "f3b21cc1210110972877b65a84bf3b5de0b63e5dfd5cde723af07741a772f3c3"
+  },
+  {
+    "id": "f46953f2e3134fa07fd8cdeec1eb4d3727e8cd0ec9e722615aa667e8714f465e",
+    "title": "Quốc hội chiều 23/10 thảo luận tổ loạt luật 'xương sống' tài khóa: Ngân sách hợp nhất, Đấu thầu, thuế",
+    "summary": "Chiều 23/10, tiếp tục chương trình Kỳ họp thứ 2 Quốc hội khóa XVI, Quốc hội thảo luận ở tổ về: Luật Ngân sách nhà nước (hợp nhất); Luật Đấu thầu (sửa đổi); Luật sửa đổi, bổ sung Luật Đầu tư; Luật sửa đổi, bổ sung Luật Thuế TNDN, Thuế sử dụng đất phi nông nghiệp, Thuế TNCN; Luật Trưng mua, trưng dụng tài sản (sửa đổi). Sáng cùng ngày, Bộ trưởng Tài chính (thừa ủy quyền Thủ tướng) trình tờ trình 5 dự án luật kinh tế và Ủy ban Kinh tế và Tài chính trình báo cáo thẩm tra.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://baotuyenquang.com.vn/thoi-su-chinh-tri/tin-trong-tinh/202610/quoc-hoi-thao-luan-cac-du-an-luat-ve-ngan-sach-thue-dau-thau-60e20fd/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 218,
+    "analysis": "Loạt luật khung chính sách tài khóa được sửa đồng bộ đầu nhiệm kỳ Quốc hội khóa XVI, nhằm tháo gỡ vướng mắc pháp luật, phân cấp chi ngân sách địa phương, cải thiện môi trường đầu tư theo Nghị quyết 206/2025/QH15. Góc lập pháp bổ sung cho tin tranh luận thuế suất ăn (Phần A) và đề xuất thuế 0,2% đất bỏ hoang (đã đưa trưa nay).\nNếu thông qua theo hướng phân cấp mạnh và đơn giản hóa đấu thầu, doanh nghiệp và địa phương hưởng lợi rõ rệt; nhà đầu tư theo dõi sát ưu đãi thuế TNDN, đất phi nông nghiệp. Rủi ro: tiến độ luật hóa chậm hoặc quy định chuyển tiếp phức tạp gây gián đoạn triển khai dự án.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "b116de134c464d148d2f150b9a5b6cc4c5d7fb495195ad3c13b48c10b0132f78"
+  },
+  {
+    "id": "4f90e4738f52aab4c51bf67605a2c7012a87da4a9d63aed1344ddd04b134d82e",
+    "title": "Đề nghị truy tố 14 bị can tham ô hơn 6,28 tỷ đồng tiền công đức Đền Công đồng Bắc Lệ, Lạng Sơn",
+    "summary": "Ngày 23/10, Công an tỉnh Lạng Sơn cho biết Cơ quan An ninh điều tra vừa ban hành kết luận điều tra, đề nghị VKSND tỉnh truy tố 14 bị can về tội 'Tham ô tài sản' (Điều 353 Bộ luật Hình sự) trong vụ án tại Đền Công đồng Bắc Lệ (xã Tân Thành). Từ đầu 2024 đến 6/2026, 14 bị can là thành viên Ban quản lý đền bị xác định tham ô 6.284.645.000 đồng tiền công đức bằng cách không đưa một phần tiền công đức, tiền cung tiến tại các ban thờ vào sổ sách mà giữ lại chia nhau. Trong số bị can có Trương Xuân Hữu (SN 1983, Phó Chủ nhiệm Ủy ban Kiểm tra Đảng ủy xã Tân Thành) và Phùng Văn Quang (SN 1979, nguyên Phó Chủ tịch UBND xã Tân Thành). Cơ quan công an đã thu hồi và phong tỏa tài sản của các bị can trên 9,35 tỷ đồng.",
+    "category": "Chính trị & Xã hội",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://vietnamnet.vn/de-nghi-truy-to-nguyen-pho-chu-tich-xa-trong-vu-tham-o-tien-cong-duc-2567869.html",
+    "imageUrl": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/10/23/word-134372152656588277-ed9d7-2047.jpg?width=260&s=bO-w4haJDgWm6GZopo0ncA",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 219,
+    "analysis": "Vụ án khởi tố ngày 6/7/2026 (12 bị can), mở rộng điều tra đến nay kết luận với 14 bị can. Đền Công đồng Bắc Lệ là di tích nổi tiếng, thu hút đông du khách và lượng tiền công đức lớn.\nCảnh báo lỗ hổng quản lý tiền công đức tại các di tích, có thể thúc đẩy siết chặt công khai, kiểm tra tài chính trong quản lý đền chùa trên cả nước; việc thu hồi hơn 9,35 tỷ đồng giúp khắc phục hậu quả.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "b4eb83874fa87ffccc797366c45bc04c5a82fd771e36748912f0e39909c7e06a"
+  },
+  {
+    "id": "3cb4e8972c3ee462cdeec8f03ace91c37a676525757e98a2b3f5f32018f42302",
+    "title": "Hai cô giáo mầm non Hậu Lộc tường trình sau clip 'tác động' vào mặt bé gái 3 tuổi, bị tạm đình chỉ một tuần",
+    "summary": "Chiều 23/10, Trường Mầm non Hậu Lộc – phân hiệu Lộc Tân (xã Hậu Lộc, tỉnh Thanh Hóa) cho biết đã báo cáo Sở GD&ĐT, tạm đình chỉ giảng dạy hai giáo viên liên quan một tuần để xác minh, xử lý. Sự việc xảy ra khoảng 9h ngày 16/10 tại lớp 3–4 tuổi C5 trong giờ học mỹ thuật: cô N.T.B. dùng tay 'tác động' hai lần vào người bé T.T.L. (3 tuổi) và có lời nói thiếu chuẩn mực; cô N.T.T.L. cũng có hành vi tương tự. Clip dài ~23 giây do cô L. tự quay gửi nhóm Zalo lớp, sau đó người thân của bé đăng lên mạng xã hội sáng 21/10. Trong tường trình, cô L. thừa nhận hoàn toàn sai, ân hận vì không kiềm chế cảm xúc; hai cô đã gặp gia đình xin lỗi. Sức khỏe, tâm lý bé gái hiện ổn định, đã trở lại lớp; Công an xã Hậu Lộc đã vào cuộc xác minh.",
+    "category": "Chính trị & Xã hội",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "region": "Quốc tế",
+    "sourceUrl": "https://vtcnews.vn/co-giao-mam-non-tuong-trinh-sau-clip-tac-dong-vao-mat-be-gai-3-tuoi-ar1046972.html",
+    "imageUrl": "https://cdn-i.vtcnews.vn/resize/th/upload/2026/10/23/1000033578-7645-19583873.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 220,
+    "analysis": "Sau vụ nam sinh hành hung cô giáo ở Hà Nội, đây là vụ việc thứ hai trong tuần gây bức xúc về ứng xử trong môi trường giáo dục, thu hút tranh luận lớn trên mạng xã hội.\nGây sức ép lên ngành giáo dục mầm non trong việc kiểm soát chuẩn mực sư phạm, quản lý áp lực nghề nghiệp của giáo viên; đồng thời mở rộng tranh luận về quay video trong lớp học và bảo vệ trẻ em.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "7a0a511ff1cbf0221c015f63854a5090f53448c8727e3d270cc8d0a6a181193b"
+  },
+  {
+    "id": "bfd313779387b68a0d36b6ee898ab8c482b4a4b7878ab416eea3955bf4108373",
+    "title": "Báo động đỏ liên chuyên khoa cứu sản phụ mang thai 34 tuần nguy kịch tại Gia Lai",
+    "summary": "Ngày 23/10, Bệnh viện Đại học Y Dược – Hoàng Anh Gia Lai (Gia Lai) cho biết đã cấp cứu thành công sản phụ L.N.M.D. (SN 1989, trú phường Thống Nhất, Gia Lai) mang thai 34 tuần. Chiều 22/10, sản phụ nhập viện trong tình trạng khó thở dữ dội, môi tím tái, vã mồ hôi, phù toàn thân; chẩn đoán phù phổi cấp gây suy hô hấp, tiền sản giật nặng trên nền bệnh thận mạn giai đoạn 4, đe dọa trực tiếp tính mạng cả mẹ và thai nhi. Bệnh viện kích hoạt báo động đỏ, huy động bác sĩ nhiều chuyên khoa vừa hồi sức vừa phẫu thuật lấy thai cấp cứu; sau hơn 30 phút, bé trai 2,1 kg chào đời an toàn, đang được chăm sóc đặc biệt; sức khỏe sản phụ ổn định dần.",
+    "category": "Chính trị & Xã hội",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://dantri.com.vn/suc-khoe/benh-vien-kich-hoat-bao-dong-do-cuu-san-phu-mang-thai-34-tuan-nguy-kich-20261023164651806.htm",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 221,
+    "analysis": "Tiền sản giật nặng kết hợp bệnh thận mạn giai đoạn 4 là thai kỳ nguy cơ rất cao; báo động đỏ liên chuyên khoa là quy trình cứu mẹ, cứu con trong cấp cứu sản khoa.\nKhẳng định năng lực cấp cứu sản khoa của tuyến tỉnh; nhắc nhở thai phụ có bệnh nền mạn tính cần khám thai định kỳ tại cơ sở có đủ điều kiện, phát hiện sớm dấu hiệu tiền sản giật.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "988b6b56f1bdc65b5df4582d8c37c68e1cedbecf988eea841912cb5546504f82"
+  },
+  {
+    "id": "c88f88478e99b14c26ff500bccfa7fda3bf6790f5adc14e10a19383027c963f0",
+    "title": "The Verge: AI đang 'xâm chiếm' cộng đồng game retro — Halo chạy trên trình duyệt, Wind Waker trên iPhone",
+    "summary": "Bài phân tích của Andrew Webster ghi nhận làn sóng dự án game retro bất ngờ lan truyền nhờ công cụ AI: Halo chạy trực tiếp trên trình duyệt web, The Legend of Zelda: Wind Waker chạy native trên iPhone với điều khiển cảm ứng, Super Smash Bros. Melee được dựng lại cho kính thực tế hỗn hợp. Công cụ AI đã rút ngắn đáng kể quy trình 'decomp/recomp' (dịch ngược và tái biên dịch game để chạy trên phần cứng mới) — việc trước đây tốn hàng năm trời (một nhóm mất nhiều năm để dịch ngược Animal Crossing trên GameCube). Trường hợp điển hình: Chris Sotraidis, cố vấn AI làm game port như sở thích, mùa hè này port Command & Conquer: Generals Zero Hour (EA mở mã nguồn năm ngoái) lên iPhone/iPad, rồi làm tiếp bản mobile của Ocarina of Time chỉ trong vài tuần — điều ông thừa nhận 'không thể đạt được nếu không có AI'. Tuy nhiên, tốc độ này đang xé toạc cộng đồng bảo tồn game: một website cộng đồng theo dõi các dự án decomp đã phải đóng cửa do hành vi phá hoại từ kẻ lợi dụng công nghệ.",
+    "category": "Công nghệ & AI",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 222,
+    "analysis": "AI hạ rào cản kỹ thuật cho bảo tồn game nhưng cũng làm mất đi hiểu biết sâu về quyết định lập trình gốc.\nRủi ro bản quyền và tranh cãi trong cộng đồng mã nguồn mở sẽ gia tăng; cộng đồng bảo tồn đối mặt làn sóng port ồ ạt thiếu kiểm chứng.",
+    "tags": [
+      "Công nghệ & AI",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "258840431d7e949588a78b9d36e1db4a646abcbbd0d36c913070e362e9068c1e"
+  },
+  {
+    "id": "f0add9fd18499e0ae31821ee847350e29ec462409a243ff7253144a83d91093a",
+    "title": "Oura kiện Ultrahuman lần hai, dọa cấm bán nhẫn thông minh Ring Pro tại Mỹ",
+    "summary": "Oura đã nộp đơn kiện vi phạm bằng sáng chế lên tòa án liên bang Texas (thứ Năm 23/10), cáo buộc nhẫn thông minh Ring Pro của đối thủ Ấn Độ Ultrahuman xâm phạm 2 bằng sáng chế về thiết kế và linh kiện bên trong (pin cong, bo mạch, cảm biến). Oura yêu cầu bồi thường thiệt hại và lệnh cấm vĩnh viễn bán Ring Pro tại Mỹ. Đáng chú ý, bằng sáng chế 12,769,363 mới được cấp cho Oura ngày 20/10 — chỉ 2 ngày trước khi kiện. Vụ kiện còn nêu tên nhà sản xuất SVTronics (sản xuất Ring Pro tại Plano, Texas) là đồng bị đơn.",
+    "category": "Công nghệ & AI",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 223,
+    "analysis": "Ultrahuman vừa thiết kế lại Ring Pro (ra mắt tháng 2) và được Hải quan Mỹ (CBP) phán quyết có lợi tháng 3, mở đường trở lại thị trường Mỹ sau lệnh cấm nhập khẩu Ring Air do Ủy ban Thương mại Quốc tế (ITC) ra phán quyết có lợi cho Oura tháng 8/2025. CEO Ultrahuman Mohit Kumar phản hồi sẽ 'bảo vệ quan điểm đến cùng', khẳng định chưa có lệnh tòa nào ảnh hưởng đến Ring Pro. Oura cũng đang kiện Samsung, RingConn, Circular, Zepp Health; RingConn và Circular đã đồng ý trả tiền bản quyền.\nThị trường nhẫn thông minh toàn cầu được IDC dự báo tăng 12,8% lên 4,9 triệu chiếc năm nay và 6,3 triệu vào 2030; vụ kiện đe dọa sự trở lại Mỹ của Ultrahuman (vừa huy động 70 triệu USD, định giá ~365 triệu USD tháng 9). Oura cũng vừa hoãn IPO 2,2 tỷ USD với lý do 'bất ổn thị trường'.",
+    "tags": [
+      "Công nghệ & AI",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "f82c8e0199fb60021f6668b382d9eaaba39e261bd0adaae7635ee12b566a46cb"
+  },
+  {
+    "id": "be10cb349d142bb7de5468ef44c944280b83dce65302f2d9871dc97637962f16",
+    "title": "'Nvidia của Trung Quốc' Cambricon: lợi nhuận quý 3 tăng 148% nhưng doanh thu hụt xa dự báo vì thiếu chip nhớ",
+    "summary": "Cambricon Technologies công bố kết quả quý 3/2026: lợi nhuận ròng 1,4 tỷ nhân dân tệ (~210 triệu USD), tăng 147,7% so với cùng kỳ; doanh thu 3,53 tỷ nhân dân tệ (~529 triệu USD), tăng 104,5% — nhanh hơn mức 75,8% của quý 2. Tuy nhiên, doanh thu hụt gần 50% so với kỳ vọng của giới phân tích (6,26 tỷ nhân dân tệ). Công ty đổ lỗi cho nút thắt sản xuất và thiếu hụt chip nhớ băng thông cao (HBM) cho trung tâm dữ liệu AI. Cổ phiếu đóng cửa tăng 5,5% lên 932,2 CNY trước khi công bố. Morgan Stanley cho biết chip MLU692 (dòng MLU690/Siyuan 690) đã giao cho một nhà cung cấp đám mây lớn để thử nghiệm trong quý 3, nhưng phần lớn doanh thu ghi nhận sang quý 4; dòng MLU690 được báo cáo vượt hiệu năng Nvidia H20 từ 50–150% theo chỉ số token/giây. ByteDance chiếm hơn 50% đơn hàng của Cambricon. Đối thủ Hygon cùng ngày báo doanh thu quý 3 đạt 5,9 tỷ nhân dân tệ (+45,5%), lợi nhuận 1 tỷ nhân dân tệ (+37,9%).",
+    "category": "Công nghệ & AI",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.scmp.com/tech/tech-trends/article/3371959/cambricons-third-quarter-profit-surges-148-us210m-amid-push-replace-nvidia-chips",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 224,
+    "analysis": "Minh chứng cho nghịch lý của ngành chip AI Trung Quốc: nhu cầu bùng nổ nhờ lệnh cấm xuất khẩu của Mỹ cắt nguồn chip Nvidia, nhưng năng lực sản xuất (SMIC, HBM) không theo kịp.\nCổ phiếu có thể biến động mạnh theo tiến độ thương mại hóa chip mới; sức ép lên chuỗi cung ứng HBM và sản xuất nội địa Trung Quốc.",
+    "tags": [
+      "Công nghệ & AI",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "5aec9da927d059878870e5c5eb745fdd12a199434353a3f157c1adcc66122968"
+  },
+  {
+    "id": "e950bd157ab34d7e9405b37be927812bf1d5354f950a93ac6d576efad216816b",
+    "title": "Chính phủ Thụy Điển chặn ChatGPT và Claude tại văn phòng chính phủ",
+    "summary": "Nền tảng: Hacker News (front page) + báo chí độc lập (Sveriges Radio, SVT). Nội dung: Văn phòng Chính phủ Thụy Điển (Regeringskansliet) chặn truy cập mạng tới ChatGPT và Claude trên máy tính công vụ từ thứ Hai 26/10; nhân viên được yêu cầu dùng Microsoft Copilot; một nhóm nhỏ vẫn dùng nền tảng nội bộ để tương tác an toàn. Cơ quan Thuế Thụy Điển và National Board of Institutional Care đã chặn trước đó.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "region": "Việt Nam",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50207405",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 225,
+    "analysis": "Like/Reactions: 266 points HN (ghi nhận 22:28 VN 23/10/2026). Comments/Replies: 93 comments HN. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 thread HN + ít nhất 5 nguồn tin độc lập (Sveriges Radio, SVT, azernews, dailynorthern, techynews). Thời điểm: bài HN đăng 18:39 VN 23/10; số liệu quan sát 22:28 VN 23/10. ĐIỂM HOT: Chưa đủ dữ liệu (có tương tác HN nhưng thiếu tăng trưởng 24h, shares, dữ liệu đa nền tảng; không suy đoán tốc độ tăng).\nVì sao HOT: một chính phủ phương Tây chính thức chặn 2 chatbot lớn nhất trên máy công vụ — dấu hiệu xu hướng 'AI sovereignty'/siết shadow AI trong khu vực công châu Âu; nối tiếp làn sóng EU AI Act. Quan điểm nổi bật: ủng hộ — dữ liệu chính phủ không nên chảy vào server thương mại nước ngoài; phản đối — Copilot của Microsoft cũng là đám mây nước ngoài, tính 'chủ quyền số' bị nghi ngờ; lo ngại giảm năng suất. Tác động: có thể kích hoạt hiệu ứng domino — các chính phủ/cơ quan EU khác siết tương tự; OpenAI/Anthropic đối mặt áp lực cung cấp gói enterprise 'sovereign' cho khu vực công.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "41c3113e5690cf426bd0534401820127d99bbec90be72538ed1adc781281e0f8"
+  },
+  {
+    "id": "df90168f9b06eda4e43991f789354e5780bec12aa15daee4132a55d84f0e2bfc",
+    "title": "Disney+ tăng giá ngay sau khi xác nhận quảng cáo sẽ hiển thị trên mọi gói",
+    "summary": "Nền tảng: Hacker News (front page). Nội dung: Disney tăng giá thuê bao chỉ vài ngày sau khi xác nhận quảng cáo sẽ xuất hiện trên mọi tier — kể cả gói Premium đắt nhất; bài viết dẫn số liệu Nielsen và giải Emmy 2026 trong bối cảnh tranh cãi.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 226,
+    "analysis": "Like/Reactions: 192 points HN (ghi nhận 22:17 VN 23/10). Comments/Replies: 166 comments HN. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 thread HN (bài gốc tvfandomlounge). Thời điểm: bài HN đăng 15:21 VN 23/10; số liệu quan sát 22:17 VN 23/10. ĐIỂM HOT: Chưa đủ dữ liệu (thiếu tăng trưởng 24h, shares, dữ liệu đa nền tảng).\nVì sao HOT: đánh dấu sự kết thúc của lời hứa 'gói premium không quảng cáo' — người dùng cảm thấy bị 'bóp' từ hai đầu (giá tăng + quảng cáo); 166 comments cho thấy phẫn nộ thực sự. Quan điểm nổi bật: chỉ trích mô hình 'greedflation'; so sánh Netflix/Max; một số ý kiến cho rằng đây là hệ quả tất yếu khi chi phí nội dung tăng và tăng trưởng thuê bao bão hòa; tranh luận về đo hiệu quả quảng cáo bằng Nielsen trong kỷ nguyên streaming. Tác động: có thể thúc đẩy làn sóng hủy thuê bao/chuyển sang piracy; tiền lệ cho các nền tảng khác áp dụng 'ads on every tier'.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "2d51d4d0d03f4c748cfe11ecdf57a42648f82fbe781f68c407ffe4af3d238a47"
+  },
+  {
+    "id": "e7c173533d73716cbf0e3669b580d0b9ac0bf1d2591ef651946e78acdd7e3367",
+    "title": "Công ty điện tư nhân thu phí cao hơn 23% so với đơn vị công",
+    "summary": "Nền tảng: Hacker News (front page). Nội dung: báo cáo phân tích giá điện của Kadoa — các công ty điện do nhà đầu tư sở hữu (investor-owned utilities) thu phí cao hơn 23% so với các nhà cung cấp công; tranh luận gay gắt về tư nhân hóa hạ tầng thiết yếu.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 227,
+    "analysis": "Like/Reactions: 311 points HN — cao nhất trong các trend HN hôm nay (ghi nhận 22:17 VN 23/10). Comments/Replies: 233 comments HN trong ~1,5 giờ. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 thread HN (bài gốc kadoa.com). Thời điểm: bài HN đăng 20:41 VN 23/10; số liệu quan sát 22:17 VN 23/10. ĐIỂM HOT: Chưa đủ dữ liệu (chỉ có dữ liệu HN; thiếu tăng trưởng 24h, shares, đa nền tảng).\nVì sao HOT: con số 23% cụ thể, dễ hiểu, chạm đúng nỗi đau hóa đơn điện tăng toàn cầu; tranh luận rất sâu chỉ trong ~1,5 giờ. Quan điểm nổi bật: phe ủng hộ công — tư nhân hóa hạ tầng độc quyền tự nhiên dẫn tới 'rent extraction'; phe phản biện — công ty tư nhân chịu chi phí vốn cao hơn, đầu tư lưới điện lớn hơn, giá phản ánh rủi ro; tranh luận về hợp tác công-tư, quy định giá (rate regulation) tại Mỹ. Tác động: dữ liệu có thể được dùng trong tranh luận chính sách năng lượng (đặc biệt bối cảnh nhu cầu điện cho data center AI tăng vọt); củng cố lập luận giữ/siết kiểm soát giá điện.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "7a18e9a7f6eb0f37484904d00b1e153fec3a04514e9fa52ba04a624b65b56f1f"
+  },
+  {
+    "id": "e2c5a0f9646b1f58cec69bf7ef8a2a2f5df8d22933b1612d783f0db4fb2cccf6",
+    "title": "nxnative: chạy game Nintendo Switch natively trên iPhone/iPad/Mac gây sốt GitHub",
+    "summary": "Nền tảng: GitHub Trending / GitDiscover daily picks 23/10/2026. Nội dung: repo mã nguồn mở (C) cho phép chạy game Nintendo Switch 'natively' trên thiết bị Apple: biến thư mục NSP thành file IPA không ký (unsigned IPA) qua NSO rewriter, Horizon HLE host, và dịch NVN→Metal. Repo mới 10 ngày tuổi (ra đời 13/10/2026).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://gitdiscover.org/repositories/seedds/nxnative",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 228,
+    "analysis": "Like/Reactions: 2.2K stars GitHub; +980 stars trong 24h qua (gitdiscover, phân tích 23/10/2026); 421 forks. Lịch sử 5 ngày: 737 (19/10) → 896 (20/10) → 1.1K (21/10) → 1.3K (22/10) → 2.2K (23/10) — tăng gần 3 lần trong 5 ngày. Comments/Replies: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: GitHub Trending + GitDiscover daily pick (top 3) + findarepo trending; chưa thấy thread HN/Reddit lớn → vẫn là trend trong cộng đồng dev/game. Thời điểm quan sát: 23/10/2026 (gitdiscover 'Analyzed on Oct 23, 2026'), quan sát ~22:30 VN. ĐIỂM HOT: Chưa đủ dữ liệu (có tăng trưởng sao 24h thực tế nhưng thiếu dữ liệu thảo luận đa nền tảng và shares).\nVì sao HOT: chạy game Switch trên iPhone là 'holy grail' của cộng đồng emulation; cách tiếp cận native (không phải giả lập thuần túy) gây tò mò kỹ thuật; tăng trưởng sao bùng nổ trong 5 ngày. Quan điểm nổi bật: hứng thú kỹ thuật với NSO rewriter và Horizon HLE; câu hỏi về tính pháp lý (NSP dump từ máy của mình vs piracy) — rủi ro DMCA/takedown kiểu các dự án emulation trước đây; nghi ngờ về hiệu năng thực tế trên chip A-series. Tác động: nếu hoạt động tốt, có thể châm ngòi làn sóng port game console lên mobile; rủi ro pháp lý cao từ Nintendo.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "b4bb5e7c4d4997b5d62be19d9f12d83a095ed44150f08d5800b8497e913ae6e5"
+  },
+  {
+    "id": "091498ce0d7a108c9130ea9677b4e0b633f2da65e8a91a067b9cb741d146022b",
+    "title": "Kimi K3.1: Moonshot AI tung teaser chính thức, cộng đồng săn lùng 'Kibitz' trên Arena",
+    "summary": "Nền tảng: X/Twitter, diễn đàn AI (testingcatalog, LMArena), báo crypto/tech (KuCoin Flash, Binance Square, BigGo Finance, explainx.ai). Nội dung: tài khoản chính thức của Kimi (Moonshot AI) đăng video 24 giây phong cách retro-terminal ngày 23/10, hiển thị rõ 'Model: Kimi K3.1' trong Kimi Code terminal khi model viết code dựng cảnh 3D bằng Three.js. Trước đó: identifier 'kimi-k3-1' xuất hiện trên API platform cuối tháng 9; config chuyển model Kimi Code ngày 21/10 có K3.1. Song song, model ẩn danh 'Kibitz' xuất hiện trên Arena từ rạng sáng 22/10, bị nghi là K3.1 ngụy trang: tokenizer test của @aitrackerbot cho thấy đặc trưng họ model Moonshot; một tester cho đấu với GPT-6 Astra Max và Claude Opus 5.5 ở task dựng sân 3D voxel — Kibitz hoàn thành nhanh gấp ~3 lần. Tài khoản Arena trên X xác nhận 'a new model from @Kimi_Moonshot is coming'.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B – TỔNG HỢP THEO LĨNH VỰC",
+    "sourceUrl": "https://www.testingcatalog.com/kimi-k3-1-spotted-testing-arena/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 229,
+    "analysis": "Like/Reactions: N/A (không có số liệu tương tác công khai khả kiểm chứng). Comments/Replies: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: ít nhất 7 nguồn độc lập đưa tin trong ngày 23/10 (testingcatalog, KuCoin, Binance Square, BigGo Finance, lapaasvoice, explainx.ai) + thảo luận trên X (Chetaslua, Arena, Kimi_Moonshot). Thời điểm: teaser đăng sáng 23/10 (~09:14–09:26 VN); quan sát ~22:30 VN 23/10. ĐIỂM HOT: Chưa đủ dữ liệu (đa nguồn đưa tin nhưng không có số tương tác thực tế khả kiểm chứng; không bịa số like/share). Góc trend mới (community detective work) so với tin 'hé lộ video chính thức' đã đưa số 10:45 23/10 (URL khác).\nVì sao HOT: Kimi K3 là model open-weight được săn đón; teaser chính thức sau hơn 1 tháng đồn đoán; 'detective work' của cộng đồng (tokenizer test, đối chiếu codename Kiwido/Kiwire/Kivine→Kibitz) tạo hiệu ứng lan truyền trong giới dev AI. Quan điểm nổi bật: kỳ vọng K3.1 là open-source giá rẻ, SOTA coding (một X user claim release trước thứ Ba tuần sau); hoài nghi — video chỉ show tên model, chưa có specs/benchmark/giá/ngày release, tất cả vẫn là tin đồn có kiểm chứng một phần. Tác động: nếu K3.1 ra mắt với giá rẻ + hiệu năng coding mạnh, sẽ gây áp lực giá lên GPT/Claude/Gemini trong phân khúc coding agent; hệ sinh thái AI Trung Quốc có thể biến động theo tin.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B – TỔNG HỢP THEO LĨNH VỰC"
+    ],
+    "language": "vi",
+    "contentHash": "c16d79c7591c586c507c6e455b8f3089287d5fee34d6299caadc4a19f9235979"
+  },
+  {
+    "id": "d32454a71d59135858b5f376ebe9a4ec61a9061c5b910a9cd07d9368fd6f2f7c",
+    "title": "Melania Trump môi giới ngừng bắn cục bộ ở Oleshky (Ukraine), Kremlin xác nhận",
+    "summary": "Nhà Trắng ngày 23/10 tuyên bố Đệ nhất phu nhân Melania Trump đã môi giới thành công lệnh ngừng bắn cục bộ giữa Nga và Ukraine tại thành phố Oleshky (Kherson) để đưa viện trợ nhân đạo và sơ tán dân thường; hiệu lực dự kiến 29/10. Khoảng 1.700-2.000 dân còn lại, chủ yếu người cao tuổi, thiếu điện, lương thực, thuốc men. Kremlin (Peskov) ngày 23/10 xác nhận thỏa thuận, cho biết quân đội hai bên đang phối hợp thời gian thực hiện; việc sơ tán dự kiến mất ít nhất vài ngày.",
+    "category": "Top 5",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.reuters.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-2026-10-23/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 230,
+    "analysis": "Bối cảnh: Oleshky bị Nga kiểm soát từ 2022, nằm sát tuyến đầu; Melania Trump đóng vai trò 'trung gian độc quyền', thảo luận trực tiếp với lãnh đạo Nga-Ukraine. Diễn biến mới hoàn toàn trong cửa sổ 4 giờ (Reuters đăng 20:23 VN 23/10).\nTác động: mô hình ngừng bắn nhân đạo cục bộ hiếm hoi giữa lúc chiến sự tiếp diễn; tiền lệ cho các thỏa thuận nhân đạo khác. Lưu ý mốc bắt đầu chưa thống nhất (Nhà Trắng 29/10; phía Nga nói đang phối hợp xác định; Bộ Quốc phòng Nga nêu 27/10) — ghi rõ là tuyên bố từ Nhà Trắng.",
+    "tags": [
+      "Top 5",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "274e15b5cb3ac555e37c9c81b4ba1a5c7419b30650d2021891eb9e0212cd3906"
+  },
+  {
+    "id": "c126b5624eee4866e1302dbf6a41f5a8ee9da6ac3a2d51b791399c5503ec3323",
+    "title": "Dầu Brent vọt lên ~117 USD, đỉnh gần 6 tháng",
+    "summary": "Brent giao tháng 12 tăng 3,37% lên ~116,98 USD/thùng (đỉnh phiên 117,45), cao nhất từ cuối tháng 4; WTI +3,70% lên ~103,15 USD. Diễn biến mới trong cửa sổ: IRGC tuyên bố đánh trúng thêm tàu dầu qua Hormuz; Mỹ ra lệnh rút bớt nhân viên ngoại giao và thân nhân khỏi Saudi Arabia (NBC: mở rộng cả Jordan, Kuwait, Qatar); tràn dầu ngoài khơi Umm Al Quwain (UAE); Libya đóng van đường ống Hamada/Tahara giảm sản lượng; Tổng tham mưu trưởng Iran tuyên bố quân đội sẵn sàng 'chiến tranh phi đối xứng'.",
+    "category": "Top 5",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-10-23/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 231,
+    "analysis": "Nối tiếp leo thang Mỹ-Iran/Houthi-Saudi; thị trường định giá khả năng Mỹ-Israel mở vòng tấn công mới vào Iran sau bầu cử giữa kỳ Mỹ 3/11.\nTác động: lo ngại lạm phát quay lại, kỳ vọng Fed 'higher for longer' tăng; chi phí vận chuyển leo thang; cổ phiếu năng lượng lên đỉnh kỷ lục. Caveat: tuyên bố IRGC một chiều, chưa xác minh độc lập.",
+    "tags": [
+      "Top 5",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "7b0430243e816b2b6c493ce5ebd79ec20c0dac5739f2ddcf855c7cc2fd87899c"
+  },
+  {
+    "id": "04022a79b19e651fbbd5dcbbc20025e35cf3d0de3d4dff14dff952929e910e33",
+    "title": "Phố Wall phân hóa khi đóng cửa thứ Sáu: Dow -520 điểm, S&P 500/Nasdaq chạm đáy 5 tuần rồi phục hồi",
+    "summary": "Dow Jones -519,84 (-0,98%) về 52.348,14; S&P 500 -18,29 (-0,24%) về 7.645,14; Nasdaq Composite +32,69 (+0,13%) lên 26.041,55. Trong phiên, S&P 500 và Nasdaq đều chạm đáy 5 tuần. Nguyên nhân mới: lo ngại SpaceX đàm phán với các công ty hạ tầng viễn thông để mở nhà mạng không dây toàn quốc, khiến AT&T, Verizon, T-Mobile giảm 3-4,7%; ngược lại Crown Castle +12,6%, American Tower +6,9%. Lợi suất trái phiếu 10Y giữ 5,000%; DXY 101,82. Tuần tới: KQKD Microsoft, Alphabet, Amazon và họp Fed 28/10.",
+    "category": "Top 5",
+    "section": "A - Top 5",
+    "sourceUrl": "https://wncy.com/2026/10/23/wall-street-futures-dip-after-ai-rout-telecoms-slide/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 232,
+    "analysis": "Nối tiếp đợt bán tháo cổ phiếu AI thứ Năm; nỗi lo lan từ chi phí AI sang cạnh tranh cơ cấu ngành viễn thông Mỹ.\nTác động: biến động khó lường trước mùa KQKD big tech + họp Fed. Caveat: số đóng cửa cuối phiên từ snapshot live-blog đơn nguồn (sundayguardianlive), hướng biến động khớp Reuters nhưng chưa được wire thứ hai xác nhận.",
+    "tags": [
+      "Top 5",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "c922c624a1e7cc377ad9da5de23dabbc01fd017a21475e4d72a7a53ad09cb807"
+  },
+  {
+    "id": "cdb2d20d858973666448e79dcc616aaf121adc2e1c1e0ba159d40b0c5f4e9752",
+    "title": "Siêu bão Champi thành cơn bão mạnh nhất năm 2026, Đài Loan phong tỏa",
+    "summary": "Siêu bão Champi đạt sức gió cực đại 184 mph (tương đương bão cấp 5), vượt bão Polo (177 mph, Mexico tháng trước) để trở thành xoáy thuận nhiệt đới mạnh nhất Trái Đất năm 2026 (áp suất tâm 895 mb, cao hơn Polo 892 mb một chút). Champi là cơn bão thứ 10 đạt cấp siêu bão ở Tây Bắc Thái Bình Dương mùa này — gấp đôi trung bình nhiều năm. Đài Loan phong tỏa, hủy 600+ chuyến bay. Chuyên gia cảnh báo liên hệ với hiện tượng Super El Niño đang 'siêu nạp' năng lượng cho bão.",
+    "category": "Top 5",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.unilad.com/news/us-news/link-between-super-el-nino-typhoon-champi-611040-20261023",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 233,
+    "analysis": "Diễn biến mới trong cửa sổ (unilad cập nhật 23:39 VN 23/10); góc mới so với tin Đài Loan hủy bay đã đưa kỳ trước.\nTác động: rủi ro thiên tai khu vực Đông Á; cảnh báo mùa bão cực đoan do El Niño. Caveat: danh hiệu 'mạnh nhất 2026' từ nguồn đơn (unilad), chưa có wire lớn xác nhận.",
+    "tags": [
+      "Top 5",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "83991827366337e16a680ca905c37e24b47000031be994b063c019bfd7b97142"
+  },
+  {
+    "id": "468b19c65e2dcc6264557c8f997880b986f158727a1086e0a01fad2514b94f28",
+    "title": "Reuters: Iran có kế hoạch chi tiết tấn công cáp ngầm viễn thông ở Vịnh nếu chiến tranh tái diễn",
+    "summary": "Hai quan chức an ninh cấp cao Iran nói với Reuters rằng Tehran đã vạch kế hoạch chi tiết nhắm vào các tuyến cáp ngầm viễn thông ở Vịnh nếu Mỹ và Israel tấn công Iran lần nữa; một quan chức cho biết Iran sẽ ngăn cản việc sửa chữa sau tấn công để kéo dài gián đoạn liên lạc/internet. Phó chánh văn phòng chính trị IRGC Yadollah Javani hôm 21/10 cảnh báo Iran có thể nhắm 7 tuyến cáp internet lớn dưới eo Hormuz. Bộ Ngoại giao Mỹ và Iran không bình luận.",
+    "category": "Top 5",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 234,
+    "analysis": "Diễn biến mới trong cửa sổ (Reuters ~00:20 VN 24/10). Nối tiếp đe dọa của IRGC nhắm căn cứ Mỹ.\nTác động: cáp ngầm mang ~99% lưu lượng internet toàn cầu (ITU), nhưng <1% băng thông quốc tế đi qua Hormuz (TeleGeography) nên tác động toàn cầu có thể hạn chế. Caveat: tuyên bố từ phía quan chức Iran ẩn danh, chưa xác minh độc lập.",
+    "tags": [
+      "Top 5",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "a71076d54191af91ed1e6a55a70c8b26ba3f2780df5c3e7ab50a256d4de17914"
+  },
+  {
+    "id": "33a634fed18d3b4bef91f9c0f12c73e9832399aa88a2873e8ebaf03f93f14119",
+    "title": "Dow -520 điểm khi đóng cửa thứ Sáu; nỗi lo SpaceX lấn sân viễn thông",
+    "summary": "Chi tiết phiên 23/10: Dow -519,84 (-0,98%) về 52.348,14; S&P 500 -0,24% về 7.645,14; Nasdaq +0,13% lên 26.041,55 sau khi chạm đáy 5 tuần trong phiên. AT&T, Verizon, T-Mobile giảm 3-4,7% vì tin SpaceX đàm phán mở nhà mạng không dây toàn quốc; Crown Castle +12,6%, American Tower +6,9%. Meta -1,3% sau phiên -7%. Chỉ số năng lượng S&P 500 lên đỉnh kỷ lục theo giá dầu.",
+    "category": "Kinh tế",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://sundayguardianlive.com/business/us-stock-market-live-dow-jones-slips-600-points-sp-500-falls-040-and-nasdaq-edges-lower-as-oil-tops-117-nvidia-intel-cisco-spacex-tech-stocks-slide-check-latest-wall-street-updates-310904/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 235,
+    "analysis": "Nỗi lo mới: cạnh tranh cơ cấu trong viễn thông Mỹ; nối tiếp bán tháo AI thứ Năm.\nBiến động khó lường trước KQKD Microsoft/Alphabet/Amazon tuần tới và họp Fed 28/10. Caveat số đóng cửa: đơn nguồn (sundayguardianlive live-blog).",
+    "tags": [
+      "Kinh tế",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "2d10e6efaff755e533af70f154c76bb5481e7a5b9e63aa819c1a292a3cbca5ad"
+  },
+  {
+    "id": "f847cf0cc849550aad7b0699fc426865970858620cd7022ac10d1ef0dddd03fc",
+    "title": "Brent chạm 117,45 USD, cao nhất gần 6 tháng: Houthi tấn công Saudi, tràn dầu UAE, Libya giảm sản lượng",
+    "summary": "Brent tăng 3,18 USD (+2,81%) lên 116,35 USD lúc 18:06 GMT (01:06 VN 24/10); đỉnh phiên 117,45 — cao nhất gần 6 tháng. WTI +3,50 (+3,52%) lên 102,97. Nguyên nhân: Houthi tấn công cơ sở hạ tầng năng lượng Saudi; tràn dầu ngoài khơi Umm Al Quwain (UAE) chưa rõ nguyên nhân; Libya đóng van đường ống nối mỏ Hamada/Tahara tới cảng Zawiya. Saudi Aramco sơ tán trụ sở Dhahran; Mỹ rút nhân viên ngoại giao khỏi Saudi.",
+    "category": "Kinh tế",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.dawn.com/news/2039303",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 236,
+    "analysis": "Thị trường lo gián đoạn nguồn cung Trung Đông; dầu cả tuần +6%.\nÁp lực lạm phát toàn cầu, kỳ vọng Fed diều hâu; giá xăng Mỹ trung bình 4,29 USD/gallon (AAA), cao hơn 3,07 USD cùng kỳ năm ngoái. Tin đăng 01:44 VN 24/10 (Dawn, theo Reuters).",
+    "tags": [
+      "Kinh tế",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "7112ab27a253c234c0b11839eb05d1969efa366fa9b2da26d560aa3b9531eda5"
+  },
+  {
+    "id": "3d8ca0cab25a3814100f054e985536aa790698b289bfe3a6bc63d7b0f9af4b45",
+    "title": "Vàng giảm tuần mạnh nhất từ tháng 6, giằng co quanh 4.016 USD",
+    "summary": "Vàng giao ngay -0,2% về 4.016,27 USD/ounce (trong phiên chạm đáy từ 20/7); vàng tương lai tháng 12 -0,7% về 4.030,40. Cả tuần -3,5% — tuần giảm mạnh nhất từ tháng 6. Bạc -1% về 53,98; bạch kim -0,1% về 1.568,58; HSBC cắt dự báo bạch kim/paladi 2026. Thị trường hiện định giá ~80% khả năng Fed tăng lãi suất tháng 12; phe mua cố thủ mốc 4.000.",
+    "category": "Kinh tế",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.reuters.com/world/india/gold-heads-steep-weekly-loss-oil-prices-fuel-fed-rate-concerns-2026-10-23/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 237,
+    "analysis": "Giá dầu cao thổi bùng kỳ vọng Fed 'higher for longer'; lợi suất cao + USD mạnh gây sức ép lên vàng.\nSJC trong nước (~139-142 triệu) chịu áp lực điều chỉnh tiếp. Nguồn Reuters, trích dẫn phân tích Capital.com.",
+    "tags": [
+      "Kinh tế",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "d7ccad0f5171f68fbcd391b673144e0a9f532e26ed46d2cd8d36056f272d7ccb"
+  },
+  {
+    "id": "179053d7a4613c313f9c0fdc2c44fda67dc8fca650cc5f94a799cb612a883c14",
+    "title": "PMI flash Mỹ tháng 10: 57,6 — hạ nhiệt nhưng giá bán ra tăng nhanh nhất từ 8/2022",
+    "summary": "PMI tổng hợp flash S&P Global tháng 10 giảm còn 57,6 từ 58,4 (đỉnh 5 năm) tháng 9 — vẫn cao, Q4 khởi đầu vững. Thước đo giá bán ra lên 59,8, cao nhất từ 8/2022; đơn hàng mới 58,2, cao nhất từ 3/2022 nhờ tích trữ phòng ngừa. GDP quý 3 sơ bộ (công bố tuần tới) dự báo ~3,0%/năm. S&P Global cảnh báo tắc nghẽn chuỗi cung ứng tăng trở lại.",
+    "category": "Kinh tế",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/business/us-business-activity-cools-october-strong-demand-fueling-price-pressures-2026-10-23/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 238,
+    "analysis": "Dữ liệu lạm phát 'nóng' ngay trước họp Fed 27-28/10 (quyết định 28/10); kỳ vọng Fed giữ nguyên kỳ này, tăng tháng 12.\nCủng cố kịch bản Fed diều hâu; sức ép lên vàng, thị trường mới nổi và tỷ giá USD/VND. Nguồn Reuters (Lucia Mutikani).",
+    "tags": [
+      "Kinh tế",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "8234b768ca228f5a38aeed30670118e8b39f9d6fb18b7bf360d6bd6bb33f766c"
+  },
+  {
+    "id": "a71a5c9d528399d66149ac2d3bf78356d51be94077f2dc181dcfce7f0b7fee0c",
+    "title": "Bitcoin giằng co quanh 81.300 USD: ETF spot Mỹ bị rút ròng 635,5 triệu USD",
+    "summary": "Bitcoin giao dịch quanh 81.300 USD (có lúc xuống 80.989). Theo SoSoValue, các ETF Bitcoin spot Mỹ bị rút ròng 635,5 triệu USD trong phiên 22/10 — phiên rút ròng lớn nhất từ 25/6 — đảo chiều sau 3 phiên hút ròng liên tiếp ~1,08 tỷ USD. Thanh lý phái sinh ~406 triệu USD/24h (89.600 trader). ETH ~2.388 USD (-3,5%).",
+    "category": "Kinh tế",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://crypto.news/why-is-bitcoin-price-down-today-etf-outflows/",
+    "imageUrl": "https://media.crypto.news/2026/10/image-140-1024x252.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 239,
+    "analysis": "Dòng tiền ETF là động lực chính của BTC năm nay; rút ròng mạnh phản ánh risk-off lan từ cổ phiếu công nghệ + lo ngại Fed tăng lãi suất.\nMốc 80.000 USD thành vùng hỗ trợ then chốt; nếu thủng, các mốc 72.000-75.000 được nhắc đến. Caveat: số liệu SoSoValue qua crypto.news, đơn nguồn, chưa xác nhận độc lập.",
+    "tags": [
+      "Kinh tế",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "e6e0444ace050543f7c60669330b2f96161c95aef54fa5e59ef72caa82a16c17"
+  },
+  {
+    "id": "e16d57aa11edcf59f099b1323fb5a35f29d73764bea3125a9f6255bfda9af5eb",
+    "title": "Kremlin xác nhận ngừng bắn Oleshky; thời gian bắt đầu chưa thống nhất",
+    "summary": "Phát ngôn viên Dmitry Peskov ngày 23/10 xác nhận thỏa thuận ngừng bắn cục bộ tại Oleshky đã đạt được; quân đội Nga và Ukraine đang phối hợp xác định thời gian thực hiện; mọi dân thường muốn rời đi được phép sơ tán, chiến dịch dự kiến mất ít nhất vài ngày. Peskov hoan nghênh đóng góp của Đệ nhất phu nhân Mỹ, cho biết vấn đề đã được đề cập trong cuộc điện đàm Putin-Trump gần đây. Bộ Quốc phòng Nga nêu mốc 4h sáng giờ Moscow ngày 27/10, khác với Nhà Trắng (29/10).",
+    "category": "Xã hội",
+    "section": "B - Xã hội",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/world/europe/kremlin-confirms-oleshky-ceasefire-says-working-with-ukraine-evacuation-timing-2026-10-23/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 240,
+    "analysis": "Góc mới so với tin Nhà Trắng (Phần A): phản ứng chính thức từ Moscow và chi tiết sơ tán.\nTác động: xác nhận từ cả hai phía tăng độ tin cậy cho thỏa thuận; theo dõi việc thực thi từ 27-29/10. Nguồn Reuters.",
+    "tags": [
+      "Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "4ac2a7dba3ed5774091dde3c8042ca41730a30b2aef7130a47915ac796e9c03f"
+  },
+  {
+    "id": "c38a414dc7d41227efee1fbe6d7f203f2c127590bc356b2cf5397e3d025a0da5",
+    "title": "Không ghi nhận tin xã hội Việt Nam mới đáng kể trong cửa sổ đêm 23/10 22:15 - 24/10 02:15",
+    "summary": "Rà soát VnExpress, Tuổi Trẻ, Thanh Niên, Dân trí, VietNamNet trong khung giờ đêm: không có tin xã hội/giáo dục/y tế/đời sống Việt Nam mới phát sinh đáng kể. Các tin trong ngày 23/10 (Quốc hội thảo luận luật thuế, truy nã Trại giam A2, đề nghị truy tố vụ Đền Bắc Lệ, Thủ tướng Ba Lan Tusk thăm VN 24-26/10) đã được đưa ở các số trước.",
+    "category": "Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vnexpress.net/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 241,
+    "analysis": "Đêm tại Việt Nam, nhịp tin tức chậm lại.\nMục Xã hội kỳ này tập trung tin quốc tế; tin VN sẽ cập nhật ở số 06:15 sáng.",
+    "tags": [
+      "Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "c9d0e7fb850585b1600a3f4f2ae41977995a35db9ded9872a37a886d6c0c0b06"
+  },
+  {
+    "id": "02858d46657be4206e8f104f7463dc80f60a0e89f1bfa23c6c93c04a54c4eee6",
+    "title": "Initia dừng toàn mạng lưới blockchain sau vụ exploit đúc token trái phép, thiệt hại >2,6 triệu USD",
+    "summary": "Mạng blockchain Initia bị halt lúc 15:41 UTC 23/10 (22:41 VN, trong cửa sổ). Nhà nghiên cứu bảo mật Spreek phát hiện attacker đúc 2 triệu AUSD không được đảm bảo qua lỗ hổng trong Move function, chuyển 1,4 triệu AUSD + 105 ETH + 1,08 triệu USDC sang Ethereum, gom thành ví ~1.135,5 ETH (~2,73 triệu USD). Token INIT rơi về ~0,115 USD rồi hồi lên ~0,1496 USD. Initia chưa công bố nguyên nhân chính thức, thời gian khôi phục chưa rõ.",
+    "category": "Công nghệ",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+    "imageUrl": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MZKF3C8AJPVBYK5JQWCAWW/hi-got-crypto-losses-wallet.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 242,
+    "analysis": "Nối tiếp 'tuần lễ bảo mật' crypto/infra (PHP2Shell -> các vụ khai thác hàng loạt).\nCảnh báo nguy cơ lỗ hổng logic DeFi trên các mạng layer-1 mới dùng Move. Nguồn Cointelegraph (đăng 23/10).",
+    "tags": [
+      "Công nghệ",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "095891dc3d8322a8cf0f5c2a097a717bd2f2866f286882ad5e6eb3e2f7377627"
+  },
+  {
+    "id": "cfee14ec017e8e799c54158ebab8f2b59b649e1949ae7763b9c8c7b57bf9f7bd",
+    "title": "Daytona huy động 60 triệu USD Series B, định giá 1 tỷ USD — 'cloud cho AI agents'",
+    "summary": "TechCrunch 23:26 VN 23/10 (trong cửa sổ): Daytona gọi 60 triệu USD Series B do FirstMark Growth dẫn đầu, định giá 1 tỷ USD; tổng gọi vốn 91 triệu USD. Angels: Patrick Collison (Stripe), Tobi Lütke (Shopify), Aravind Srinivas (Perplexity), Eric Yuan (Zoom), Olivier Pomel (Datadog), Adam D'Angelo (Quora/OpenAI), Brendan Foody (Mercor); Qualcomm Ventures, Samsung Next, Okta Ventures tham gia.",
+    "category": "Công nghệ",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 243,
+    "analysis": "Agent cần hạ tầng khác cloud truyền thống: hàng nghìn job ngắn, stateful, chạy không báo trước.\nKhẳng định xu hướng infra-first cho agent economy; tín hiệu dòng vốn vẫn mạnh vào AI infra dù thị trường lo ngại chi phí AI. Nguồn TechCrunch.",
+    "tags": [
+      "Công nghệ",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "becde13b644c3ae48889be6069aeb1a0c9cf5199c23c0b550d9fbf332f060c46"
+  },
+  {
+    "id": "aec355678661b7b5ed71e2bc343cd206b70f6c900b3e01495a9194bced4f8abe",
+    "title": "FPT ký hợp tác với Viện Niels Bohr (Đan Mạch) về điện toán lượng tử",
+    "summary": "arttimes.vn 23/10: ký kết trong khuôn khổ chuyến thăm cấp Nhà nước Đan Mạch của Tổng Bí thư, Chủ tịch nước Tô Lâm; nguyên thủ hai nước chứng kiến thăm phòng lab điện toán lượng tử. Phạm Minh Tuấn (Phó TGĐ FPT, TGĐ FPT Software) và GS Joachim Mathiesen (Viện trưởng) ký MOU: nghiên cứu chung khoa học và CNTT lượng tử, trao đổi nghiên cứu sinh tiến sĩ/chuyên gia, hội thảo định hướng ứng dụng dài hạn.",
+    "category": "Công nghệ",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://arttimes.vn/thong-tin-doanh-nghiep/fpt-bat-tay-cung-vien-khoa-hoc-hon-100-nam-tuoi-cua-dan-mach-c60a84351.html",
+    "imageUrl": "https://cdn.arttimes.vn/upload/4-2026/images/2026-10-23//1792740241-1792736730-931-thumbnail-width740height495_anh_cat_3_2_anh_cat_4_3.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 244,
+    "analysis": "Ngoại giao khoa học VN; Niels Bohr là 'cái nôi' vật lý lượng tử. Trong 24h, chưa từng đưa.\nCơ hội cho kỹ sư VN tiếp cận lab hàng đầu; bước đi chuyển đổi số/khoa học cấp quốc gia. Nguồn arttimes.vn.",
+    "tags": [
+      "Công nghệ",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "113f7140ade0f6e0519fce0182dc2a093c109ec64110eee70d31e6b440319ce6"
+  },
+  {
+    "id": "899dd8eb16a616169810a77bf87be72a423ed0343d0fb733034bad5a1528df28",
+    "title": "Nirva huy động thêm 25 triệu USD cho mặt dây chuyền AI 'chỉ nghe người đeo'",
+    "summary": "TechCrunch 22/10 (trong 24h, chưa đưa): startup 2025 bởi cựu Meta Reality Labs (Wei Lyu, Jason Chen) + Hanying Hu, tổng gọi 33 triệu USD (seed 8 triệu từ Lightspeed, South Park Commons). Thiết bị 8 gram, đeo cổ/vòng tay, pin 3 ngày, chỉ nghe giọng người đeo qua voice profile tạo lúc cài đặt; xóa audio/transcript sau xử lý; suy luận cảm xúc/nhịp giao tiếp từ cao độ, âm lượng, tốc độ. Mở đặt hàng tháng 11, giá 249 USD, giao cuối 2026.",
+    "category": "Công nghệ",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 245,
+    "analysis": "Sóng ambient AI hardware (Amazon+Bee, Ambi, Apple Voice Intelligence).\nCạnh tranh trong wearables AI; câu hỏi quyền riêng tư khi 'always listening'. Nguồn TechCrunch.",
+    "tags": [
+      "Công nghệ",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "2bb60c467f84743b53d43afa9a685886690209a8876e259a97bf9cbfbad48b24"
+  },
+  {
+    "id": "780f914692b5f00765d911499df55983476b5a8dfe55361096bae0bf51650123",
+    "title": "Demo hack iPhone tại Hexacon Paris gây sốt Hacker News — 478 pts/308 comments",
+    "summary": "Nền tảng: Hacker News (item 50211474). Nội dung: blog.calif.io 'Today, we hacked what we'd set out to hack: the iPhone' — loạt demo tại Hexacon Paris: Signal 1-click, iMessage và 'APT stands for Apple Persistent Threat'; bài đăng kèm video demo. Points: 478 | Comments: 308 (ghi nhận 02:30 VN 24/10, Algolia API, front page). Submit 23:21 VN 23/10 — trong cửa sổ. Shares/Reposts: N/A; số bài đăng/cộng đồng độc lập: N/A.",
+    "category": "Hot Trends",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://blog.calif.io/p/iphone",
+    "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/_GJVKVNMczM",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 246,
+    "analysis": "Cộng đồng bảo mật HN tranh luận sôi nổi về bảo mật iPhone/iMessage; nội dung demo từ 16/10 nhưng thảo luận HN bùng lên trong cửa sổ.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu shares, tăng trưởng 24h, tương tác đa nền tảng). Tác động: dấy lên lo ngại về bảo mật iMessage/Signal; chờ chi tiết kỹ thuật khi nhóm công bố.",
+    "tags": [
+      "Hot Trends",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "9330094a7d8b1623ff8527a3261d50f9bc49274f7db81bea80a2f15a09f62d57"
+  },
+  {
+    "id": "1b998981ddb692c30b46fd956bcbcbe906af6fa139c4d70e92c3c4c70fc8d391",
+    "title": "Kimi K3.1 Pro ra mắt chính thức — 379 pts/206 comments (DIỄN BIẾN MỚI)",
+    "summary": "Nền tảng: Hacker News (item 50212065). Nội dung: blog kimi.ai/blog/kimi-k3-1-pro — 'most capable 3T-class open-weight model, 1M-token context', tiến bộ lớn về coding, 3D modeling, financial research. Points: 379 | Comments: 206 (ghi nhận 02:40 VN 24/10, Algolia API). Có 3 bài đăng độc lập về K3.1 Pro trên HN trong 24h. Shares/Reposts: N/A.",
+    "category": "Hot Trends",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "imageUrl": "https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 247,
+    "analysis": "Ra mắt chính thức sau chuỗi teaser/kimi-k3.1 trên Kibitz Arena đã đưa các số trước — góc diễn biến mới, URL khác.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu shares, tăng trưởng 24h, tương tác đa nền tảng). Tác động: củng cố cuộc đua open-weight vs closed models.",
+    "tags": [
+      "Hot Trends",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "974d5505fc3573280ad14ffb847331ea15674cc176c507a45cb47f24f27cf9c0"
+  },
+  {
+    "id": "994c16cf372697de2e715e02d55b49acacb6a20c4559808ac7fc9bfee8c2eceb",
+    "title": "'UUIDv7 doesn't have the properties you think it does' — 59 pts/38 comments",
+    "summary": "Nền tảng: Hacker News. Nội dung: blog alexsci.com phân tích các hiểu lầm phổ biến về UUIDv7 (tính sortable/time-ordered). Points: 59 | Comments: 38 (ghi nhận 02:20 VN 24/10, Algolia API). Submit 23:39 VN 23/10 — trong cửa sổ. Shares/Reposts: N/A.",
+    "category": "Hot Trends",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 248,
+    "analysis": "Cộng đồng dev bàn luận sôi nổi về thiết kế ID trong hệ thống phân tán.\nĐiểm HOT: Chưa đủ dữ liệu. Tác động: cảnh báo kỹ thuật cho dev dùng UUIDv7 trong DB phân tán. Không có thumbnail (blog không og:image).",
+    "tags": [
+      "Hot Trends",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "ce3a46eef81a9ebc5779b8daeba92dfb967fbeeec0d95a6bc3b60de3a1248da0"
+  },
+  {
+    "id": "2097c63507117ca9c499bb67a123aeb72981f520884bb39a1ed6265436cae694",
+    "title": "Gemma-4-26B-A4B: giảm 39-69% 'thinking' cùng độ chính xác — 63 pts/8 comments",
+    "summary": "Nền tảng: Hacker News. Nội dung: bài bottlecapai.com về kỹ thuật cắt giảm thinking tokens cho model Gemma-4 26B mà vẫn giữ accuracy. Points: 63 | Comments: 8 (ghi nhận 02:20 VN 24/10, Algolia API). Submit 21:43 VN 23/10 — ngay trước cửa sổ, trong 24h, chưa từng đưa. Shares/Reposts: N/A.",
+    "category": "Hot Trends",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 249,
+    "analysis": "Chủ đề tối ưu chi phí inference đang nóng giữa làn sóng lo ngại chi phí AI.\nĐiểm HOT: Chưa đủ dữ liệu. Caveat: nguồn blog đơn (bottlecapai), chưa kiểm chứng độc lập. Không có thumbnail.",
+    "tags": [
+      "Hot Trends",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "3beac102c5ab15771d5aa78878f0c8a75c3d633e2fe3754d4c23167f29993b51"
+  },
+  {
+    "id": "0486adcea191ae3466516f7719ff65cb418fde879da3cf2f88c36286995b1b5d",
+    "title": "Daytona — hạ tầng cloud chuyên cho AI agents (dev)",
+    "summary": "Tính năng: sandbox tạo trong <90ms; chạy mã AI sinh ra trong môi trường cô lập; desktop ảo Linux/Windows/macOS điều khiển bằng code (Computer Use); API File/Git/LSP/Execute; secrets nằm ngoài sandbox; SSH, VS Code browser, web terminal. Điểm mới: hạ tầng thiết kế cho agent (khác cloud truyền thống cho long-lived services); vừa gọi 60 triệu USD Series B, định giá 1 tỷ USD (23/10).",
+    "category": "Đáng thử",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://www.daytona.io/",
+    "collectedAt": "2026-10-23T20:23:50.087Z",
+    "sourceRow": 250,
+    "analysis": "Ứng dụng thực tế: chạy và kiểm thử code do AI agents sinh ra an toàn; evals, desktop automation, CI cho agentic workflows.\nHạn chế: công cụ dev, không phải consumer; cần kỹ thuật để dùng SDK. Giá: chưa xác minh free tier/pricing. Link chính thức: https://www.daytona.io/",
+    "tags": [
+      "Đáng thử",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "209c40922658184fd5d2f639009be8c2006f7889c8152e0ec23df8797169d2ac"
   }
 ]
