@@ -11375,5 +11375,357 @@
     ],
     "language": "vi",
     "contentHash": "5adc304494471cc584895ce7bd661c6e7582f5e56d3f6f9d267417c39c8cc55f"
+  },
+  {
+    "id": "a7d7db15e94a2aa64dd3fa92e6c4e393d50a17e3df7c2f862802737f86c8d7f3",
+    "title": "Israel bầu cử Quốc hội ngày 27/10: không khối nào chắc đủ 61 ghế, tương lai Netanyahu phụ thuộc đàm phán liên minh",
+    "summary": "Khoảng 7,3 triệu cử tri bầu 120 ghế Knesset; 38 đảng đăng ký, khoảng 11 đảng qua ngưỡng 3,25%. Điểm bỏ phiếu mở 7h-22h giờ địa phương. Thăm dò tổng hợp (4 thăm dò qua Indian Express/CFR): khối Netanyahu 48-51 ghế, phe chống Netanyahu 51-55 ghế, đảng Ả Rập 13-14 ghế — không bên nào đạt 61 ghế. Kết quả chính thức công bố tới ngày 4/11.",
+    "category": "Quốc tế",
+    "section": "A - TOP 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://indianexpress.com/article/world/israel-elections-2026-benjamin-netanyahu-knesset-election-polls-results-opposition-coalition-government-10936540/",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 606,
+    "analysis": "Bầu cử đầu tiên kể từ vụ tấn công 7/10/2023. Vấn đề quyết định: trách nhiệm an ninh 7/10, nghĩa vụ quân sự cho nam giới siêu chính thống, chi phí sinh hoạt, cải cách tư pháp và vị thế quốc tế. Giờ chót trước bầu cử: Netanyahu tung chiến dịch video dày đặc, Eisenkot kêu gọi 'knockout' thay vì hòa, Trump tái ủng hộ Netanyahu.\nTác động: chính phủ mới khó hình thành nhanh, đàm phán liên minh có thể kéo dài nhiều tuần, thậm chí bầu cử lại nếu không đủ 61 ghế. CFR nhận định đường lối với Iran/Lebanon/Syria ít thay đổi dù ai thắng; thay đổi chủ yếu ở giọng điệu và vấn đề định cư Bờ Tây. Rủi ro: bế tắc chính trị ngay trước các mốc Fed 28/10 và bầu cử giữa kỳ Mỹ 3/11.",
+    "tags": [
+      "Quốc tế",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "1517204180b14599770f10623960f46e3195134b0f5e651eaccf8ca1e7385d3c"
+  },
+  {
+    "id": "1697fe9d426dc3dc5939cd1a6cb0eb5f43cd3827164dc56b129b036a1a25192b",
+    "title": "Microsoft đề nghị mua lại tự nguyện cho khoảng 60.000 nhân viên — hơn 1/4 lực lượng lao động toàn cầu",
+    "summary": "Microsoft xác nhận với TechCrunch ngày 26/10: 'Voluntary Exit Offer' cho khoảng 60.000 nhân viên, tương đương khoảng 27% trên tổng 223.000 nhân viên cuối tháng 6/2026. Đối tượng: cấp phó chủ tịch trở xuống tại các nhóm được chọn ở Mỹ, Canada, Ấn Độ và Anh; loại trừ trung tâm dữ liệu, bán hàng và marketing. Quyền lợi tương đương gói trợ cấp thôi việc tiêu chuẩn. Trước đó trong năm 2026, Microsoft từng đề nghị buyout cho khoảng 8.750 nhân viên tuổi nghỉ hưu, hơn 30% đã chấp nhận.",
+    "category": "Công nghệ & AI",
+    "section": "A - TOP 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 607,
+    "analysis": "Giám đốc nhân sự Amy Coleman gửi thông báo nội bộ ngày 26/10. Microsoft dự kiến chi 175 tỷ USD capex năm 2026 cho AI và báo cáo kết quả kinh doanh sau đóng cửa phiên thứ Tư. Công ty từng cắt 4.800 việc làm tháng 7/2026 (2,1% lực lượng lao động), chủ yếu mảng Xbox.\nTác động: cách giảm chi phí ít gây sốc hơn sa thải hàng loạt, nhưng là tín hiệu mạnh rằng Big Tech tiếp tục thu hẹp lao động văn phòng để dồn vốn cho AI. Rủi ro: mất nhân tài, giảm tinh thần nhân viên; nhà đầu tư chờ tỷ lệ chấp nhận thực tế và kết quả kinh doanh thứ Tư để đánh giá chiến lược.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "f3e7a96a05bff76b0608791f645b90de2ce19b8761d2c4e513b1212f46f1c811"
+  },
+  {
+    "id": "ef1eca714d08bd81e602a77a98630eab0fd6bef2a9b4ca8003273940310242ca",
+    "title": "OpenAI ra mắt GPT-6.1 Terra: model tầm trung cho suy luận hình ảnh và sử dụng máy tính, giá rẻ hơn một nửa",
+    "summary": "Ra mắt ngày 26/10 (công bố rạng sáng 27/10 giờ VN): GPT-6.1 Terra cho suy luận hình ảnh chi tiết và sử dụng máy tính chính xác. Giá API 1 USD input / 5 USD output mỗi 1 triệu token, bằng nửa GPT-5.6 Terra (2/12 USD); cache input 0,05 USD. Tốc độ làm tác vụ máy tính nhanh hơn 3 lần theo OpenAI. Tỷ lệ lỗi trên prompt gây lỗi ở mức suy luận thấp giảm từ 53,6% xuống 16,7%, ở mức tối đa còn 4,3%. Có mặt trên ChatGPT Work, Codex và API.",
+    "category": "Công nghệ & AI",
+    "section": "A - TOP 5",
+    "sourceUrl": "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier",
+    "imageUrl": "https://cdn.sanity.io/images/6vfeftx9/articles/c917f59434acb8a0d4a5b793170e52cbcfa74d39-2960x2160.png?w=1200&auto=format",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 608,
+    "analysis": "Dòng GPT-6 gồm Luna/Terra/Sol/Astra. Artificial Analysis: Intelligence Index tăng 6 điểm ở mức effort tối đa với chi phí mỗi tác vụ dưới 1/3 (0,40 USD so với 1,40 USD); Coding Agent Index 48 điểm (Sol 54, Luna 31); tỷ lệ đoán mò trong AA-Omniscience giảm từ 88% xuống 38%, đồng thời độ chính xác tăng 2 điểm.\nCơ hội: tự động hóa công việc văn phòng/máy tính rẻ hơn đáng kể, ép giá phân khúc model tầm trung. Rủi ro: phần lớn benchmark do hãng công bố hoặc bên thứ ba đo chưa kiểm chứng độc lập toàn diện; cuộc đua giá diễn ra ngay sau hồ sơ IPO của Anthropic, làm nóng thêm tranh luận về lợi nhuận của AI.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "ebccbf1c3ddae83456f2c8be107b7f2447b3492249349bb73c9620ab85a15978"
+  },
+  {
+    "id": "d9a602639c477d465b97afd3ca33764765652603a12cc0df0eb376e162fac35a",
+    "title": "Phố Wall tăng trong phiên 26/10 nhờ cổ phiếu AI và dầu hạ nhiệt — chưa có mức đóng cửa lúc 02:15 giờ VN",
+    "summary": "Trong phiên 26/10 lúc 11:30 giờ miền Đông Mỹ (Reuters): Dow +0,32% lên 52.383,68; S&P 500 +0,92% lên 7.693,85; Nasdaq +1,25% lên 26.280,50. Cổ phiếu chip tăng đầu phiên (Nvidia khoảng +1,4%, Micron +2,3%). Đóng cửa thứ Sáu 23/10: Dow 52.215,16 (-1,23%), S&P 500 7.623,68 (-0,52%), Nasdaq 25.955,34 (-0,21%).",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - TOP 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 609,
+    "analysis": "Động lực: hồ sơ IPO của Anthropic (niêm yết Nasdaq, mã ANT; doanh thu 6 tháng đầu 2026 là 16,29 tỷ USD so với khoảng 1,16 tỷ USD cùng kỳ), dầu hạ nhiệt, và chờ kết quả kinh doanh của Microsoft/Alphabet/Amazon cùng quyết định của Fed ngày 28/10.\nLưu ý quan trọng: lúc 02:15 giờ VN phiên Mỹ chưa đóng cửa (đóng khoảng 03:00 giờ VN) nên các mức trên là số trong phiên, không phải đóng cửa — cần cập nhật số chính thức ở bản sau. Nếu đà tăng giữ được, đây sẽ là phiên hồi phục sau 2 tuần giảm của nhóm công nghệ; nếu đảo chiều cuối phiên, tâm lý risk-off có thể quay lại.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "456aa343b63cf22f940a32eaad1ca1f912a08199f8c024ee8bbfd86c0f53181d"
+  },
+  {
+    "id": "82190b58f519ec2918f9a5c0745d188053c638e730df92f42b654ac6a5d2ffe6",
+    "title": "NBA bắt tay thị trường dự đoán Kalshi và Polymarket, ký thỏa thuận toàn vẹn với cơ quan quản lý Mỹ",
+    "summary": "NBA công bố ngày 26/10: Kalshi và Polymarket trở thành 'Preferred Prediction Market Exchange' của giải, nhận dữ liệu chính thức (qua Sportradar) và quyền dùng logo/IP của NBA. DraftKings mở rộng hợp tác sang mảng prediction markets. NBA đồng thời ký biên bản ghi nhớ (MOU) với Ủy ban Giao dịch Hàng hóa Tương lai Mỹ (CFTC) về chia sẻ thông tin và bảo vệ toàn vẹn trận đấu.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - TOP 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 610,
+    "analysis": "NBA là giải lớn thứ ba sau MLB và NHL làm điều này. Trước đó NBA từng lo ngại thị trường dự đoán thiếu biện pháp bảo vệ toàn vẹn; thỏa thuận mới giới hạn loại thị trường được niêm yết và cấm nhân sự giải đấu/đội giao dịch hợp đồng NBA. Ngược lại, NFL từ chối hợp tác và đứng về phía các bang cho rằng đây là cờ bạc thuộc luật bang; Tòa án Tối cao Mỹ được đề nghị phân xử.\nTác động: củng cố tính hợp pháp cho thị trường dự đoán thể thao và mở nguồn doanh thu dữ liệu cho các giải đấu. Rủi ro pháp lý vẫn còn (2 trong 3 phán quyết liên bang gần đây nghiêng về các bang), cùng tranh cãi về cờ bạc, giao dịch nội gián và bảo vệ người hâm mộ trẻ tuổi.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - TOP 5"
+    ],
+    "language": "vi",
+    "contentHash": "201bc3adf53c79296c2ae068658906f5cb0c15b0d9340fa69c272e5062826b02"
+  },
+  {
+    "id": "4ab3de96fcd9b602583b50f2e13ccb7b2fc0151e1e1c5cc330faf2959386dabb",
+    "title": "Dầu Brent lùi về quanh 114-115 USD/thùng sau đỉnh 116,72 USD, WTI quanh 101 USD",
+    "summary": "Brent giảm 1,89% về 114,51 USD/thùng, WTI giảm 2,16% về 101,04 USD/thùng (sáng 26/10, theo Reuters). Chốt tuần trước: Brent 116,72 USD (cao nhất từ 29/4, +6% trong tuần), WTI 103,27 USD. Chiều 26/10 theo Reuters: Brent quanh 114,70 USD (-1,7%), WTI 100,71 USD (-2,5%).",
+    "category": "Năng lượng",
+    "section": "B - KINH TẾ",
+    "sourceUrl": "https://grafa.com/en/news/united-states/oil-prices-fall-iran-diplomacy-saudi-supply-risks",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 611,
+    "analysis": "Lý do hạ nhiệt: trung gian Qatar tới Tehran ngày 25/10 phối hợp với Mỹ; ngày 26/10 phái đoàn Saudi/Pakistan/Thổ Nhĩ Kỳ gặp lãnh đạo Iran tại Tehran và đồng ý tiếp tục đối thoại. Nhưng Houthi vẫn tuyên bố tấn công sân bay Riyadh và trạm bơm trên đường ống Đông-Tây của Saudi; Saudi nói đã chặn thêm tên lửa và drone.\nHạ nhiệt ngắn hạn nhưng biến động vẫn cao: Trump chưa bác khả năng tấn công sau bầu cử giữa kỳ 3/11. Dầu quanh 115 USD duy trì áp lực lạm phát ngay trước quyết định của Fed ngày 28/10; với Việt Nam, giá dầu cao kéo dài sẽ ảnh hưởng giá xăng dầu kỳ điều hành tới và chi phí logistics.",
+    "tags": [
+      "Năng lượng",
+      "B - KINH TẾ"
+    ],
+    "language": "vi",
+    "contentHash": "b6a57b4caf1cb9fc6b764227734fd9a3555987e910ec751d5eb0d2013a895874"
+  },
+  {
+    "id": "8110a62141142975ec3bd0c905671fb2ee25c25fcb40620c5fae3543804ef12c",
+    "title": "Meta lên kế hoạch huy động tới 95 tỷ USD cho hạ tầng AI — đợt gọi vốn cổ phần lớn nhất của hãng",
+    "summary": "Meta công bố ngày 26/10: đợt phát hành khoảng 35 tỷ USD (22,5 tỷ USD cổ phiếu phổ thông Class A qua forward sale + 12,5 tỷ USD depositary shares của cổ phiếu ưu đãi chuyển đổi bắt buộc) và chương trình bán cổ phiếu Class C theo thị trường tới 60 tỷ USD, dự kiến từ quý 1/2027 (chưa chốt điều khoản). Nvidia, AMD và Broadcom bày tỏ quan tâm tới 5 tỷ USD cổ phiếu Class A. Capex 2026 của Meta dự kiến 135-145 tỷ USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - KINH TẾ",
+    "sourceUrl": "https://srnnews.com/meta-to-raise-up-to-95-billion-in-equity-to-fund-costly-ai-expansion/",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 612,
+    "analysis": "Meta đang tạo cổ phiếu Class C không quyền biểu quyết (dự kiến giao dịch từ 19/1/2027). Quý 3/2026 doanh thu Meta đạt 64,6 tỷ USD nhưng chi phí pháp lý kéo lợi nhuận xuống. Trước đó Alphabet cũng tăng quy mô phát hành cổ phiếu lên 84,75 tỷ USD trong năm nay.\nCơ hội: đảm bảo vốn cho tham vọng 'siêu trí tuệ cá nhân'. Rủi ro: dấy lên lo ngại 'vòng tròn vốn' — nhà cung cấp chip tài trợ cho khách hàng lớn nhất của mình; cổ phiếu Meta giảm khoảng 1,4% trong phiên sáng 26/10. Giới phân tích (William Blair) cảnh báo nhà đầu tư sẽ tiếp tục chất vấn khả năng Meta phải huy động thêm.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - KINH TẾ"
+    ],
+    "language": "vi",
+    "contentHash": "1fba0cfca04db90cccfac422c078fc233b54408b783f3df224a17eccf2d7393d"
+  },
+  {
+    "id": "b65e138180c4feb821cbef2a22c7e4a681d3fad3084e1d953f9549da9b7452a2",
+    "title": "SpaceX chốt gói thuê chip AI khoảng 40 tỷ USD với Apollo, dùng chip Nvidia Vera Rubin",
+    "summary": "Theo hồ sơ công bố thứ Hai 26/10 (TechCrunch đăng 23:46 giờ VN, trong cửa sổ): thực thể do Apollo Global Management quản lý sẽ mua chip AI và phần cứng máy chủ rồi cho SpaceX thuê lại; tổng tiền thuê gốc khoảng 40 tỷ USD, mỗi hợp đồng thuê kéo dài khoảng 5-5,25 năm kể từ khi thiết bị được giao. Dự kiến chốt trước cuối 2026, thuê bắt đầu nửa đầu 2027. Apollo cho biết gói này phục vụ chip Nvidia thế hệ Vera Rubin cho mảng compute mặt đất của SpaceX. CFO Bret Johnsen nói SpaceX kỳ vọng capex riêng quý 4 là 35-40 tỷ USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - KINH TẾ",
+    "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 613,
+    "analysis": "Musk ngày 25/10 nói đã 'chốt' 40 tỷ USD tài trợ GPU. Theo TechCrunch, mảng AI của SpaceX (gồm Grok, công cụ code Cursor và compute) đạt doanh thu 7,6 tỷ USD trong tổng 14,6 tỷ USD quý 3, vượt Starlink và phóng tên lửa cộng lại; capex quý 3 gần 20 tỷ USD (từ 6,9 tỷ USD cùng kỳ).\nMô hình thuê tài sản giúp SpaceX tránh phát hành trái phiếu truyền thống khi thị trường nợ cho AI thắt chặt — Musk nói thị trường nợ 'gần như đóng cửa' với công ty không có doanh thu độc lập với trung tâm dữ liệu AI. Rủi ro: nghĩa vụ thuê dài hạn khoảng 40 tỷ USD, lãi suất chưa chốt; cho thấy vốn tư nhân đang thay ngân hàng tài trợ hạ tầng AI.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - KINH TẾ"
+    ],
+    "language": "vi",
+    "contentHash": "51094bdcbc1e78a82291dcf4d983c28f13361b5bfeace46e8bd10f3b071cfff8"
+  },
+  {
+    "id": "997013a7c6443470fc2830a6d6325e7e5a384eac2e768e7ce7dbd9de02fad22b",
+    "title": "Brazil: chứng khoán và đồng real lao dốc sau chiến thắng của Lula, Bolsonaro đòi hủy kết quả",
+    "summary": "Bản tin lúc 23:08 giờ VN 26/10 (trong cửa sổ, FMT/AFP): sau khi Lula thắng vòng 2 với 51,8% (hơn Bolsonaro khoảng 4,4 triệu phiếu), Ibovespa kích hoạt ngắt mạch khi giảm 10%, trong phiên có lúc -17% xuống 169.516 điểm; đồng real mất hơn 12%, USD lên 5,6055 real (cao nhất 10 tháng); ETF iShares MSCI Brazil (EWZ) có lúc -25% đến -27,3%; MercadoLibre -10%, Nu Holdings -21%.",
+    "category": "Thị trường mới nổi",
+    "section": "B - KINH TẾ",
+    "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/10/27/lula-celebrates-election-win-as-brazil-s-markets-tumble",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 614,
+    "analysis": "Thị trường trước đó đặt cược Bolsonaro thắng (sau vòng 1, cổ phiếu tăng gần 7%, real mạnh gần 5%). Bolsonaro từ chối thừa nhận thất bại, đòi hủy kết quả với cáo buộc Tòa án Tối cao thay đổi quy tắc khi kéo dài giờ bỏ phiếu phút chót; Trump chưa bình luận tính đến đêm 26/10.\nBán tháo ngắn hạn do đảo vị thế; trung hạn phụ thuộc chính sách tài khóa của Lula — liệu có siết chi tiêu đủ để hạ lãi suất và ổn định nợ công hay không. Rủi ro bất ổn chính trị nếu tranh chấp kết quả kéo dài; nhà đầu tư thị trường mới nổi theo dõi hiệu ứng lan tỏa sang Mexico và các đồng tiền khu vực.",
+    "tags": [
+      "Thị trường mới nổi",
+      "B - KINH TẾ"
+    ],
+    "language": "vi",
+    "contentHash": "3807b8443d75daa5965a5d8c81d325fdd2f3def3e732d65014cc057c1f3ff3c2"
+  },
+  {
+    "id": "0c219a41f678d570c66bee9f539855349cc6219792df2de8e516f9624ba6ced7",
+    "title": "Bitcoin giằng co quanh mốc 80.000 USD trước quyết định của Fed",
+    "summary": "Ngày 26/10: Bitcoin khoảng 80.189-80.468 USD, dao động trong ngày 79.322-80.819 USD, có lúc rơi dưới 80.000 USD. Cuối tuần trước Bitcoin rơi xuống 79.146 USD ngày thứ Bảy, hơn 810 triệu USD vị thế bị thanh lý; ETF Bitcoin giao ngay của Mỹ rút ròng khoảng 773 triệu USD trong 2 phiên 22-23/10 (theo SoSoValue qua nguồn thứ cấp).",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - KINH TẾ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.capitalstreetfx.com/market-analysis/daily-crypto-analysis-26-oct-2026/",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 615,
+    "analysis": "Kỹ thuật: Bitcoin dưới đường trung bình 50 ngày (khoảng 81.850 USD), kháng cự 84.000-85.000 USD, hỗ trợ gần 78.400-79.220 USD; Ether quanh 2.336 USD. Bối cảnh: vàng giảm hơn 4% tuần trước, dầu trên 114 USD, Fed họp 27-28/10 với kỳ vọng giữ nguyên lãi suất.\nTâm lý risk-off lan từ cổ phiếu công nghệ sang tiền số. Nếu thủng 78.400 USD có thể kích hoạt thêm thanh lý; ngược lại, tín hiệu ôn hòa từ Fed ngày 28/10 có thể giúp hồi phục. Không phải khuyến nghị đầu tư; số liệu ETF từ nguồn thứ cấp, cần đối chiếu SoSoValue khi có dữ liệu chính thức.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - KINH TẾ"
+    ],
+    "language": "vi",
+    "contentHash": "8d22fd757b5b3e04bd634c02d4a039761610142571314deebdd2d3f86d679581"
+  },
+  {
+    "id": "7b71c3985c4e329e3a97402d86231357ed03d6936d7cb177dd0c2ba1495d2c61",
+    "title": "Người phụ nữ đi đón con tử vong sau va chạm với xe đầu kéo trên quốc lộ 13, TP.HCM",
+    "summary": "Hơn 16h ngày 26/10, trên quốc lộ 13 (giao đường Cách Mạng Tháng Tám, phường Thủ Dầu Một, TP.HCM), xe đầu kéo container 61C-043.xx va chạm với xe máy 60H6-177.xx do chị N.T.T.L. (38 tuổi, quê Đồng Tháp) điều khiển. Chị L. ngã xuống đường, bị xe đầu kéo cán tử vong tại chỗ. Nạn nhân đang trên đường đón con học ở trường THPT gần hiện trường; khi quay đầu xe để vòng lại hướng cổng trường thì gặp nạn.",
+    "category": "An toàn giao thông",
+    "section": "B - XÃ HỘI",
+    "sourceUrl": "https://dantri.com.vn/thoi-su/nguoi-phu-nu-bi-xe-can-tu-vong-tren-duong-di-don-con-o-tphcm-20261026205229060.htm",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 616,
+    "analysis": "Tối 26/10, Công an TP.HCM khám nghiệm hiện trường, điều tra nguyên nhân; Đội CSGT Bình Triệu (PC08) điều tiết giao thông. Bài báo đăng 22:40 giờ VN 26/10 — trong cửa sổ bản tin này. Báo Xây dựng đưa cùng vụ việc với biển số đầy đủ hơn (61C-043.22; 60H6-177.25).\nCảnh báo an toàn khi quay đầu xe trên quốc lộ đông xe container, đặc biệt giờ tan tầm và khu vực cổng trường. Nguyên nhân va chạm chưa được công bố — không suy đoán lỗi thuộc bên nào khi chưa có kết luận điều tra.",
+    "tags": [
+      "An toàn giao thông",
+      "B - XÃ HỘI"
+    ],
+    "language": "vi",
+    "contentHash": "295d70a5ceb63c8ba35089e8bdbb29bbd8aa851a0af874941ddaab490e8a9094"
+  },
+  {
+    "id": "5d305b110ce72889885b14cc6947251607161313ecb2596994470a741ecec1a7",
+    "title": "Triều cường ngập nhiều tuyến phía Nam TP.HCM đúng giờ tan tầm, đỉnh triều đợt này vào ngày 27/10",
+    "summary": "Từ khoảng 16h ngày 26/10, triều cường dâng gây ngập nhiều tuyến phía Nam TP.HCM: Trần Xuân Soạn, Phạm Hữu Lầu, Nguyễn Văn Quỳ, Nguyễn Văn Linh, Nguyễn Hữu Thọ, Nguyễn Bình, Nguyễn Văn Tạo. Giao lộ 15B - Phạm Hữu Lầu ngập sâu nhất, có nơi nửa bánh xe máy; giao thông ùn ứ cục bộ đúng giờ tan tầm. Khoảng 50 bạn trẻ phường Tân Mỹ túc trực tại 3 điểm hỗ trợ dắt xe chết máy.",
+    "category": "Công nghệ & AI",
+    "section": "B - XÃ HỘI",
+    "region": "Quốc tế",
+    "sourceUrl": "https://thanhnien.vn/trieu-cuong-ngay-2610-nhieu-tuyen-duong-tphcm-ngap-nuoc-ngay-gio-tan-tam-185261026181858523.htm",
+    "imageUrl": "https://images2.thanhnien.vn/528068263637045248/2026/10/26/tnw-dsc07496-17930126821532090355792.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 617,
+    "analysis": "Đài Khí tượng Thủy văn Nam Bộ (qua Thanh Niên 18:39 ngày 26/10): đỉnh triều đợt 26-28/10 (17-19/9 âm lịch) tại Phú An và Nhà Bè 1,65-1,70m (vượt báo động 3 từ 0,05-0,10m), Thủ Dầu Một 1,77-1,83m (vượt 0,17-0,23m), đỉnh lúc 5-7h và 17-20h hằng ngày. TTXVN đưa mức cao hơn cho ngày 27/10 (Thủ Dầu Một khoảng 1,88m lúc 19h, Phú An khoảng 1,73m lúc 18h) — hai nguồn lệch nhau, không gộp thành một con số.\nNgập đúng giờ tan tầm cộng đỉnh triều hôm nay 27/10: người dân vùng trũng ven sông cần theo dõi bản tin triều, tránh đi vào điểm ngập sâu, chủ động di dời tài sản; rủi ro thiên tai cấp 2 theo TTXVN. Chưa có số liệu thực đo đỉnh triều đêm 26/10 rạng sáng 27/10.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - XÃ HỘI"
+    ],
+    "language": "vi",
+    "contentHash": "20e9358347ff6ea71a63e7d6b2727b2166e211bc28eae2bc31b622965192839a"
+  },
+  {
+    "id": "bad72adf7fe123ade0429c6e40c2e259adc54020c2aec3fe1ebba377f2faa42b",
+    "title": "Mưa lớn Hà Tĩnh - Đà Nẵng từ chiều tối 27/10: chuyên gia nói chưa có dấu hiệu mưa cực đoan",
+    "summary": "Từ chiều tối 27/10 đến hết 29/10, Hà Tĩnh - Đà Nẵng mưa vừa/mưa to, phổ biến 60-120mm, cục bộ trên 250mm, nguy cơ trên 100mm trong 3 giờ (Trung tâm Dự báo Khí tượng Thủy văn Quốc gia). Điểm mới chiều 26/10: chuyên gia của Trung tâm nói 'đến thời điểm nay chưa ghi nhận dấu hiệu xuất hiện mưa cực đoan' dù đới gió đông hoạt động mạnh hơn. Ngày 27/10: Thanh Hóa - Huế mưa rào/dông rải rác, cục bộ mưa to, từ chiều tối mới bắt đầu mưa vừa/mưa to; Đà Nẵng tương tự.",
+    "category": "Công nghệ & AI",
+    "section": "B - XÃ HỘI",
+    "region": "Việt Nam",
+    "sourceUrl": "https://thanhnien.vn/4-tinh-mien-trung-mua-lon-3-ngay-co-noi-tren-250-mm-185261026172931059.htm",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 618,
+    "analysis": "Ban Chỉ đạo Phòng thủ dân sự quốc gia (văn bản 58 tối 26/10) yêu cầu các tỉnh rà soát, sơ tán vùng trũng/lũ quét/sạt lở, trực hồ chứa, kiểm soát giao thông tại ngầm tràn và cấm người/phương tiện qua lại nếu không đảm bảo an toàn.\nRủi ro chính dồn vào chiều tối 27/10 đến 29/10, không phải sáng 27/10. 'Chưa cực đoan' không có nghĩa là không ngập cục bộ: người dân miền Trung cần cập nhật bản tin từng giờ, đặc biệt vùng ven biển và hạ lưu hồ chứa.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - XÃ HỘI"
+    ],
+    "language": "vi",
+    "contentHash": "ccb0ab5e9ec19034f70eafdf32afacc5090691643690e2e010ac811a8aef5af8"
+  },
+  {
+    "id": "24701400100da13432fbc91ca044cc770754cced3cc7bfad52a69289e49992ae",
+    "title": "Hà Nội: tuần qua 429 ca sốt xuất huyết, 29 ổ dịch còn hoạt động; cúm A nặng gia tăng",
+    "summary": "CDC Hà Nội (qua Hà Nội Online ngày 26/10): trong tuần qua Hà Nội ghi nhận 429 ca sốt xuất huyết, 153 ca tay chân miệng và 4 ca sởi; riêng sốt xuất huyết còn 29 ổ dịch đang hoạt động. Cùng ngày, Hà Nội Online cảnh báo cúm A gia tăng nhanh ở phía Bắc, nhiều ca nặng phải nhập viện do biến chứng viêm phổi, suy hô hấp, tập trung ở trẻ nhỏ, người cao tuổi và người có bệnh nền.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - XÃ HỘI",
+    "region": "Việt Nam",
+    "sourceUrl": "https://hanoionline.vn/chu-dong-phong-dich-benh-khi-thoi-tiet-chuyen-mua-246261026170706237.htm",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 619,
+    "analysis": "Thời tiết chuyển mùa thuận lợi cho muỗi truyền bệnh và virus hô hấp. Đây là số liệu Hà Nội, khác với sốt xuất huyết Gia Lai (9.143 ca, 1 tử vong — đã đưa ở số trước).\nNgười dân cần diệt bọ gậy, ngủ màn, đưa trẻ và người cao tuổi tiêm phòng cúm; cơ sở y tế chuẩn bị cho đỉnh dịch chuyển mùa. Lưu ý: số liệu chỉ từ 1 hệ nguồn (Hà Nội Online/CDC Hà Nội), chưa có số liệu toàn quốc cập nhật trong cửa sổ.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - XÃ HỘI"
+    ],
+    "language": "vi",
+    "contentHash": "90eb0742d494010d6e9d9f00aad31a98090930037b10f6cf1aa740ca1ac724e4"
+  },
+  {
+    "id": "03faf42a1bc216688a68a805d59c5c45613fd8b89354ef5fcbbd64352bb80a9a",
+    "title": "Cảnh sát Seoul phá đường dây hack dùng AI: đánh cắp 8,2 triệu dữ liệu từ hơn 90 tổ chức",
+    "summary": "Cảnh sát Seoul công bố ngày 26/10: 7 nghi phạm bị bắt, cáo buộc đánh cắp 8,2 triệu mẩu dữ liệu cá nhân và tài liệu nội bộ từ hơn 90 thực thể (bệnh viện, học viện tư, sân golf, trường đại học, công ty con tập đoàn lớn) trong giai đoạn 9/2025-10/2026. AI được dùng để hack 60 mục tiêu — theo báo Hàn, từ 31/8 kẻ cầm đầu dùng AI coding agent và công cụ pentest tự động để xâm nhập 60 công ty chỉ trong hơn 40 ngày. Nhóm tống tiền 38 nạn nhân tổng cộng 360 triệu won (khoảng 272.000 USD); chỉ 1 doanh nghiệp nhỏ trả 300.000 won.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - CÔNG NGHỆ",
+    "sourceUrl": "https://m-en.yna.co.kr/view/AEN20261026005800315",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 620,
+    "analysis": "Kẻ cầm đầu 32 tuổi, tự học hack qua blog/YouTube, từng làm mock-hacking tại công ty bảo mật 2019-2022; bị chuyển viện kiểm sát ngày 23/10, 6 đồng phạm đang bị điều tra không giam giữ.\nMinh chứng rõ rằng AI đang hạ thấp rào cản cho tấn công có chủ đích quy mô lớn. Doanh nghiệp cần rà soát log truy cập, khóa API lộ lọt, diễn tập ứng phó tống tiền. Caveat: chi tiết '60 công ty/40 ngày' và tên công cụ chỉ từ báo Hàn, không có trong bản tin Yonhap tiếng Anh; cảnh sát nói chưa xác lập liên hệ với vụ rò rỉ tài chính gần đây.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - CÔNG NGHỆ"
+    ],
+    "language": "vi",
+    "contentHash": "dfc7eab4241fd26391910c1ff464bb7c06378d1cd90097cd7dec657d5276e76b"
+  },
+  {
+    "id": "c2a1465483833a776153319ff70d02aeecd53e189329f68597f2cb1d07a65d9d",
+    "title": "GPT-6.1 Terra lên AI Gateway của Vercel: dùng ngay qua API với cửa sổ ngữ cảnh hơn 1 triệu token",
+    "summary": "Vercel đưa GPT-6.1 Terra lên AI Gateway ngày 26/10: model nhận text và ảnh, trả text, cửa sổ ngữ cảnh hơn 1 triệu token, hỗ trợ reasoning effort tùy chỉnh, structured outputs, tool calling và prompt caching; có bản fast (gpt-6.1-terra-fast) cho tác vụ nhạy độ trễ. Dùng qua AI SDK, Chat Completions API, Responses API và các coding agent như Codex, Cursor. AI Gateway phản ánh đúng giá nhà cung cấp, không thu phí nền tảng trên inference.",
+    "category": "Công nghệ & AI",
+    "section": "B - CÔNG NGHỆ",
+    "sourceUrl": "https://vercel.com/changelog/gpt-6-1-terra-now-available-on-ai-gateway",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 621,
+    "analysis": "Góc triển khai của tin ra mắt ở Phần A: giá API 1 USD input / 5 USD output mỗi 1 triệu token (bằng nửa GPT-5.6 Terra), tốc độ tác vụ máy tính nhanh hơn 3 lần theo OpenAI. OpenAI vẫn khuyên dùng model lớn hơn cho coding phức tạp nhất.\nNhà phát triển có thể thử ngay mà không cần đổi nhà cung cấp. Hạn chế: chi phí tích lũy nhanh khi dùng ngữ cảnh trên 1 triệu token, cần giám sát ngân sách và caching; hiệu năng thực tế trên tác vụ riêng của từng đội vẫn cần đo độc lập.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - CÔNG NGHỆ"
+    ],
+    "language": "vi",
+    "contentHash": "b82e7584ea9ab8d640bda7ef6e8613921602da8359b426557ee0b7ae8974fbb7"
+  },
+  {
+    "id": "f70d0b3117c5ff13586a9069b921c6a109474a53e9806d6480894c165d1d1737",
+    "title": "HOT TREND: Microsoft mua lại tự nguyện 60.000 nhân viên — cộng đồng Hacker News tranh luận về AI và việc làm",
+    "summary": "Hacker News front page: 464 points (upvotes), 408 comments, ghi nhận khoảng 02:18 giờ VN 27/10; bài đăng khoảng 3 giờ trước (khoảng 23:18 giờ VN 26/10). Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN chính, đồng thời nhiều báo lớn đưa tin (Reuters/TechCrunch/Bloomberg) — tính là đa nguồn báo chí, không tính là tương tác đa nền tảng xã hội.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - HOT TRENDS",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50245524",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 622,
+    "analysis": "Bối cảnh: tin gốc là thông báo buyout của Microsoft ngày 26/10 (đã đưa ở Phần A với URL TechCrunch); làn sóng thảo luận trên HN tập trung vào tác động của AI tới việc làm văn phòng và thời điểm ngay trước báo cáo kết quả kinh doanh.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu shares, tăng trưởng 24h và tương tác đa nền tảng — không xếp hạng chính thức). Vì sao đang HOT: con số 60.000 người (khoảng 1/4 Microsoft) gây sốc, xuất hiện ngay trước báo cáo kết quả kinh doanh. Các quan điểm nổi bật: lo ngại AI thay thế lao động văn phòng; phe khác cho rằng buyout tự nguyện ít tổn thương hơn sa thải hàng loạt. Tác động: đặt chuẩn cho làn sóng tái cấu trúc Big Tech vì AI.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - HOT TRENDS"
+    ],
+    "language": "vi",
+    "contentHash": "575753b4ef5b2e78470b336d949c7ee74da89fe36b370c83e096ac6c80b11373"
+  },
+  {
+    "id": "bb08325cb3f8296151b4e1bd343a15b2ac0244be6d9e2d982e6c5c9805c619c6",
+    "title": "HOT TREND: GPT-6.1 Terra ra mắt — 'rẻ hơn một nửa, mạnh hơn' gây tranh luận về giá trị thực của AI",
+    "summary": "Hacker News front page: 172 points (upvotes), 80 comments, ghi nhận khoảng 02:18 giờ VN 27/10; bài đăng khoảng 1 giờ trước (khoảng 01:18 giờ VN 27/10). Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN chính, đồng thời báo công nghệ (9to5Mac, Artificial Analysis, Vercel) đưa tin cùng ngày.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - HOT TRENDS",
+    "sourceUrl": "https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model/?extended-comments=1",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 623,
+    "analysis": "Bối cảnh: model ra mắt ngày 26/10 (đã đưa ở Phần A); cộng đồng HN bàn về hiệu quả chi phí và độ tin cậy của benchmark, trong bối cảnh tranh luận về lợi nhuận của AI sau hồ sơ IPO Anthropic.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu shares, tăng trưởng 24h — không xếp hạng chính thức). Vì sao đang HOT: model rẻ hơn một nửa nhưng mạnh hơn, ra mắt đúng lúc tranh luận 'AI có đáng tiền không' nóng lên sau IPO Anthropic. Các quan điểm nổi bật: phe lạc quan về hiệu quả chi phí; phe hoài nghi benchmark do hãng công bố. Tác động: ép giá phân khúc model tầm trung, thúc đẩy agent sử dụng máy tính.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - HOT TRENDS"
+    ],
+    "language": "vi",
+    "contentHash": "fec7a5583d85c3f3768b726a2a93122e3a8a765d8b373bca54b9aa01ce4565b9"
+  },
+  {
+    "id": "defbfb7c7e1ca44438b4c7671d273bb042502fb3f63b6845a5f9c0009e6b35a8",
+    "title": "HOT TREND: CSS-Tricks trở lại độc lập — biểu tượng cộng đồng web 'sống lại' sau 4 năm về DigitalOcean",
+    "summary": "Hacker News front page: 226 points (upvotes), 57 comments, ghi nhận khoảng 02:18 giờ VN 27/10; bài đăng khoảng 3 giờ trước (khoảng 23:18 giờ VN 26/10). Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN chính, bài gốc trên css-tricks.com.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - HOT TRENDS",
+    "sourceUrl": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 624,
+    "analysis": "Bối cảnh: CSS-Tricks thành lập năm 2007, DigitalOcean mua lại năm 2022; chủ mới là biên tập viên gắn bó 12 năm với trang, chuyển sang làm toàn thời gian cho trang.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu shares, tăng trưởng 24h — không xếp hạng chính thức). Nội dung: sau khi DigitalOcean mua CSS-Tricks năm 2022 từ người sáng lập Chris Coyier (thành lập 2007), nay trang trở lại độc lập dưới quyền sở hữu của biên tập viên gắn bó 12 năm Geoff Graham; ông làm toàn thời gian, dự định quay lại mô hình quảng cáo trực tiếp. Vì sao đang HOT: hoài niệm cộng đồng web độc lập cộng hy vọng về mô hình truyền thông niche bền vững ngoài Big Tech. Tác động: tín hiệu cho các ấn phẩm nhỏ tìm mô hình sống sót; rủi ro tài chính vẫn lớn, chủ mới thừa nhận 'sẽ rất khó khăn'.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - HOT TRENDS"
+    ],
+    "language": "vi",
+    "contentHash": "55b0984ae5ea77abebf0df909d5d7e4503c9cffdc9d58be0e1c5da9f9d20bfdd"
+  },
+  {
+    "id": "4ae75ae71d43e5e987c518eaba9812c332be5441b6ae373e57bd88b912056f2e",
+    "title": "Microsoft Type Server Protocol (TSP): chuẩn mới giúp editor và AI coding agent hiểu kiểu dữ liệu chính xác hơn",
+    "summary": "Microsoft công bố Type Server Protocol (TSP) — mở rộng của Language Server Protocol — qua tài liệu Pylance ngày 26/10 (18:14 UTC = 01:14 giờ VN 27/10, trong cửa sổ): cho phép editor và công cụ truy vấn thông tin kiểu (type information) từ language server một cách chuẩn hóa, thay vì mỗi công cụ tự chế cách lấy kiểu. Xuất phát từ đội Pylance (Python).",
+    "category": "Công nghệ & AI",
+    "section": "D - ĐÁNG THỬ",
+    "sourceUrl": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "collectedAt": "2026-10-26T21:37:36.555Z",
+    "sourceRow": 625,
+    "analysis": "Ứng dụng thực tế: IDE và AI coding agent cần hiểu kiểu chính xác để gợi ý code, tái cấu trúc và sửa lỗi ít sai hơn; chuẩn mở, tài liệu miễn phí trên GitHub. Giá: N/A (không phải sản phẩm thương mại).\nHạn chế: mới ở giai đoạn công bố spec/tài liệu, chủ yếu gắn với hệ sinh thái Python/Pylance, chưa có bằng chứng áp dụng rộng rãi hay đo lường hiệu quả độc lập. Phù hợp nhất với nhà phát triển công cụ/editor và đội xây dựng agent lập trình.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - ĐÁNG THỬ"
+    ],
+    "language": "vi",
+    "contentHash": "a6ccede54012f68bb568a8512e6326a92d2bf5710746c214b3f62297fa68d400"
   }
 ]
