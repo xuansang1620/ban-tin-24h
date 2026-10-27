@@ -12654,5 +12654,727 @@
     ],
     "language": "vi",
     "contentHash": "dd1e40a8bd2e5ac92e24fc8b551812ac1966e725ca3d6b56372322df48443ce2"
+  },
+  {
+    "id": "4aaa681bac9f60e3409d8aec0b9fe9d3e8f2e012ff6cb53af37c976aacb146f0",
+    "title": "Hacker GMO đăng thông tin khách hàng lên mạng sau khi hãng từ chối trả tiền chuộc",
+    "summary": "Hạn chót 12:00 giờ Nhật Bản (10:00 giờ VN) 27/10; sau hạn chót, hacker tuyên bố đã đăng thông tin một khách hàng lên mạng (Kyodo dẫn nguồn an ninh mạng; GMO từ chối bình luận từng sự việc). Vụ việc liên quan dịch vụ Onamae.com Desktop Cloud, có thể ảnh hưởng 26.739 máy chủ và tài khoản tại hơn 70 công ty chứng khoán/FX. GMO bồi thường thiệt hại + 5.000 yên cho mọi khách hàng hiện tại. Số tiền chuộc có hai con số trái ngược: Japan Times ~8 tỷ yên (~51 triệu USD); phân tích khác ~160 triệu yên (~1 triệu USD) — không gộp.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://english.kyodonews.net/articles/-/89540",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 679,
+    "analysis": "GMO phát hiện phần mềm độc hại ngày 20/10 sau phản ánh khách hàng; đã đình chỉ đăng ký mới, khóa bảng điều khiển, kêu gọi sao lưu và rút phích cắm trước hạn chót. Bộ trưởng Tài chính Nhật Katayama: 5 công ty FX bị xâm nhập, đã báo cáo cơ quan dịch vụ tài chính.\nRủi ro rò rỉ lan rộng và giao dịch trái phép tiếp diễn; tiền lệ từ chối trả tiền chuộc nhưng vẫn bị lộ dữ liệu; áp lực lên quản trị an ninh mạng doanh nghiệp Nhật (723 vụ trong năm tính tới 20/10).",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "9a899820867bb1f761f26aa880105f57aed6368b38cb1884c96239dc5f96aa56"
+  },
+  {
+    "id": "7f7a409e54ed7a93d85487456e4a672d20cfb9a98e14597c7abb942f02b766c6",
+    "title": "Israel bầu cử Quốc hội khóa 26: hơn 95% điểm bỏ phiếu mở đúng giờ, cử tri Arab có thể định đoạt thế cờ",
+    "summary": "7.331.981 cử tri, 12.018 điểm bỏ phiếu, bỏ phiếu 07:00–22:00 giờ Israel (12:00 VN 27/10 – 03:00 VN 28/10). Thăm dò cuối: đối lập 56 ghế, Likud 50 ghế, đảng Arab 14 ghế; cần 61 ghế lập chính phủ. Kỳ vọng cử tri Arab tăng từ ~50% lên 63–70% (2022: 53,2%); dự báo tổng thể tới 87% (2022: ~70%). Tỷ lệ cử tri buổi chiều chưa công bố lúc 14:15 VN (công bố mỗi 2 giờ từ 11:00 giờ Israel, khoảng 16:00 VN).",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-election-voter-turnout/",
+    "imageUrl": "https://www.thenationalnews.com/resizer/v2/PADNLVPJ3J3MIV75NDK6F7POVQ.jpg?auth=ca0cbcc38e1fe66192582df0fce3ec9dc4e6f99448ef47adfe56e3662d145de9&smart=true&width=400&height=267",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 680,
+    "analysis": "Lãnh đạo Shas Arye Dery cảnh báo tỷ lệ cao ở thành trì cánh tả và cộng đồng Arab; hàng chục nghìn người Israel từ nước ngoài về bỏ phiếu (tuyên bố một chiều). Gia đình nạn nhân 7/10 kêu gọi bỏ phiếu cho đảng cam kết lập ủy ban điều tra độc lập.\nKhông khối nào chắc đủ 61 ghế; vai trò đảng Arab tăng; nếu bế tắc, Netanyahu làm quyền thủ tướng tới bầu cử mới. Kết quả ảnh hưởng chính sách an ninh, quan hệ Mỹ-Israel và tiến trình hòa bình khu vực.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "07afab13ef670de4685e6ac3dd4b2048006b19e97fee6936d357bf2596115f3e"
+  },
+  {
+    "id": "c1988913edf1b8515f340cfbc0c7b0c104fe6098bb772e6749e92c8de622fe4f",
+    "title": "Ngừng bắn cục bộ Oleshky được xác nhận đang giữ, nhưng Kyiv vẫn trúng tấn công",
+    "summary": "Ngừng bắn có hiệu lực 03:00 giờ Kyiv (08:00 VN) 27/10, dự kiến tới thứ Bảy hoặc lâu hơn; ~2.000 dân mắc kẹt, thiếu lương thực/thuốc men. Đặc phái viên Lubinets (Ukraine) xác nhận hai bên tuân thủ (Mezha 12:40 VN); Bộ Quốc phòng Nga xác nhận 'chế độ im lặng'. Cùng ngày, cầu Southern Bridge và hạ tầng tàu điện ngầm Kyiv bị tấn công, giao thông tạm dừng — ngoài vùng ngừng bắn.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.pravda.com.ua/eng/news/2026/10/27/8059843/",
+    "imageUrl": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/4/944076/a4c50305a5a9c9b55efb96fe1a275553.jpeg?w=900&q=90",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 681,
+    "analysis": "Sứ mệnh nhân đạo phối hợp với Đặc phái viên Nga Yana Lantratova, trung gian văn phòng Đệ nhất phu nhân Mỹ Melania Trump. Nga trước đó cáo buộc Ukraine tấn công Oleshky 18 lần pháo + 120+ drone từ 19/10 — một chiều, Reuters nêu không xác minh độc lập.\nNgừng bắn cục bộ không đồng nghĩa ngừng bắn toàn diện; kiểm chứng bằng việc cứu trợ/sơ tán dân trong những ngày tới; tiền lệ cho đàm phán rộng hơn hoặc sụp đổ nếu vi phạm.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "08d7adfe29f4437d398994c53b476376d4b881649126d79d65f58e566dedccba"
+  },
+  {
+    "id": "b172592993efc10d4fcd75681797b7d3633684101c748fa58b1c37ecfd94455e",
+    "title": "Iran tuyên bố Hormuz 'hoàn toàn đóng', đồng thời nói đề xuất mở lại trong 7 ngày vẫn còn trên bàn",
+    "summary": "Tổng Tham mưu trưởng Ali Abdollahi (Mehr 11:33 VN): Hormuz hoàn toàn đóng, tàu 'vi phạm' quy định Iran sẽ gặp nguy hiểm nghiêm trọng — trái ngược Tư lệnh CENTCOM Brad Cooper nói eo biển vẫn mở, trên 95% tàu qua lại an toàn. Ngoại trưởng Araghchi: đề xuất 7 ngày vẫn còn — Mỹ dỡ phong tỏa cảng + nới trừng phạt thì Hormuz mở ngày thứ 6, đàm phán ngày thứ 7; AFP: Trump đã bác bỏ. ANZ qua Reuters: dòng dầu qua Hormuz chỉ ~60% mức bình thường.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://en.mehrnews.com/news/248946/No-violating-vessel-safe-in-Strait-of-Hormuz",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 682,
+    "analysis": "Sau cuộc gặp 26/10 với Saudi Arabia, Thổ Nhĩ Kỳ, Pakistan (khối Hiệp ước Mecca), Iran nói các bên nhất trí an ninh khu vực phải do các nước trong khu vực bảo đảm.\nRủi ro vận tải và giá dầu duy trì ở mức cao; hai tuyên bố đối nghịch khiến thị trường khó định giá; ngoại giao vẫn còn kênh mở nhưng chưa có thỏa thuận.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "76f850720b86c5b813fa90e03e6045fabc8bc7e74b8290659fee61567f2c4f55"
+  },
+  {
+    "id": "9ca2858e9be031025b247b044889488179dce8feaeadd453161c4ef5f0bdc4c3",
+    "title": "Đảng của Bolsonaro thừa nhận kết quả bầu cử, Trump nói chiến thắng của Lula 'trông giống gian lận'",
+    "summary": "Chủ tịch đảng Tự do Valdemar Costa Neto (26/10): đảng công nhận kết quả nhưng muốn làm rõ các vấn đề nêu ra. Trump (27/10): chiến thắng của Lula 'trông rất tệ', cách kiểm phiếu và gia hạn 2 giờ bỏ phiếu 'rất kỳ lạ' — không kèm bằng chứng. Phó Tổng thống Geraldo Alckmin: phát biểu của Trump 'hoàn toàn sai' và 'vô căn cứ'. Phân tích Insper: chưa tới 35.000 phiếu (~0,03%) bỏ trong 2 giờ gia hạn, Lula thắng cách biệt hơn 4 triệu phiếu (51,8% vs 48,2%). Thị trường phiên 26/10: real -8,1–8,4% (~5,43/USD, giảm ngày mạnh nhất từ 2002), Ibovespa -13,9–14% kèm ngắt mạch.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.businesstoday.in/world/story/looked-very-bad-to-me-trump-says-lulas-big-election-victory-in-brazil-appeared-rigged-563824-2026-10-27",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 683,
+    "analysis": "Ứng cử viên Flávio Bolsonaro vẫn đòi hủy kết quả vì Tòa án Tối cao kéo dài giờ bỏ phiếu; Morgan Stanley cảnh báo USD/BRL có thể tới 6,00 nếu chính quyền Lula không cam kết cắt giảm chi tiêu trong vài tuần tới.\nKhủng hoảng niềm tin hậu bầu cử dù đảng đã thừa nhận; rủi ro tài khóa Brazil tiếp tục đè nặng real và trái phiếu; phát biểu của Trump làm phức tạp quan hệ Mỹ-Brazil.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "ef5a0f534cd4e92940ee574e909a0743d1b11e7afc6c18d0702c9171afe06803"
+  },
+  {
+    "id": "f5357644f83d40ab76632ebfec380587393a124eebabfee76e70efa02638eacb",
+    "title": "VN-Index phiên sáng 27/10 giảm nhẹ 0,2 điểm, thanh khoản thấp nhất 5 phiên",
+    "summary": "Chốt phiên sáng: -0,01% (-0,2 điểm); cao nhất +9 điểm, thấp nhất -3,36 điểm. HoSE: 109 tăng/180 giảm; VN30: 10 xanh/16 đỏ (-0,05%). VIC +1,43% (đóng góp 5,5 điểm); VPB -2,12%, HDB -1,8%, LPB -1,4%, TCB -1,04%. Khớp lệnh HoSE buổi sáng 4.605 tỷ đồng, thấp nhất 5 phiên (-16% so với sáng trước). Khối ngoại mua 418,3 tỷ (thấp nhất từ cuối tháng 8), bán 777,6 tỷ; bán ròng mạnh nhất FPT -101 tỷ, GMD -44,1 tỷ, VPL -39,2 tỷ. Bài gốc không nêu mức điểm tuyệt đối chốt sáng nên không suy ra.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vneconomy.vn/cung-cau-van-giang-co-co-phieu-tru-neo-diem-so.htm",
+    "imageUrl": "https://premedia.vneconomy.vn/files/uploads/2026/10/27/7e3386e6cfd244c8969a97ca2e656a40-130609.png?w=1200",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 684,
+    "analysis": "Sau phiên 26/10 giảm 10,60 điểm về 1.763,55; thị trường giằng co quanh hỗ trợ 1.735 và kháng cự 1.780–1.800 theo SHS.\nThanh khoản thấp cho thấy nhà đầu tư đứng ngoài chờ Fed (28/10) và KQKD Big Tech; rủi ro kiểm định lại 1.740–1.750, sâu hơn về 1.700–1.720.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "4c989d095a0496da5df0aea420c63484440009799dc2e710a7c3ff191be5f97a"
+  },
+  {
+    "id": "088bb8fc6270a23d4e550d4650c3bd57f91c8dd1e15497178157ab6c024a90b5",
+    "title": "Dầu giảm phiên thứ hai liên tiếp nhờ kỳ vọng ngoại giao, vàng quanh 4.000–4.030 USD, Bitcoin dưới 80.000 USD",
+    "summary": "Lúc 11:18 VN: Brent -1 USD (-0,86%) còn 114,81 USD/thùng; WTI -0,88 USD (-0,86%) còn 100,88 USD; đầu phiên châu Á Brent ~114,99, WTI ~101 USD. Vàng giao ngay 4.003–4.030 USD/ounce, gần đáy 3 tháng; bạc dưới 53,80 USD/ounce. Bitcoin 79.600–79.872 USD, Ethereum ~2.314 USD; DXY ~102,04; EUR/USD ~1,1176; USD/JPY ~157,65. Nguồn NordFX đưa Brent ~110 USD lệch đáng kể so với Reuters/CNBC nên không dùng.",
+    "category": "Hàng hóa / Tiền tệ",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.tbsnews.net/world/global-economy/oil-slips-1-iran-diplomacy-eases-supply-fears-1584181",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 685,
+    "analysis": "Ngoại giao hạ nhiệt sau cuộc gặp Tehran với Saudi Arabia, Thổ Nhĩ Kỳ, Pakistan; ANZ: dòng dầu vùng Vịnh giảm 4 tuần liên tiếp, qua Hormuz chỉ ~60% mức bình thường; tồn kho sản phẩm chưng cất toàn cầu thấp hơn gần 5% so với trung bình 5 năm.\nDầu vẫn cao (Brent từng vượt 117 USD tuần trước) nên áp lực giá xăng dầu trong nước còn đó; vàng chịu áp lực từ USD mạnh trước Fed; Bitcoin yếu phản ánh tâm lý risk-off.",
+    "tags": [
+      "Hàng hóa / Tiền tệ",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "af4fd88145036bed56a62618e29534d12f2888a707d3255150ec7fbab5e9310c"
+  },
+  {
+    "id": "fbfd195f22ed703da0ff9b228329955981f68df393882455d5446c565213758f",
+    "title": "Tỷ giá trung tâm 27/10 lên 25.633 đồng/USD, Vietcombank bán ra 26.040 đồng",
+    "summary": "NHNN: trung tâm 25.633 đồng/USD (+6 đồng so với 26/10); biên độ ±5% cho phép 24.351–26.915 đồng. Vietcombank 8:30: mua 25.660 – bán 26.040 đồng (+10 đồng cả hai chiều). BIDV: 25.670 – 26.050 đồng (+20 đồng). Nhân dân tệ tại Vietcombank +2 đồng lên 3.815–3.937 đồng/NDT.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://voh.com.vn/ty-gia/ty-gia-usd-va-nhan-dan-te-cung-tang-ngay-27-10-675867.html",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 686,
+    "analysis": "USD được hỗ trợ bởi giá năng lượng cao và căng thẳng Trung Đông; thị trường chờ quyết định Fed.\nVND chịu áp lực mất giá nhẹ nhưng trong biên độ kiểm soát; doanh nghiệp nhập khẩu và nợ USD cần theo dõi.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "9fde2967c8c8bf74c47be4a2da21301d65bbb87143dc54624de4a0f54d0b9d46"
+  },
+  {
+    "id": "1d26b40a1d7b5c08dee98b04463c8ad8f31021ad9b525ec8273bcdb2851fc332",
+    "title": "Lilama 10 tăng trần phiên thứ 7 liên tiếp, lãi quý 3 gấp 8,8 lần cùng kỳ",
+    "summary": "Sáng 27/10: L10 +6,9% lên 35.650 đồng/cp, khối lượng 8.400 cp; từ 22.350 đồng ngày 16/10, thị giá +59,5%, vốn hóa ~349 tỷ đồng. Q3/2026: doanh thu 405 tỷ (-4%), giá vốn 379 tỷ xuống 255 tỷ, lãi gộp 41 tỷ lên 150 tỷ, lãi sau thuế 111 tỷ (gấp ~8,8 lần, +~780%). 9 tháng: doanh thu 1.212 tỷ, lãi sau thuế gần 151 tỷ; lợi nhuận trước thuế ~189 tỷ, gấp 6,3 lần kế hoạch cả năm (30 tỷ). Ngày 26/10 công ty đã giải trình với HoSE về 5 phiên trần liên tiếp.",
+    "category": "Doanh nghiệp",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://cafef.vn/co-phieu-mot-doanh-nghiep-xay-lap-tang-tran-7-phien-lien-tiep-loi-nhuan-quy-3-2026-tang-780-188261027101102497.chn",
+    "imageUrl": "https://cafefcdn.com/thumb_w/640/203337114487263232/2026/10/27/untitled-design-17930705105861642375192.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 687,
+    "analysis": "Đóng góp từ Thủy điện Ialy mở rộng, Thủy điện Snowy, Thủy điện Nậm Phak và kiểm soát chi phí.\nCổ phiếu vốn hóa nhỏ, thanh khoản thấp (8.400 cp) nên biến động mạnh; nhà đầu tư cần thận trọng với đà tăng nóng sau chuỗi trần.",
+    "tags": [
+      "Doanh nghiệp",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "47ec84ee3fb1cae7b8dbc41a43a9f164d65385807f97e8f1a70b6bc3a05960b1"
+  },
+  {
+    "id": "93968e452069915f78d0f1ceeaa6e8fab58f6b0beb674e2487bbe0ab23b794e7",
+    "title": "Quốc hội chiều 27/10 thảo luận Luật Tổ chức cơ quan điều tra hình sự và thí điểm thu hồi tài sản không qua kết tội",
+    "summary": "Sáng 27/10: thảo luận dự thảo Bộ luật Hình sự (sửa đổi) và nghị quyết thi hành; Bộ trưởng Công an Lương Tam Quang giải trình. Chiều: 14:00–15:45 thảo luận Luật Tổ chức cơ quan điều tra hình sự (sửa đổi) — dự thảo 8 chương, 52 điều (giảm 21 điều so với Luật 2015); đề xuất Bộ trưởng Công an/Quốc phòng quy định bộ máy điều tra thuộc lực lượng mình; khi không tổ chức Cơ quan điều tra VKSND tối cao, thẩm quyền chuyển sang Cơ quan An ninh điều tra Bộ Công an. 16:00–17:00: nghị quyết thí điểm thu hồi, xử lý tài sản liên quan tội phạm không qua kết tội; Viện trưởng VKSND tối cao Nguyễn Huy Tiến giải trình.",
+    "category": "Quốc hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://congly.vn/quoc-hoi-thao-luan-nhieu-noi-dung-quan-trong-trong-linh-vuc-hinh-su-544886.html",
+    "imageUrl": "https://cly.1cdn.vn/2026/10/27/bo-truong-luong-tam-quang-.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 688,
+    "analysis": "Lúc 14:15 phiên chiều vừa bắt đầu — đây là chương trình và nội dung dự thảo đã trình, chưa có kết quả thảo luận chiều được công bố.\nHai dự thảo ảnh hưởng trực tiếp tới tổ chức điều tra và cơ chế thu hồi tài sản tham nhũng; cần theo dõi ý kiến đại biểu và tiếp thu, giải trình.",
+    "tags": [
+      "Quốc hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "86cdd902e38ad75b57112d44be9f95bc4a6dbd981c88dd5c09c0d330b5894ffc"
+  },
+  {
+    "id": "70267e3cf6ef6d17353b96dafb63e721eca481fdd28d64bdce883fb149fb1f5d",
+    "title": "Chiều 27/10 triều cường TP.HCM tiếp tục vượt báo động 3; mưa miền Trung nâng dự báo lên trên 300 mm cục bộ",
+    "summary": "Đài Khí tượng Thủy văn Nam Bộ: chiều 27/10 đỉnh triều sông Sài Gòn vượt báo động 3 (1,6 m): Phú An có thể 1,71 m lúc 18h, Nhà Bè 1,75 m lúc 17h, Thủ Dầu Một 1,86 m lúc 19h; từ 28/10 đỉnh giảm nhưng vẫn trên báo động 3. Sáng 27/10 triều đã ngập nhiều tuyến khu dân cư Phú Lợi, phường Bình Đông (Rạch Cùng, Trịnh Quang Nghị). Mưa Hà Tĩnh–Đà Nẵng từ chiều tối 27/10 đến hết đêm 29/10: phổ biến 70–150 mm, có nơi trên 300 mm (nâng so với bản trước 60–120 mm, trên 250 mm); riêng chiều tối 27/10–đêm 28/10: 50–100 mm, cục bộ trên 200 mm, cảnh báo trên 100 mm/3 giờ. Thực đo: Phúc Trạch (Quảng Trị) 53,4 mm, Đề Gi (Gia Lai) 39,1 mm.",
+    "category": "Công nghệ & AI",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://htv.vn/chieu-nay-27-10-trieu-cuong-tai-tp-ho-chi-minh-tiep-tuc-vuot-muc-bao-dong-3-222261027101010611.htm",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 689,
+    "analysis": "Công văn 58/BCĐ-BNNMT tối 26/10 yêu cầu Hà Tĩnh, Quảng Trị, Huế, Đà Nẵng chủ động ứng phó ngập lụt, lũ quét, sạt lở, di dời dân vùng nguy hiểm.\nNguy cơ ngập vùng trũng thấp, ven sông TP.HCM giờ tan tầm; miền Trung nguy cơ lũ quét, sạt lở; người dân cần theo dõi bản tin dự báo.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "77e4f8760461a0330eeaff3e046aab267a3958f50f308a8ab2ddd5fa85ac6f7e"
+  },
+  {
+    "id": "340b38111c1864bec2e23758556e54aeeb8b5cb170a48a801da099f89bca1806",
+    "title": "Chi y tế tối đa 23 triệu/năm, chi giáo dục tối đa 24 triệu/năm được giảm trừ khi tính thuế thu nhập cá nhân",
+    "summary": "Theo Nghị định 253/2026/NĐ-CP (30/6/2026): cá nhân cư trú có thu nhập từ tiền lương, tiền công được giảm trừ chi khám chữa bệnh trong nước thuộc danh mục BHYT chi trả (tối đa 23 triệu đồng/năm) và chi giáo dục–đào tạo trong nước (học phí mầm non, phổ thông, nghề, đại học, kỹ năng chuyên môn; tối đa 24 triệu đồng/năm). Điều kiện: hóa đơn, chứng từ hợp pháp; chi y tế cần thêm Bảng kê theo mẫu Bộ Y tế (Quyết định 697/QĐ-BYT 19/3/2026); không được chi trả từ nguồn khác. Người muốn giảm trừ phải tự quyết toán trực tiếp, không ủy quyền cho cơ quan chi trả.",
+    "category": "Chính sách thuế",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://thanhtra.com.vn/hoan-thien-the-che-D4AD3DB96/nhieu-khoan-chi-y-te-giao-duc-duoc-giam-tru-khi-tinh-thue-thu-nhap-ca-nhan-cce973e12.html",
+    "imageUrl": "https://media.thanhtra.com.vn/public/uploads/2026/10/27/6ae002e9ab6d6b5cce973e41.jpg?w=1319",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 690,
+    "analysis": "Thuế TP. Hà Nội đề nghị Sở Y tế, Sở GD&ĐT và UBND cấp xã chỉ đạo cơ sở y tế, trường học lập hóa đơn, bảng kê đúng quy định.\nGiảm gánh nặng thuế cho người lao động có chi phí y tế, học tập lớn; nhưng thủ tục chứng từ là rào cản — cần chuẩn bị hóa đơn, bảng kê ngay từ bây giờ cho kỳ quyết toán.",
+    "tags": [
+      "Chính sách thuế",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "064ac5d2be225c8e6fbc8d181cf0e33a01700c60662a6204b6bf812458eefbb2"
+  },
+  {
+    "id": "48f84659d0334a52045cbeb3eb09783a2347610d793debdc9afe66a9b5e07e35",
+    "title": "5 xe va chạm liên hoàn trên cao tốc TP.HCM – Trung Lương lúc 1h sáng, 1 người gãy chân",
+    "summary": "Khoảng 1h ngày 27/10 tại Km44 cao tốc TP.HCM – Trung Lương, hướng đi Trung Lương, xã Tân Hương, tỉnh Đồng Tháp: 5 phương tiện (2 xe con, 2 xe tải, 1 xe đầu kéo) va chạm liên hoàn; 1 người gãy chân; 4 phương tiện hư hỏng. Kiểm tra ban đầu: cả 5 tài xế không vi phạm nồng độ cồn và ma túy. (1 nguồn: VOH dẫn Cục CSGT.)",
+    "category": "Giao thông",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://voh.com.vn/thoi-su/tram-tin-trua-2710-tphcm-canh-bao-trieu-cuong-vuot-bao-dong-3-5-xe-va-cham-lien-hoan-tren-cao-toc-675865.html",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 691,
+    "analysis": "Tai nạn xảy ra ban đêm trên tuyến cao tốc huyết mạch miền Tây.\nCảnh báo lái xe đêm, giữ khoảng cách an toàn trên cao tốc; cơ quan chức năng điều tra nguyên nhân.",
+    "tags": [
+      "Giao thông",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "b6cd7d39b82e77a7574c3c51998cf7f6c8d1d79c80aa77af3ec0342b78d6470b"
+  },
+  {
+    "id": "081cd52225d968c9f7b9857579188232e6c78181f57ef4573a763013054c55eb",
+    "title": "Viettel chuyển 100 triệu thuê bao sang hệ thống tính cước tự phát triển vOCS 4.0 trong 3 tháng, không gián đoạn",
+    "summary": "Viettel High Tech đã chuyển hơn 100 triệu thuê bao và ~5.000 gói cước của Viettel sang vOCS 4.0, hệ thống tính cước thời gian thực thuần cloud-native tự phát triển; quá trình chuyển đổi 3 tháng trên mạng đang hoạt động, không gián đoạn dịch vụ. Quy mô: hơn 300.000 giao dịch/giây, độ trễ dưới 5 mili giây, phủ 2G–5G và cố định trên một nền tảng; chi phí phần cứng giảm tới 50% so với thế hệ trước; gói cước mới triển khai trong vài giờ thay vì vài ngày. Dự án đoạt giải 'Best Technology Deployment in Asia' tại Telecom Review Excellence Awards 2026 (Dubai) — lần đầu một công ty Việt Nam được vinh danh. (Thông cáo PR Newswire của doanh nghiệp.)",
+    "category": "Viễn thông / Make in Vietnam",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.manilatimes.net/2026/10/27/tmt-newswire/pr-newswire/viettel-moves-100-million-subscribers-to-home-grown-cloud-native-charging-in-three-months-with-zero-downtime/2454599",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 692,
+    "analysis": "Tiền thân vOCS 3.0 từng thay nền tảng nước ngoài cho 90 triệu thuê bao năm 2017; qua hai thế hệ, vOCS phục vụ hơn 220 triệu thuê bao tại 11 nước. Viettel High Tech bắt đầu chào bán vOCS 4.0 cho nhà mạng quốc tế.\nDấu mốc 'Make in Vietnam' cho hạ tầng viễn thông lõi; giảm phụ thuộc nhà cung cấp nước ngoài, giữ chủ quyền số; mở cơ hội xuất khẩu công nghệ.",
+    "tags": [
+      "Viễn thông / Make in Vietnam",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "5e94da414afd36ed2d163312b9c25986bada800dab3c03c0efbe378830f409fa"
+  },
+  {
+    "id": "045751ec010b9bdd398e5d635c6bbbe7e871df2758e980f97f86e0b020c471c1",
+    "title": "KT ra mắt 'Token Factory': bán token AI chạy trên GPU của chính mình, hợp nhất thanh toán cho doanh nghiệp",
+    "summary": "KT (Hàn Quốc) công bố nền tảng doanh nghiệp KT Token Factory, ra mắt cho doanh nghiệp ngày 30/10/2026: gộp nhiều mô hình AI vào một API duy nhất, quản lý mức dùng và chi phí tập trung, tự chạy mô hình trên GPU trong trung tâm dữ liệu của KT để tạo và cung cấp token trực tiếp thay vì chỉ làm trung gian. Hợp tác với OpenRouter để kết nối hơn 500 mô hình toàn cầu; bộ định tuyến tự động chọn mô hình theo nhiệm vụ/độ khó/chất lượng/chi phí; công nghệ nén prompt tuyên bố giảm mức dùng token tối đa 25% (tuyên bố của KT, chưa kiểm chứng độc lập). Hai gói lúc ra mắt: Standard (trả sau theo mức dùng, có lựa chọn trả trước) và Enterprise (cam kết mức dùng, thanh toán thực tế hàng tháng). Dịch vụ cho cá nhân/nhà phát triển dự kiến tháng 3 năm sau. Giá cụ thể theo token chưa công bố. (Bài báo gốc ghi rõ được dịch bằng AI.)",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://biz.chosun.com/en/en-it/2026/10/27/EYILP4Z6T5GLRJOLLAUGRE6BKU/",
+    "imageUrl": "https://biz.chosun.com/resizer/v2/IPVOA7F5H5AL7MJVB7AVTBXZHI.jpg?auth=ef28f0ee0448ecd7901c22ae7acb9d08fbfd8778dd3fc45bebdaeadd95664074&width=616",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 693,
+    "analysis": "Nằm trong làn sóng nhà mạng và nhà cung cấp hạ tầng chuyển sang bán 'token' thay vì chỉ bán đường truyền/máy chủ.\nDoanh nghiệp có thêm lựa chọn mua AI theo token với chi phí tập trung; nhưng hiệu quả nén prompt và giá thực tế cần kiểm chứng sau ra mắt; cạnh tranh trực tiếp với OpenRouter và các AI gateway.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "10f7c47f85674bc30ace3abb411389d1c670064154d85fe2739d3786f7b8a138"
+  },
+  {
+    "id": "bdbf2d249aac2576574c2b7fa1c6f60538cb12188b7878c9d3be7ed7d6336d9a",
+    "title": "IBM công bố danh tính và kiểm soát cho AI agent doanh nghiệp tại TechXchange 2026",
+    "summary": "IBM mở rộng HashiCorp Vault sang AI agent (Vault 2.2, Agent Identity: danh tính có quản trị, chứng chỉ ngắn hạn, quyền tối thiểu, thu hồi thời gian thực khi agent vượt quyền) và watsonx Orchestrate với Discover (quét agent trên Amazon Bedrock, Microsoft Foundry, Google Gemini), Contain (sandbox cô lập + kill switch), Evaluate (kiểm tra chất lượng/tuân thủ, theo dõi chi phí token). IBM dẫn dự báo Gartner: tới 2028, doanh nghiệp Fortune 500 trung bình dùng hơn 150.000 AI agent, nhưng chỉ 13% tổ chức tin rằng đã có quản trị agent phù hợp. Giá chưa công bố. (Thông cáo PR; giờ đăng trong ngày 27/10 chưa xác minh tới phút nên không khẳng định nằm trong cửa sổ 10:15–14:15.)",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.manilatimes.net/2026/10/27/tmt-newswire/pr-newswire/ibm-introduces-identity-and-control-for-ai-agents-securing-frontier-intelligence-for-the-enterprise/2454593/amp",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 694,
+    "analysis": "Nối tiếp làn sóng Salesforce 'Agentic Identity' (tháng 11/2026) — quản trị danh tính agent thành mặt trận cạnh tranh mới.\nDoanh nghiệp triển khai agent quy mô lớn có công cụ kiểm soát rủi ro; nhưng hiệu quả thực tế cần đánh giá độc lập sau triển khai.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "d9b9e526f0fb3183e31179eb01339e874b82796b59234375c85ab90475b4debe"
+  },
+  {
+    "id": "0dd1a151f4d37102ca9c7bd80071de8a40f093b03d4f6ea646dfef45ca329e5c",
+    "title": "Cơ quan an ninh mạng Úc cảnh báo mối đe dọa AI 'chưa từng có'",
+    "summary": "Australian Signals Directorate (ASD) cảnh báo AI đang giúp tội phạm và hacker được nhà nước hậu thuẫn tấn công ở 'quy mô lớn hơn bao giờ hết'. ASD phát hơn 4.400 cảnh báo về hoạt động độc hại tiềm tàng trong năm qua, tăng 80% so với 12 tháng trước. Tin tặc liên quan Trung Quốc, Nga, Triều Tiên đã nhắm vào Úc hoặc đồng minh. Bộ trưởng Quốc phòng Richard Marles kêu gọi cập nhật máy tính và 'củng cố hệ thống'.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/10/27/australia-warns-of-unprecedented-ai-threat",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 695,
+    "analysis": "Báo cáo thường niên về mối đe dọa mạng của ASD, công bố sáng 27/10 (07:21 VN) — trước cửa sổ, bổ sung vì là diễn biến mới trong 24 giờ. Bối cảnh: làn sóng tấn công sau lỗ hổng PHP và vụ GMO tại Nhật.\nÁp lực tăng cường phòng thủ mạng cho chính phủ và doanh nghiệp; AI vừa là công cụ tấn công vừa là công cụ phòng thủ (chính ASD cũng dùng AI soạn báo cáo).",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "5e04b56cd3f250d0c9fd1d33e1596f4b6b7a75eb0dd33d253f3a8d311f8a5d56"
+  },
+  {
+    "id": "dd61c5409d4750a54b10ca77768c5c8ff0f3018c61fee8256898602e30244e63",
+    "title": "Ứng dụng GUI cổ nhất vẫn chạy được trên Windows 11: CDPLAYER.EXE từ 1992",
+    "summary": "Nền tảng: Hacker News. Like/Reactions: N/A (HN dùng points, không phải Like). Points: 379. Comments: 218. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 thread HN + bài gốc. Thời điểm ghi nhận: ~14:19 giờ VN 27/10 (API Algolia HN, cập nhật 14:19 VN). Điểm HOT: Chưa đủ dữ liệu (thiếu shares, tăng trưởng 24h có hệ thống). Nội dung: tác giả tìm binary GUI Windows cổ nhất còn chạy native trên Windows 11: CDPLAYER.EXE ngày 16/11/1992 (gần 34 năm), cần cdemu.dll giả lập ổ CD-ROM; FREECELL.EXE 22/2/1993 là ứng viên trước đó; chương trình 16-bit không đủ điều kiện vì Windows 11 64-bit không có NTVDM; với giả lập otvdm, REVERSI.EXE từ Windows 1.01 (15/11/1985) vẫn chạy được.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 696,
+    "analysis": "Thuộc làn sóng hoài cổ tương thích ngược của Windows; cộng đồng dev tranh luận về giới hạn tương thích và bảo tồn phần mềm.\nNhắc lại giá trị tương thích ngược dài hạn của Windows; góc nhìn thú vị cho bảo tồn phần mềm và kiểm thử tương thích.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "59b4d92a8afd99589b88ba88dc0903643fae5461c75d59ffce58e3ad4eea3ea0"
+  },
+  {
+    "id": "adf9b2fe70476618c73e11d8b00da117ef7080c4efa805c0470e9f7b4efc14ee",
+    "title": "Điện mặt trời vượt điện hạt nhân — bài BBC gây tranh luận trên Hacker News",
+    "summary": "Nền tảng: Hacker News. Points: 249. Comments: 385. Shares/Reposts: N/A. Thời điểm ghi nhận: ~14:19 giờ VN 27/10 (API Algolia HN). Điểm HOT: Chưa đủ dữ liệu. Nội dung: bài BBC Future (23/10/2026) về việc điện mặt trời đã vượt điện hạt nhân toàn cầu; theo WNISR 2026, lần đầu tiên trong năm 2025 sản lượng điện mặt trời vượt hạt nhân; tháng 4/2025 mặt trời đóng góp 10% sản lượng điện toàn cầu, tăng 34% so với cùng kỳ. Cộng đồng tranh luận: hạt nhân vẫn cần cho phụ tải nền mùa đông Bắc Âu; lưu trữ và lưới điện là nút thắt tiếp theo.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 697,
+    "analysis": "Bối cảnh giá dầu cao gần đỉnh 6 tháng và chi phí năng lượng tăng khiến chuyển dịch năng lượng thành chủ đề nóng.\nCủng cố xu hướng đầu tư năng lượng tái tạo và lưu trữ; nhưng tranh luận hạt nhân–mặt trời cho thấy chuyển dịch không chỉ là câu chuyện sản lượng.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "8d36219a0f57028c83b0550744be2ae4e265c3ab7d4c5423f81547f374ad5171"
+  },
+  {
+    "id": "53ce24640177cb658eca6b48934cd5b31d7b2c5098378c8bc3b8fb4391931f6b",
+    "title": "'Websites Should Be Printable' — cộng đồng dev đòi lại web in được",
+    "summary": "Nền tảng: Hacker News. Points: 316. Comments: 187. Shares/Reposts: N/A. Thời điểm ghi nhận: ~14:15 giờ VN 27/10 (API Algolia HN). Điểm HOT: Chưa đủ dữ liệu. Nội dung: bài luận cho rằng trình duyệt phải in trang web với độ trung thực hoàn hảo như hiển thị trên màn hình; thực tế in sang PDF thường vỡ trang, cắt dòng — đặc biệt điều khoản dịch vụ; người dùng chia sẻ công cụ PrintFriendly, Printliminator, CopyAsMarkdown, WebToEpub; tranh luận: Chrome chưa quan tâm đủ tính năng in, Firefox tốt hơn đôi chút, IE ngày xưa in tốt hơn.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://brennenputh.me/blog/printable-websites/",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 698,
+    "analysis": "Phong trào web tối giản, RSS, màn hình e-ink và quyền sở hữu nội dung số.\nÁp lực lên trình duyệt và nhà phát triển cải thiện CSS in; nhắc lại nguyên tắc web mở, dễ lưu trữ và truy cập.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "2035fcc5edeff35e12fe791203083c771b28940f36da4e249ba825fa7205e208"
+  },
+  {
+    "id": "798b69f5ecbf96cc34bc173c07ae7d8594c3a7e5f6282476f49ed719d9566fdd",
+    "title": "JetBrains ThinkRail — IDE agent mã nguồn mở, agent không chạm vào checkout chính",
+    "summary": "Tính năng: mỗi nhiệm vụ agent chạy trong một git worktree riêng (nhánh + thư mục làm việc + terminal riêng) nên agent lỗi không phá checkout chính; phát triển theo spec (spec graph), theo dõi nhánh/PR, soạn commit và mô tả PR. Xây dựng trên agent mã nguồn mở 'pi', editor dùng Monaco (nền tảng của VS Code), giấy phép Apache 2.0. Xu hướng tăng sao GitHub ngày 27/10 (+1.173 sao/ngày theo GitDiscover, tổng ~3.000 sao). Hạn chế: còn mới, ít dữ liệu sử dụng dài hạn; một số đánh giá lưu ý ThinkRail là lớp mỏng trên pi chứ không tự phát triển engine suy luận; cần tự cấu hình model/key. Giá: 0 USD (mã nguồn mở; chi phí model do nhà cung cấp tính riêng nếu dùng API trả phí).",
+    "category": "Công nghệ & AI",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://dev.to/slabb/jetbrains-open-sourced-an-agentic-ide-where-agents-never-touch-your-checkout-22hc",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 699,
+    "analysis": "Nằm trong làn sóng IDE agent (sau làn sóng agent skills); khác biệt ở cách ly bằng kiến trúc worktree thay vì chỉ dựa vào prompt.\nLập trình viên chạy nhiều agent song song an toàn hơn; phù hợp dọn repo, xử lý PR, kiểm lỗi; cần thử nghiệm trước khi dùng cho codebase quan trọng.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "3e1d4576ba128747a6bebb4f75ffc8fc0e291b3ff5280267b63f8f52a8c3f821"
+  },
+  {
+    "id": "370e0d929aa9d3e599361a64861e7d5d91266873d18c595100b803e551e0ae04",
+    "title": "VN-Index chốt phiên 27/10 giảm nhẹ 1,68 điểm về 1.761,87 điểm, khối ngoại bán ròng 319 tỷ đồng",
+    "summary": "VN-Index giảm 1,68 điểm (-0,1%) xuống 1.761,87 điểm; VN30 giảm 1,13 điểm về 1.888,40 điểm; HNX-Index tăng 0,07% lên 259,50 điểm. Sắc đỏ áp đảo: 400 mã giảm (20 mã sàn) so với 274 mã tăng; tổng giá trị 3 sàn khoảng 15.382 tỷ đồng, giảm 15% so với phiên trước. Khối ngoại bán ròng 319 tỷ đồng (mua 1.378 tỷ, bán 1.697 tỷ); bán mạnh nhất ACE 177 tỷ và FPT 149 tỷ, mua mạnh nhất TCB 196,51 tỷ.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://tuoitre.vn/sac-do-ap-dao-vn-index-chi-giam-gan-2-diem-10026102715431122.htm",
+    "imageUrl": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/10/27/chungkhoan-kafi-128-huuhanh-17930874575962072348841.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 700,
+    "analysis": "Lực đỡ chỉ từ nhóm vốn hóa lớn: VIC đóng góp +5,26 điểm, VPL +0,4 điểm, MWG +0,28 điểm; ngược lại GAS lấy đi 0,79 điểm, VHM 0,69 điểm, VPB 0,65 điểm. Thanh khoản tiếp tục dưới bình quân 20 phiên, cho thấy dòng tiền thận trọng khi chỉ số ở gần vùng kháng cự 1.780-1.800 điểm.\nThị trường giằng co, chưa xác lập xu hướng mới; nhà đầu tư nên ưu tiên quản trị rủi ro, hạn chế mua đuổi. Nhóm ngân hàng, chứng khoán, năng lượng chìm trong sắc đỏ là rủi ro ngắn hạn; lực đỡ từ Vingroup giúp chỉ số không giảm sâu.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "4c835da5e9ab743014a317e4f1ad61098b1bab64e5d4f59add25625f60696a5c"
+  },
+  {
+    "id": "3bbb692a7258d299a33778d8d1d567438d17e335f1e250cf235efb0d1775b37c",
+    "title": "Bầu cử Israel: tỷ lệ đi bầu lúc trưa đạt 31,5%, cao nhất giờ này kể từ 1973",
+    "summary": "Ủy ban Bầu cử Trung ương Israel: tỷ lệ đi bầu lúc 12h trưa (giờ Israel, tức 17h giờ Việt Nam) đạt 31,5%, tăng so với 28,4% cùng giờ năm 2022; gần 2,4 triệu cử tri đã bỏ phiếu. Đây là mức cao nhất lúc trưa kể từ bầu cử 1973 theo Times of Israel (Israel National News ghi từ 1977 - có khác biệt nhỏ giữa các nguồn về mốc so sánh). 7.331.981 cử tri đủ điều kiện, 12.018 điểm bỏ phiếu; điểm bỏ phiếu phần lớn đóng cửa lúc 22h giờ Israel (03h sáng 28/10 giờ Việt Nam), sau đó mới có exit poll.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.timesofisrael.com/liveblog_entry/voter-turnout-at-31-5-as-of-noon-highest-at-this-hour-since-1973-election/",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 701,
+    "analysis": "Diễn biến mới so với mốc 10h sáng (16,68%) đã đưa kỳ trước. Cử tri Arab được kỳ vọng đi bầu cao vào buổi chiều, có thể khiến exit poll công bố muộn. Không khối nào chắc chắn đủ 61 ghế theo thăm dò cuối; khoảng 650.000 phiếu đặc biệt (quân nhân, ngoại giao, bệnh nhân) có thể quyết định 14 ghế.\nTỷ lệ đi bầu cao báo hiệu cuộc bầu cử gay cấn, có thể thay đổi cán cân quyền lực. Kết quả chính thức dự kiến 4/11; đàm phán thành lập chính phủ có thể kéo dài nhiều tuần. Theo dõi exit poll lúc 03h sáng 28/10 giờ Việt Nam.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "26e829cc25ac265122e0c6060ae37dd2ef229def930bfc1c7e77c1231031d385"
+  },
+  {
+    "id": "eb12b5478927f4c8ce5e873abedc2d81c941d4204db9a046693993feabe5941b",
+    "title": "Nga-Ukraine bắt đầu ngừng bắn cục bộ ở Oleshky nhưng Kyiv vẫn bị tấn công",
+    "summary": "Nga và Ukraine bắt đầu ngừng bắn khu vực ở thị trấn Oleshky (do Nga kiểm soát, bên kia sông Dnipro đối diện Kherson) để chuyển hàng cứu trợ và sơ tán dân đang thiếu lương thực, thuốc men; Bộ Quốc phòng Nga nói đã ngừng pháo kích hướng Kherson từ 4h giờ Moskva. Cùng ngày, các đòn tấn công mới đánh trúng cầu Southern Bridge và hạ tầng tàu điện ngầm ở Kyiv, buộc tạm dừng giao thông; vụ tấn công tên lửa vào Kyiv từ tối 26/10 làm ít nhất 1 người chết, 15 người bị thương.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.channelnewsasia.com/world/russia-ukraine-begin-oleshky-ceasefire-keep-up-strikes-elsewhere-6495076",
+    "imageUrl": "https://dam.mediacorp.sg/image/upload/s--4rtQ8b4q--/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T093025Z_3_LYNXNPEM9Q04M_RTROPTP_3_UKRAINE-CRISIS-OLESHKY.JPG?itok=Zf3tVGhb",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 702,
+    "analysis": "Diễn biến mới ngày 27/10 so với tin 'Oleshky giữ' kỳ trước: ngừng bắn đã bắt đầu thực thi nhưng chỉ giới hạn ở khu vực Oleshky, không phải ngừng bắn toàn diện. Mốc thời gian ngừng bắn trước đó chưa thống nhất (Nhà Trắng 29/10, Bộ Quốc phòng Nga 27/10).\nNgừng bắn cục bộ mở kênh nhân đạo nhưng không hạ nhiệt toàn cục; Kyiv vẫn là mục tiêu cho thấy xung đột tiếp diễn song song với ngoại giao. Theo dõi khả năng mở rộng ngừng bắn và phản ứng của các bên sau ngày 27/10.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "64964d4a6f73faa042bd21cf04b4c0a057f7f88c362e606b67cbf80cf03c729d"
+  },
+  {
+    "id": "d9e3d5c35bbf6730db82af792332dde0e35f166a201e03a5a7e200e155995ebd",
+    "title": "GMO: hacker dọa rò rỉ dữ liệu từng ngày vào buổi trưa, GMO cân nhắc bồi thường người bị lộ",
+    "summary": "GMO Internet xác nhận thông tin của một khách hàng đã bị đăng tải sau khi công ty từ chối trả tiền chuộc trước hạn chót 12h trưa 27/10 (giờ Nhật). Theo Jiji Press, nhóm tấn công tuyên bố sẽ tiếp tục công bố thông tin vào mỗi buổi trưa. GMO giữ chính sách không trả tiền, đang xác minh dữ liệu bị lộ và xem xét bồi thường riêng cho người bị lộ, ngoài khoản 5.000 yên cho mọi người dùng hiện tại; Trend Micro hợp tác điều tra.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.nippon.com/en/news/yjj2026102700370/",
+    "imageUrl": "https://www.nippon.com/en/ncommon/contents/news/3094303/3094303.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 703,
+    "analysis": "Diễn biến mới so với tin 'hacker đăng thông tin khách hàng' kỳ 14:15: lần này có xác nhận từ Jiji Press (19:02 giờ Nhật = 17:02 giờ Việt Nam) về cơ chế rò rỉ hàng ngày và phương án bồi thường. Lưu ý: số tiền chuộc vẫn mâu thuẫn giữa các nguồn (CEO GMO nói 50 triệu USD; Japan Times/Bloomberg nói khoảng 1 triệu USD) - không gộp hai con số.\nVụ việc trở thành chiến dịch rò rỉ kéo dài, gây áp lực lên khách hàng và các công ty chứng khoán/ngoại hối liên quan (hơn 70 công ty từng được nhắc tới). GMO kêu gọi công chúng không truy cập hay phát tán dữ liệu bị lộ; rủi ro lừa đảo thứ cấp tăng cao.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "4727225d92986678523d432b6b67c723a3dba74ccc90735c41ac4ae0ae0b84ba"
+  },
+  {
+    "id": "f31764a95d168d3c02cb7109194b733a558d983197d855229bce198026b007f5",
+    "title": "Quốc hội chiều 27/10: đại biểu đề nghị giới hạn 30 ngày duy trì kê biên trong cơ chế thu hồi tài sản không qua kết tội",
+    "summary": "Chiều 27/10, Quốc hội thảo luận dự thảo Nghị quyết thí điểm cơ chế thu hồi, xử lý tài sản liên quan đến tội phạm không qua kết tội. Đại biểu Nguyễn Thị Việt Nga (Hải Phòng) đề nghị nghiên cứu phương án giới hạn tối đa 30 ngày duy trì kê biên, phong tỏa khi chuyển từ tố tụng hình sự sang tố tụng dân sự (theo báo cáo số 140 của Chính phủ), thay vì để kéo dài đến khi tòa án quyết định. Đại biểu Dương Khắc Mai (Lâm Đồng) đề nghị quy định rõ ngưỡng chứng cứ và cơ chế bảo vệ người thứ ba ngay tình.",
+    "category": "Chính trị & Xã hội",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://danviet.vn/dbqh-de-nghi-lam-ro-co-che-kiem-soat-viec-thu-hoi-tai-san-khong-qua-ket-toi-de-xuat-gioi-han-30-ngay-duy-tri-ke-bien-d1470431.html",
+    "imageUrl": "https://i.ex-cdn.com/danviet.vn/files/content/2026/10/27/dai-bieu-nguyen-thi-viet-nga-2710-1647.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 704,
+    "analysis": "Đây là kết quả thảo luận chiều 27/10, khác với tin chương trình kỳ 14:15. Nhiều đại biểu tán thành sự cần thiết của cơ chế mới nhưng lưu ý phải thiết kế điều kiện pháp lý đủ rõ để vừa nâng hiệu quả thu hồi, vừa ngăn xâm phạm quyền tài sản hợp pháp.\nNếu được tiếp thu, giới hạn 30 ngày sẽ buộc cơ quan có thẩm quyền kịp thời hoàn thiện thủ tục thay thế, tránh khoảng trống để tài sản bị tẩu tán nhưng cũng tránh phong tỏa kéo dài gây thiệt hại. Viện trưởng Viện Kiểm sát nhân dân tối cao đã giải trình các vấn đề đại biểu nêu.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "12750cbbeb08ce6e518b7831645651b9324b24dc7d176247abe6dd6c463bba60"
+  },
+  {
+    "id": "683a957ab42775790a832a5e4d2f77c992cd6d49a767233f9dd79875dba3171d",
+    "title": "Dầu Brent lên 116,24 USD/thùng lúc 14:18 giờ Việt Nam sau các đòn tấn công mới của Houthi vào Saudi Arabia",
+    "summary": "Brent tăng 0,40 USD (+0,4%) lên 116,24 USD/thùng lúc 07:18 GMT (14:18 giờ Việt Nam); WTI tăng 0,30 USD (+0,3%) lên 102,07 USD/thùng. Diễn biến đảo chiều so với nhịp giảm buổi sáng (Brent từng về 114,81 USD, -0,86%) khi kỳ vọng ngoại giao với Tehran hạ nhiệt lo ngại nguồn cung; Reuters qua SANA ghi Brent buổi sáng 115,15 USD (-0,57%), vàng giao ngay 4.013,70 USD/ounce.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.thestar.ng/oil-price-rises-to-116-barrel-over-fresh-houthi-attacks/",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 705,
+    "analysis": "Các đòn tấn công mới của Houthi vào Saudi Arabia làm nổi bật rủi ro dai dẳng với nguồn cung, dù ngoại giao hạ nhiệt từng giúp giá giảm trong buổi sáng. Tháng 10 được ghi nhận là tháng tồi tệ nhất về tấn công tàu thương mại ở eo Hormuz kể từ 2017 (theo trung tâm nghiên cứu Washington).\nDầu duy trì gần đỉnh 6 tháng, giữ áp lực lạm phát trước quyết định của Fed ngày 28/10. Biến động trong ngày lớn (114,8-116,2 USD) cho thấy thị trường nhạy cảm với cả tin tấn công và tin ngoại giao; doanh nghiệp và người tiêu dùng đối mặt chi phí năng lượng cao kéo dài.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "b3979710790f05b871a56dd327513a8c70a9218226f13b621c6e8f9f2b195574"
+  },
+  {
+    "id": "9425342444d1b5ac40347368f81e5feab7971047bc0992840ba2cd39fd3dde14",
+    "title": "Fed bắt đầu họp 27-28/10: thị trường định giá giữ nguyên lãi suất, mọi chú ý dồn về tháng 12",
+    "summary": "FOMC bắt đầu họp 2 ngày 27-28/10, công bố quyết định lúc 14h giờ miền Đông Mỹ ngày 28/10 (01h sáng 29/10 giờ Việt Nam), tiếp theo là họp báo của Chủ tịch Kevin Warsh. Thị trường định giá khoảng 90-91% khả năng giữ nguyên biên độ 3,75%-4,00%; khả năng tăng lãi suất tháng 12 khoảng 73-80% theo các thước đo khác nhau. Hợp đồng tương lai chứng khoán Mỹ đi ngang trong phiên 27/10; Meta nâng đợt huy động vốn cổ phần lớn nhất từ trước tới nay lên 97,5 tỷ USD để tài trợ mở rộng AI.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://wnflsports.com/2026/10/27/us-stock-futures-muted-as-oil-holds-near-april-highs-ahead-of-fed-decision/",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 706,
+    "analysis": "Thăm dò Reuters 16-20/10: 94/100 chuyên gia dự báo giữ nguyên kỳ này và cả 100 người dự báo tăng vào tháng 12. Fed quyết định trong bối cảnh chưa có số PCE tháng 9 (công bố 29/10 cùng GDP quý III) và lạm phát đã vượt mục tiêu hơn 60 tháng liên tiếp theo BNY.\nQuyết định giữ nguyên gần như đã được định giá, nên tín hiệu về tháng 12 mới là điểm quyết định. Nếu Fed phát tín hiệu diều hâu, lợi suất và đồng USD có thể tăng, gây áp lực lên vàng, chứng khoán và các thị trường mới nổi; ngược lại, tín hiệu ôn hòa có thể giúp tài sản rủi ro phục hồi.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "cb2b9dbb3cc5e4586c087647227d96b8083dbaf436f8de104008846467ec223e"
+  },
+  {
+    "id": "e56e256a549c8b5bf3cec45a1c27d651e130236c18f9f2f3bac21877fa8b5a0d",
+    "title": "Infineon đầu tư 1,1 tỷ euro vào nhà máy chip ở Áo, sản xuất hàng loạt bán dẫn GaN trên wafer 300 mm",
+    "summary": "Infineon đầu tư 1,1 tỷ euro (1,23 tỷ USD) mở rộng sản xuất bán dẫn công suất cho trung tâm dữ liệu tại Villach, Áo, với kế hoạch xây nhà máy đầu tiên trên thế giới sản xuất hàng loạt bán dẫn gallium nitride (GaN) trên tấm wafer 300 mm. Wafer 300 mm chứa gấp 2,3 lần số chip so với loại 200 mm thông dụng. Cổ phiếu Infineon tăng gần 1% trong phiên Frankfurt buổi sáng sau khi đã giảm khoảng 40% từ giữa tháng 6.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/business/infineon-invest-11-billion-austria-chip-site-2026-10-27/",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 707,
+    "analysis": "CEO Jochen Hanebeck cho rằng GaN sẽ được dùng rộng rãi trong AI, hạ tầng năng lượng, xe điện và robot. Bán dẫn công suất là nút thắt của trung tâm dữ liệu AI khi nhu cầu điện tăng vọt.\nKhoản đầu tư củng cố vị thế châu Âu trong chuỗi cung ứng bán dẫn công suất, giảm phụ thuộc vào nguồn cung châu Á. Rủi ro: nhu cầu trung tâm dữ liệu có thể hạ nhiệt nếu cơn sốt đầu tư AI chững lại; lợi nhuận thực tế phụ thuộc vào tiến độ nhà máy và giá GaN.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "261c9fdb2c40f13cac14ccd2e62c75856f90189af6afffbce0d477fe0d5ffca7"
+  },
+  {
+    "id": "9d65a314ea9c83e0e89a12c0813ae6c052fd41bdc6c78ad086014f54a9cdfd05",
+    "title": "Quốc hội chiều 27/10: đề xuất mở rộng thẩm quyền điều tra cho trưởng, phó công an cấp xã",
+    "summary": "Quốc hội thảo luận tại hội trường về dự thảo Luật Tổ chức cơ quan điều tra hình sự (sửa đổi). Nhiều đại biểu đồng tình giao thủ trưởng cơ quan điều tra cấp tỉnh phân công một số nhiệm vụ cho điều tra viên là trưởng, phó trưởng công an cấp xã, gồm xử lý tin báo tội phạm, khởi tố, điều tra tội ít nghiêm trọng và tội nghiêm trọng đơn giản, chứng cứ rõ ràng. Đại biểu Nguyễn Phương Thùy (Hà Nội) đề nghị không quy định cứng chỉ điều tra viên trung cấp, cao cấp kiêm trưởng/phó công an cấp xã mới được làm nhiệm vụ này.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://news.laodong.vn/thoi-su/de-xuat-mo-rong-tham-quyen-dieu-tra-cho-truong-pho-truong-cong-an-cap-xa-1790088.ldo",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 708,
+    "analysis": "Đây là kết quả thảo luận chiều 27/10 (Lao Động 14:44 giờ Việt Nam), khác với tin chương trình kỳ 14:15. Bối cảnh: mô hình chính quyền địa phương 2 cấp đặt ra yêu cầu phân cấp điều tra về cơ sở.\nNếu được thông qua, thời gian xử lý tin báo và các vụ án đơn giản ở cấp xã có thể rút ngắn, giảm tải cho cấp tỉnh. Rủi ro cần kiểm soát: năng lực, ngạch điều tra viên và cơ chế giám sát để tránh lạm quyền hoặc xử lý không thống nhất giữa các địa phương.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "b6e98ad1c7113ecb73dcdb577f6128527a96b3ba8ed701b8d9c8764310e678e9"
+  },
+  {
+    "id": "cd9c7cb146c3c5e6dc146edb1d83f8daa864309c1dc39946a0bf64cd1df3ca62",
+    "title": "Ban Bí thư khai trừ Đảng ông Sử Ngọc Anh, nguyên Phó Giám đốc Sở Kế hoạch và Đầu tư TP.HCM",
+    "summary": "Ngày 27/10, tại Trụ sở Trung ương Đảng, sau khi xem xét đề nghị của Ủy ban Kiểm tra Trung ương, Ban Bí thư quyết định thi hành kỷ luật khai trừ ra khỏi Đảng đối với ông Sử Ngọc Anh - nguyên Thành ủy viên, Phó Bí thư Đảng ủy, Phó Giám đốc Sở Kế hoạch và Đầu tư TP.HCM. Ông bị kết luận suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm quy định của Đảng, pháp luật của Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm những điều đảng viên không được làm và trách nhiệm nêu gương, gây hậu quả rất nghiêm trọng, dư luận bức xúc.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://dantri.com.vn/thoi-su/ban-bi-thu-ky-luat-khai-tru-dang-mot-cuu-lanh-dao-so-20261027154216700.htm",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 709,
+    "analysis": "Trước đó, tại kỳ họp thứ 14 (ngày 14/10), Ủy ban Kiểm tra Trung ương đã xem xét, kết luận các vi phạm và đề nghị Ban Bí thư xem xét, thi hành kỷ luật. Ban Bí thư đồng thời đề nghị các cơ quan chức năng thi hành kỷ luật hành chính kịp thời, đồng bộ với kỷ luật đảng.\nQuyết định khép lại bước kỷ luật đảng, mở đường cho xử lý hành chính tiếp theo. Đây là diễn biến mới trong cửa sổ (Dân trí 15:44, Lao Động 15:46 giờ Việt Nam), thể hiện xử lý nghiêm vi phạm của cán bộ cấp sở.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "05d317b651d7f48c28c3f29c8fea2b84596fda09353f2186e48784f0f975fed0"
+  },
+  {
+    "id": "e8a0a642acc15ff67badc07e4afb10a75449a4808ef8f4c0f5dee7ccf729bd83",
+    "title": "Triều cường TP.HCM tối 27/10: đỉnh triều 17h-19h vượt báo động 3, đề phòng ngập giờ tan tầm",
+    "summary": "Đài Khí tượng Thủy văn Nam Bộ dự báo đỉnh triều đợt này tại TP.HCM có thể xuất hiện hôm nay, khoảng 5h-7h hoặc 17h-19h, vượt báo động 3: trạm Phú An và Nhà Bè khoảng 1,65-1,70 m (trên báo động 3 từ 0,05-0,10 m); trạm Thủ Dầu Một khoảng 1,77-1,83 m (trên báo động 3 từ 0,17-0,23 m). Đỉnh triều vùng ven biển trạm Vũng Tàu 4,06-4,11 m vào 14h30-15h30 và 1h30-2h30. Mức độ rủi ro thiên tai khu vực hạ lưu sông Sài Gòn ở cấp độ 2.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://lifestyle.zingnews.vn/tphcm-hai-khung-gio-can-luu-y-trieu-cuong-co-the-dat-dinh-post1692263.html",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 710,
+    "analysis": "Đây là bản cập nhật dự báo cho khung giờ tối 27/10 (góc cảnh báo giờ tan tầm), khác với tin triều cường buổi sáng kỳ 14:15 dùng nguồn HTV khác. Lưu ý: đây là dự báo, chưa phải số liệu thực đo đỉnh triều tối nay.\nNguy cơ ngập úng, tràn đê bao ở các khu vực trũng thấp ven sông, ảnh hưởng giao thông giờ cao điểm, sản xuất nông nghiệp, nuôi trồng thủy sản và sinh hoạt. Người dân vùng trũng nên hạn chế di chuyển qua điểm ngập sâu trong khung 17h-19h và đề phòng mưa dông kèm lốc, sét.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "6e7924e5e7c3228bb5f5863fed20e5e0c94703a1dc6e7669d7c0f9167a2e2ccf"
+  },
+  {
+    "id": "9044d1cfd7b2a2ef2a972ecc372693352d995daa76b8e83e8cccd0ec7ee5c01b",
+    "title": "Tập đoàn năng lượng ENGIE xác nhận rò rỉ dữ liệu khách hàng Pháp qua nền tảng marketing của đối tác",
+    "summary": "ENGIE xác nhận kẻ tấn công đã lấy dữ liệu khách hàng sau khi xâm nhập một công cụ marketing dùng cho hoạt động tìm kiếm khách hàng của đối tác; hệ thống CNTT nội bộ không bị xâm nhập và quyền truy cập đã bị cắt. Dữ liệu bị lộ theo thư thông báo gồm họ tên, địa chỉ, email, số điện thoại, mã điểm giao nhận điện (PDL) hoặc điểm đo đếm khí (PCE), mã khách hàng và số hợp đồng; không có dữ liệu ngân hàng bị ảnh hưởng. Số khách hàng bị ảnh hưởng không được công bố, chỉ giới hạn ở khách hàng tại Pháp.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 711,
+    "analysis": "ENGIE có hơn 90.000 nhân viên, hoạt động tại 30 quốc gia, doanh thu năm ngoái 71,9 tỷ euro. Vụ việc nối dài chuỗi rò rỉ qua bên thứ ba (sau Capcom, Copenhagen, Railway) và cho thấy rủi ro chuỗi cung ứng phần mềm.\nKhách hàng Pháp đối mặt nguy cơ lừa đảo, giả mạo nhắm vào thông tin hợp đồng điện/khí. Các doanh nghiệp cần rà soát quyền truy cập của đối tác marketing và công cụ bên thứ ba; ENGIE chưa công bố số lượng nạn nhân nên mức độ ảnh hưởng đầy đủ chưa rõ.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "f88c041ec8fc443feceadbb7033bbabe406c8d9777791eb903e46b59f0c0bab1"
+  },
+  {
+    "id": "fb3916e3b2d3ac8cfc425b73ec9971c313e98b2390ac4d58f85f74dc41b0c4f2",
+    "title": "Hãng ví cứng Keystone sẽ hủy gần 19.000 ví sau vụ xâm nhập website, lộ 25.964 hồ sơ người mua",
+    "summary": "Keystone sẽ hủy 18.835 ví cứng chưa bán và tạm dừng giao hàng sau khi kẻ tấn công xâm nhập website ngày 20/10 qua lỗ hổng trong công cụ giám sát dữ liệu bên thứ ba, làm lộ khóa xác thực được gắn trong quá trình sản xuất và không thể thay đổi - khóa này có thể khiến ví giả vượt qua kiểm tra xác thực. Vụ việc lộ 25.964 hồ sơ người mua từ 2024-2026 (tên, liên hệ, địa chỉ giao hàng, thông tin đơn hàng) và có thể thêm 12.873 hồ sơ thanh toán chưa hoàn tất; một phần hồ sơ lẽ ra phải xóa sau 180 ngày nhưng công cụ xóa tự động đã hỏng mà công ty không phát hiện.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 712,
+    "analysis": "Keystone khẳng định cụm từ khôi phục, khóa riêng và thông tin đăng nhập ví không bị lộ; ví đã giao trước 20/10 vẫn an toàn nếu vượt qua xác thực. Hãng sẽ đổi khóa xác thực cho thiết bị mới, chuyển bán web sang đặt trước và rút thời gian lưu dữ liệu khách hàng xuống 90 ngày.\nQuyết định hủy hàng loạt cho thấy chi phí của việc lộ khóa xác thực phần cứng là không thể vá bằng phần mềm. Người dùng ví cứng nên kiểm tra xác thực thiết bị và cảnh giác với lừa đảo dùng thông tin đơn hàng bị lộ.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "8220641ebe5510730d073e8704480db75c41a88c52f1e1fdfe55ec2f71d89ddd"
+  },
+  {
+    "id": "fb8cb1928ac544ed9ccc990fbfdcf5bdb5efa181e60f069ddc2fc9e27d56a740",
+    "title": "Solana: báo cáo lỗi sẽ tốn 1 SOL vì AI tạo spam tràn ngập đội bảo mật",
+    "summary": "Đội ngũ Firedancer (phần mềm thay thế cho Agave của Solana, do Jump Crypto xây dựng) sẽ yêu cầu nhà nghiên cứu đốt 1 SOL (khoảng 100 USD) cho mỗi báo cáo lỗi, nhằm giảm spam và dành thời gian cho lỗi thật. Theo điều khoản cập nhật ngày 26/10, phí không hoàn lại ngay cả khi báo cáo không hợp lệ, ngoài phạm vi hay trùng lặp; báo cáo không đốt SOL sẽ không đủ điều kiện nhận thưởng. Jump Crypto tạm thời tăng thưởng, lỗi nghiêm trọng trong hệ thống bỏ phiếu Alpenglow có thể nhận tới 300.000 USD.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 713,
+    "analysis": "Một cuộc thi audit gần đây thu hút 809 báo cáo nhưng chỉ cho 127 phát hiện bảo mật duy nhất, gần một nửa số báo cáo hợp lệ trùng lặp với báo cáo trước đó. Làn sóng báo cáo hỗ trợ bởi AI đang làm chậm việc xác minh lỗi thật - lỗi nghiêm trọng có thể khiến máy tính xác thực ngừng xử lý thanh toán hoặc bất đồng về số dư.\nMô hình 'trả phí để báo lỗi' có thể lọc spam nhưng cũng có thể ngăn nhà nghiên cứu độc lập, sinh viên báo lỗi thật. Đây là tín hiệu cho thấy AI đang thay đổi kinh tế học của chương trình bug bounty, không chỉ của tấn công mạng.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "12ce480f591433c98958f9acdce70fea736946b6a2ec5c6304e0b4450314a66d"
+  },
+  {
+    "id": "c8d2d9c5c0111346aaeb07826dc7136d1d02ac955a53acf5ca8dd18cc6894dc4",
+    "title": "Startup Ấn Độ Simplismart gọi 14 triệu USD Series B, định giá khoảng 100 triệu USD, có NVIDIA tham gia",
+    "summary": "Simplismart, startup 4 năm tuổi làm phần mềm nằm giữa mô hình AI và hạ tầng tính toán để tự động tối ưu triển khai mô hình (tốc độ phản hồi, thông lượng, mức tiêu thụ tài nguyên), đã gọi 14 triệu USD vòng Series B do Dallas Venture Capital dẫn đầu, với Accel, Shastra VC, Micromax và NVIDIA tham gia, định giá khoảng 100 triệu USD sau vòng gọi. Công ty cho biết phần mềm của mình giúp nền tảng tạo video AI InVideo giảm 56% chi phí dịch vụ GPU; doanh thu chạy hàng năm đã tăng 14 lần trong 6 tháng lên mức hàng chục triệu USD.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.chaincatcher.com/en/article/2299287",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 714,
+    "analysis": "Chỉ 1 nguồn thứ cấp (ChainCatcher dẫn TechCrunch, 18:06 giờ Việt Nam); chưa mở được bài TechCrunch gốc để đối chiếu độc lập nên coi là tin 1 nguồn. Mỹ đóng góp hơn một nửa doanh thu của Simplismart.\nVòng gọi cho thấy vốn vẫn chảy vào lớp tối ưu hạ tầng AI (giảm chi phí GPU) thay vì chỉ vào mô hình nền tảng. Rủi ro: con số giảm 56% chi phí và tăng trưởng 14 lần do công ty tự công bố, chưa kiểm chứng độc lập.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "137c1e0d91cf8a402cecdcce7b9c9ecc0747c3aa227aff06814b51311dfdff47"
+  },
+  {
+    "id": "2d520e8d913aaa05b3bd47bce5135d216a010d7ef1cff2bc7681ba6db0fe6074",
+    "title": "Chạy Windows 16-bit (1.x, 2.x, 3.0, 3.1) trên Windows 64-bit",
+    "summary": "Xu hướng thảo luận trên Hacker News về cách chạy phần mềm Windows 16-bit trên Windows 64-bit, xoay quanh dự án WineVDM của otya128 - công cụ tương thích kết hợp hỗ trợ 16-bit của Wine với lõi giả lập CPU. Điểm HOT: Chưa đủ dữ liệu. Số liệu thực tế lúc quan sát khoảng 18:17 giờ Việt Nam 27/10: 62 points, 5 comments trên Hacker News (bài đăng '4 hours ago', ở rìa đầu cửa sổ 4 giờ). Like/Reactions: N/A (Hacker News không có Like); Shares/Reposts: N/A; số bài đăng/cộng đồng độc lập: 1 bài đăng Hacker News đã xác nhận.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://github.com/otya128/winevdm",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 715,
+    "analysis": "Phần mềm 16-bit không chạy natively trên Windows 64-bit từ khi Windows 64-bit phổ biến hơn một thập kỷ trước; cộng đồng duy trì giải pháp tương thích cho phần mềm và game cũ.\nViệc thảo luận sôi nổi cho thấy nhu cầu bảo tồn phần mềm cũ vẫn lớn; WineVDM giúp doanh nghiệp và người dùng cá nhân chạy ứng dụng legacy mà không cần máy ảo nặng. Tác động thực tế giới hạn ở nhóm người dùng hoài cổ và doanh nghiệp còn hệ thống cũ.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "3127e3f70518164482c6e831c4ba0205efa37dc7991dcf868a69b5f7a82fe120"
+  },
+  {
+    "id": "40e5c46fa1fcd6e41ff6ee00a497b4632ae4cea6088a6055ca54e53a75c59688",
+    "title": "Anh dự kiến thu phí trường đại học 1.200 USD cho mỗi sinh viên quốc tế",
+    "summary": "Kế hoạch của chính phủ Anh: các trường đại học ở Anh sẽ chịu khoản phí hàng năm cho sinh viên quốc tế từ tháng 8/2028, mức khoảng 925 bảng (tương đương ~1.200 USD) cho mỗi sinh viên vượt ngưỡng miễn 220 sinh viên/trường, dự kiến thu 445 triệu bảng trong năm đầu. Điểm HOT: Chưa đủ dữ liệu. Số liệu thực tế lúc quan sát khoảng 18:17 giờ Việt Nam 27/10: 10 points, hiển thị 'discuss' (không có số comment cụ thể) trên Hacker News (bài đăng '56 minutes ago'). Like/Reactions: N/A; Shares/Reposts: N/A; số bài đăng/cộng đồng độc lập: 1 bài đăng Hacker News đã xác nhận.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://timesofindia.indiatimes.com/education/study-abroad/uk-to-charge-universities-1200-per-international-student-how-the-new-levy-could-affect-indian-applicants/articleshow/135226821.cms",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 716,
+    "analysis": "Sinh viên quốc tế không trực tiếp trả phí, nhưng chi phí tăng thêm có thể ảnh hưởng quyết định học phí của trường. Sinh viên từ Ấn Độ, Nigeria, Trung Quốc, Pakistan và các nước khác đều thuộc diện áp dụng.\nChính sách có thể làm giảm sức hút của giáo dục đại học Anh với sinh viên quốc tế, đặc biệt sinh viên Việt Nam du học Anh cần theo dõi học phí các năm tới. Tác động ngân sách: 445 triệu bảng năm đầu là nguồn thu đáng kể nhưng đi kèm rủi ro giảm tuyển sinh.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "f1c745270888b1a0501e8aff2871361cccad9bc6bb56dc37f4b0e90fc4fd8d6b"
+  },
+  {
+    "id": "35cc88480cd1348b846a2ecaff85b97904fd40ea21def1db378255d2c1c0b177",
+    "title": "'Tôi vẫn dạy OpenGL ES 3.0' - tranh luận về giá trị dạy API đồ họa cũ",
+    "summary": "Bài viết cá nhân 'Why I still teach OpenGL ES 3.0' (bài gốc từ tháng 1/2026) đang được thảo luận lại trên Hacker News: tác giả cho rằng OpenGL ES 3.0 vẫn có nhiều lợi thế khi dạy (đặc biệt WebGL2) dù phải vượt qua di sản của API 14 năm tuổi, vì lỗi của sinh viên thường rõ nguyên nhân hơn so với khi dùng framework. Điểm HOT: Chưa đủ dữ liệu. Số liệu thực tế lúc quan sát khoảng 18:17 giờ Việt Nam 27/10: 21 points, 14 comments trên Hacker News (bài đăng '3 hours ago'). Like/Reactions: N/A; Shares/Reposts: N/A; số bài đăng/cộng đồng độc lập: 1 bài đăng Hacker News đã xác nhận.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 717,
+    "analysis": "Tranh luận nối tiếp câu hỏi lớn hơn trong đào tạo lập trình: dạy API cấp thấp để hiểu bản chất hay dạy framework hiện đại để làm việc ngay. Tác giả đang chuyển trình soạn thảo đồ họa sang SDL GPU API nhưng vẫn giữ OpenGL ES cho khóa nhập môn.\nCuộc thảo luận phản ánh sự giằng co giữa tính bền vững của kiến thức nền tảng và áp lực thị trường với Vulkan/DirectX/Metal. Tác động chủ yếu trong cộng đồng giáo dục và đồ họa, không phải xu hướng đại chúng.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "a6cbbdcfd32d385b08c8dfeeb4c37b6759c7a4d7a76c21983d0e8c976067cc5e"
+  },
+  {
+    "id": "7da7613155ec264df6845ce0bbdd753e4eed697646b7b7ab0a15a7a62aaf16cf",
+    "title": "Akamai Inference và Akamai Agent Sandbox cho AI agent doanh nghiệp",
+    "summary": "Akamai giới thiệu 2 sản phẩm mới trên Akamai Cloud: Akamai Inference (dịch vụ suy luận có quản lý cho mô hình open-weight và mô hình tùy chỉnh qua API tương thích OpenAI, dạng serverless trả theo mức dùng hoặc triển khai riêng) và Akamai Agent Sandbox (môi trường cách ly bằng WebAssembly để chạy code do agent tự viết, tách khỏi runtime của agent). Lúc ra mắt, danh mục Inference có 12 mô hình open-weight từ 8 tỷ đến 2,8 nghìn tỷ tham số, gồm NVIDIA Nemotron 3 Ultra, OpenAI gpt-oss-120b và Google Gemma 4; cả hai đều đang ở giai đoạn beta.",
+    "category": "Công nghệ & AI",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/27/3388793/0/en/akamai-launches-ai-inference-service-and-agent-execution-environment.html",
+    "collectedAt": "2026-10-27T15:18:52.691Z",
+    "sourceRow": 718,
+    "analysis": "Akamai cũng mở rộng cụm GPU với NVIDIA Blackwell Ultra (mỗi node 8 GPU, 288 GB HBM3e/GPU, tổng 2,3 TB) và chuẩn bị cho nền tảng Vera Rubin năm 2027; các hợp đồng nhiều năm cho Akamai Cloud cộng lại trị giá hơn 14 tỷ USD. Điểm mới: lần đầu Akamai gói 'suy luận + môi trường thực thi agent' thành một stack đầy đủ trên cùng nền tảng, thay vì doanh nghiệp phải tự ghép nhiều nhà cung cấp.\nỨng dụng thực tế: doanh nghiệp chạy agent viết code trong sandbox giới hạn tài nguyên tính toán, bộ nhớ, kết nối ra ngoài; kết nối cơ sở dữ liệu và object storage nội bộ, chạy trên mạng toàn cầu với hơn 4.350 điểm edge. Hạn chế: cả hai sản phẩm ở giai đoạn beta; chưa công bố giá suy luận cụ thể (giá GPU theo liên hệ bán hàng).",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "277c5c5dff7b747220fca04973adc6921383ae9bf3465786c322794737d0bdb1"
   }
 ]
