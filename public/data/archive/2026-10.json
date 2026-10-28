@@ -16170,5 +16170,319 @@
     ],
     "language": "vi",
     "contentHash": "d9e71cc5b52ac6d59385bb9d59e33059b319fe548cdedcfbab3187402ed843e1"
+  },
+  {
+    "id": "c2973f3347ff50c5bce1f6994f10f6533ef2fedade9a7c8ea1aaacdee1e015b1",
+    "title": "Fed giữ nguyên lãi suất 3,75–4%, bỏ phiếu 10–2; Warsh khẳng định chính trị không đóng vai trò nào",
+    "summary": "Fed giữ nguyên lãi suất chuẩn ở 3,75–4% sau đợt tăng tháng 9; 2 phiếu phản đối của Thống đốc Lisa Cook và Chủ tịch Fed Cleveland Beth Hammack đều muốn tăng ngay 0,25 điểm %. Tuyên bố nâng đánh giá kinh tế từ 'solid' lên 'strong' nhưng khẳng định lạm phát vẫn ở mức cao (CPI tháng 9 +3,7%/năm, PPI +6,3%/năm). Họp báo Chủ tịch Kevin Warsh lúc 01:30 VN 29/10: chính trị 'không đóng vai trò nào'; Fed sẽ giảm số cuộc họp quyết định lãi suất từ 2027 (1 cuộc chỉ thảo luận chiến lược) và 2028 (2 cuộc).",
+    "category": "Top 5",
+    "section": "Phần A",
+    "sourceUrl": "https://www.reuters.com/business/view-fomc-holds-rates-steady-markets-mostly-follow-suit-2026-10-28/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 876,
+    "analysis": "Quyết định công bố 01:00 VN 29/10, đúng kỳ vọng thị trường (~90% giữ nguyên). Thị trường đặt cược ~86–90% khả năng tăng lãi suất tháng 12; chứng khoán Mỹ tăng nhẹ sau phát biểu của Warsh, lợi suất 2 năm lùi về 4,726%.\nTác động: kỳ vọng tăng lãi suất tháng 12 gần như chắc chắn sẽ định hình giá tài sản, lãi suất cho vay và dòng vốn toàn cầu trước bầu cử giữa kỳ Mỹ 3/11; rủi ro: lạm phát dai dẳng do giá năng lượng vì chiến tranh với Iran có thể buộc Fed thắt chặt thêm.",
+    "tags": [
+      "Top 5",
+      "Phần A"
+    ],
+    "language": "vi",
+    "contentHash": "52cd43fd389d4bd7e2510c0c946423635bbdaaea101d6b9e933d543ecda965cf"
+  },
+  {
+    "id": "cf011917619224ef957e70584031fc06de76c19b3793bd132ed5e448f6ce5d32",
+    "title": "Apple ra mắt MacBook Pro cảm ứng đầu tiên với màn hình PROLED XDR, giá từ 2.899 USD",
+    "summary": "Tại sự kiện 'Pro and Tell' ở Los Angeles lúc 00:00 VN 29/10, Apple công bố MacBook Pro đầu tiên có cảm ứng: màn hình PROLED XDR tandem OLED, độ sáng 2.000 nits, tương phản 10.000.000:1, Dynamic Island lần đầu lên Mac, chip M5 Pro/M5 Max, RAM tối đa 128GB, bộ nhớ tối đa 16TB, pin tối đa 24 giờ. Bản 14 inch nặng 3 pound, 16 inch nặng 4 pound, nhẹ hơn thế hệ trước. Giá: 14 inch M5 Pro từ 2.899 USD, 16 inch M5 Pro từ 3.399 USD, 14 inch M5 Max từ 4.499 USD, 16 inch M5 Max từ 4.799 USD; đặt trước từ 28/10, lên kệ 6/11 tại 30 quốc gia/vùng lãnh thổ.",
+    "category": "Top 5",
+    "section": "Phần A",
+    "sourceUrl": "https://www.usatoday.com/story/tech/2026/10/28/apple-first-touchscreen-macbook-prices-features-specs/92476392007/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 877,
+    "analysis": "Đây là lần đầu Apple đưa cảm ứng lên Mac sau nhiều năm từ chối, kết thúc tranh luận kéo dài và xác nhận mọi tin rò rỉ trước sự kiện. Các ứng dụng Canva, Zoom, Word, PowerPoint, Lightroom, DaVinci Resolve, Blender đã tương thích Touch ngay từ đầu.\nCơ hội: mở ra phân khúc laptop lai cho sáng tạo nội dung và doanh nghiệp; rủi ro: giá khởi điểm cao hơn ~700 USD so với bản M5 Pro không cảm ứng, giá tại Việt Nam chưa công bố, và macOS mới chỉ thay đổi vừa phải cho cảm ứng.",
+    "tags": [
+      "Top 5",
+      "Phần A"
+    ],
+    "language": "vi",
+    "contentHash": "29f30082217a938c793625f9f2fa36167e8bdd9902c7fce54a375de0c0f7771d"
+  },
+  {
+    "id": "1bbead10b3e1a4e65d46f12bf1fa518ec753ae61c2053d1e68b574ae2b15b24a",
+    "title": "Google công bố Gemini 4 Carbon, mô hình AI mạnh nhất của hãng, tập trung an ninh mạng",
+    "summary": "Google DeepMind công bố Gemini 4 Carbon ngày 28/10 (Reuters đăng 01:08 VN 29/10), kế tiếp Gemini 4 Argon ra mắt 2 tuần trước. Điểm Artificial Analysis Intelligence Index v5.0 đạt 59, xếp hạng 1, trên Claude Opus 5.5 (58) và GPT-6 Astra (57); Argon chỉ 50 điểm. Điểm an ninh mạng: SEC-bench Pro 88,2% (tìm lỗ hổng), ExploitGym 54,8% (khai thác), CWE-bench 71,0% (vá lỗi); tạo mã an toàn với tỉ lệ thành công gấp hơn 2 lần Argon trên benchmark nội bộ.",
+    "category": "Top 5",
+    "section": "Phần A",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 878,
+    "analysis": "Carbon được thiết kế cho nhiệm vụ dài hơi, nhiều ngày trong codebase lớn, và là bước chuyên môn hóa tiếp theo của cuộc đua frontier sau Argon. Google đang tham gia quy trình kiểm thử tự nguyện trước phát hành của chính phủ Mỹ.\nTruy cập ban đầu chỉ dành cho một nhóm chuyên gia phòng thủ mạng qua chương trình Fairwind, chưa có ngày mở rộng cho nhà phát triển/doanh nghiệp/người dùng phổ thông. Giá giới thiệu 2 USD/1 triệu token đầu vào và 10 USD/1 triệu token đầu ra, bằng Argon.",
+    "tags": [
+      "Top 5",
+      "Phần A"
+    ],
+    "language": "vi",
+    "contentHash": "3bb8f4339df557a8729861e70eb9fb6be4559b2ba37153146fc51465200a7326"
+  },
+  {
+    "id": "c6a56da3fa3f9a1286b6cf463961d54bf8a56e33e66d16b25a2428b00f4e1600",
+    "title": "Likud cáo buộc các đảng Arab 'đánh cắp' bầu cử Israel, đòi cảnh sát và Shin Bet điều tra",
+    "summary": "Đảng Likud của Thủ tướng Netanyahu cáo buộc các đảng Arab gian lận diện rộng: hối lộ, đe dọa, bạo lực, giả mạo và dùng phần mềm huy động cử tri bị cấm; nói sẽ nộp hàng trăm lời khai và bằng chứng cho cảnh sát, Shin Bet và Ủy ban Bầu cử Trung ương. JPost nhấn mạnh các cáo buộc chưa được xác minh độc lập và chưa có bằng chứng công khai cho thấy thao túng có hệ thống. CEC xác nhận đã nhận đơn và đang xem xét theo quy trình thường lệ. Thị trưởng Rahat bác bỏ, gọi đây là 'dối trá và kích động chống người Bedouin'.",
+    "category": "Top 5",
+    "section": "Phần A",
+    "sourceUrl": "https://www.jpost.com/israel-election-2026/article-913133",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 879,
+    "analysis": "Diễn biến mới trong cửa sổ (JPost đăng 22:29, cập nhật 23:17 VN 28/10) trong khi kết quả vẫn bế tắc: khối Netanyahu 53 ghế, khối Eisenkot 48 ghế, các đảng Arab 19 ghế, chưa bên nào đủ 61. Phiếu phong bì đôi (~430.000–600.000, con số chưa thống nhất) dự kiến đếm xong tối 29/10.\nRủi ro: cáo buộc gian lận có thể làm phức tạp đàm phán thành lập chính phủ và kéo dài bế tắc, ảnh hưởng tới lập trường của Israel trong chiến tranh với Iran và đàm phán do Qatar trung gian; cần chờ kết luận của CEC trước khi đánh giá.",
+    "tags": [
+      "Top 5",
+      "Phần A"
+    ],
+    "language": "vi",
+    "contentHash": "a37b0d7b5140d3fa839390d7fd804cbe5f16011b09f255d48dfb46969b21425a"
+  },
+  {
+    "id": "8ae861a3dbfec515f98331459656357b148a19744e6ba0c055b4b6883321d470",
+    "title": "FPT tạm ứng cổ tức 10% trong lúc cổ phiếu 'thủng' đáy 3 năm",
+    "summary": "HĐQT FPT (HoSE: FPT) thông qua tạm ứng cổ tức đợt 1/2026 bằng tiền mặt 10%, tương ứng 1.000 đồng/cổ phiếu; ngày đăng ký cuối cùng 30/11/2026, thanh toán dự kiến 10/12/2026, tổng chi khoảng 1.885 tỷ đồng với hơn 1,8 tỷ cổ phiếu lưu hành. Cổ phiếu FPT đóng cửa phiên 28/10 ở 54.000 đồng/cp, vốn hóa còn khoảng 100.000 tỷ đồng, thấp nhất từ tháng 8/2023 và không còn đủ lọt top 10 công ty giá trị nhất thị trường. 9 tháng 2026: doanh thu 40.023 tỷ đồng (+12,4%), lợi nhuận trước thuế 8.770 tỷ đồng (+17%); khối Công nghệ đóng góp 89% doanh thu và 58% lợi nhuận trước thuế.",
+    "category": "Top 5",
+    "section": "Phần A",
+    "sourceUrl": "https://cafef.vn/co-phieu-thung-day-3-nam-fpt-phat-thong-bao-quan-trong-188261028224606129.chn",
+    "imageUrl": "https://cafefcdn.com/203337114487263232/2026/10/28/screenshot-2026-10-28-at-161903-1793188871106-1793188871364528361928.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 880,
+    "analysis": "Bài CafeF đăng 22:49 VN 28/10, trong cửa sổ. Trước đó tháng 9/2026 FPT phát hành cổ phiếu thưởng 10:1, nâng vốn điều lệ từ hơn 17.143 tỷ lên gần 18.858 tỷ đồng.\nTín hiệu: doanh nghiệp vẫn chia cổ tức tiền mặt dù cổ phiếu dò đáy, cho thấy dòng tiền ổn định; rủi ro: định giá ngành công nghệ trong nước tiếp tục chịu áp lực từ làn sóng điều chỉnh cổ phiếu AI toàn cầu.",
+    "tags": [
+      "Top 5",
+      "Phần A"
+    ],
+    "language": "vi",
+    "contentHash": "c5c08f25eee8183a0268fdbbe9e2ceeaa01ff304f76b966ce52eb80719dd809a"
+  },
+  {
+    "id": "86deb73ecf2d2ce7c4f0dddae3d0e57027f504b8836f344cf6c9b80a51e9d77d",
+    "title": "Thị trường đặt cược ~86–90% Fed tăng lãi suất tháng 12 sau quyết định giữ nguyên",
+    "summary": "Ngay sau tuyên bố giữ nguyên, Nasdaq và S&P 500 cùng tăng 0,2% khi Warsh phát biểu; lợi suất 2 năm lùi về 4,726% (-1 điểm), 10 năm 5,007%, 30 năm 5,325%, USD index -0,02%. Theo CME FedWatch (qua CoinDesk), xác suất tăng 0,25 điểm % trong tháng 12 lên 86% (từ 78% một ngày trước); nhà giao dịch trái phiếu định giá ~90%. Bitcoin lên ~81.100 USD. Goldman Sachs AM và Natixis nhận định Fed có thể nối lại tăng lãi suất vào tháng 12.",
+    "category": "Kinh tế & Tài chính",
+    "section": "Phần B",
+    "sourceUrl": "https://nypost.com/2026/10/28/business/fed-holds-interest-rates-steady-but-investors-bet-on-december-rate-hike/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 881,
+    "analysis": "Phản ứng trong phiên sau Fed, ghi nhận trong cửa sổ; đóng cửa Phố Wall phiên 28/10 rơi vào 03:00 VN 29/10, sau cửa sổ, nên chưa có số chốt phiên.\nTác động: kỳ vọng thắt chặt tháng 12 sẽ chi phối lợi suất trái phiếu, USD và dòng vốn vào thị trường mới nổi; rủi ro: nếu dữ liệu lạm phát tiếp tục nóng, thị trường có thể định giá thêm đợt tăng năm 2027.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "4545e296359aea48253cd7a1872c497689c6c1c3ff93fb6c77fa6cb474fcb4d5"
+  },
+  {
+    "id": "2f5feb68115bc5a45e9cbe75c787b3304bef8dbfe607e16bac1cec55dd825258",
+    "title": "Châu Âu phiên 28/10 phân hóa: DAX +0,44%, IBEX -1,45% vì Santander",
+    "summary": "Tổng kết phiên 28/10 (châu Âu): DAX 25.704,02 (+0,44%), FTSE MIB 49.824,30 (+0,40%), FTSE 100 10.694,50 (+0,07%), Stoxx Europe 600 644,09 (+0,06%), Euro Stoxx 50 6.168,36 (+0,06%), CAC 40 7.886,96 (~0,00%), SMI -0,11%, AEX -0,37%, IBEX 35 18.883,50 (-1,45%). Santander giảm -5,59% do lợi nhuận quý tại Brazil yếu, kéo IBEX xuống; Deutsche Bank tăng sau lợi nhuận quý 3 vượt dự báo; nhóm ô tô +1,33%, dầu khí +1,17%.",
+    "category": "Kinh tế & Tài chính",
+    "section": "Phần B",
+    "region": "Quốc tế",
+    "sourceUrl": "https://edgeconsultancykw.com/europe-market-wrap-28-october-2026/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 882,
+    "analysis": "Đóng cửa châu Âu rơi vào cuối cửa sổ đêm; nguồn là bản tổng kết thứ cấp (Edge Consultancy), không phải Reuters — ghi rõ để đối chiếu.\nCho thấy sự phân hóa theo kết quả doanh nghiệp hơn là xu hướng chung, trong lúc thị trường chờ quyết định Fed và KQKD Big Tech.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "b6868af95a3836fa3ae057df36f45f7bfcba857af7b638339316dc3b18977a64"
+  },
+  {
+    "id": "c61ab3bfbb679cfabe11e4fcd26a1546e7996ecbb5c53bf87bd0953798081971",
+    "title": "SK Hynix lãi quý 3 tăng 632%, kéo cổ phiếu chip Mỹ tăng trong phiên 28/10",
+    "summary": "SK Hynix báo cáo lợi nhuận hoạt động quý 3 tăng 632,1% so với cùng kỳ lên 83.3338 nghìn tỷ won, doanh thu quý lần đầu vượt 100 nghìn tỷ won. Trong phiên Mỹ 28/10, Micron tăng 4,8% lên cao nhất hơn 2 tuần, cổ phiếu SK Hynix niêm yết tại Mỹ tăng 10,6%, chỉ số chip Philadelphia tăng 0,9%, hướng tới phiên tăng thứ 4 liên tiếp. Alphabet tăng 1,2% sau tin OpenAI dự định mua chip AI TPU của Google.",
+    "category": "Kinh tế & Tài chính",
+    "section": "Phần B",
+    "region": "Quốc tế",
+    "sourceUrl": "https://biz.chosun.com/en/en-international/2026/10/28/KKCZGK4VBVBHVC237DMWK5SEDM/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 883,
+    "analysis": "Báo cáo SK Hynix ra sáng 28/10 (giờ Hàn Quốc), chưa từng đưa trong các số trước; diễn biến mới trong cửa sổ là đà tăng của nhóm chip Mỹ trước thềm Fed và KQKD Microsoft/Alphabet.\nCủng cố luận điểm nhu cầu bộ nhớ cho AI vẫn mạnh bất chấp lo ngại chi tiêu AI; rủi ro: định giá chip đã tăng nhanh, biến động mạnh quanh mùa báo cáo.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "d2375b24e2570b77a856773b581948ffb132aed0503016ae03c802076eb183f6"
+  },
+  {
+    "id": "7319da97ac3a24205453a0d03ca4f47bbb6ef84221d9a39709912fb4ba617a28",
+    "title": "Mỹ phê duyệt Amazon Leo mua Globalstar với giá 11,5 tỷ USD",
+    "summary": "Cơ quan Mỹ đã phê duyệt thương vụ Amazon Leo mua lại Globalstar trị giá 11,5 tỷ USD (Reuters ngày 27/10). Thương vụ củng cố tham vọng vệ tinh băng thông rộng của Amazon, cạnh tranh trực tiếp với Starlink của SpaceX trong lúc SpaceX vừa lấn sân viễn thông và gây áp lực lên cổ phiếu AT&T/Verizon/T-Mobile cuối tuần trước.",
+    "category": "Kinh tế & Tài chính",
+    "section": "Phần B",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 884,
+    "analysis": "Tin trong 24h, chưa từng đưa trong các số trước; xuất hiện trên Hacker News lúc 18:54 VN 28/10 và vẫn trên front page đêm 28→29/10.\nTác động: tăng tốc cuộc đua internet vệ tinh và hạ tầng kết nối toàn cầu; điều kiện và tiến độ sáp nhập vẫn cần theo dõi thêm.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "22cf161ad532184cfb540ff0be6df85b50272536fab91c278bcb190003b4c184"
+  },
+  {
+    "id": "71dbf20301ac19f16751612723535408a68e092bf488eeaaaad7ea55dc6b23d9",
+    "title": "Vụ Cây xanh Công Minh: cáo buộc thiệt hại gần 791 tỷ đồng tại 1.218 dự án ở 38 tỉnh thành",
+    "summary": "Cáo trạng VKSND Tối cao truy tố Nguyễn Công Minh (Chủ tịch HĐQT Tổng Công ty Cây xanh Công Minh, đang bị truy nã nên truy tố vắng mặt) cùng 46 người khác ra TAND TP.HCM về tội vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng. Ông Minh bị cáo buộc chỉ đạo thông thầu, nâng khống giá cây xanh tại 1.218 dự án ở 38 tỉnh thành (2019–2023), tổng giá trị hợp đồng hơn 3.962 tỷ đồng, thiệt hại gần 791 tỷ đồng, hưởng lợi hơn 264 tỷ đồng. Các bị can khác gồm 3 cựu Chủ tịch UBND huyện thuộc Quảng Trị cũ.",
+    "category": "Chính trị & Xã hội",
+    "section": "Phần B",
+    "sourceUrl": "https://vnexpress.net/chu-tich-hdqt-cay-xanh-cong-minh-bi-cao-buoc-gay-thiet-hai-791-ty-dong-5138049.html",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 885,
+    "analysis": "Bài VnExpress đăng 20:15, cập nhật 23:35 VN 28/10 — cập nhật nằm trong cửa sổ.\nVụ án quy mô lớn cho thấy lỗ hổng kéo dài trong đấu thầu cây xanh dùng ngân sách; phiên tòa sắp tới sẽ là phép thử về thu hồi tài sản và trách nhiệm của cán bộ tạo điều kiện.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "203a50a27196797ba7a946c0bee2d290f7a54dd44fab3e43d4933c7d1a477739"
+  },
+  {
+    "id": "74b5a4e493fc6e255a5e6704f1d05f7832e0f4126471d7a7a6db3804c2db5f10",
+    "title": "Triều cường bao vây khu dân cư phía Nam TP.HCM, mực nước vượt báo động 3",
+    "summary": "Chiều 28/10, triều cường dâng cao khiến nhiều khu dân cư phía Nam TP.HCM ngập đến đầu gối: khu Trung Sơn (xã Bình Hưng) và Nam Long, Tấn Trường (phường Phú Thuận) bị nước bao vây nhiều giờ, người dân phải lội nước, đẩy xe máy về nhà. Đài Khí tượng Thủy văn Nam Bộ: sáng 28/10 mực nước sông Sài Gòn ở hầu hết trạm vượt báo động 3 (Nhà Bè 1,62m, Phú An 1,6m, Thủ Dầu Một 1,78m); chiều đạt đỉnh 1,72–1,77m tại Phú An và Nhà Bè, 1,79–1,83m tại Thủ Dầu Một. Mực nước dự báo giảm dần nhưng còn duy trì báo động 2–3 đến ngày 31/10.",
+    "category": "Chính trị & Xã hội",
+    "section": "Phần B",
+    "sourceUrl": "https://thanhnien.vn/trieu-cuong-bao-vay-nhieu-khu-dan-cu-cao-cap-o-tphcm-nguoi-dan-loi-nuoc-ve-nha-185261028194238259.htm",
+    "imageUrl": "https://images2.thanhnien.vn/528068263637045248/2026/10/28/tnw-dsc07660-179319048426910093325.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 886,
+    "analysis": "Bài Thanh Niên đăng 19:59, cập nhật 22:17 VN 28/10 — cập nhật nằm trong cửa sổ (2 phút sau mốc bắt đầu).\nCảnh báo: triều cường kết hợp mưa lớn miền Trung (Thanh Hóa–Huế, Đà Nẵng mưa rất to ngày 29/10) làm tăng nguy cơ ngập úng kéo dài ở vùng trũng thấp; người dân cần theo dõi mực nước và hạn chế di chuyển qua vùng ngập sâu.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "1920d28cee3d04daf01523300a8bd1b53d10c2c5627ca90cf86aa98344939b0f"
+  },
+  {
+    "id": "24a2656981b5b2192a1a027455b67a9617cb6faa2cbd9a271d032db4e74c801a",
+    "title": "Chrome bổ sung Autofill AI lấy thông tin từ Gmail để điền form",
+    "summary": "TechCrunch đăng 00:00 VN 29/10: Chrome sẽ có phiên bản Autofill nâng cao dùng AI, gợi ý điền form từ Gmail của người dùng — số xác nhận chuyến bay, mã thành viên, mã vận đơn, số đơn hàng, địa chỉ, số điện thoại, số thẻ tín dụng. Đây là mở rộng của tính năng Personal Intelligence (kết nối ứng dụng Google với Gemini). Người dùng tự chọn bật/tắt trong cài đặt Chrome; Google nói dữ liệu nhạy cảm được mã hóa. Triển khai cho người dùng Mỹ trên desktop và ứng dụng iOS/Android cho Gemini trong Chrome.",
+    "category": "Công nghệ & AI",
+    "section": "Phần B",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 887,
+    "analysis": "Tính năng nằm trong làn sóng 'AI agent dùng hộ dữ liệu cá nhân' cùng ngày với Gemini 4 Carbon và MacBook cảm ứng.\nTiện ích rõ rệt cho mua sắm, đặt vé, theo dõi đơn hàng; rủi ro riêng tư: AI đọc email để điền form đòi hỏi niềm tin vào cơ chế mã hóa và kiểm soát bật/tắt của Google.",
+    "tags": [
+      "Công nghệ & AI",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "7bd398551e7744d91fe13e59535e1281c5d6d7b3acc18971dfb71631c3c40d7f"
+  },
+  {
+    "id": "66f4de4032f16fc9784cfcc97dbf938b029aaa0e7988d273a3a3ebc4132861dc",
+    "title": "macOS chỉ thay đổi vừa phải cho cảm ứng, theo hands-on sau sự kiện Apple",
+    "summary": "Theo AppleInsider dẫn hands-on của The Verge sau sự kiện 00:00 VN 29/10: macOS không được thiết kế lại toàn diện cho cảm ứng; thay đổi rõ nhất ở cấp hệ thống là các nút đóng/thu nhỏ/phóng to cửa sổ sẽ phóng to khi chạm vào để dễ bấm bằng ngón tay. Phần lớn tương tác cảm ứng mới nằm trong từng ứng dụng; macOS tự dịch thao tác chạm thành click. Cảm biến cảm ứng tích hợp trực tiếp vào tấm nền để giảm độ trễ, không thay thế bàn phím/trackpad.",
+    "category": "Công nghệ & AI",
+    "section": "Phần B",
+    "sourceUrl": "https://appleinsider.com/articles/26/10/28/how-macos-is-changing-on-touchscreens-beyond-sidecar-but-only-a-bit",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 888,
+    "analysis": "Góc phân tích mới trong cửa sổ, bổ sung cho tin công bố chính thức ở Phần A.\nHàm ý: Apple chọn cách tiếp cận thận trọng, tránh biến Mac thành iPad; trải nghiệm thực tế sẽ phụ thuộc vào mức độ tối ưu của từng ứng dụng bên thứ ba.",
+    "tags": [
+      "Công nghệ & AI",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "a3a4ffd98fab642a3b3af6526c6848bbb610168292da1aaf33800adb24f58d39"
+  },
+  {
+    "id": "5d726cb163a3007a1e7455e5d9e11795693d0953be8b680b7a3eeb66d09fc6dd",
+    "title": "Lỗ hổng UEFI TianoCore EDK II (CVE-2026-97631, CVSS 9,5) đe dọa hầu hết máy chủ",
+    "summary": "Ars Technica ngày 28/10 đưa tin về lỗ hổng thực thi mã trong firmware UEFI TianoCore EDK II (CVE-2026-97631, CVSS 9,5), có thể ảnh hưởng tới hầu hết máy chủ dùng firmware này. Đây là một trong các tin an ninh mạng nổi trong ngày 28/10, cùng nhóm với cảnh báo của Anthropic về mô hình AI tự tìm và xâu chuỗi lỗ hổng thành exploit (thử nghiệm trong phòng lab, đã báo cáo và vá trước khi công bố).",
+    "category": "Công nghệ & AI",
+    "section": "Phần B",
+    "sourceUrl": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 889,
+    "analysis": "Tin trong 24h, chưa từng đưa trong các số trước; không tìm thấy CVE mới nào có thời gian đăng xác nhận rơi vào cửa sổ 22:15–02:15.\nQuản trị hệ thống cần rà soát phiên bản EDK II và áp dụng bản vá của nhà cung cấp; rủi ro đặc biệt cao với hạ tầng máy chủ và trung tâm dữ liệu.",
+    "tags": [
+      "Công nghệ & AI",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "feef81563b6afe95211fda469fd56d05de5f658fbbf92b0a33d31271f910a113"
+  },
+  {
+    "id": "8b953e867e9b673b21ba65bcd46d1b1fa4e33834e151b0be23210ab00a4a86b6",
+    "title": "Gemini 4 Carbon bùng nổ trên Hacker News ngay sau công bố",
+    "summary": "Nền tảng: Hacker News. Nội dung: bài blog chính thức của Google về Gemini 4 Carbon, đăng 00:01 VN 29/10, lập tức lên front page. Like/Reactions: 482 points (HN dùng points, không phải Like). Comments/Replies: 415. Shares/Reposts: N/A (HN không công khai chỉ số này). Số bài đăng/cộng đồng độc lập: 1 bài HN chính + bài Reuters và nhiều trang tin đưa cùng ngày. Thời điểm ghi nhận: ~02:29 VN 29/10. Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu shares và tăng trưởng 24h có hệ thống; chỉ chấm tiêu chí có bằng chứng).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "Phần B",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50276792",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 890,
+    "analysis": "Vì sao đang HOT: mô hình AI mới nhất của Google vượt GPT-6 Astra và Claude Opus 5.5 trên bảng Artificial Analysis, lại chuyên sâu an ninh mạng — đúng lúc cộng đồng vừa trải qua 'tuần lễ bảo mật hạ tầng số'. Các quan điểm nổi bật: ấn tượng với điểm số nhưng mệt mỏi vì chưa được dùng thử (chỉ nhóm phòng thủ mạng qua Fairwind).\nTác động: củng cố vị thế Google trong cuộc đua frontier; đồng thời đặt câu hỏi về tốc độ phát hành mô hình so với kiểm chứng an toàn.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "e366689c924f771a84982f2d20519cec650a664975eab867872299e9aebaf499"
+  },
+  {
+    "id": "8a756f8cbaa4b6b7aa8927d9e61bf94ac6657ae131da3f7b10f50d29734e6c13",
+    "title": "MacBook Pro cảm ứng đầu tiên gây tranh luận sôi nổi trên Hacker News",
+    "summary": "Nền tảng: Hacker News. Nội dung: trang sản phẩm Apple về MacBook Pro với PROLED XDR Display và Touch, đăng 00:10 VN 29/10. Like/Reactions: 297 points. Comments/Replies: 474 (nhiều bình luận nhất trong nhóm trend đêm nay). Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN chính + live blog Engadget, MacRumors, 9to5Mac cùng đưa tin. Thời điểm ghi nhận: ~02:29 VN 29/10. Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu shares và tăng trưởng 24h có hệ thống).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "Phần B",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50276940",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 891,
+    "analysis": "Vì sao đang HOT: Apple phá bỏ lập trường nhiều năm 'Mac không cần cảm ứng'; cộng đồng tranh luận gay gắt về việc macOS chỉ thay đổi vừa phải, giá khởi điểm 2.899 USD và ý nghĩa của Dynamic Island trên laptop.\nTác động: có thể kéo theo làn sóng laptop cảm ứng cao cấp và buộc các ứng dụng chuyên nghiệp tối ưu cho chạm.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "a0ed174ef4e8d3770046f493506c426be9a4185d07994d557142de310ef77341"
+  },
+  {
+    "id": "edc38e07d15ddf503d83f25a972e548120e6a869640b7b5e698bf2aa7c208f0f",
+    "title": "Git của Apple vẫn tin chứng chỉ eMudhra đã bị xâm phạm",
+    "summary": "Nền tảng: Hacker News. Nội dung: bài phân tích cho thấy git của Apple vẫn tin cậy các chứng chỉ eMudhra đã bị xâm phạm, nối tiếp vụ sụp đổ của nhà cung cấp chứng chỉ eMudhra (đã rút khỏi mảng SSL/TLS toàn cầu sau sự cố khóa CA yếu). Like/Reactions: 885 points — cao nhất front page đêm nay. Comments/Replies: 340. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN chính, dẫn tới trang phân tích độc lập. Thời điểm ghi nhận: ~02:29 VN 29/10. Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu shares và tăng trưởng 24h có hệ thống).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "Phần B",
+    "sourceUrl": "https://emudhra.we-have-a-problem.com/apple.html",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 892,
+    "analysis": "Vì sao đang HOT: eMudhra là mắt xích trong 'tuần lễ bảo mật hạ tầng số' (PHP2Shell, Node2Shell, Oracle Java); việc một hãng lớn như Apple vẫn tin chứng chỉ đã xâm phạm khiến cộng đồng lo ngại về độ trễ thu hồi chứng chỉ trên diện rộng.\nTác động: gây áp lực buộc các nhà cung cấp hệ điều hành và công cụ rà soát lại kho chứng chỉ tin cậy; người dùng doanh nghiệp nên kiểm tra chuỗi tin cậy nội bộ.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "Phần B"
+    ],
+    "language": "vi",
+    "contentHash": "33549f7106b216e52a263af587633d70e92c6647d039757a1d96f345a8689459"
+  },
+  {
+    "id": "17a8161915d530c58cf001e91591d54029f8146068067b9870199f851c231ec8",
+    "title": "Survival LLM: trợ lý AI và thư viện khẩn cấp chạy hoàn toàn trên máy tính cá nhân",
+    "summary": "Survival LLM là trợ lý AI kèm thư viện khẩn cấp chạy trên máy tính của chính người dùng, không phụ thuộc đám mây — hữu ích khi mất mạng, thiên tai hoặc cần tra cứu ngoại tuyến. Bài giới thiệu đạt 492 points/186 comments trên Hacker News và vẫn trên front page đêm 28→29/10.",
+    "category": "Đáng thử",
+    "section": "Phần D",
+    "sourceUrl": "https://www.brangus.io/survival-llm",
+    "collectedAt": "2026-10-28T21:38:25.396Z",
+    "sourceRow": 893,
+    "analysis": "Xuất hiện trong bối cảnh người dùng ngày càng quan tâm tới AI chạy local sau hàng loạt sự cố hạ tầng và lo ngại riêng tư khi AI đọc dữ liệu cá nhân (cùng đêm với tin Chrome Autofill AI đọc Gmail).\nỨng dụng thực tế: hộ gia đình, đội cứu hộ, vùng hay mất điện/mất mạng. Hạn chế: chưa kiểm chứng độc lập về chất lượng mô hình, dung lượng và mức độ cập nhật của thư viện; bài gốc là trang giới thiệu của tác giả. Giá: chưa xác minh từ nguồn chính thức.",
+    "tags": [
+      "Đáng thử",
+      "Phần D"
+    ],
+    "language": "vi",
+    "contentHash": "00f6bc7b9bbef62f620dc5a1bd00c6e35f2320c4d70ac9711d804d72f65b8244"
   }
 ]
