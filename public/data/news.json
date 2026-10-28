@@ -14080,5 +14080,841 @@
     ],
     "language": "vi",
     "contentHash": "40d3c65c1a6d87c652505364de17c6041a83c206ff3d598978a16179741c80e7"
+  },
+  {
+    "id": "1007d434374fbfb0eb762869d78a2b87660fa3ec75d90728c9d6a868a3274220",
+    "title": "Bầu cử Israel: exit poll bế tắc, không khối nào đủ 61 ghế",
+    "summary": "Exit poll của 3 đài Kan 11, 12, 13: khối Netanyahu khoảng 50 ghế, khối đối lập do Eisenkot dẫn đầu 50-53 ghế, các đảng Arab 17-18 ghế; Likud vẫn là đảng lớn nhất với 24-25 ghế, Yashar 21-23 ghế. Tỷ lệ đi bầu chung cuộc 77,7%, cao nhất từ 1973. Kết quả chính thức công bố ngày 4/11; đếm phiếu chính thức mới bắt đầu, chưa thể coi exit poll là kết quả cuối cùng.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.jpost.com/israel-election-2026/article-913053",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 758,
+    "analysis": "Bầu cử đầu tiên từ sau vụ tấn công 7/10/2023; các thăm dò trước bầu cử đã báo trước thế bế tắc. Eisenkot tuyên bố sẽ lập chính phủ thay thế ngay, nhưng trước đó ông loại trừ liên minh với các đảng Arab, trong khi phe đối lập không đủ 61 ghế nếu không có họ.\nĐàm phán thành lập chính phủ có thể kéo dài nhiều tuần; kịch bản chính phủ đoàn kết dân tộc hoặc chính phủ thiểu số đều được nhắc tới. Rủi ro: bất ổn chính trị kéo dài trong lúc chiến sự khu vực và đàm phán với Iran chưa ngã ngũ.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "32ffff8a59c00f52937244716a100950dce6f462fbb480a9df7afa481e7e9e88"
+  },
+  {
+    "id": "1ac5e232d12f21292379920c232ece80a5d232a0a0e32983c2c0f5389b62a31e",
+    "title": "Phố Wall đóng cửa tăng: Nasdaq +1,18%, S&P 500 +0,60%, Dow gần như đi ngang",
+    "summary": "Phiên 27/10 (giờ Mỹ): Nasdaq lên 26.477,81 (+308,43), S&P 500 lên 7.722,60 (+45,83), Dow lên 52.377,57 (+15,99). Chỉ số bán dẫn tăng mạnh, CoreWeave tăng gần 8%. WTI giảm về khoảng 100,25 USD/thùng; VIX giảm xuống 17,52.",
+    "category": "Thị trường Mỹ",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 759,
+    "analysis": "Đà tăng do cổ phiếu AI/chip phục hồi sau đợt bán tháo vì lo chi phí AI, cộng với niềm tin tiêu dùng Mỹ tháng 10 bất ngờ lên 91,7. Thị trường chờ quyết định Fed tối 28/10 giờ Việt Nam và KQKD Alphabet/Microsoft.\nTín hiệu rủi ro ngắn hạn dịu lại, nhưng phép thử thực sự là KQKD Big Tech và thông điệp của Fed về tháng 12. Nếu KQKD gây thất vọng, đợt bán tháo AI có thể quay lại.",
+    "tags": [
+      "Thị trường Mỹ",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "225866bf76d85bb9bba15044d00926da83dfa225f977ceeec851898053b40f72"
+  },
+  {
+    "id": "f5b6d21396b3164e0ab2be51c6a572c3f9edabe1f778c3338859e72328efe15b",
+    "title": "Ngừng bắn Oleshky mở rộng trong tỉnh Kherson, nhưng Kyiv vẫn bị tấn công",
+    "summary": "Ngừng bắn cục bộ có hiệu lực từ 3h sáng 27/10 (giờ Kyiv), kéo dài tới 22h59 ngày 1/11, nay mở rộng ra ngoài Oleshky trong tỉnh Kherson để mở hành lang cho đoàn xe nhân đạo. Sứ mệnh nhân đạo dự kiến bắt đầu 29/10, sơ tán dân từ 30/10. Cùng lúc, Nga dội tên lửa đạn đạo vào Kyiv trong đêm, ít nhất 1 người chết.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.timesnownews.com/world/oleshky-ceasefire-expanded-within-kherson-as-russia-ukraine-hostilities-continue-elsewhere-article-156418119",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 760,
+    "analysis": "Sáng kiến do Đệ nhất phu nhân Mỹ Melania Trump trung gian; cả Nga và Ukraine đều tuyên bố tuân thủ tại Kherson, nhưng giao tranh vẫn tiếp diễn ở nơi khác, trong đó có Kyiv.\nNếu hành lang giữ được tới 1/11, đây là bước giảm leo thang lớn nhất từ 2022 và có thể mở đường cho vòng đàm phán mới. Rủi ro: ngừng bắn cục bộ bị phá vỡ hoặc chỉ mang tính biểu tượng trong khi chiến sự toàn tuyến vẫn tiếp diễn.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "f57ae6c67c815978087e52a3404bb6513f335b7da33a9cefbc88cd165050e3c5"
+  },
+  {
+    "id": "8133a67df58a7184089c37851b356c53f67603a665d363d1b24ceaad6a0f54ab",
+    "title": "Dầu hạ nhiệt về 113-115 USD khi đàm phán Tehran mở kênh ngoại giao",
+    "summary": "Brent giảm khoảng 2 USD trong phiên 27/10, về 113,72 USD/thùng lúc cuối phiên châu Âu; WTI về 99,83 USD. Trước đó Brent từng chạm trên 117 USD tuần trước, cao nhất từ tháng 4. Dòng dầu qua Hormuz chỉ còn khoảng 60% mức bình thường, xuất khẩu dầu vùng Vịnh giảm 4 tuần liên tiếp.",
+    "category": "Năng lượng",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/business/energy/oil-eases-middle-east-diplomacy-hopes-saudi-attacks-keep-supply-worries-alive-2026-10-27/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 761,
+    "analysis": "Saudi Arabia, Thổ Nhĩ Kỳ, Pakistan gặp quan chức Iran tại Tehran ngày 26/10 và đồng ý tiếp tục đàm phán; cùng lúc Houthi vẫn tuyên bố đánh trúng nhà máy lọc dầu Ras Tanura và Riyadh chỉ xác nhận chặn tên lửa/drone.\nGiá dầu có thể dao động 112-118 USD tới quyết định Fed. Giảm thêm nếu có bước xuống thang cụ thể; bật lại trên 120 USD nếu đàm phán đổ vỡ hoặc có đòn tấn công mới vào Iran. Với Việt Nam, dầu cao kéo dài gây áp lực lên giá xăng, lạm phát và chi phí vận tải.",
+    "tags": [
+      "Năng lượng",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "649054d450ce40eed72d5276ee0f517610950d173c14b5ed018c7eeb5f03f60b"
+  },
+  {
+    "id": "06b8f1ffb2c02678ad3650dbd141f8f9965ec0ebd03e31dc1a214d1a7d53fc93",
+    "title": "Đêm nay Fed quyết định lãi suất: 94/100 chuyên gia dự báo giữ nguyên",
+    "summary": "Fed công bố quyết định lúc 2h sáng 29/10 giờ Việt Nam (14h ET 28/10), họp báo Chủ tịch Kevin Warsh 30 phút sau. Lãi suất hiện 3,75-4,00% sau lần tăng đầu tiên từ tháng 9/2023. Khảo sát Reuters: 94/100 dự báo giữ nguyên kỳ này, 100/100 dự báo tăng vào tháng 12; thị trường (Kalshi/Polymarket) đặt khoảng 95% khả năng giữ nguyên.",
+    "category": "Chính sách tiền tệ",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.piptheory.com/research/fomc-october-2026-preview-october-28-dollar-december-hike",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 762,
+    "analysis": "Lạm phát CPI tháng 9 ở 3,7%, giá năng lượng tăng 20,4% so với cùng kỳ; dầu cao và chi tiêu AI làm nóng nhu cầu. Đây là kỳ họp không có dự báo dot plot mới, nên tuyên bố và họp báo sẽ được soi về ngôn ngữ cho tháng 12.\nGiữ nguyên đúng kỳ vọng sẽ giữ tâm lý thị trường ổn định trước KQKD Big Tech; bất ngờ tăng hoặc ngôn ngữ diều hâu mạnh có thể kích hoạt bán tháo trở lại. Với Việt Nam, Fed diều hâu kéo dài gây áp lực lên tỷ giá và dòng vốn.",
+    "tags": [
+      "Chính sách tiền tệ",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "e0d521e20e2cfb8cc61476be6d82e4cdb04096b510f3c258ba8e387dad032f8f"
+  },
+  {
+    "id": "18f6b90f97c23ff5c6cb2fce2e70e2e2ff5b7b5b8fc58af5acb3a51a0d7e4c7a",
+    "title": "Visa quý tài khóa IV: doanh thu 12,14 tỷ USD (+13%), EPS điều chỉnh 3,48 USD vượt dự báo",
+    "summary": "Visa báo cáo sau đóng cửa 27/10: doanh thu thuần 12,14 tỷ USD (+13% so với cùng kỳ), lợi nhuận ròng GAAP 6,0 tỷ USD (EPS 3,19 USD), EPS phi GAAP 3,48 USD so với dự báo 3,44 USD. Khối lượng thanh toán tăng 9% (tiền tệ không đổi), thanh toán xuyên biên giới ngoài châu Âu +14%, giao dịch xử lý 74,2 tỷ (+10%). Cả năm tài khóa: doanh thu 45,9 tỷ USD (+15%), cổ tức quý tăng 16% lên 0,78 USD/cổ phiếu. Cổ phiếu giảm khoảng 1,7% sau giờ giao dịch.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://finchannel.com/visa-earnings-beat-estimates-as-quarterly-revenue-rises-13/139681/american-business-trends/2026/10/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 763,
+    "analysis": "Kết quả ra cùng ngày với loạt KQKD lớn trước thềm Fed và KQKD Alphabet/Microsoft. Visa cũng đang mua lại BioCatch giá 2,4 tỷ USD để chống gian lận.\nCho thấy chi tiêu tiêu dùng qua thẻ vẫn khỏe bất chấp lo ngại kinh tế; cổ phiếu giảm sau giờ cho thấy thị trường đã kỳ vọng cao hơn. Rủi ro: tăng trưởng thanh toán chậm lại nếu tiêu dùng Mỹ suy yếu.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "c5dd464dbeee8059a6fe8b133c3b3134590ca3c5c12ae7bee88b31eae334a434"
+  },
+  {
+    "id": "bfe5bb6e3af4cc780cd18e99770d3d787a285b4e584548c2ec3c9f9ef6df0bb4",
+    "title": "Châu Á tăng mạnh phiên 27/10 nhờ hồ sơ IPO của Anthropic",
+    "summary": "KOSPI tăng hơn 3,9% trong phiên, mức tăng một ngày mạnh nhất từ đầu tháng 2, dù vẫn giảm khoảng 17% trong tháng 10; Nikkei +1,9%; MSCI châu Á-Thái Bình Dương ngoài Nhật +0,9-1,2%. Chỉ số chip Mỹ tăng 2,8% qua đêm, mạnh nhất một tháng. Meta dự kiến huy động tới 95 tỷ USD vốn cổ phần, đợt lớn nhất từ trước tới nay của hãng.",
+    "category": "Thị trường châu Á",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-27/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 764,
+    "analysis": "Hồ sơ IPO của Anthropic (doanh thu H1 2026 16,3 tỷ USD, lỗ hoạt động thu hẹp) được thị trường đọc là 'lá phiếu tin tưởng' vào thương mại AI giữa đợt biến động. Hơn 1/3 công ty S&P 500 báo cáo KQKD trong tuần này.\nĐà phục hồi có thể chỉ là nhịp hồi kỹ thuật nếu KQKD Alphabet/Microsoft/Amazon không chứng minh được nhu cầu AI lan rộng ngoài 'vòng tròn' các hãng liên kết. Với châu Á, cổ phiếu chip là đầu tàu nhưng cũng dễ đảo chiều nhất.",
+    "tags": [
+      "Thị trường châu Á",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "7afafe479fb81b90184bc1cb4aa3fc0f65ceef4ede53804630795d5af28d397b"
+  },
+  {
+    "id": "092b7056403b0215f32584c2cdd8a068a32ebfd115c484eae789f738cc8f64dd",
+    "title": "Vàng SJC trong ngày 27/10: buổi sáng đứng yên, tới trưa tăng 300.000 đồng lên 139-142 triệu đồng/lượng",
+    "summary": "Sáng 27/10, SJC niêm yết 138,7-141,7 triệu đồng/lượng, không đổi so với hôm trước; tới cập nhật 12h17, SJC tăng 300.000 đồng cả hai chiều lên 139,0-142,0 triệu đồng/lượng. Các thương hiệu khác phân hóa: BTMH/BTMC tăng 200.000 đồng, Phú Quý giảm 200.000 đồng buổi sáng; PNJ đứng yên 137,6-140,6 triệu đồng/lượng. Vàng thế giới quanh 4.009-4.073 USD/ounce.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.vietnam.vn/en/gia-vang-hom-nay-27-10-2026-sjc-tang-len-muc-139-142-trieu-dong-luong",
+    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/27/1793067852621_img_c170a4b7.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 765,
+    "analysis": "Diễn biến trái chiều trong ngày phản ánh vàng thế giới hồi phục khi dầu hạ nhiệt, trước thềm quyết định Fed. Chênh lệch mua-bán SJC vẫn rất rộng, khoảng 3 triệu đồng/lượng.\nNgười mua trong ngày chịu rủi ro biến động lớn quanh quyết định Fed đêm 28/10; giá trong nước có thể đảo chiều nhanh theo vàng thế giới và tỷ giá. Không nên coi mức trưa là mức chốt phiên.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "8e0aaaf53a335d9ec0be6a88feda8290d22bf5b61fe54b9b3f9208380034bc04"
+  },
+  {
+    "id": "092722645ff2598aa08541a4fb8362c74e52304e8c4abd8a829e936acbf2e8af",
+    "title": "Quảng Ninh: sản xuất công nghiệp 10 tháng tăng 19,29%, giải ngân đầu tư công đạt 97,67% kế hoạch năm",
+    "summary": "Họp thường kỳ tháng 10 ngày 27/10: chỉ số sản xuất công nghiệp tháng 10 tăng 26,66% so với cùng kỳ (chế biến chế tạo +39,65%); 10 tháng tăng 19,29% (chế biến chế tạo +34,19%). Du lịch 10 tháng đón hơn 20,3 triệu lượt khách (+10,23%), doanh thu 61.324 tỷ đồng (+26,8%). Thu ngân sách 10 tháng ước 82.349 tỷ đồng, đạt 111,43% dự toán trung ương giao. Giải ngân vốn đầu tư công tới cuối tháng 10 đạt 19.040 tỷ đồng, bằng 97,67% mục tiêu giải ngân năm; 12/34 dự án trọng điểm đã hoàn thành.",
+    "category": "Địa phương",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.vietnam.vn/en/tang-toc-hoan-thanh-cac-chi-tieu-tang-truong-nhung-thang-cuoi-nam",
+    "imageUrl": "https://assets.baoquangninh.vn/images/KNiWfvRjC4LCclG30Z1TaNEoFJvkzEDKLGEOomfgPKYV4YDehNHs0Vlx4G5pvAwN2Tx7UwrlP2GiOUAWgRMFgA/bqn_br_dp-9790.jpg.avif",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 766,
+    "analysis": "Địa phương đặt mục tiêu giải ngân 100% trước 15/12/2026 và tạo thêm ít nhất 30.000 việc làm trong năm, hoàn thành 2.800 căn nhà ở xã hội. Hạn chế thừa nhận: một số chỉ tiêu sản phẩm công nghiệp chưa đạt kế hoạch năm, giải ngân cho khoa học-công nghệ và chuyển đổi số còn chậm.\nTín hiệu tích cực cho tăng trưởng quý IV của địa phương và giải ngân đầu tư công cả nước; rủi ro nằm ở các chỉ tiêu công nghiệp chưa đạt và tiến độ các dự án còn lại.",
+    "tags": [
+      "Địa phương",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "286924c6a1f9018a75c790c617177d9d5e41386629fe0d5eb71d293f56f107b3"
+  },
+  {
+    "id": "2c1c40b2ead5f05f436b4e4e90bd2b90f245502bc3a2c9d7eab654e661802d44",
+    "title": "Cảnh báo mưa cường độ lớn trên 100mm/3 giờ ở miền Trung từ đêm 27 tới 29/10",
+    "summary": "Từ chiều tối 27/10 tới hết đêm 29/10, khu vực Hà Tĩnh-Đà Nẵng mưa vừa, mưa to, có nơi mưa rất to: tổng lượng phổ biến 60-130mm, cục bộ trên 250mm (bản tin trước nâng lên trên 300mm); riêng đêm 27-28/10 khoảng 50-100mm, cục bộ trên 200mm. Thanh Hóa, Nghệ An, phía đông Quảng Ngãi-Dak Lak và Khánh Hòa mưa rào, cục bộ trên 60mm. Nguy cơ lũ quét, sạt lở, ngập úng vùng trũng thấp, khu đô thị, khu công nghiệp; trong mưa dông có thể có lốc, sét, mưa đá, gió giật mạnh.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.vietnam.vn/en/canh-bao-mua-cuong-do-lon-tren-100mm-trong-3-gio-o-trung-bo",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 767,
+    "analysis": "Đợt mưa do nhiễu động gió đông trên cao; triều cường TP.HCM từ 28/10 hạ dần nhưng vẫn trên báo động 3. Cảnh báo cấp độ rủi ro thiên tai do mưa lớn, lốc, sét, mưa đá ở mức 1.\nNgười dân và chính quyền địa phương miền Trung cần theo dõi bản tin lũ quét, sạt lở theo thời gian thực, hạn chế di chuyển qua vùng ngập sâu và khu vực sông suối nhỏ trong khung giờ mưa cường độ lớn.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "77acd39ab0902fe04732e36d1752c68924a52a641d75ea309481ca8aebad2616"
+  },
+  {
+    "id": "be39f622aa55584bfc1f5e0ea4622d4529fdf9e7bdc76f4c62e48b903c14dd14",
+    "title": "Quốc hội sẽ chất vấn trực tiếp Bộ trưởng Tài chính và Bộ trưởng Khoa học-Công nghệ ngày 12/11",
+    "summary": "Theo chương trình kỳ họp, Bộ trưởng Tài chính Ngô Văn Tuấn trả lời chất vấn về 4 nhóm vấn đề: phân bổ, quản lý và thúc đẩy giải ngân vốn đầu tư công 2026 gắn với kế hoạch trung hạn 2026-2030; khó khăn trong huy động, phân bổ, sử dụng vốn ODA, vốn vay ưu đãi và vốn PPP; quản lý thuế với thương mại điện tử, doanh nghiệp nền tảng số và nhà cung cấp nước ngoài; giải pháp thúc đẩy tăng trưởng và cải thiện môi trường đầu tư, kinh doanh. Bộ trưởng Khoa học-Công nghệ Vũ Hải Quân trả lời 3 nhóm vấn đề. Thống đốc Ngân hàng Nhà nước và các bộ trưởng liên quan cùng tham gia giải trình.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://en.vietnamplus.vn/afternoon-briefing-on-october-27-post354392.vnp",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 768,
+    "analysis": "Phiên chất vấn được truyền hình, phát thanh trực tiếp. Đây là nội dung được cử tri quan tâm do giải ngân đầu tư công chậm tại nhiều dự án trọng điểm và thất thu thuế thương mại điện tử.\nKết quả chất vấn có thể tạo áp lực cải cách giải ngân và quản lý thuế số trong 2 tháng cuối năm; rủi ro là các cam kết không đi kèm mốc thời gian và chế tài cụ thể.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "cf872694e87bc6357c115afdefcadc1ebb45927d2b529d807fd07acdb326ac27"
+  },
+  {
+    "id": "4fd208cd5d656f9ceed1fe45a225211f58fb802d8b8c3d6d0649aad45449bdf5",
+    "title": "Apple vá lỗ hổng CoreGraphics từng bị khai thác cho iPhone XS/XR qua iOS 18.7.11",
+    "summary": "Apple phát hành iOS 18.7.11 và iPadOS 18.7.11 ngày 26/10, vá CVE-2026-86950 (CVSS 8,8, lỗi ghi ngoài giới hạn trong CoreGraphics, xử lý file độc hại có thể dẫn tới thực thi mã tùy ý). Apple cho biết lỗi 'có thể đã bị khai thác trong tấn công cực kỳ tinh vi nhắm vào một số cá nhân cụ thể trên iOS trước iOS 27'. Bản vá này cũng sửa CVE-2026-65339 (Audio, rò rỉ thông tin nhạy cảm) và CVE-2026-86990 (CoreMedia, ứng dụng độc hại có thể truy cập camera không phép).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 770,
+    "analysis": "Các thiết bị mới hơn đã được vá từ tháng 9 qua iOS 26.7.1; iPhone XS/XS Max/XR (2018) không chạy được iOS 26/27 nên phải chờ nhánh iOS 18 — chậm khoảng 4 tuần. CISA đã đưa CVE này vào danh mục lỗ hổng bị khai thác từ 29/9.\nNgười dùng iPhone/iPad cũ nên cập nhật ngay; người có nguy cơ bị nhắm mục tiêu (nhà báo, nhà hoạt động, chính trị gia) được khuyến nghị chuyển sang thiết bị hỗ trợ iOS 27 nếu có thể. Apple không công bố nạn nhân hay cách thức phát tán file độc hại.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "02e03bd82754179e12731834afa8e081d156c0e41be6ea5fc8ddfa3acc00891e"
+  },
+  {
+    "id": "baba8fe743bcef1c6be3b1ddb6955acdc022a46f795fb1030bfefcedd6c3ca1f",
+    "title": "Discord sẽ đưa tin nhắn máy chủ công khai lên Google từ giữa tháng 12",
+    "summary": "Discord công bố ngày 27/10: từ 16/11/2026, mọi máy chủ Discoverable (từ 1.000 thành viên, đáp ứng yêu cầu hoạt động và an toàn — hơn 63.000 máy chủ) sẽ có Trang Web Máy chủ công khai, có thể kèm tóm tắt tự động các kênh công khai (không kèm tên người dùng, avatar). Từ giữa tháng 12/2026, tin nhắn trong các kênh công khai đủ điều kiện có thể xuất hiện nguyên văn trên trang web và kết quả tìm kiếm; tin nhắn trước thời điểm đó không được đưa vào.",
+    "category": "Nền tảng",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.dexerto.com/entertainment/discord-will-soon-let-anyone-find-public-server-messages-through-google-3422244/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 771,
+    "analysis": "Discord nói mục tiêu là mở khóa kho kiến thức game/thủ thuật đang bị 'khóa' trong máy chủ, thay cho diễn đàn truyền thống. Máy chủ riêng, tin nhắn riêng và nhóm DM không bị ảnh hưởng. Người dùng có thể tắt trong Cài đặt > Dữ liệu & Quyền riêng tư; một số khu vực (EU/EEA, Anh, Canada, Brazil, Úc, Hàn Quốc) mặc định tắt.\nCơ hội: cộng đồng game, modding dễ được tìm thấy hơn. Rủi ro: người dùng vô tình để lộ nội dung từng nghĩ chỉ trong cộng đồng kín; quản trị viên và thành viên cần rà soát cài đặt trước 16/11 và giữa tháng 12.",
+    "tags": [
+      "Nền tảng",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "eca3b3dca5a37bd6ad75fb9fc9d717abb326fc6185e3c2c7efb1e979cb88cae2"
+  },
+  {
+    "id": "a85eb10f78c4016b774b1cdc4edf4375823a5913988edce3e15f74f2dee5a7dd",
+    "title": "FTC yêu cầu lãnh đạo Anthropic ra làm chứng trong cuộc điều tra an toàn AI",
+    "summary": "Ngày 26/10, Ủy ban Thương mại Liên bang Mỹ (FTC) gửi yêu cầu lãnh đạo Anthropic ra làm chứng trong cuộc điều tra tác hại với người tiêu dùng liên quan AI, theo xác nhận của phát ngôn viên FTC với Axios. Trước đó khoảng 2 tuần, FTC đã gửi yêu cầu cung cấp tài liệu dân sự (CID) dài 50 trang cho cả Anthropic và OpenAI về sự cố an toàn, biện pháp bảo vệ, tài liệu tiếp thị và chính sách riêng tư.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://mezha.net/eng/news/mezha-580a11247e8609aeb28be814_ftc_seeks_testimony/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 772,
+    "analysis": "Động thái diễn ra cùng ngày Anthropic công khai hồ sơ IPO (S-1): doanh thu H1 2026 16,29 tỷ USD, niêm yết Nasdaq mã ANT, định giá đồn đoán 1,5-2 nghìn tỷ USD, roadshow dự kiến tuần 9/11. Chính Anthropic cảnh báo trong S-1 rằng cuộc điều tra có thể dẫn tới 'chi phí đáng kể và thay đổi thiết kế mô hình' và hãng sẽ tiếp tục chịu 'sự giám sát không cân xứng của chính phủ'.\nTăng rủi ro pháp lý cho đợt IPO AI lớn nhất lịch sử; nếu FTC mở rộng sang các hãng khác, toàn ngành sẽ chịu chi phí tuân thủ cao hơn. Chưa rõ FTC có gửi yêu cầu tương tự cho OpenAI hay không và yêu cầu những lãnh đạo Anthropic nào.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "72d0ee9a80350e0c5f6af5d83177a627937161791a4bb8fa0be87295120c16da"
+  },
+  {
+    "id": "ba17914c9385eab9802576009d452cd43edad4c684605be62b270749f86d7859",
+    "title": "Discord đưa tin nhắn máy chủ công khai lên Google: tranh luận quyền riêng tư bùng lên",
+    "summary": "Nền tảng: Discord (công bố 27/10). Nội dung đang thảo luận: từ 16/11 có Trang Web Máy chủ, từ giữa tháng 12 tin nhắn kênh công khai của máy chủ Discoverable có thể lên Google; mặc định bật ở đa số khu vực, tắt mặc định ở EU/EEA, Anh, Canada, Brazil, Úc, Hàn Quốc; tài khoản teen không bật được. Like/Reactions: N/A. Comments/Replies: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: ít nhất 6 hãng tin độc lập (Dexerto, Engadget, Gadget Review, DualShockers, Critical Pixel, BitcoinVersus) đưa tin trong 24 giờ. Thời điểm ghi nhận: 28/10/2026 khoảng 06:15 giờ Việt Nam. Điểm HOT: Chưa đủ dữ liệu (thiếu số tương tác thực tế, tăng trưởng 24h và shares có hệ thống).",
+    "category": "Discord",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 773,
+    "analysis": "Vì sao đang HOT: thay đổi chạm tới ranh giới 'không gian bán kín' mà cộng đồng game coi là nhà chung; người dùng lo nội dung cũ bị Google lập chỉ mục dù Discord nói chỉ tính tin nhắn sau giữa tháng 12. Các quan điểm nổi bật: ủng hộ cho rằng kiến thức cộng đồng cần được tìm thấy như Reddit; phản đối cho rằng mặc định bật là xâm phạm kỳ vọng riêng tư và tạo rủi ro cho cộng đồng có chủ đề nhạy cảm; trung lập chờ xem cơ chế tắt có thực sự hiệu quả.\nTác động: quản trị viên và thành viên có khoảng 3 tuần trước 16/11 để rà soát cài đặt; các cộng đồng lớn có thể tắt tính năng hàng loạt, làm giảm giá trị của chính sáng kiến này.",
+    "tags": [
+      "Discord",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "c4b7bedc0cf5daea4c57cd68c9a263c5ce95253f122c85915e0c6e3903290d0e"
+  },
+  {
+    "id": "fa0d3eadc8541c290f0c15125384f26cfe947de9058ecb4ae65abbf722813c31",
+    "title": "Tailworm và bản cập nhật của Tailscale: cộng đồng kỹ thuật tranh luận 'có thực sự wormable?'",
+    "summary": "Nền tảng: Hacker News, blog kỹ thuật, Reddit. Nội dung đang thảo luận: 11 phát hiện Tailworm trên Tailscale SSH; Tailscale xác nhận phần lớn là leo thang đặc quyền và hứa bản vá trong 24 giờ. Like/Reactions: N/A. Comments/Replies: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: bài HN front page ngày 28/10 cộng ít nhất 6 trang phân tích độc lập (THN, BullQuill, Skimwire, Brandefense, Cybernews, canberk.me) và thảo luận Reddit/HN. Thời điểm ghi nhận: 28/10/2026 khoảng 06:15 giờ Việt Nam. Điểm HOT: Chưa đủ dữ liệu (không có số điểm/bình luận HN xác minh được trong lần quan sát này, thiếu shares và tăng trưởng 24h).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.bullquill.com/tailscale-ssh-tailworm-flaws-what-to-do/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 774,
+    "analysis": "Vì sao đang HOT: Tailscale là hạ tầng truy cập của rất nhiều nhóm kỹ thuật; lỗi phá vỡ giả định 'phiên SSH bị giới hạn bởi tài khoản cục bộ' và tranh cãi công bố trước khi có bản vá làm nóng thêm. Các quan điểm nổi bật: một bên cho rằng leo thang từ thiết bị đã phê duyệt vẫn nghiêm trọng vì một máy bị xâm nhập có thể lan sang nhiều máy; bên kia phản bác 'wormable' vì mỗi bước nhảy vẫn cần quy tắc SSH cho phép, và chỉ trích công bố không phối hợp với hãng.\nTác động: các đội vận hành đang siết chính sách SSH và tắt forwarding trước khi bản vá ra; tranh luận này có thể định hình chuẩn công bố lỗ hổng cho hạ tầng mã nguồn mở.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "094f77fef0e21725e5388a02cb8ce7c51226104990b5b44011154a03b390b671"
+  },
+  {
+    "id": "e497669dbcdcb3504666ee13b5d8fd1c9b5b104d19b2ec7d596edf317197569b",
+    "title": "Hồ sơ IPO của Anthropic tiếp tục là tâm điểm tranh luận: doanh thu bùng nổ, rủi ro an toàn dài 90 trang",
+    "summary": "Nền tảng: Hacker News, báo tài chính, mạng xã hội. Nội dung đang thảo luận: Anthropic công khai S-1 ngày 26/10 (doanh thu từ 41 triệu USD năm 2023 lên 16,2 tỷ USD H1 2026; lỗ hoạt động H1 2026 còn 693 triệu USD, giảm mạnh so với 2,1 tỷ USD cùng kỳ 2025), hơn 90 trang rủi ro, FTC yêu cầu làm chứng cùng ngày, định giá đồn đoán 1,5-2 nghìn tỷ USD. Like/Reactions: N/A. Comments/Replies: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: ít nhất 5 hãng tin độc lập (AFP qua Malay Mail, Kursiv, Axios qua Mezha/AI Weekly, WSJ dẫn lại) trong 48 giờ. Thời điểm ghi nhận: 28/10/2026 khoảng 06:15 giờ Việt Nam. Điểm HOT: Chưa đủ dữ liệu (thiếu số tương tác và tăng trưởng 24h xác minh được trong lần quan sát này; số HN của kỳ 02:15 không dùng lại vì đã cũ).",
+    "category": "Công nghệ & AI",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://aiweekly.co/alerts/ftc-demands-anthropic-executives-testify-in-ai-safety-probe",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 775,
+    "analysis": "Vì sao đang HOT: đây là IPO AI độc lập đầu tiên, được coi là phép thử xem thị trường còn trả giá cho cơn sốt AI hay không, trong khi chính hồ sơ cảnh báo AI có thể hành động ngoài kiểm soát. Các quan điểm nổi bật: lạc quan cho rằng doanh thu và đà thu hẹp lỗ chứng minh mô hình kinh doanh thật; bi quan cảnh báo cam kết chi tiêu tính toán hàng trăm tỷ USD và rủi ro pháp lý có thể làm IPO 'vỡ' như một số thương vụ công nghệ gần đây.\nTác động: kết quả IPO (roadshow tuần 9/11, niêm yết dự kiến tuần 16/11) sẽ định giá lại toàn bộ cổ phiếu AI; FTC làm chứng là biến số pháp lý mới.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "2c8bdaa2aeacccfaebd94e192993eacf0785b076f2a3c9ddae1e44ee450ee0ea"
+  },
+  {
+    "id": "d4f037649fd2e843eb5ff1208c275a0a53cdf616ca008c9c19724970216b26c5",
+    "title": "GPT-6.1 Terra của OpenAI: mô hình giá rẻ cho tác vụ khối lượng lớn",
+    "summary": "OpenAI ra mắt GPT-6.1 Terra với giá 1 USD/triệu token đầu vào và 5 USD/triệu token đầu ra. Hãng cho biết Terra đoán mò trong 38% câu hỏi không trả lời được, giảm mạnh so với 88% ở thế hệ trước (GPT-5.6 Terra); Terra rẻ hơn khoảng 9 lần mỗi tác vụ so với Opus 5.5 của Anthropic trên bài kiểm tra Agents' Last Exam của chính OpenAI (so sánh mô hình tầm trung với mô hình cao cấp, cần đọc kèm caveat).",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://thecurrencyanalytics.com/technology/openai-cuts-gpt-6-1-terra-price-306443",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 776,
+    "analysis": "Điểm mới so với Sol và Astra (dành cho tác vụ phức tạp): Terra nhắm tới xử lý khối lượng lớn như hóa đơn đầu vào, nơi chi phí quan trọng hơn độ phức tạp. Hạn chế: vẫn đoán mò 38% khi không biết; chưa phù hợp cho lập trình phức tạp. Giá: theo token như trên; chưa có thông tin gói đăng ký riêng. Nguồn thứ cấp (The Currency Analytics) dẫn thông báo của OpenAI, chưa đối chiếu trực tiếp tài liệu gốc.\nỨng dụng thực tế, hạn chế và giá đã nêu trong cột E/F; nguồn là blog/nguồn thứ cấp, cần đối chiếu tài liệu gốc trước khi dùng cho tác vụ quan trọng.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "8f894715d7ce084b5f343183b9ce731dd100bace7fbce31af3f344e0271e3ba0"
+  },
+  {
+    "id": "3d524c1842466162690e9f0fa247585ab60c601829746a40b4db66c76bcf3573",
+    "title": "fm: LLM miễn phí ẩn trong Terminal của macOS, chạy cục bộ không cần Internet",
+    "summary": "Tiện ích dòng lệnh 'fm' của Apple cho phép chạy mô hình ngôn ngữ cục bộ trên máy Mac Apple Silicon: tóm tắt, trích xuất có cấu trúc, viết lại văn bản, phân loại nhanh; lệnh 'fm schema' tạo schema JSON và 'fm respond' trả kết quả theo schema; 'fm serve --port 8080' biến máy thành máy chủ tương thích API OpenAI (v1/chat/completions). Không cần API key, không tài khoản, dữ liệu không rời khỏi máy.",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://www.anlabs.net/blog/ai/apple-free-local-llm-in-macos-terminal/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 777,
+    "analysis": "Điểm mới: mô hình miễn phí, không cần cài đặt thêm, tận dụng Neural Engine. Hạn chế: cửa sổ ngữ cảnh chỉ khoảng 4.000-8.000 token; yếu với suy luận nhiều bước, toán phức tạp, logic chuỗi dài. Giá: miễn phí (đi kèm macOS). Caveat: nguồn là blog kỹ thuật anlabs.net (27/10), chưa phải tài liệu chính thức của Apple; nên thử với tác vụ không nhạy cảm trước.\nỨng dụng thực tế, hạn chế và giá đã nêu trong cột E/F; nguồn là blog/nguồn thứ cấp, cần đối chiếu tài liệu gốc trước khi dùng cho tác vụ quan trọng.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "801824a2f65495df8a5f887acb29cb601c84361938364a26bdbf4e1dd5d35713"
+  },
+  {
+    "id": "8fef61bd628ee917184590dddd3fa25a842f554907ec10028b55a31845792280",
+    "title": "Tapo P110M: ổ cắm Matter đo điện năng, giá từ 279.000đ nhưng cần kiểm tra hỗ trợ Matter 1.3",
+    "summary": "BẢN NHÁP CHỜ DUYỆT | TP-Link Tapo P110M(1-pack), ổ cắm Wi-Fi 2,4GHz, Bluetooth chỉ để cài đặt, Matter, công suất tải thuần trở tối đa 16A/3680W, hỗ trợ lập lịch, tắt tự động, theo dõi điện năng. Trang TP-Link Việt Nam hiển thị 399.000đ; Komex niêm yết 279.000đ, kiểm tra 28/10/2026, chưa xác nhận phí giao hàng/tồn kho. Firmware EU V1 1.3.2 phát hành 30/07/2025 bổ sung Matter 1.3 đo công suất/năng lượng; V1 1.4.3 phát hành 21/07/2026 cải thiện ổn định và bảo mật.",
+    "category": "Nhà thông minh / Ổ cắm / Tiết kiệm điện",
+    "section": "Review - Top 3",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.tp-link.com/vn/home-networking/smart-plug/tapo-p110m/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 778,
+    "analysis": "Nguồn hãng https://www.tp-link.com/vn/home-networking/smart-plug/tapo-p110m/ ; firmware theo phiên bản https://www.tp-link.com/vn/support/download/tapo-p110m/v1/ ; giá https://komex.com.vn/products/o-cam-wi-fi-thong-minh-mini-tp-link-tapo-p110m-giam-sat-nang-luong-ho-tro-matter ; phản hồi cộng đồng 30/07/2025 https://www.reddit.com/r/Tapo/comments/1md08fs . Không phải review mới 24h.\nĐÁNG CÂN NHẮC để đo mức tiêu thụ máy tính/đèn và hẹn giờ; KHÔNG dùng như công tắc bảo vệ an toàn cho tải động cơ, máy bơm công suất lớn hoặc thiết bị thiết yếu. Đọc tải motor 1/6HP trong thông số; 16A không áp dụng như nhau cho mọi tải. Không phải mọi nền tảng Matter đã hỗ trợ đo điện; Home Assistant/SmartThings được hãng xác nhận với firmware phù hợp. Độ chắc chắn CAO về thông số, TRUNG BÌNH về tương thích từng hệ sinh thái. Ngày kiểm chứng 28/10/2026.",
+    "tags": [
+      "Nhà thông minh / Ổ cắm / Tiết kiệm điện",
+      "Review - Top 3"
+    ],
+    "language": "vi",
+    "contentHash": "b114cabb3f0f656a0dc53a30f9a8c593c69b298eb93d2623ca8b65c6165e6f9c"
+  },
+  {
+    "id": "e812d63c38b7a7f65943c5377363f9b25950798fe02d97adb3c5dcf475ba93a3",
+    "title": "Huawei FreeClip 2: đeo thoáng, nghe lời tốt; giá 3,79–3,99 triệu và không có ANC cách âm",
+    "summary": "BẢN NHÁP CHỜ DUYỆT | Huawei FreeClip 2, tai nghe open-ear kẹp tai, 5,1g mỗi bên, driver 10,8mm, IP57 chỉ cho tai nghe, Bluetooth 6.0, pin hãng tối đa 9 giờ và 38 giờ kèm hộp. Giá 3.790.000đ Hoàng Hà Mobile và 3.990.000đ FPT Shop, kiểm tra 28/10/2026; tồn kho theo màu/khu vực phải xác nhận. Review Frandroid tháng 01/2026 đo khoảng 8h30 pin, đánh giá 7/10, giọng rõ nhưng bass yếu dưới 100Hz; TechRadar 2026 phản ánh thao tác chạm và chất âm chưa đồng đều; Android Authority 23/07/2026 đánh giá tích cực hơn.",
+    "category": "Công nghệ & AI",
+    "section": "Review - Top 3",
+    "sourceUrl": "https://consumer.huawei.com/vn/audio/freeclip2/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 779,
+    "analysis": "Nguồn hãng https://consumer.huawei.com/vn/audio/freeclip2/ ; review https://www.frandroid.com/test/2949379_test-des-huawei-freeclip-2-tailles-pour-le-sport-pas-pour-le-salon ; review trái chiều https://www.techradar.com/audio/earbuds-airpods/huawei-freeclip-2-review ; giá https://hoanghamobile.com/tai-nghe/tai-nghe-huawei-freeclip-2 và https://fptshop.com.vn/phu-kien/tai-nghe-bluetooth-huawei-freeclip-2 . Các review không thuộc 24h.\nCÂN NHẮC cho podcast, giọng hát, làm việc/đi bộ muốn nghe môi trường; KHÔNG phù hợp khi cần ANC cách âm, bass mạnh hoặc giữ riêng tư hoàn toàn ở nơi yên tĩnh. Phản hồi cá nhân Reddit về độ trễ/kết nối chưa đủ suy ra lỗi phổ biến. Thử độ vừa tai trước mua; độ chắc chắn KHÁ về thiết kế, TRUNG BÌNH về chất âm theo sở thích. Ngày kiểm chứng 28/10/2026.",
+    "tags": [
+      "Công nghệ & AI",
+      "Review - Top 3"
+    ],
+    "language": "vi",
+    "contentHash": "c2b634cd1f2bee986d83668c4cd7aa1fe4699b518b20a211ef877c3dfae941a4"
+  },
+  {
+    "id": "35b2ea69b9849025458e2d68be594691635db21bffc8ee9230114af8bc17b9c1",
+    "title": "Shokz OpenRun Pro 2: tai nghe mở cho chạy bộ, giá gần 4,9 triệu; ưu tiên nhận biết môi trường hơn ANC",
+    "summary": "BẢN NHÁP CHỜ DUYỆT | Shokz OpenRun Pro 2, công nghệ DualPitch kết hợp truyền qua xương và không khí, Bluetooth 5.3, trọng lượng khoảng 30,3g, pin hãng tối đa 12 giờ, sạc USB-C. Giá Shokz VN 4.895.000đ; FPT Shop 4.890.000đ, kiểm tra 28/10/2026. Bài hướng dẫn tai nghe thể thao của Tom's Guide cập nhật 27/10/2026 tiếp tục xếp sản phẩm vào nhóm chạy bộ; thử nghiệm TechRadar trước đó ghi đeo chắc, ít rung khó chịu, dải trầm kém in-ear.",
+    "category": "Công nghệ & AI",
+    "section": "Review - Top 3",
+    "sourceUrl": "https://shokz.com.vn/products/openrun-pro-2",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 780,
+    "analysis": "Nguồn hãng https://shokz.com.vn/products/openrun-pro-2 ; review https://www.techradar.com/health-fitness/fitness-headphones/shokz-openrun-pro-2-review-the-ideal-runners-headphones ; bài tổng hợp mới https://www.tomsguide.com/wellness/fitness/best-workout-headphones ; giá https://fptshop.com.vn/phu-kien/tai-nghe-bluetooth-truyen-xuong-shokz-openrun-pro-2 . Review thử nghiệm gốc cũ hơn 30 ngày; cập nhật guide 27/10.\nCÂN NHẮC nếu chạy bộ thường xuyên, muốn nghe còi xe/tiếng người xung quanh; không bảo đảm an toàn giao thông tuyệt đối. Không phù hợp môi trường ồn hoặc cần ANC và bass mạnh. Giá cao, thử độ ôm đầu và đeo kính trước mua; độ chắc chắn CAO về độ phù hợp thể thao, chưa đủ cơ sở độ bền nhiều năm. Ngày kiểm chứng 28/10/2026.",
+    "tags": [
+      "Công nghệ & AI",
+      "Review - Top 3"
+    ],
+    "language": "vi",
+    "contentHash": "e9da7d0388b2622bebbb54f44a0628f854165bd1ff215c8061df1ff7dd028000"
+  },
+  {
+    "id": "cdca9e98797b9d66d14d9e7b438ff8311654ac663fe8c37fc7bbb589918198af",
+    "title": "Nothing Ear (3a): giảm còn 79 USD ở Mỹ ngày 27/10, Việt Nam chưa xác nhận giá và hàng chính hãng",
+    "summary": "BẢN NHÁP CHỜ DUYỆT | Nothing Ear (3a), driver 12mm, LDAC, ANC công bố tối đa 45dB, Bluetooth 6.0, kết nối 2 thiết bị, IP54, pin hãng tối đa 10 giờ/42 giờ với hộp khi tắt ANC; có Audio Snapshot và ghi âm cuộc gọi trong thị trường hỗ trợ. The Verge ngày 27/10/2026 ghi giá ưu đãi 79 USD tại Mỹ, không áp dụng cho Việt Nam; giá hãng Mỹ 99 USD. Chưa xác minh giá VND, tồn kho hoặc bảo hành tại Việt Nam, KHÔNG quy đổi USD thành giá bán VN.",
+    "category": "Âm thanh / ANC / Ghi âm",
+    "section": "Review - So sánh",
+    "region": "Việt Nam",
+    "sourceUrl": "https://us.nothing.tech/products/ear-3a",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 781,
+    "analysis": "Nguồn chính thức https://us.nothing.tech/products/ear-3a ; tin ưu đãi 27/10/2026 https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale ; giới thiệu VN 07/07/2026 https://cellphones.com.vn/sforum/nothing-ear-3a-ra-mat . Ưu đãi Mỹ không chứng minh giá VN.\nNÊN CHỜ xác minh giá và bảo hành tại Việt Nam. ANC hiệu quả với tiếng nền thấp hơn so với lời nói; chất âm mặc định thiên bass, EQ tùy chỉnh. Ghi âm cuộc gọi phải tuân thủ pháp luật, thông báo và chính sách công ty; tính năng có giới hạn khu vực. Độ chắc chắn KHÁ về tính năng, THẤP về khả năng mua ở VN. Ngày kiểm chứng 28/10/2026.",
+    "tags": [
+      "Âm thanh / ANC / Ghi âm",
+      "Review - So sánh"
+    ],
+    "language": "vi",
+    "contentHash": "d393bcb984c88bf019e181ee0bd015b31a3a3767b8972745dc6e4e954ca0cb40"
+  },
+  {
+    "id": "1c0acc3672ebb74f4d02424cf5a4e340e8a89444b293bd46e173427f47428b5c",
+    "title": "Seagate One Touch USB-C 4TB STNR4000420: review mới đo 147 MB/s, chưa thấy giá Việt Nam đúng mã",
+    "summary": "BẢN NHÁP CHỜ DUYỆT | Seagate One Touch Portable HDD 4TB phiên bản USB-C STNR4000420 (màu trắng), KHÁC model STKZ4000400 USB 3.0 cũ đang bán nhiều tại Việt Nam. TechRadar review 26/10/2026 đo đọc ~147MB/s, ghi ~146MB/s, mã hóa phần cứng AES-256 qua Seagate Toolkit, sao lưu tự động, Seagate Rescue tùy khu vực. Cubed3 review 22/10/2026 xác nhận mã STNR4000420 và nhấn mạnh HDD dễ tổn thương khi rơi hơn SSD. Giá VND, hàng và bảo hành tại Việt Nam cho đúng mã STNR4000420 chưa xác minh.",
+    "category": "Lưu trữ / Sao lưu / HDD",
+    "section": "Review - So sánh",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.seagate.com/support/external-hard-drives/portable-hard-drives/one-touch-2-5/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 782,
+    "analysis": "Nguồn chính thức https://www.seagate.com/support/external-hard-drives/portable-hard-drives/one-touch-2-5/ ; thử nghiệm mới https://www.techradar.com/pro/seagate-one-touch-4tb-external-hdd-review ; review có mã https://www.cubed3.com/tech/reviews/accessories/seagate-one-touch-4tb-portable-external-hard-drive ; đối chiếu model cũ tại VN https://www.tnc.com.vn/o-cung-di-dong-hdd-4tb-seagate-one-touch-stkz4000400-den-.html .\nNÊN CHỜ đúng model tại Việt Nam; phù hợp lưu trữ/sao lưu nhiều tệp không cần tốc độ SSD. HDD cơ học cần chống sốc, không dùng làm bản sao lưu duy nhất; áp dụng 3-2-1. Không suy ra hiệu năng của STNR cho STKZ. Độ chắc chắn CAO về tốc độ trong điều kiện test, THẤP về giá/tồn kho VN. Ngày kiểm chứng 28/10/2026.",
+    "tags": [
+      "Lưu trữ / Sao lưu / HDD",
+      "Review - So sánh"
+    ],
+    "language": "vi",
+    "contentHash": "7005d8e6bdefa6d812a532360eb5b80c6e2cd2dd53fcd08585bbef2d8a5e744b"
+  },
+  {
+    "id": "bed2c71f468aa061495577505227fa8530669575d4643c977b0656d06631be88",
+    "title": "Microsoft PowerToys: miễn phí, chia bố cục màn hình và trích chữ từ ảnh để làm việc nhanh hơn",
+    "summary": "BẢN NHÁP CHỜ DUYỆT | Microsoft PowerToys miễn phí, mã nguồn mở trên Windows. FancyZones sắp xếp nhiều cửa sổ Excel, trình duyệt, Power BI; Text Extractor trích chữ từ ảnh/màn hình; PowerToys Run/Command Palette mở ứng dụng nhanh; Always On Top ghim cửa sổ. Cài từ trang Microsoft hoặc Microsoft Store; không cần thuê bao cho tiện ích cơ bản. Một số tính năng AI tùy chọn có thể dùng dịch vụ riêng và phát sinh chi phí/đòi quyền truy cập; không gộp với bản miễn phí.",
+    "category": "Windows / Năng suất / Quản lý cửa sổ",
+    "section": "Review - Phần mềm",
+    "sourceUrl": "https://learn.microsoft.com/en-us/windows/powertoys/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 783,
+    "analysis": "Nguồn chính thức https://learn.microsoft.com/en-us/windows/powertoys/ ; dự án phát hành https://github.com/microsoft/PowerToys/releases . Đây là giới thiệu công cụ có sẵn, không nhận là phần mềm mới 24h.\nĐÁNG THỬ cho người làm việc nhiều cửa sổ. Không tự động cho phép tải dữ liệu nội bộ lên dịch vụ ngoài; chỉ bật tính năng cần thiết và tuân thủ chính sách CNTT trước khi cài trên máy công ty. Mức chắc chắn CAO về tính năng và giá miễn phí. Ngày kiểm chứng 28/10/2026.",
+    "tags": [
+      "Windows / Năng suất / Quản lý cửa sổ",
+      "Review - Phần mềm"
+    ],
+    "language": "vi",
+    "contentHash": "016c6a6758242ee623a1c14237d597309013b132bf023bc46d9d383cddaca28b"
+  },
+  {
+    "id": "d2498422cf3c1ba99ff0898767ccde59a213864c13bf511c95284e55db87c979",
+    "title": "Ollama: chạy mô hình AI trên máy không tính phí token; phân biệt chế độ local và cloud trả phí",
+    "summary": "BẢN NHÁP CHỜ DUYỆT | Ollama chạy mô hình mở cục bộ trên Windows/macOS/Linux, hỗ trợ hỏi đáp, xử lý file/PDF tùy model, API localhost và tích hợp công cụ lập trình. Giá Ollama Free 0 USD; chạy model cục bộ không giới hạn token theo gói, nhưng tốn tài nguyên máy; cloud dùng credit theo token, Pro 20 USD/tháng (200 USD/năm nếu trả năm). Bài blog Ollama 24/10/2026 giới thiệu hỗ trợ speech models, cần kiểm tra phần cứng/nền tảng cụ thể trước dùng. Tài liệu có thể giữ local nếu chọn đúng model cục bộ và không dùng cloud.",
+    "category": "Công nghệ & AI",
+    "section": "Review - Phần mềm / AI",
+    "sourceUrl": "https://ollama.com/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 784,
+    "analysis": "Nguồn chính thức https://ollama.com/ ; giá https://ollama.com/pricing ; hướng dẫn Windows https://ollama.com/blog/windows-preview ; ứng dụng https://ollama.com/blog/new-app ; cập nhật blog https://ollama.com/blog . Không giả định mọi model chạy được trên PC không GPU.\nĐÁNG THỬ để thử nghiệm AI riêng tư trên tài liệu KHÔNG mật khi có phép; cần RAM/VRAM tùy model, mô hình nhỏ có thể kém chính xác, phải kiểm chứng câu trả lời. Phân biệt local không gửi prompt lên cloud với cloud có hạ tầng bên ngoài. Trên máy doanh nghiệp phải được cấp phép trước khi cài và nạp tài liệu. Độ chắc chắn CAO về giá/cơ chế, TRUNG BÌNH về chất lượng tùy model. Ngày kiểm chứng 28/10/2026.",
+    "tags": [
+      "Công nghệ & AI",
+      "Review - Phần mềm / AI"
+    ],
+    "language": "vi",
+    "contentHash": "3f03988184e559e640fd5e916e2a0ba3a7246d9f6b6f37775a7770de2a5e5db6"
+  },
+  {
+    "id": "240219a01851a3debc518ab6dd4f45b607eec86ced4bff504f4ec2fda56538e9",
+    "title": "Bầu cử Israel: kiểm phiếu sớm bế tắc, Likud dẫn đầu nhưng không phe nào đủ 61 ghế",
+    "summary": "Ủy ban Bầu cử Trung ương Israel: hơn 1,2 triệu phiếu đã đếm lúc 02:20 GMT 28/10; Likud 23,36%, Yashar 15,74%, đảng Bennett 8,53%. Exit poll: khối Netanyahu ~50-52 ghế, khối Eisenkot ~50-53 ghế, đảng Arab 17-18 ghế; tỷ lệ đi bầu chung cuộc 77,7%, cao nhất từ 1973. Kết quả chính thức dự kiến 4/11.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 785,
+    "analysis": "Bầu cử đầu tiên kể từ vụ tấn công 7/10/2023; cử tri đi bầu kỷ lục. Netanyahu kêu gọi các đảng Do Thái đoàn kết thành lập chính phủ cánh hữu; Eisenkot nói cử tri đã bác bỏ Netanyahu và kêu gọi ông rút khỏi chính trị. Không bên nào tuyên bố thắng cử.\nBế tắc kéo dài có lợi cho Netanyahu với vai trò thủ tướng tạm quyền trong đàm phán liên minh; đảng Arab có thể thành nhân tố cầm cân dù Eisenkot gần như loại trừ liên minh với họ. Kết quả sẽ định hình chính sách Iran của Israel trước bầu cử giữa kỳ Mỹ 3/11. Rủi ro: đàm phán kéo dài nhiều tuần hoặc bầu cử lại.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "8c08466b3f14bed16941ac43bda82bd2acef6df7c21c0d09f748f3f7b2ff0c03"
+  },
+  {
+    "id": "791bb72f6639b5f5697021101070ca546402245ec1f43db5573e5377b84bfeb8",
+    "title": "Dầu bật tăng trở lại sau tin Houthi đánh trúng nhà máy lọc dầu lớn nhất Saudi Arabia",
+    "summary": "Brent +1,3% lên 115,36 USD/thùng, WTI +1,22% lên 101,12 USD lúc 01:40 GMT 28/10, đảo chiều sau phiên giảm gần 2 USD ngày 27/10. Houthi tuyên bố đánh trúng nhà máy lọc dầu 550.000 thùng/ngày; phía Saudi chưa xác nhận vụ tấn công vào cơ sở này. OPEC+ dự kiến giữ nguyên mục tiêu sản lượng tháng 12.",
+    "category": "Năng lượng",
+    "section": "A - Top 5",
+    "sourceUrl": "https://srnnews.com/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 786,
+    "analysis": "Đàm phán Tehran ngày 26/10 mở kênh ngoại giao nhưng xung đột Houthi-Saudi vẫn leo thang; UBS nâng dự báo Brent cuối năm lên ~110 USD. Dầu Brent đã tăng hơn 85% từ đầu năm.\nGiá dầu cao kéo dài thổi bùng lo ngại lạm phát trước quyết định Fed; doanh nghiệp vận tải, hàng không và người tiêu dùng chịu áp lực chi phí. Cơ hội: cổ phiếu năng lượng hưởng lợi; rủi ro: cú sốc nguồn cung nếu xung đột lan sang hạ tầng dầu khí vùng Vịnh.",
+    "tags": [
+      "Năng lượng",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "4dab5712dd404bb7828422123492353cc0ee450eeddf5ff9b397cef7229695e2"
+  },
+  {
+    "id": "344604329256dd1d5730ae1b53a074abafffc0c8cc6cc6f3f0399ba9c2287b86",
+    "title": "Đêm trước quyết định Fed: thị trường gần như chắc chắn giữ nguyên lãi suất, RBNZ bất ngờ không tăng",
+    "summary": "Fed funds futures định giá ~91% khả năng Fed giữ nguyên 3,75-4,00% (quyết định 01:00 VN 29/10, họp báo 01:30). DXY lên 102,40, cao nhất từ 14/10; lợi suất trái phiếu Mỹ 10 năm 4,9967%. Ngân hàng Trung ương New Zealand (RBNZ) bất ngờ giữ nguyên 2,75% dù 22/27 chuyên gia Reuters dự báo tăng; NZD giảm tới 1,7% xuống 0,5585 USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://935thelloyd.com/2026/10/27/dollar-holds-gains-ahead-of-fed-policy-signal-rbnz-decision/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 787,
+    "analysis": "Lạm phát Mỹ 3,7%, giá năng lượng +20,4% so với cùng kỳ; Chủ tịch Fed Kevin Warsh đối mặt áp lực từ chi phí AI và giá dầu. RBNZ giữ nguyên trước bầu cử 10 ngày — thị trường gọi là 'sai lầm' về thời điểm chính trị.\nThông điệp về tháng 12 quan trọng hơn quyết định tháng 10: thị trường vẫn định giá ~83% khả năng Fed tăng tháng 12. Nếu Fed để ngỏ tăng tiếp, USD và lợi suất tăng sẽ gây áp lực lên vàng, chứng khoán mới nổi và VND; nếu tín hiệu ôn hòa, tài sản rủi ro được hỗ trợ.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "c8dbdfee25225d6298f47460bde61b43ac10f0799ccf45d4980a051839c7aa42"
+  },
+  {
+    "id": "9d947231a6008d29cb83408bb2a46adbb7118d63847419153582742eb4fe49dd",
+    "title": "AEF 2026: Thủ tướng đối thoại 60 phút với lãnh đạo WEF về 'Định vị Việt Nam trong tương lai toàn cầu'",
+    "summary": "Phiên đối thoại Thủ tướng Lê Minh Hưng — Giám đốc điều hành WEF Stephan Mergenthaler diễn ra 10:05-11:05 sáng 28/10, truyền hình trực tiếp trên HTV, trong khuôn khổ Diễn đàn Kinh tế Mùa thu 2026 (26-29/10, TP.HCM, hơn 1.500 đại biểu). Cùng dịp, TP.HCM dự kiến công bố 12 dự án đầu tư tổng vốn khoảng 13 tỷ USD và Tuyên bố chung hợp tác với WEF.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://laodong.vn/kinh-doanh/sang-nay-thu-tuong-doi-thoai-lanh-dao-wef-dinh-vi-viet-nam-trong-tuong-lai-toan-cau-1790444.ldo",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 788,
+    "analysis": "Diễn đàn đồng thương hiệu với WEF, gồm 21 phiên thảo luận và 16 hoạt động bên lề, tập trung chuyển đổi mô hình tăng trưởng, thể chế, tài chính, AI, kinh tế tuần hoàn, logistics xanh và trung tâm tài chính quốc tế.\nNâng vị thế Việt Nam trong chuỗi giá trị toàn cầu, thu hút dòng vốn FDI-công nghệ-tài chính hội tụ; chuyển từ 'tham gia' sang 'đồng kiến tạo' sáng kiến. Rủi ro: kỳ vọng cao nhưng triển khai dự án cần thời gian và thể chế đi kèm.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "8133161f806395750dac916cd52da98f88b56a43ff94503521aec7cd6034a247"
+  },
+  {
+    "id": "3a1461b0b7aa80f6a99a38d0689873915daae21d6afeb4e1f3c3f5854fec3314",
+    "title": "Oleshky: ngừng bắn nhân đạo giữ vững, sơ tán từ 30/10 nhưng lộ trình qua Crimea/Nga gây tranh cãi",
+    "summary": "Ngừng bắn cục bộ Oleshky kéo dài đến 22:59 giờ Kyiv 1/11; sứ mệnh nhân đạo bắt đầu 29/10, sơ tán dân từ 30/10. Khoảng 500 người đã đăng ký sơ tán tính đến chiều 27/10. FT dẫn nguồn tin: dân Oleshky đồng ý sơ tán sẽ được đưa qua Crimea hoặc Nga trước khi trở lại vùng do Ukraine kiểm soát; người dân lo ngại bị kiểm tra điện thoại, không được quay lại.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://en.interfax.com.ua/news/general/1226779.html",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 789,
+    "analysis": "Thỏa thuận do Đệ nhất phu nhân Mỹ Melania Trump môi giới với sự tham gia của Giáo hoàng Leo XIV; cả Nga và Ukraine đều nói đang tuân thủ, chưa ghi nhận vi phạm tính đến sáng 27/10. Người dân Oleshky được mô tả sống bằng một cốc gạo/kiều mạch mỗi ngày.\nMô hình ngừng bắn cục bộ có thể mở đường cho các bước xuống thang khác nếu thực hiện tốt; ngược lại, lộ trình qua lãnh thổ Nga đặt ra rủi ro an toàn và niềm tin cho dân thường. Kyiv vẫn bị tên lửa đạn đạo đánh trong đêm 27/10 (1 người chết) — ngừng bắn chỉ cục bộ, không áp dụng nơi khác.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "7e3c477bf55342d0c08f9995e91bc3c2a0f79a71774446f30728392494b93126"
+  },
+  {
+    "id": "48940fddb9a455838cfe983d49bab45fd78aad00d87abc9328ad077cceca7279",
+    "title": "Vàng SJC sáng 28/10 tăng 300.000 đồng lên 139-142 triệu đồng/lượng, vàng thế giới vượt 4.060 USD",
+    "summary": "SJC, DOJI, PNJ cùng niêm yết vàng miếng 139-142 triệu đồng/lượng (mua-bán), tăng 300.000 đồng cả hai chiều so với 27/10; chênh mua-bán 3 triệu. BTMC mua 137, bán 142 triệu (chênh 5 triệu); Phú Quý bán 141,7 triệu, mua giảm còn 137,5 triệu. Vàng thế giới ~4.063 USD/ounce (+49 USD so với 4.014 USD ngày 27/10); hợp đồng tương lai Mỹ tháng 12 lên 4.074,60 USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.vietnam.vn/gia-vang-hom-nay-28-10-vang-the-gioi-phuc-hoi-manh-sjc-tang-nhe",
+    "imageUrl": "https://cdn.baolaocai.vn/images/fa8a3mVaeZYAzRS58pNZg2ef1pNbv6PjWwzNv6cAJMbGbFWxr_QKk1JZpR_6tgXzMs8h5lXBMW9NrcuQT-Dw_Q/gia-vang-hom-nay-28-10.jpg.avif",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 790,
+    "analysis": "Phục hồi sau cú giảm sâu có lúc thủng 4.000 USD; dầu hạ nhiệt giúp giảm áp lực lạm phát. Người mua đỉnh tháng 10 (144,3 triệu) vẫn lỗ ~5,3 triệu đồng/lượng (BTMC tới 7,3 triệu) nếu bán lại.\nVàng thế giới giữ trên 4.050 USD có thể thử 4.075-4.100 USD; quyết định Fed đêm nay là biến số lớn nhất. Chênh SJC-thế giới quy đổi ~15 triệu đồng/lượng; khoảng cách mua-bán lớn khiến giao dịch ngắn hạn rủi ro.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "a455065e242a362d35583e4e8930224d4d989913912fe2c57f00aed9e66a9fa7"
+  },
+  {
+    "id": "5cf8d2941ac7b7cb63a591bd2735b68d6523b2c350d3e52cb7f0b210156a6772",
+    "title": "VN-Index sáng 28/10 giằng co quanh 1.760 điểm, thanh khoản thấp, nhà đầu tư thận trọng trước Fed",
+    "summary": "Lúc 9h30 sáng 28/10, VN-Index giảm hơn 1 điểm về ~1.760 điểm, biên độ 1.755,93-1.765,40; khớp lệnh hơn 683 tỷ đồng, thỏa thuận hơn 190 tỷ đồng. Phiên 27/10 chốt 1.761,87 điểm (-1,68), khớp lệnh HOSE 10.254,7 tỷ đồng; khối ngoại bán ròng 441 tỷ đồng (xả ACB ~177 tỷ, FPT ~149 tỷ), mua ròng TCB 196,5 tỷ — phiên thứ 8 liên tiếp, tổng ~1.277 tỷ đồng/37,7 triệu cổ phiếu.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://fili.vn/2026/10/nhip-dap-thi-truong-2810-vn-index-giang-co-dau-phien-truoc-ap-luc-xa-tru-vic-1636-1507809.htm",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 791,
+    "analysis": "Thị trường thiếu đồng thuận sau 2 phiên giảm từ 1.774,15 cuối tuần trước; nhóm ngân hàng phân hóa sau mùa báo cáo Q3. Tâm lý thận trọng trước thông tin nghiên cứu hạ giá bán lẻ điện và đưa thuế tiêu thụ đặc biệt xăng dầu về 0%.\nVCBS/BSC: VN-Index dao động 1.730-1.780, hỗ trợ 1.750-1.760, kháng cự 1.780-1.790; nhà đầu tư nên tránh mua đuổi, ưu tiên cổ phiếu có câu chuyện riêng và nền tảng tốt. Rủi ro: thủng hỗ trợ sẽ thử vùng 1.730-1.740.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "a513dae4123f2fab376d13bb1b1d56a4558f6487e9b3b09aa21c768b7673b355"
+  },
+  {
+    "id": "11cdf5544cfc9233f6f11600786ebca938602c49df880d9af4acc62cd3bd881e",
+    "title": "Sacombank: lợi nhuận quý 3 giảm hơn 50% vì dự phòng tăng gần 6 lần, tài sản vượt 1 triệu tỷ đồng",
+    "summary": "Lợi nhuận trước thuế Q3/2026 đạt 1.757 tỷ đồng (-51,9% so với 3.657 tỷ cùng kỳ), sau thuế 1.347 tỷ (-53,6%). Lũy kế 9 tháng: trước thuế 5.893 tỷ (-46,4%), sau thuế 4.278 tỷ (-50,8%). Chi phí dự phòng rủi ro tín dụng Q3 tăng từ 1.044 tỷ lên 5.729 tỷ (~5,5 lần); 9 tháng lên 12.848 tỷ (gấp gần 6 lần 2.152 tỷ cùng kỳ). Tổng tài sản 1.057.398 tỷ (+15,3% so với cuối 2025); cắt giảm 4.263 nhân sự trong 9 tháng.",
+    "category": "Doanh nghiệp",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://vietnamfinance.vn/sacombank-loi-nhuan-sau-thue-giam-hon-50-cat-giam-4263-nhan-su-d152753.html",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 792,
+    "analysis": "Thu nhập lãi thuần Q3 giảm 33,6% còn 5.228 tỷ do chi phí lãi tăng 64,8% (lên 13.307 tỷ) trong khi thu nhập lãi chỉ tăng 16,2%. Ngược lại, thu nhập thuần dịch vụ tăng hơn 6 lần lên 4.255 tỷ, ngoại hối tăng gần 3,7 lần lên 711 tỷ; lợi nhuận thuần trước dự phòng Q3 tăng 59,3% lên 7.486 tỷ. Đây là quý giảm lợi nhuận thứ 4 liên tiếp kể từ Q4/2025.\nTrích lập mạnh có thể là 'dọn dẹp' bảng cân đối trước khi phục hồi, nhưng NIM dưới 3% và chi phí vốn cao vẫn gây sức ép. Sacombank là ngân hàng tư nhân thứ 5 vượt mốc tài sản 1 triệu tỷ; cổ phiếu STB từng trần nhiều phiên tuần trước bất chấp lợi nhuận giảm — nhà đầu tư cần phân biệt giá cổ phiếu với kết quả kinh doanh.",
+    "tags": [
+      "Doanh nghiệp",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "dfcd2b7ffe6e01672eb8592b125fff23ef81f058ac8b777fc84403b16d92d67f"
+  },
+  {
+    "id": "965ed25d2e12c726227d88b0607275be66fe51c643f31366c9c80755a9885f72",
+    "title": "Alphabet và Microsoft báo cáo tối nay: phép thử 600 tỷ USD chi tiêu AI của Big Tech",
+    "summary": "Alphabet (EPS kỳ vọng 2,94 USD, doanh thu ~127,83 tỷ USD) và Microsoft (EPS ~4,72 USD, doanh thu ~90,75 tỷ USD) cùng báo cáo sau giờ đóng cửa 28/10 giờ Mỹ; Amazon báo cáo 29/10. Kỳ vọng: Google Cloud +95,1% (Zacks: +92% lên 29,15 tỷ USD), Azure +47,7% (hướng dẫn 44-45%), AWS +38,2%. Tổng capex 2026: Microsoft ~175-190 tỷ, Alphabet 195-205 tỷ, Amazon ~220 tỷ USD.",
+    "category": "Công nghệ & AI",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.zacks.com/commentary/3016398/alphabet-microsoft-earnings-preview-ai-cloud-growth-takes-center-stage",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 793,
+    "analysis": "Tuần trước, Microsoft dù EPS vượt dự báo vẫn giảm tới 5% sau khi nâng hướng dẫn capex 2026 lên 190 tỷ (+61%); Meta giảm 6-8% vì cảnh báo capex. Tồn đọng đám mây chưa thực hiện của 3 hãng tiến gần 1.700 tỷ USD; tổng capex hyperscaler 2026 ước ~800 tỷ USD.\nNếu cloud tăng trưởng không theo kịp chi tiêu, làn sóng bán tháo cổ phiếu AI có thể quay lại; nếu vượt kỳ vọng, niềm tin vào chu kỳ AI được củng cố. Nhà đầu tư theo dõi sát hướng dẫn capex và biên lợi nhuận hơn doanh thu quý vừa qua.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "71d5f89edbe1352abf25fe3940d1cf75afd0006c43b3b50e1b97e64b6007311a"
+  },
+  {
+    "id": "39f879e6936f638ba3a02df9f360e9b2b5d8d4c4fd0dfefd780e9abe10d9c850",
+    "title": "Quốc hội 28/10: sáng thảo luận Luật Chứng khoán và nhóm luật thương mại, chiều thảo luận Luật Nhà ở (sửa đổi)",
+    "summary": "Sáng 28/10, Quốc hội thảo luận tại hội trường dự án Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; tiếp đó là nhóm Luật Thương mại, Luật Cạnh tranh, Luật Quản lý ngoại thương, Luật Bảo vệ quyền lợi người tiêu dùng. Chiều thảo luận Luật Nhà ở (sửa đổi). Bộ trưởng Tài chính, Bộ trưởng Công Thương và Bộ trưởng Xây dựng lần lượt giải trình.",
+    "category": "Chính sách",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://mekongasean.vn/quoc-hoi-thao-luan-ve-luat-chung-khoan-sua-doi-61163.html",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 794,
+    "analysis": "Đại biểu Nguyễn Hải Nam: sau 30 năm, thị trường chứng khoán cần mở rộng không gian huy động vốn, tạo thêm hàng hóa niêm yết đi đôi với chất lượng thông tin, năng lực giám sát và bảo vệ nhà đầu tư; tín dụng hiện tương đương 145% GDP nên thị trường vốn phải đóng vai trò lớn hơn.\nSửa luật kỳ vọng cắt giảm thủ tục, thúc đẩy ứng dụng công nghệ và mở rộng cơ hội huy động vốn cho doanh nghiệp. Đề xuất đáng chú ý: cơ chế thoái vốn tại doanh nghiệp thua lỗ còn vướng quy định 'doanh nghiệp phải có lãi mới được chào bán công khai'.",
+    "tags": [
+      "Chính sách",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "cc0260723a82298ce3221debece863645ae965ba137ef4b3cee8107c503f8bf7"
+  },
+  {
+    "id": "2cf167ba472c115ea4111096da49a9f2ef6264bc7d0b00ca9bf18272aae02532",
+    "title": "Mưa lớn tiếp diễn từ Hà Tĩnh đến Đà Nẵng, cục bộ trên 250mm, Biển Đông sóng cao tới 4m",
+    "summary": "Từ sáng sớm 28/10 đến 29/10, Hà Tĩnh đến TP Đà Nẵng mưa vừa, mưa to và dông, phổ biến 50-120mm, cục bộ trên 250mm; nguy cơ mưa trên 100mm/3 giờ. Đêm 27/10 đến 3h sáng 28/10: trạm Dương Hòa (Huế) 65,2mm, Hồ Hòa Trung (Đà Nẵng) 62,6mm. Bắc Biển Đông gió Đông Bắc cấp 6-7, giật 8-9, sóng 2-4m; vùng biển Nam Quảng Trị-Đà Nẵng sóng 2-3m.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baotintuc.vn/mua-lon-tu-ha-tinh-den-da-nang-bien-dong-gio-manh-song-cao-4m-post1397872.html",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 795,
+    "analysis": "Đợt mưa kéo dài từ tối 27/10 đến 29/10 theo cảnh báo của Trung tâm Dự báo Khí tượng Thủy văn Quốc gia; mưa lớn kéo dài gây ngập úng vùng trũng thấp, khu đô thị, khu công nghiệp; rủi ro thiên tai do mưa lớn ở cấp 1, trên biển cấp 2. Từ đêm 29/10 mưa có khả năng giảm dần.\nNgười dân vùng nguy cơ cao cần hạn chế di chuyển qua ngầm tràn, khu vực ngập sâu và sạt lở; tàu thuyền tránh ra khơi khu vực biển động mạnh. Theo dõi cảnh báo lũ quét, sạt lở theo thời gian thực tại luquetsatlo.nchmf.gov.vn.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "72cb35e04d6a517063983cfe6ce5889d56d9e6ef69030f79e241c1da5b74df75"
+  },
+  {
+    "id": "a92f1cf16cdb0030bbe1d982b1e706dc345984f2bbf64700c1f454042a51f415",
+    "title": "Hàn Quốc tổng kiểm tra khoảng 170 hạ tầng IT trọng yếu sau làn sóng tấn công mạng vào ngân hàng",
+    "summary": "Bộ Khoa học và CNTT Hàn Quốc sẽ kiểm tra lỗ hổng bảo mật tại 111 tổ chức công quản lý hạ tầng IT, tập trung các hệ thống kết nối Internet; toàn bộ đợt kiểm tra dự kiến hoàn thành trước cuối năm. Bối cảnh: 16 ngân hàng thương mại Hàn Quốc báo cáo bị tấn công mạng làm lộ dữ liệu khách hàng trong năm 2026; Tổng thống Lee Jae Myung yêu cầu phát triển phương pháp an ninh mạng phù hợp kỷ nguyên AI.",
+    "category": "Chính sách",
+    "section": "B - Xã hội",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.koreatimes.co.kr/amp/southkorea/20261028/govt-to-carry-out-large-scale-inspections-into-it-infrastructures-amid-recent-hacking-attacks",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 796,
+    "analysis": "Diễn biến tiếp nối 'Black October': chuỗi sự cố PHP2Shell, LiteLLM, eMudhra và các vụ rò rỉ tại cơ quan công, tổ chức tài chính. Hàn Quốc trước đó đã nâng cảnh báo mạng lên mức 'Caution' sau PHP2Shell.\nChính phủ các nước chuyển từ phản ứng sự cố sang kiểm tra chủ động toàn diện; doanh nghiệp Việt Nam có đối tác, chuỗi cung ứng tại Hàn Quốc cần rà soát lại tư thế bảo mật. Chi phí tuân thủ và kiểm toán an ninh mạng dự kiến tăng trong ngắn hạn.",
+    "tags": [
+      "Chính sách",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "f5e42f99634c22fa34fe588ddc04a8f96dc6f090df83cfceec911b453ce2da7a"
+  },
+  {
+    "id": "14704eabb9602c8868b6e3f74aa480a274aebd7cb7193e6f65434c0ce3d636d7",
+    "title": "CrowdStrike: 4 nhóm tấn công dùng AI agent tự chủ xâm nhập, đánh cắp dữ liệu mà gần như không cần người điều khiển",
+    "summary": "CrowdStrike phát hiện 4 actor chưa từng công bố dùng AI agentic để trinh sát, khai thác và đánh cắp dữ liệu trong các vụ xâm nhập tháng 5-8/2026, nhắm vào y tế, chính phủ, SaaS. Một nhóm xâm nhập ít nhất 15 tổ chức y tế Argentina, đánh cắp credential và hồ sơ bệnh án; nhóm khác nhắm chính phủ Brazil, Colombia, Indonesia, Bangladesh và một nhà cung cấp CRM Mỹ. Tất cả đều vượt qua hoặc lách các biện pháp bảo vệ của mô hình.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://itbrief.news/story/crowdstrike-finds-ai-agents-running-autonomous-cyberattacks",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 797,
+    "analysis": "Báo cáo Global Threat Report 2026 của CrowdStrike: hoạt động của adversary có dùng AI tăng 89% trong 2025; đội OverWatch ghi nhận số vụ xâm nhập agentic trong nửa cuối 2026 gấp 3 lần nửa đầu năm. Các actor dùng từ hệ thống đa agent phức tạp đến framework đơn giản dựa trên skill công khai.\nAI agent tấn công làm rút ngắn thời gian từ xâm nhập đến đánh cắp dữ liệu xuống dưới mức phản ứng thủ công; phòng thủ cần chuyển sang phát hiện hành vi agent, giám sát credential và phân đoạn mạng. Doanh nghiệp y tế, chính phủ là mục tiêu ưu tiên.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "551a05d511c3e4ab9fcfad144259b139ca83f579cfa16666117b8cf0c2226309"
+  },
+  {
+    "id": "996422962151ac7ca5cd7e33dfbb6283b452990c57aee4c364e237c306ea7636",
+    "title": "Ít nhất 17 bảng điều khiển pentest AI Cairn bị chiếm quyền, agent bảo mật bị biến thành công cụ tấn công",
+    "summary": "Kẻ tấn công chiếm ít nhất 17 panel Cairn AI pentesting phơi bày trên Internet, lợi dụng quyền quản trị không xác thực để ra lệnh cho agent thực thi lệnh, đánh cắp credential, cài mã độc và duy trì truy cập. Hai cụm hoạt động AIA0009 (ưu tiên duy trì truy cập, triển khai mã độc) và AIA0010 (trinh sát hạ tầng, trích xuất credential, quét thêm panel khác) tăng mạnh quanh 20/10, trinh sát có thể bắt đầu từ 10/10.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://cybernoz.com/hackers-compromise-17-exposed-ai-pentesting-panels-to-deploy-malware-and-steal-credentials/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 798,
+    "analysis": "Nạn nhân gồm panel nghi liên quan hoạt động tội phạm lẫn các đội red team, nghiên cứu bug bounty và CTF hợp pháp. Không phải lỗ hổng phần mềm mới mà là panel phơi bày Internet không xác thực — agent bị lợi dụng để liệt kê biến môi trường, cổng lắng nghe, file cấu hình và API key của mô hình AI.\nBài học 'agent quay lại cắn chủ': mọi bảng điều khiển agent phải xác thực mạnh, không phơi bày Internet, giám sát lệnh agent thực thi. Các đội pentest dùng Cairn cần rà soát task lạ (dấu hiệu 'cairnscan', task 'i014') và xoay toàn bộ credential.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "2e57a20f6e07977b3acab64f4ef499791e14093340cec2b32adf9c8effb14cb4"
+  },
+  {
+    "id": "a9fd799bf333254b99e2e4910033f328603165a7d2878587c94ddbc1f856d7fe",
+    "title": "Chiến dịch tấn công FortiGate gắn với công cụ mã nguồn mở CyberStrikeAI của nhà phát triển Trung Quốc",
+    "summary": "Team Cymru xác định công cụ đứng sau chiến dịch mà Amazon Threat Intelligence từng gắn với hơn 600 thiết bị FortiGate bị xâm nhập tại 55 quốc gia là nền tảng tấn công mã nguồn mở CyberStrikeAI, do một nhà phát triển tại Trung Quốc xây dựng; 21 máy chủ chạy công cụ này được ghi nhận trong giai đoạn 20/1-26/2/2026. Địa chỉ IP 212.11.64[.]250 của một actor nghi nói tiếng Nga được dùng để quét hàng loạt thiết bị dễ tổn thương.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://pivotnews.ai/security/team-cymru-ties-fortigate-attack-campaign-to-open-source",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 799,
+    "analysis": "Amazon Threat Intelligence mô tả trước đó: kẻ tấn công chưa xác định dùng dịch vụ AI tạo sinh (gồm Claude của Anthropic và DeepSeek) để nhắm FortiGate một cách có hệ thống. Đây là minh chứng tiếp theo cho 'AI-assisted campaign' ở quy mô quốc gia.\nQuản trị viên FortiGate cần kiểm tra dấu hiệu xâm nhập, cập nhật firmware và rà soát cấu hình phơi bày Internet. Xu hướng: công cụ tấn công AI nguồn mở hạ thấp rào cản cho các chiến dịch quy mô lớn, rút ngắn thời gian từ phát hiện lỗ hổng đến khai thác hàng loạt.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "142d356c83dcdc618b19afa7eebebf6809ca44b533ab42b2ea12add1b47d7f8a"
+  },
+  {
+    "id": "46958124d6d02acd2e4f9f065bf8017f2f0a87a14c9a7f85ba7711c65c933da2",
+    "title": "Apple ra mắt MacBook Pro 14 inch và iMac chip M6, đặt trước từ 28/10, bán ra 6/11",
+    "summary": "MacBook Pro 14 inch giá từ 1.999 USD, iMac từ 1.499 USD; đặt trước từ 28/10 tại 35 quốc gia/vùng lãnh thổ, bán ra 6/11. M6: đồ họa nhanh hơn tới 30% và AI trên thiết bị nhanh hơn tới 25% so với M5; pin tới 24 giờ — dài nhất từ trước đến nay trên Mac. iMac nhanh hơn tới 5 lần về AI trên thiết bị so với mẫu M4.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 800,
+    "analysis": "Ra mắt ngay trước sự kiện 'Pro and tell' ngày 28/10 tại Los Angeles, nơi Bloomberg dự báo Apple giới thiệu MacBook Pro màn hình cảm ứng đầu tiên. Trước đó Apple đã ra iPad mini màn hình OLED chip A20 Pro ngày 26/10.\nApple đẩy mạnh AI trên thiết bị thay vì chỉ dựa vào đám mây, trong bối cảnh giá bộ nhớ tăng khiến giá bán giữ nguyên mức đã tăng hồi tháng 6. Người dùng Việt Nam cần chờ giá chính hãng; dòng Mac M6 là lựa chọn nâng cấp cho người làm việc với mô hình AI cục bộ.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "825f3593d9d0a48e82bd82fdc9a40279bab9227edc76cc33fc9d60320f5c3abe"
+  },
+  {
+    "id": "ce033fb16eae00a7c706f31b45e6b4d41788a040c255a578474133b3fa4ac383",
+    "title": "Đảng Arab thành nhân tố cầm cân sau bầu cử Israel: từ 10 ghế lên 17-18 ghế, cử tri Arab đi bầu kỷ lục",
+    "summary": "Nền tảng: Truyền thông quốc tế, liveblog bầu cử. Nội dung: exit poll cho thấy hai đảng Arab giành 17-18/120 ghế, tăng từ 10 ghế, khi cử tri Arab đi bầu với số lượng chưa từng có vì phẫn nộ với tội phạm và chính sách của Bộ trưởng An ninh Ben-Gvir. Cả hai đảng nói sẽ ủng hộ Eisenkot ở một mức độ nào đó để ngăn Netanyahu thêm nhiệm kỳ. Like/Reactions: N/A; Comments/Replies: N/A; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: N/A; Thời điểm ghi nhận: 10:15 VN 28/10/2026. Điểm HOT: Chưa đủ dữ liệu (thiếu số tương tác, shares và tăng trưởng 24h có hệ thống; chỉ có bằng chứng đa nguồn tin).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 801,
+    "analysis": "Vì sao đang HOT: lần đầu tiên khối Arab có thể quyết định ai thành lập chính phủ, dù Eisenkot gần như loại trừ liên minh chính thức với họ — nghịch lý 'người cầm cân nhưng không được mời vào chính phủ' đang được tranh luận. Quan điểm nổi bật: phe chống Netanyahu coi đây là sự bác bỏ dự án Netanyahu; phe Likud nhấn mạnh Likud vẫn là đảng lớn nhất.\nTác động: nếu khối Arab duy trì đoàn kết, cán cân đàm phán liên minh thay đổi căn bản; nếu bị gạt ra ngoài, nguy cơ bầu cử lại và bất ổn chính trị kéo dài. Theo dõi kết quả chính thức 4/11 và diễn biến đàm phán liên minh.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "6b3a534865c062244a693b4d355c11032fb34b37a05e8103e356e3bc0bfe526b"
+  },
+  {
+    "id": "23352021dbb144c1e7d846c722b9d15c1912e30b8e50d65347427d781c759fa0",
+    "title": "Genie 4 của DeepMind: mô hình thế giới đầu tiên tạo âm thanh gốc theo thời gian thực, giữ cảnh ổn định 2 phút",
+    "summary": "Nền tảng: Hacker News + blog DeepMind. Nội dung: Genie 4 tạo thế giới khám phá được theo thời gian thực, nay có âm thanh gốc (nhạc, tiếng môi trường, hội thoại nhân vật), chỉnh sửa cảnh bằng prompt giữa chừng (đổi thời tiết, góc máy, thêm người/vật), duy trì tính nhất quán tới ~2 phút (gấp đôi Genie 3). Gemini Omni neo ngoại hình/hành vi thực tế, Gemini 3.8 Flash làm agent dẫn dắt. Like/Reactions: 686 points (HN); Comments/Replies: 412 comments (HN); Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 thread HN front page + nhiều hãng tin độc lập (TechCrunch, Gizmodo, ToI...); Thời điểm ghi nhận: snapshot HN lúc 07:19 VN 28/10/2026 (crawl 00:19 UTC). Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu shares và tăng trưởng 24h có hệ thống).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 802,
+    "analysis": "Vì sao đang HOT: bước tiến lớn nhất là mô phỏng con người tự nhiên, biết nói chuyện và phản ứng theo thời gian thực; giới phát triển bàn về ứng dụng huấn luyện robot/agent trong mô phỏng trước khi triển khai thực tế. Tranh luận: nguy cơ nội dung giả siêu thực vs tiềm năng môi trường huấn luyện vô hạn cho robot.\nTác động: world model trở thành lớp hạ tầng mới cho robotics và game tương tác; DeepMind mới mở research preview cho tester tin cậy, tiếp theo là thuê bao Google AI Ultra và đối tác Gemini API. Toàn bộ video/âm thanh mang watermark SynthID.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "7751dec6fb97124ec312c9d24c0ba5959582d35227a89a55f26a648312087cc1"
+  },
+  {
+    "id": "002b3fc09736f833dc63c8d4854de81068f59d6ff65bd1da087c4fd536f691a8",
+    "title": "'Black October' qua lăng kính NY Post: AI giúp tội phạm 'không cần biết lập trình' vẫn viết mã tấn công",
+    "summary": "Nền tảng: Báo chí Mỹ + mạng xã hội. Nội dung: NY Post (27/10) tổng hợp 'Black October' — chuỗi sự cố PHP2Shell, LiteLLM độc hại và hàng loạt lỗ hổng — với cảnh báo AI rút ngắn mạnh thời gian từ phát hiện lỗ hổng đến khai thác, trước khi chính phủ/doanh nghiệp kịp phản ứng. Chuyên gia Scott Schober: 'AI viết script thay bạn, không cần là lập trình viên'; cảnh báo nguy cơ tấn công hạ tầng nước, điện, xử lý nước thải tại các đô thị nhỏ thiếu đội an ninh chuyên trách. Like/Reactions: N/A; Comments/Replies: N/A; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: N/A; Thời điểm ghi nhận: 10:15 VN 28/10/2026. Điểm HOT: Chưa đủ dữ liệu (thiếu số tương tác và tăng trưởng; đây là diễn biến mới của trend 'Black October' đã ghi nhận từ 24/10 với góc WSJ/Microsoft DDR, nay qua bài NY Post 27/10).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://nypost.com/2026/10/27/tech/black-october-shows-how-criminals-use-ai-to-cause-real-world-chaos-but-heres-how-you-can-protect-yourself/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 803,
+    "analysis": "Vì sao đang HOT: bài báo đưa 'Black October' từ thuật ngữ chuyên ngành an ninh mạng ra công chúng rộng rãi, gắn với nỗi lo AI dân chủ hóa tấn công mạng. Quan điểm nổi bật: phe cảnh báo nhấn mạnh khoảng trống phản ứng của chính phủ; phe thận trọng lưu ý nhiều sự cố đã được vá và nguy cơ hạ tầng vật lý cần bằng chứng cụ thể hơn.\nTác động: gia tăng áp lực chính sách kiểm tra hạ tầng (như Hàn Quốc vừa công bố) và nhu cầu công cụ vá tự động; người dùng cá nhân được khuyến cáo hạn chế nhập thông tin nhạy cảm vào trợ lý AI.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "ee194182f62fcca8ff0cde8572462decaf541387c29a830f5fc8a54e913545aa"
+  },
+  {
+    "id": "e084ee9bfbcba96af83a55cadd1ced0f67e54149a8a1c2cc35dbde18412e4b16",
+    "title": "MacBook Pro và iMac M6 gây sốt cộng đồng công nghệ ngay trước sự kiện 'Pro and tell'",
+    "summary": "Nền tảng: Hacker News + báo công nghệ. Nội dung: Apple công bố MacBook Pro 14 inch và iMac chip M6 (giá 1.999/1.499 USD, đặt trước 28/10, bán 6/11); cộng đồng tranh luận về giá giữ nguyên mức đã tăng tháng 6, pin 24 giờ và AI trên thiết bị nhanh hơn 25% so với M5. Like/Reactions: 265 points (MacBook Pro) và 300 points (iMac) trên HN; Comments/Replies: 319 comments (MacBook Pro) và 361 comments (iMac) trên HN; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 2 thread HN front page + nhiều hãng tin (Reuters, Pocket-lint, Digital Trends...); Thời điểm ghi nhận: snapshot HN lúc 07:19 VN 28/10/2026 (crawl 00:19 UTC). Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu shares và tăng trưởng 24h có hệ thống).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.pocket-lint.com/apple-unveils-new-m6-powered-14-inch-macbook-pro-and-imac/",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 804,
+    "analysis": "Vì sao đang HOT: hai thread cùng lọt front page HN trong ngày Apple chuẩn bị sự kiện lớn; tranh luận tập trung vào việc Apple có giữ được giá trị khi giá bộ nhớ tăng và liệu M6 có đủ sức cho AI cục bộ. Quan điểm nổi bật: người dùng chuyên nghiệp hoan nghênh pin 24 giờ; người khác cho rằng nâng cấp từ M5 là tăng tiến nhỏ.\nTác động: đặt chuẩn mới cho laptop AI trên thiết bị; sự kiện 'Pro and tell' tối 28/10 giờ Mỹ có thể công bố MacBook Pro màn hình cảm ứng — tâm điểm theo dõi tiếp theo.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "4bf14bdc66b7a2e3c04c30496f1b7b1cffd3d6714e7c830817647a0de0c3bc8e"
+  },
+  {
+    "id": "f47af00cc7012fadc1c8e5c19bc91bb7c981487cbd369306d549f8340831a052",
+    "title": "Socure Agent Intelligence: gắn mỗi AI agent với con người/doanh nghiệp đã xác minh đứng sau nó",
+    "summary": "Ra mắt 27/10/2026. Tính năng: Agent Detection (đã GA trong gói Digital Intelligence) nhận diện agent tiêu dùng không tự khai báo (gồm Muse, Instinct) với độ chính xác 99,99% qua kiểm thử lab; Agent TrustScore (beta) chấm điểm tin cậy dựa trên danh tính, ủy quyền và rủi ro; Agent Credential (GA Q1/2027) cấp chứng chỉ xác minh W3C qua SocurePass, ràng buộc agent với hồ sơ người đã xác minh mà không cần website gọi về máy chủ trung tâm.",
+    "category": "Công nghệ & AI",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://www.businesswire.com/news/home/20261027789869/en/Socure-Launches-Agent-Intelligence-to-Bind-Every-Agent-to-the-Verified-Human-Behind-It",
+    "collectedAt": "2026-10-28T06:49:23.663Z",
+    "sourceRow": 805,
+    "analysis": "Điểm mới: giải quyết bài toán 'Know Your Agent' khi lưu lượng agent tăng hơn 1.700% trong một năm (9/2026) và lần đầu hơn một nửa lưu lượng Internet không phải con người; 85% người tiêu dùng sẵn sàng cộng tác với agent (Accenture 2026). Ứng dụng thực tế: ngân hàng, thương mại điện tử phân biệt agent được khách ủy quyền với agent giả mạo — Morgan Stanley đã chặn agent bên thứ ba, JPMorgan/BofA/Citi hạn chế truy cập.\nHạn chế: sản phẩm doanh nghiệp B2B, giá không công bố; độ chính xác 99,99% là kết quả lab, chưa phải thực tế triển khai; TrustScore còn beta. Link chính thức (thông cáo): businesswire.com.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "2d7f35c37858a5a32fed511d64f61fb0df1c5066f86848cdf693f0b260f1c588"
   }
 ]
