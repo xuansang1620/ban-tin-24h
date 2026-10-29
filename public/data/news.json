@@ -18373,5 +18373,364 @@
     ],
     "language": "vi",
     "contentHash": "1e9a7a0e54ec504ff437f7d09d864d4188e7439308b2180adc66f6af9531def6"
+  },
+  {
+    "id": "1b666e59bc90a2850c7a3068fbe0383b0ad079db222851bc9582f6d3a9609ab0",
+    "title": "Israel kiểm phiếu xong: khối Netanyahu 53 ghế, không bên nào đủ 61 để lập chính phủ",
+    "summary": "Ủy ban Bầu cử Trung ương Israel công bố sau khi đếm xong cả phiếu phong bì đôi: khối của Thủ tướng Benjamin Netanyahu 53 ghế, khối đối lập 48 ghế, các đảng Arab tổng cộng 19 ghế (kỷ lục) trong Quốc hội 120 ghế — cả hai khối đều thiếu 61 ghế cần thiết. Likud vẫn là đảng lớn nhất với 27 ghế, tiếp theo là Yashar của Gadi Eisenkot 21 ghế, B'Yachad 12 ghế; Joint List 11 ghế, Ra'am 8 ghế. Shin Bet điều tra nghi vấn thực thể nước ngoài rót tiền ảnh hưởng cử tri Arab; CEC khẳng định tính toàn vẹn tại điểm bỏ phiếu được duy trì.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.jpost.com/israel-election-2026/article-913237",
+    "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/743938",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 999,
+    "analysis": "Đây là kết quả cuối cùng sau cuộc bầu cử ngày 27/10, khác các mốc kiểm 85%-98% đã đưa ở các số trước (ghế không đổi so với mốc 98,17% nhưng nay là kết quả đếm xong). Cáo buộc 'đánh cắp bầu cử' của Likud và khả năng bầu lại vẫn bỏ ngỏ, chưa xác minh.\nKịch bản liên minh (tái hợp với cực hữu, liên minh rộng hơn, hoặc bế tắc mới) sẽ quyết định chính sách Gaza, Bờ Tây và quan hệ với Mỹ trong những tuần tới; một chính phủ cứng rắn hơn có thể làm gia tăng căng thẳng khu vực.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "55097ea452d520e9d44e67c4022d76e51fb54532f738f0dc034c991b00cdd645"
+  },
+  {
+    "id": "d491820d7fac72908d6ba779e135a4b5a3dfd2c48dc7b6a7a053fb51c848ec03",
+    "title": "Houthi bắn 2 tên lửa đạn đạo về phía Riyadh, phòng không Saudi đánh chặn",
+    "summary": "Liên minh do Saudi dẫn đầu cho biết phòng không đã đánh chặn và phá hủy 2 tên lửa đạn đạo do Houthi bắn về phía Riyadh tối 29/10 (giờ Saudi); phòng vệ dân sự Saudi trước đó phát cảnh báo nguy hiểm cho Riyadh, Najran và Al-Kharj, khoảng 20 phút sau thông báo nguy hiểm đã qua. Đây là vụ mới nhất trong chuỗi tấn công nhiều tuần nhằm vào sân bay, hạ tầng năng lượng và thành phố Saudi; riêng vụ tấn công sân bay King Khalid ngày 10/10 đã làm 13 người chết và hơn 300 người bị thương.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-shoot-down-houthi-missiles-targeting-riyadh-3008889",
+    "imageUrl": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/proxies/ce5512e5-991b-4186-8df4-633c3b32eb3f.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1000,
+    "analysis": "Vụ việc xảy ra trong bối cảnh đàm phán Mỹ–Iran bế tắc và cảnh báo về chiến dịch quân sự sau bầu cử giữa kỳ Mỹ 3/11; Houthi được Iran hậu thuẫn, theo Arab News.\nLeo thang tấn công vào thủ đô Saudi làm tăng rủi ro an ninh năng lượng và hàng không khu vực, đồng thời thu hẹp không gian cho thỏa thuận ngừng bắn 7 ngày mà Qatar đang thúc đẩy.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "0845e21a8ba0b1b815b844012dd563c2e26628b8ae3a7f24193484c4cc43c9e1"
+  },
+  {
+    "id": "574454f79b2bbc8a284683195cffd8d25b7282658c893037c31ea3e43abd920e",
+    "title": "Iran: Hormuz chỉ mở lại khi chấp nhận 7 điều kiện, đàm phán qua trung gian vẫn tiếp diễn",
+    "summary": "Chủ tịch Quốc hội Iran Mohammad Bagher Ghalibaf đăng trên X rằng tiến triển đàm phán phụ thuộc việc chấp nhận 7 điều kiện của Tehran về mở lại eo biển Hormuz, các điều kiện đã được truyền đạt nhiều lần cho trung gian, và cách tiếp cận 'cây gậy và củ cà rốt sẽ không có tác dụng'. Diễn biến này đi cùng tin Tehran bác đề xuất hòa bình qua Qatar là 'không thể chấp nhận' nhưng nói đàm phán với trung gian vẫn tiếp diễn — trái ngược với tín hiệu ngoại giao (Phó Tổng thống Mỹ JD Vance gửi thư cho quan chức an ninh Iran Mohsen Rezaei) được báo trước đó trong ngày.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://gulfnews.com/world/mena/middle-east-war-saudi-intercepts-houthi-missile-as-iran-warns-israel-against-strikes-1.500727751",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1001,
+    "analysis": "Gulf News live ghi nhận phát biểu lúc 22:56 giờ Dubai ngày 29/10 (01:56 giờ VN 30/10); Dawn live ghi cùng phát biểu lúc 22:44 giờ Pakistan (00:44 giờ VN). Nội dung cụ thể của 7 điều kiện chưa được công bố đầy đủ trong nguồn đọc.\nLập trường cứng rắn của Tehran làm giảm khả năng đạt thỏa thuận nhanh trước bầu cử giữa kỳ Mỹ 3/11; giá dầu và chi phí vận tải qua Hormuz tiếp tục nhạy cảm với từng phát biểu của hai bên.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "157bcfc22ff2e122885ababfbc51a86223cc126c00458e32b723d3acc42edd34"
+  },
+  {
+    "id": "677c2831e610c7ca8afa913b90b1b0e14d7ff681cccc1028395f25372948721d",
+    "title": "Phố Wall phiên 29/10 chìm trong sắc đỏ vì Alphabet; Amazon và Intel chưa công bố kết quả lúc 02:15 giờ VN",
+    "summary": "Mở cửa phiên 29/10: Dow -0,74% về 52.086,13; S&P 500 -0,57% về 7.699,61; Nasdaq -1,31% về 26.201,82 (Reuters). Alphabet trượt khoảng 13% trong phiên, trên đà giảm một ngày mạnh nhất lịch sử và mất hơn 500 tỷ USD vốn hóa, sau khi đã giảm khoảng 10% after-hours tối 28/10 vì doanh thu Q3 127,6 tỷ USD (+25%) vẫn hụt kỳ vọng, dòng tiền tự do âm 9,07 tỷ USD trong khi capex cả năm giữ 195-205 tỷ USD. QUAN TRỌNG VỀ MỐC GIỜ: phiên 29/10 đóng cửa 16:00 giờ miền Đông Mỹ = 03:00 giờ VN 30/10, tức SAU thời điểm chốt bản tin này, nên chưa có mức đóng cửa; KQKD Amazon và Intel cũng công bố sau giờ đóng cửa (sau 03:00 giờ VN), chỉ có kỳ vọng: Amazon EPS khoảng 1,96-2,00 USD, doanh thu khoảng 202 tỷ USD; Intel EPS điều chỉnh khoảng 0,39-0,40 USD, doanh thu khoảng 16,4-16,5 tỷ USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.devdiscourse.com/article/international/3999021-us-stocks-nasdaq-slides-over-1-as-alphabet-results-revive-ai-spending-fears?amp",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1002,
+    "analysis": "Mức đóng cửa gần nhất đã xác minh là phiên 28/10: Dow 52.475,10 (+0,19%), S&P 500 7.743,98 (+0,28%), Nasdaq 26.549,85 (+0,27%), sau khi Fed giữ lãi suất 3,75-4,00%. Cảnh báo: các kết quả Amazon 180,2 tỷ USD / Intel 13,7 tỷ USD xuất hiện khi tìm kiếm là Q3/2025, tuyệt đối không dùng cho quý này.\nThị trường bắt đầu soi kỹ thời gian hoàn vốn của các hyperscaler thay vì cho chi tiêu AI tấm vé miễn phí; kết quả Amazon/Intel rạng sáng 30/10 giờ VN (số tiếp theo) sẽ là phép thử tiếp theo cho nhóm công nghệ.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "788951dd280128ab0b556c87e2498cb8621f0f58f27e868220e3773e0c3cadd6"
+  },
+  {
+    "id": "ceb8ebe443da3ba09ff35dd62fa37e817c190a09c256e7ee413bea0ce2c03f6e",
+    "title": "Dầu Brent về 113,73 USD, WTI về 100,69 USD tối 29/10 khi hy vọng đàm phán Mỹ–Iran lấn át lo ngại nguồn cung",
+    "summary": "Theo Reuters qua Dawn live, Brent giảm 1,59 USD (-1,38%) về 113,73 USD/thùng lúc 15:45 GMT = 22:45 giờ VN 29/10; WTI giảm 2,09 USD (-2,03%) về 100,69 USD/thùng, khi hy vọng nối lại đàm phán Mỹ–Iran lấn át lo ngại gián đoạn nguồn cung. Các mức tham chiếu buổi sáng/chiều 29/10 theo giờ châu Á–châu Âu thấp hơn một chút do khác thời điểm đo, không gộp thành một mức đóng cửa duy nhất.",
+    "category": "Năng lượng",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.dawn.com/live/iran-israel-war",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1003,
+    "analysis": "Giá dầu đã ở đỉnh gần 6 tháng quanh 117 USD (Brent) cuối tuần trước sau chuỗi tấn công và tuyên bố về Hormuz; diễn biến hạ nhiệt diễn ra cùng lúc với tín hiệu đàm phán qua trung gian và phát biểu cứng rắn của Chủ tịch Quốc hội Iran.\nDầu hạ nhiệt nhưng vẫn trên 100 USD giúp giảm áp lực lạm phát năng lượng ngắn hạn; rủi ro đảo chiều vẫn cao nếu đàm phán đổ vỡ hoặc xảy ra tấn công mới sau bầu cử Mỹ 3/11.",
+    "tags": [
+      "Năng lượng",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "91df2b2d2004a43c6d109e7a413ed98f027527355a74e473568e31f70b3a93f5"
+  },
+  {
+    "id": "2f9713146a8c6707e2ce7d05bb63983d35088e778de1525e2daa3ecb8fe05989",
+    "title": "Hòa Phát quý 3/2026 lãi sau thuế 8.265 tỷ đồng, tăng 106%",
+    "summary": "Quý 3/2026, Hòa Phát (HPG) đạt doanh thu 62.669 tỷ đồng, tăng 70% so với cùng kỳ; lợi nhuận sau thuế 8.265 tỷ đồng, tăng 106%. Lũy kế 9 tháng doanh thu 171.539 tỷ đồng và lợi nhuận sau thuế 23.746 tỷ đồng, tăng lần lượt 54% và 104%, tức đã vượt 8% mục tiêu lợi nhuận cả năm 22.000 tỷ đồng. Quý 3 sản xuất 3,7 triệu tấn thép thô, bán hàng 3,8 triệu tấn, trong đó HRC trên 2 triệu tấn.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://mekongasean.vn/hoa-phat-cong-bo-loi-nhuan-quy-32026-61227.html",
+    "imageUrl": "https://mekongasean.vn/stores/news_dataimages/2026/102026/29/11/hoa-phat-cong-bo-loi-nhuan-quy-32026-20261029114053.jpg?rt=20261029114055",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1004,
+    "analysis": "Kết quả công bố ngày 29/10/2026; HPG cũng là cổ phiếu ngược dòng trong phiên 29/10 (+2,17%) khi VN-Index giảm về 1.755,61 điểm (tin phiên đã đưa số 18:15, chỉ nhắc ngữ cảnh).\nNgành thép hưởng lợi từ nhu cầu xây dựng và đầu tư công; rủi ro là giá nguyên liệu và áp lực phòng vệ thương mại tại các thị trường xuất khẩu.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "2e6cf030b469f81097d79a0305dc86666e67eb5abe8f37973104597806a5e5f7"
+  },
+  {
+    "id": "cf7caaa4c1f7031079fbc3ad2694a936e2a9f98fbfb8fc14e3123cf7d7becb58",
+    "title": "Vincom Retail 9 tháng lãi sau thuế 4.737 tỷ đồng, tăng 25,1%",
+    "summary": "Quý 3/2026, Vincom Retail (VRE) đạt doanh thu thuần 2.374 tỷ đồng, tăng 5,5%, lợi nhuận sau thuế 1.522 tỷ đồng, tăng 10,6% (25,6% nếu loại thu nhập bất thường quý 3/2025); lũy kế 9 tháng doanh thu 7.041 tỷ đồng (+7,9%) và lợi nhuận 4.737 tỷ đồng, hoàn thành 72% kế hoạch doanh thu và 88% kế hoạch lợi nhuận năm.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.vietnam.vn/vincom-retail-dat-loi-nhuan-hon-4-730-ti-dong-trong-9-thang-dau-nam",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1005,
+    "analysis": "Kết quả công bố ngày 29/10/2026 (24hMoney ghi 13:15 giờ VN); VRE ngược chiều với nhóm bất động sản bị bán trong phiên 29/10 (VHM -2,20% theo bản tổng hợp phiên).\nTiêu dùng và cho thuê mặt bằng bán lẻ phục hồi giúp VRE gần hoàn thành kế hoạch lợi nhuận năm trước quý 4; rủi ro là sức mua dịp cuối năm và chi phí vận hành trung tâm thương mại mới.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "ac858be2ff256b68eaa097b36d90cbbfdb6f9127dcc67ba872a06fe552f4c932"
+  },
+  {
+    "id": "357247bc8ed45ff49e01c1301f5bfae2a846174bca8541f8acbc10cf706c4730",
+    "title": "Đấu giá trực tuyến 4 lô đất Thủ Thiêm ngày 27/11, tổng khởi điểm hơn 16.600 tỷ đồng",
+    "summary": "Trung tâm Dịch vụ đấu giá tài sản TP.HCM ra quy chế đấu giá 4 lô phường An Khánh, Khu đô thị mới Thủ Thiêm, trên hệ thống đấu giá trực tuyến của Bộ Công an theo phương thức trả giá lên. Lô lớn nhất 1.K3.5.HH (cũ 3-12) hơn 10.059 m², khởi điểm trên 10.198 tỷ đồng, đặt trước hơn 2.039 tỷ đồng; 3 lô còn lại 2.632 tỷ, 2.091 tỷ và 1.744 tỷ đồng, đặt trước 20%. Nộp hồ sơ đến 17h ngày 11/11, nộp tiền đặt trước đến 17h ngày 25/11.",
+    "category": "Bất động sản",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://vnexpress.net/dau-gia-truc-tuyen-bon-lo-dat-thu-thiem-ngay-27-11-5138385.html",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1006,
+    "analysis": "Đây là 4 lô từng trúng tổng 37.346 tỷ đồng cuối 2021 rồi bị bỏ cọc; lần đấu giá này được tổ chức trực tuyến thay vì đấu giá trực tiếp như trước.\nNếu đấu giá thành công, TP.HCM thu ngân sách lớn và tạo mặt bằng giá tham chiếu mới cho Thủ Thiêm; rủi ro là giá khởi điểm cao và tiền đặt trước lớn có thể hạn chế số nhà đầu tư tham gia.",
+    "tags": [
+      "Bất động sản",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "5cce1dcd77bc61eb9132ae62713c2fc54962f3b381a4d16d5d1b9d48bdcb2a7d"
+  },
+  {
+    "id": "4861f5fa399da5dde68e55a90e8d12f703096b4179a02c6034c475c70aa70c57",
+    "title": "Iran nói 3 tàu chở dầu trúng mìn ở Hormuz — CHƯA XÁC MINH độc lập",
+    "summary": "Truyền thông nhà nước Iran dẫn Lực lượng Vệ binh Cách mạng nói 3 tàu chở dầu đã trúng mìn và bốc cháy trong 24 giờ qua khi cố rời Hormuz qua tuyến đường 'không được phép', tàu bị bỏ lại ở phía nam eo biển; bản tin không nêu tên tàu hay thương vong. AP nói rõ chưa thể xác minh độc lập; quân đội Mỹ bác bỏ tuyên bố Iran bắt giữ một drone Mỹ gần Hormuz; Trung tâm UKMTO của Anh chỉ xác nhận một tàu khác được nhìn thấy bốc cháy khi qua eo biển, chưa rõ có phải một trong 3 tàu trên hay không và chưa rõ tình trạng thủy thủ đoàn.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.bastillepost.com/global/article/6304220-iran-says-3-oil-tankers-struck-mines-and-other-mideast-news",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1007,
+    "analysis": "Tin này khác vụ tàu cháy gần Khasab (UKMTO) đã đưa số 22:15 — chưa xác minh được hai vụ có trùng nhau hay không, nên ghi riêng với caveat đầy đủ, không gộp số liệu.\nNếu xác minh đúng, rủi ro gián đoạn vận tải qua Hormuz và phí bảo hiểm tàu dầu tăng vọt; nếu là tuyên bố chiến tranh thông tin, thị trường vẫn phản ứng ngắn hạn với từng tin chưa kiểm chứng.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "a508b6d21a2c4ee39cc4e2f6ab97b52327e0d6d19a784bedbec9fcdf06434a3f"
+  },
+  {
+    "id": "0eb57336fb0df0106f5b4c213724b4c945703f9ce54c6485943f613610cab4bd",
+    "title": "Đà Nẵng: khởi tố thêm 3 bị can trong đường dây rửa tiền khoảng 700 tỷ đồng cho nhóm lừa đảo ở Campuchia",
+    "summary": "Ngày 29/10, Cơ quan An ninh điều tra Công an Đà Nẵng tạm giam Nguyễn Hùng Đạt (29 tuổi) và cấm đi khỏi nơi cư trú với Chu Đức Ánh (51 tuổi), Vũ Thị Thanh (48 tuổi) về tội 'Rửa tiền', là đồng phạm của nhóm đã bị khởi tố từ cuối tháng 7. Tiền lừa đảo được chia nhỏ qua nhiều tài khoản, mua USDT trên Binance, OKX rồi chuyển vào ví do nhóm người Trung Quốc quản lý; tổng số tiền hợp thức hóa ước khoảng 700 tỷ đồng.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vnexpress.net/da-nang-pha-duong-day-rua-tien-700-ty-dong-cho-nhom-lua-dao-o-campuchia-5138354.html",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1008,
+    "analysis": "Đối chiếu: Tiền Phong và Công an TP Đà Nẵng cùng ngày đưa tin tương tự; nhóm lừa đảo đặt tại Campuchia, nạn nhân ở nhiều địa phương.\nVụ án cho thấy kênh tiền mã hóa tiếp tục bị lợi dụng để rửa tiền lừa đảo xuyên biên giới; các sàn và ngân hàng cần tăng cường nhận diện giao dịch chia nhỏ bất thường.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "e36f1ffe1dd69d2941ec47673a7fe7cccd37c0bad35cd9c7cd125bf88d24d04b"
+  },
+  {
+    "id": "f024eca4475fe12ad4027082bff9f50b910891dd9f0ee32dba123cf1d31c73d7",
+    "title": "Kết luận điều tra vụ bé trai người Nhật tử vong ở resort Centara Mirage Mũi Né: đề nghị truy tố giám đốc Công ty Quốc Khang",
+    "summary": "Cơ quan CSĐT Công an Lâm Đồng hoàn tất kết luận điều tra, chuyển hồ sơ sang VKSND đề nghị truy tố Nguyễn Quốc Quân (65 tuổi, Giám đốc Công ty Quốc Khang) về tội 'Vi phạm quy định về xây dựng gây hậu quả nghiêm trọng'. Kết luận cho rằng thiết kế cửa hút/xả hồ bơi không đáp ứng yêu cầu chống kẹt hút, là nguyên nhân trực tiếp khiến bé Hanawa Yukiji (11 tuổi, quốc tịch Nhật) bị hút chặt vào miệng hút và tử vong do ngạt nước sáng 5/4/2022; các cá nhân thuộc chủ đầu tư, ban quản lý dự án, tư vấn giám sát và nhà thầu chính chưa đủ căn cứ truy cứu trách nhiệm hình sự.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://vnexpress.net/sai-pham-cua-giam-doc-trong-vu-be-trai-nguoi-nhat-tu-vong-o-resort-5-sao-5138324.html",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1009,
+    "analysis": "Diễn biến mới ngày 29/10 là kết luận điều tra, không phải khởi tố mới — ông Quân đã bị khởi tố từ 1/7/2026; VnExpress đăng 15:13, cập nhật 16:43 ngày 29/10.\nVụ án đặt ra chuẩn an toàn hồ bơi cho resort và khu vui chơi: thiết kế chống kẹt hút, kiểm định và vận hành phải được siết trước khi đưa vào sử dụng.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "05057f20bbd3238fab9fdfd8155e2364080428a2a6e17c075d864b82d09031e5"
+  },
+  {
+    "id": "071efc4780a38aa9204e2cf1ec954b9d79398305638f7ae377d6a6d70f5c1e4f",
+    "title": "Từ 22h ngày 29/10, Hà Nội thông xe toàn bộ nút giao phía Bắc cầu Thăng Long",
+    "summary": "Sở Xây dựng Hà Nội tháo rào chắn và thông xe tại nút giao phía Bắc đầu cầu Thăng Long từ 22h ngày 29/10 sau khi xong hạng mục đường bê tông xi măng thuộc dự án lắp đặt thiết bị cân kiểm soát tải trọng xe; việc này sớm 12 ngày so với phương án phân luồng ban đầu. Xe tải từ 2 tấn trở lên, xe khách từ 16 chỗ trở lên, xe tuyến cố định và xe buýt được lưu thông qua cầu như trước thời điểm phân luồng ngày 15/9; riêng lắp đặt thiết bị cân vẫn rào cục bộ 1/3 làn hướng Nội Bài về Cầu Giấy, thi công 2 ngày/1 làn.",
+    "category": "Giao thông",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://phapluatmedia.vn/tu-toi-2910-ha-noi-thong-xe-toan-bo-cau-thang-long-39399.html",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1010,
+    "analysis": "Sự kiện có hiệu lực đúng trong cửa sổ bản tin (22h ngày 29/10); bài đăng gốc 09:51 ngày 29/10 thông báo trước giờ thông xe.\nGiảm ùn tắc cửa ngõ phía Bắc Hà Nội trong giờ cao điểm sáng 30/10; tài xế vẫn cần chú ý đoạn rào cục bộ 1/3 làn hướng Nội Bài về Cầu Giấy.",
+    "tags": [
+      "Giao thông",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "119634b02915f6513eb8022bd60d25d9a3739174cacca48c6f9454610b8a8e1d"
+  },
+  {
+    "id": "265dedc98e3e10d47ed397c60157e668aec30f9b495bc1dc075f9271cd441eb6",
+    "title": "Đêm 29/10 đến sáng 30/10: Bắc Bộ và Trung Bộ cục bộ mưa to, sông ở Huế quanh báo động 1",
+    "summary": "Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia (TTXVN đăng 17:30 ngày 29/10), chiều tối và đêm 29/10, từ Thanh Hóa đến Đà Nẵng, phía Đông Quảng Ngãi, Nam Bộ và Lâm Đồng có mưa rào và dông rải rác 10-30mm, cục bộ trên 80mm; từ đêm 29/10 đến sáng 30/10, đồng bằng và ven biển Bắc Bộ, phía Nam Phú Thọ mưa 10-30mm, cục bộ trên 60mm, kèm lốc, sét, mưa đá, gió giật mạnh. Đỉnh lũ các sông ở Huế đến 30/10 dao động trên dưới báo động 1; lúc 13h ngày 29/10 sông Hương tại Kim Long 1m (báo động 1), sông Bồ tại Phú Ốc 1,46m (dưới báo động 1 là 0,04m). Đêm 29/10, phía Đông Bắc Biển Đông gió cấp 5, có lúc cấp 6, giật cấp 7, sóng 2-4m.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baotintuc.vn/tu-dem-2910-den-sang-3010-bac-bo-va-trung-bo-cuc-bo-mua-to-post1398411.html",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1011,
+    "analysis": "Góc mới so với bản tin thời tiết ngày 30/10 của VOV đã đưa số 22:15: bản TTXVN này nhấn mạnh mực nước sông Huế và diễn biến đêm 29/10 sang sáng 30/10, không lặp lại dự báo chung.\nNgười dân Bắc Bộ và Trung Bộ cần đề phòng ngập úng vùng trũng thấp, lũ quét trên sông suối nhỏ và sạt lở đất trên sườn dốc khi mưa lớn cục bộ; đi lại trong mưa dông cần cảnh giác lốc, sét và gió giật mạnh.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "f6dbdb3dcbe99806db0499fedd2ae56a592eeb4f0dd3839a53f3b043f5d7870a"
+  },
+  {
+    "id": "f8028b98dd2317c497f26a9484d47a9a2da28aceed342635dc3bdd1a024af320",
+    "title": "Mỹ từng điều tra nghi vấn gián điệp Trung Quốc nhắm vào CEO Nvidia Jensen Huang",
+    "summary": "Theo New York Times được TechCrunch dẫn lại, giới tình báo Mỹ đã theo dõi khoảng một năm Alice Huang (Huang Le), lãnh đạo cấp cao của hãng cloud AI Singapore Megaspeed, vì lo ngại bà quá thân cận với Jensen Huang và có thể thu thập thông tin về kế hoạch của Nvidia cũng như nỗ lực vận động chính quyền Trump cho phép bán chip tiên tiến hơn sang Trung Quốc. Nvidia phủ nhận: quan hệ của CEO với bà Huang 'không có gì bất thường', khách hàng cloud khu vực chỉ nhận thông tin kinh doanh thông thường, 'không có bí mật thương mại nhạy cảm, không có thông tin liên quan an ninh quốc gia'.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1012,
+    "analysis": "Bối cảnh: năm 2025, Bộ Thương mại Mỹ từng điều tra Megaspeed vì nghi giúp công ty Trung Quốc lách lệnh cấm xuất khẩu chip AI bằng cách bán lại chip bị hạn chế. Bài TechCrunch đăng 9:42 PDT 29/10 = 23:42 giờ VN 29/10, trong cửa sổ.\nVụ việc làm nóng lại tranh luận về kiểm soát xuất khẩu chip AI và rủi ro rò rỉ qua các hãng cloud trung gian ở Singapore; Nvidia và các hãng chip phải cân bằng giữa thị trường Trung Quốc và tuân thủ lệnh cấm.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "8d7e627a060cd05433f2c193615eea94ceb1c8fffd463173f75212c7f77120db"
+  },
+  {
+    "id": "f483b53a7bf737103b632daf2a4a08cb0922603517976e8f6688ada3f8cb4a7c",
+    "title": "The Elder Scrolls VI sẽ có tên 'Sentinel', có thể công bố ngay tháng 11/2026 — tin theo nguồn tin, chưa xác nhận",
+    "summary": "Theo nguồn tin của The Verge (Tom Warren) được nhiều báo dẫn lại, Bethesda sẽ đặt tên chính thức là The Elder Scrolls VI: Sentinel, trùng với thành phố/quốc gia Redguard ở vùng Hammerfell — bối cảnh được cho là của game. Cốt truyện được cho là lần đầu đào sâu lịch sử của chính các Elder Scrolls. Thời điểm công bố được đồn là ngay tháng 11/2026, trùng dịp kỷ niệm 15 năm Skyrim (11/11).",
+    "category": "Game & Giải trí",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://wccftech.com/xbox-asha-sharma-elder-scrolls-vi-eight-letters-bethesda-sentinel-the-verge/",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1013,
+    "analysis": "Lưu ý: đây vẫn là tin theo nguồn tin, Bethesda chưa xác nhận chính thức; game chưa có khung thời gian phát hành, chưa rõ có độc quyền Xbox hay không. Wccftech đăng 16:30 UTC 29/10 = 23:30 giờ VN 29/10; Neowin cùng ngày 13:46 EDT = 00:46 giờ VN 30/10.\nNếu đúng, đây là cú hích lớn cho Xbox và cộng đồng RPG sau nhiều năm chờ đợi kể từ teaser 2018; rủi ro là kỳ vọng bị thổi phồng trước khi có gameplay thực tế.",
+    "tags": [
+      "Game & Giải trí",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "d3f852fe0c67039bb58d2706da2563b9dae1350942c991d4f705040028a2cbc0"
+  },
+  {
+    "id": "6e4b9e405d3d1b7d5cf33f7b74ee13a173af083194f9f8d4df0c94ae8791b744",
+    "title": "Google Search lần đầu chiếm dưới một nửa doanh thu Alphabet — Điểm HOT: Chưa đủ dữ liệu",
+    "summary": "Lần đầu tiên Google Search chiếm dưới một nửa doanh thu Alphabet. Quý tới tháng 9/2026: Search 63,4 tỷ USD trên tổng 128 tỷ USD, tức 49,7% (giảm 5,6 điểm % so với cùng kỳ, nhưng doanh thu Search vẫn tăng 12%); Google Cloud 30,7 tỷ USD, tăng 103%; phần còn lại 64,2 tỷ USD, tăng 40%. Trong 31 quý trước, Search chiếm 52,8-62,0%. Like/Reactions: 318 points (Hacker News); Comments/Replies: 270; Shares/Reposts: N/A (HN không công bố); Số bài đăng/cộng đồng độc lập: 1 thread ghi nhận; Thời điểm ghi nhận: khoảng 02:17 giờ VN 30/10; bài HN đăng 23:42 giờ VN 29/10. Điểm HOT: Chưa đủ dữ liệu (thiếu shares và tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.kadoa.com/companies/insights/google-search-below-half",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1014,
+    "analysis": "Vì sao đang HOT: cột mốc cho thấy Alphabet không còn là 'công ty tìm kiếm' thuần túy — cloud và mảng khác tăng nhanh hơn search, đúng lúc Alphabet bị phạt vì chi tiêu AI. Các quan điểm nổi bật: search vẫn tăng trưởng nhưng mất vị thế tương đối; cloud là động lực mới.\nTín hiệu cấu trúc cho ngành quảng cáo số và AI: tìm kiếm truyền thống bị AI Overviews và chatbot chia sẻ lưu lượng, trong khi doanh thu chuyển dần sang cloud và đăng ký.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "a2d35cba8992b7459a1f65f3b25518c9b21fde767be1c9c1547db5cb24f44fe0"
+  },
+  {
+    "id": "799ee42ae51e9f7c36bd9d71d7eb0ae01a850883770503c38f57775cfc3136d7",
+    "title": "Trải nghiệm xe điện Trung Quốc tại Mexico mà người Mỹ không mua được — Điểm HOT: Chưa đủ dữ liệu",
+    "summary": "Phóng sự Washington Post (27/10) trải nghiệm xe điện Trung Quốc tại Mexico — những mẫu xe người Mỹ không mua được — phản ánh khoảng cách về xe điện giá rẻ, công nghệ và chính sách thương mại giữa Mỹ với thị trường Mexico/Trung Quốc. Like/Reactions: 207 points (Hacker News); Comments/Replies: 212; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 thread ghi nhận; Thời điểm ghi nhận: khoảng 02:17 giờ VN 30/10; bài HN đăng 22:30 giờ VN 29/10. Điểm HOT: Chưa đủ dữ liệu (thiếu shares và tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1015,
+    "analysis": "Vì sao đang HOT: tranh luận về thuế quan và rào cản khiến người tiêu dùng Mỹ không tiếp cận được xe điện giá rẻ, trong khi Mexico trở thành sân khấu trải nghiệm thực tế. Các quan điểm nổi bật: bảo hộ giúp ngành xe Mỹ nhưng làm chậm phổ cập xe điện; ngược lại, mở cửa có thể đe dọa việc làm trong nước.\nTác động: chính sách thuế quan xe điện sẽ tiếp tục là điểm nóng thương mại Mỹ–Trung–Mexico; người tiêu dùng và hãng xe theo dõi sát các đợt điều chỉnh thuế quan.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "1b700829caab0d9fdb01320ddde604d59827014af522a78ea3f506c60fd4f4de"
+  },
+  {
+    "id": "77d98da6f6ef52ed1c2306c2376ca84e61ae590d8f8f56927ed362a640cf1c21",
+    "title": "Bài kinh điển 'H.264 Is Magic' (2016) được đào lại — Điểm HOT: Chưa đủ dữ liệu",
+    "summary": "Bài giải thích kỹ thuật kinh điển vì sao nén video H.264 hiệu quả — chủ đề được cộng đồng kỹ thuật thảo luận lại về codec, nén video và lịch sử chuẩn video. Like/Reactions: 168 points (Hacker News); Comments/Replies: 91; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 thread ghi nhận; Thời điểm ghi nhận: khoảng 02:17 giờ VN 30/10; bài HN đăng 22:53 giờ VN 29/10. Điểm HOT: Chưa đủ dữ liệu (thiếu shares và tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://sidbala.com/h-264-is-magic/",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1016,
+    "analysis": "Vì sao đang HOT: cộng đồng kỹ thuật định kỳ đào lại các bài giải thích xuất sắc khi chuẩn nén mới (AV1, H.266) được nhắc tới; H.264 vẫn là chuẩn phổ biến nhất dù đã 20 năm.\nTác động: nhắc lại rằng chuẩn tốt và hệ sinh thái quan trọng không kém thuật toán mới; hữu ích cho dev video, streaming và xử lý media.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "40c2a5a43796f10f4e9fbd7fc19384286592ab79fe73fea412cceecd6668fe53"
+  },
+  {
+    "id": "d8bb5786dffe21d398953eaf26c4db804a46444439d8d7b558c9127d413062b0",
+    "title": "Nhà nghiên cứu word2vec Tomáš Mikolov được trao Huân chương Công trạng của Tổng thống Czech — Điểm HOT: Chưa đủ dữ liệu",
+    "summary": "Nhà nghiên cứu Tomáš Mikolov (tác giả word2vec, nhân vật quan trọng trong lịch sử NLP/embedding) được Tổng thống Czech trao Huân chương Công trạng. Like/Reactions: 102 points (Hacker News); Comments/Replies: 9 (thấp dù points vượt 100); Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 thread ghi nhận; Thời điểm ghi nhận: khoảng 02:17 giờ VN 30/10; bài HN đăng 23:56 giờ VN 29/10. Điểm HOT: Chưa đủ dữ liệu (thiếu shares và tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1017,
+    "analysis": "Vì sao đang HOT: vinh danh một trong những công trình nền tảng của AI hiện đại — word2vec mở đường cho embedding và mô hình ngôn ngữ ngày nay. Các quan điểm nổi bật: ghi nhận muộn nhưng xứng đáng cho nghiên cứu mở.\nTác động: nhắc lại vai trò của nghiên cứu cơ bản châu Âu trong kỷ nguyên LLM; sinh viên và nhà nghiên cứu NLP có thêm mốc tham chiếu lịch sử.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "1b332242330068687ffd31e4c39f7c916bc40fe9b44aec6f240c1624f2bbd417"
+  },
+  {
+    "id": "8b116f7311dd4a94e1ecca33f1a92efad4c873fe68a29a4383401f4e7a4a439d",
+    "title": "Granola Dictation — đọc chính tả miễn phí, không giới hạn số từ trên Mac",
+    "summary": "Granola, vốn nổi tiếng với ghi chú họp, nay cho phép bấm phím 'Fn' để đọc và công cụ tự làm sạch, định dạng rồi chèn văn bản vào mọi ứng dụng — ghi chú, prompt, email, tin nhắn. Tính năng hiện chỉ có trên Mac, iOS và Windows sẽ ra mắt sau. Điểm mới: Granola từ app ghi chú họp mở rộng sang đọc chính tả, đối đầu trực diện Wispr (định giá 2 tỷ USD, so với Granola 1,5 tỷ USD); ngược lại Wispr trước đó đã thêm ghi chú họp. Ứng dụng thực tế: soạn thảo nhanh, nhập liệu rảnh tay, hỗ trợ người hay họp và viết nhiều.",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Granola.jpg?w=1024",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-29T21:46:08.562Z",
+    "sourceRow": 1018,
+    "analysis": "Hạn chế: hiện chỉ Mac; iOS và Windows 'sắp ra mắt' (chưa có ngày cụ thể trong bài); bài TechCrunch không nêu chi tiết về xử lý ngôn ngữ tiếng Việt hay chính sách dữ liệu của tính năng dictation. Giá: theo thông báo của hãng, dictation 'không giới hạn số từ, miễn phí'; giá các gói Granola nói chung không nằm trong bài nên không chốt thêm. Link chính thức: granola.ai (được dẫn trong bài TechCrunch). Bài TechCrunch đăng 10:54 PDT 29/10 = 00:54 giờ VN 30/10, trong cửa sổ.\nNgười dùng Mac hay họp và viết nhiều có thể thử ngay để soạn thảo rảnh tay; cần kiểm tra chính sách dữ liệu giọng nói trước khi dùng cho nội dung nhạy cảm.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "ff72e99837985872d597071e523b7f57a715857ff2676a7ad19a05ca8f958f69"
   }
 ]
