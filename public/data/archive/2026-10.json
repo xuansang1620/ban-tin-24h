@@ -18732,5 +18732,782 @@
     ],
     "language": "vi",
     "contentHash": "ff72e99837985872d597071e523b7f57a715857ff2676a7ad19a05ca8f958f69"
+  },
+  {
+    "id": "1c1b8668b4f08d56196cc447afbd8f8e09c4173d32c9ac8a469fb6e7030285b0",
+    "title": "Phố Wall phiên 29/10 đảo chiều giảm: Nasdaq -1,38%, Alphabet giảm mạnh nhất lịch sử",
+    "summary": "Dow Jones -0,25% về 52.342,56; S&P 500 -0,30% về 7.720,39 (chấm dứt chuỗi 3 phiên tăng); Nasdaq Composite -1,38% về 26.184,72; chỉ số bán dẫn Philadelphia -1,42% về 11.518,20. Alphabet (GOOGL) -12,64% — mức giảm trong ngày lớn nhất lịch sử công ty, sau lần đầu lỡ cả doanh thu lẫn lợi nhuận kể từ quý IV/2022 và dòng tiền tự do âm 9,07 tỷ USD. Ngược lại, phần lớn cổ phiếu còn lại vẫn tăng: y tế +2,40%, bất động sản +2,21%, hàng tiêu dùng thiết yếu +1,54%; công nghệ -1,18%, dịch vụ truyền thông -1,87%. Lợi suất trái phiếu 10 năm Mỹ giảm về 4,98%, trở lại dưới 5%.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://cappnotes.substack.com/p/closing-look-thursday-october-29",
+    "imageUrl": "https://substackcdn.com/image/fetch/$s_!te8F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6abca192-0c50-4ca5-a047-ea5407b01a1c_1280x720.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1019,
+    "analysis": "Alphabet công bố tối 28/10 giờ Mỹ: doanh thu 127,6 tỷ USD (+25%), Google Cloud tăng gấp đôi lên 30,7 tỷ USD, nhưng EPS 2,12 USD so với kỳ vọng ~3,02 USD, capex quý 51,4 tỷ USD, cộng khoản lỗ chưa thực hiện ~8,2 tỷ USD từ khoản đầu tư SpaceX và 5,2 tỷ USD tiền phạt chống độc quyền của EU. Đà giảm tập trung ở công nghệ và dịch vụ truyền thông, trong khi dòng tiền luân chuyển sang các ngành phòng thủ.\nThị trường đang trừng phạt chi tiêu AI vượt quá dòng tiền, không còn thưởng tăng trưởng bằng mọi giá — tín hiệu trực tiếp cho phiên giao dịch tối 30/10 giờ VN và cổ phiếu công nghệ châu Á sáng nay. Caveat: một blog khác đưa số đóng cửa khác (S&P 7.706,63; Nasdaq -1,57%); bản tin dùng bộ số CappNotes vì đã mở trang gốc đối chiếu.",
+    "importance": 1,
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "f0a5e0f6af65b28424e54c022403a839d6ed5bc0247bf46ab55a6996b2b375df"
+  },
+  {
+    "id": "2cacbc95ab566cfefff404aa834e3d1fededcfc4135e9c840d1ff6e4148bb130",
+    "title": "Amazon và Intel cùng bán tháo sau giờ giao dịch: AWS tăng 39% vẫn không cứu được cổ phiếu",
+    "summary": "Amazon Q3/2026 (công bố sau giờ đóng cửa Mỹ 29/10, rạng sáng 30/10 giờ VN): doanh thu 201,94 tỷ USD (+12%, hơi lỡ kỳ vọng ~202,2 tỷ); AWS 46,0 tỷ USD (+39,3%, nhanh nhất gần 5 năm); lợi nhuận hoạt động 28,1 tỷ USD, biên 13,9% kỷ lục; EPS 1,89 USD so với kỳ vọng ~1,97 USD; dòng tiền tự do 12 tháng âm 42,4 tỷ USD (cùng kỳ dương 14,8 tỷ); hướng dẫn doanh thu Q4 240–247 tỷ USD, điểm giữa thấp hơn kỳ vọng. Cổ phiếu chạm đáy -12,4% sau giờ rồi hồi về -6,4% lúc 03:50 giờ VN. Intel Q3: doanh thu ~16,5 tỷ USD (+21%), EPS điều chỉnh 0,52 USD vượt kỳ vọng ~0,40 USD, mảng trung tâm dữ liệu và AI +78% lên 7,3 tỷ USD; nhưng hướng dẫn Q4 chỉ 15–16 tỷ USD (kỳ vọng ~17,07 tỷ) và EPS điều chỉnh 0,25 USD (kỳ vọng ~0,43 USD), cổ phiếu đáy -22,7% sau giờ, hồi về -16,6%.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://investinglive.com/stocks/earnings-bloodbath-intel-crashes-over-22-amazon-over-12-what-s-coming-next/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1020,
+    "analysis": "Đây là kết quả Q3/2026, không phải 2025 — đã đối chiếu nhiều nguồn độc lập. So sánh lợi nhuận Amazon cùng kỳ bị méo do khoản lãi giấy 9,5 tỷ USD từ Anthropic năm 2025. Intel cho biết PC suy yếu kéo dài ít nhất tới nửa đầu 2027 và sự cố tháng 10 tại nhà máy Kiryat Gat (Israel) làm giảm ~300 triệu USD doanh thu Q4. Cổ phiếu Intel đã tăng rất mạnh trong năm 2026 nên kỳ vọng đặt cao.\nCủng cố luận điểm 'thị trường đòi lợi nhuận trên chi tiêu AI, không chỉ tăng trưởng'; gây áp lực lên hợp đồng tương lai Nasdaq và nhóm cổ phiếu AI/chip châu Á phiên 30/10. Giao dịch sau giờ thanh khoản mỏng, chưa phải giá đóng cửa.",
+    "importance": 1,
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "f7d59cdde82b494bc057eb668df5d8840c1b4f48233c32f923251d73449bd3a5"
+  },
+  {
+    "id": "8ebd68a7229d254a33fd89b8df421100655ecd8ce7ab3326d2a901eb43c760b5",
+    "title": "Rạng sáng 30/10: tiếng nổ gần eo biển Hormuz, đảo Qeshm; IRGC nói 4 tàu dầu trúng thủy lôi — đều chưa xác minh độc lập",
+    "summary": "Hãng Fars (qua Times Now liveblog cập nhật 01:39 IST = 03:09 giờ VN 30/10) cho biết người dân đảo Qeshm nghe tiếng nổ lớn, thấy chớp sáng từ hướng biển gần Sirik và Qeshm; điều tra sơ bộ cho rằng một phần tiếng động có thể là phát súng cảnh cáo nhằm vào tàu bị cáo buộc vi phạm quy định tại eo biển. Chưa có số liệu thương vong hay thiệt hại; nguyên nhân chưa xác nhận độc lập. Trước đó ngày 29/10, IRGC tuyên bố 3 tàu dầu trúng thủy lôi và bốc cháy khi đi qua tuyến phía Nam mà Iran coi là không được phép, sau đó quân đội Iran báo thêm 1 tàu cháy phía Đông eo biển — tổng cộng 4 tàu theo tiêu đề của The Hindu. CENTCOM (Mỹ) một ngày trước đó khẳng định mọi tuyến hàng hải chính đã được rà phá thủy lôi và gọi tuyên bố của Iran là sai sự thật. UKMTO cùng ngày 29/10 cũng báo một tàu bốc cháy gần Khasab (Oman) nhưng chưa rõ nguyên nhân.",
+    "category": "Chính trị & Xã hội",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.timesnownews.com/world/middle-east/israel-elections-2026-live-netanyahu-opposition-leaders-battle-for-knesset-majority-seat-tally-and-exit-polls-latest-news-updates-liveblog-156427145",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1021,
+    "analysis": "Iran phong tỏa Hormuz sau cuộc tấn công của Mỹ và Israel cuối tháng 2/2026; Mỹ đáp trả bằng phong tỏa hải quân các cảng Iran. Ngoại trưởng Iran Abbas Araghchi ngày 28/10 nói Tehran đang liên hệ chặt chẽ với các nước trung gian về kế hoạch 7 ngày mở lại Hormuz. Tehran yêu cầu ngừng bắn, dỡ phong tỏa, dỡ trừng phạt dầu mỏ và giải phóng tài sản bị đóng băng.\nTranh cãi trực tiếp về an toàn hàng hải làm tăng phí bảo hiểm, rủi ro cho chủ tàu và áp lực lên giá dầu; đồng thời là phép thử cho cửa sổ ngoại giao trước bầu cử giữa kỳ Mỹ ngày 3/11. Tuyệt đối không coi tuyên bố một phía là sự kiện đã xác minh.",
+    "importance": 1,
+    "tags": [
+      "Chính trị & Xã hội",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "3c7fe3f40f5238be8b16c1edb2f9c6a96141b9c30e7b8b1d70538f8313ed2f30"
+  },
+  {
+    "id": "2ab8e10f2ded9a95309be0625c602b9d67acb163e8a144164f940afe15cc0ce6",
+    "title": "Drone Nga đánh trúng ga tàu đông người ở Dnipro: ít nhất 14 người chết",
+    "summary": "Chiều 29/10, một drone Nga đánh trúng sân ga đông người tại Dnipro (miền Đông Ukraine), nơi một tàu đi lại và một tàu khách đang đỗ. Ít nhất 14 người chết, 14 người bị thương, trong đó 6 người nguy kịch với nhiều vết thương do mảnh văng; một bé trai 11 tuổi bị thương, một người đàn ông bị cụt cả hai chân. Cùng ngày 29/10, ít nhất 20 người chết và hơn 70 người bị thương trong các vụ tấn công trên toàn Ukraine; riêng Chernihiv có 2 bé gái 15 tuổi thiệt mạng, Kremenchuk có 3 người chết. Tổng thống Zelenskyy gọi đây là vụ tấn công 'kinh hoàng' và kêu gọi đồng minh hành động.",
+    "category": "Quốc tế & Xung đột",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.channelnewsasia.com/world/horrific-russian-drone-strike-kills-14-ukraine-train-station-kyiv-6503511",
+    "imageUrl": "https://dam.mediacorp.sg/image/upload/s--1gGnBlyw--/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-29T212239Z_3_LYNXNPEM9S1CI_RTROPTP_3_UKRAINE-CRISIS-ATTACK-DNIPRO-TRAIN.JPG?itok=eTQVQI_I",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1022,
+    "analysis": "Vụ việc xảy ra khi lệnh ngừng bắn cục bộ tại Oleshky (do Nga kiểm soát từ 2022) bước sang ngày thứ 3, với việc rà phá bom mìn và đoàn xe cứu trợ dự kiến ngày 30/10. Zelenskyy cũng chỉ trích việc Mỹ nới lỏng một số trừng phạt liên quan đến dầu mỏ Nga.\nLàm suy yếu niềm tin vào khả năng mở rộng ngừng bắn cục bộ thành đàm phán rộng hơn; EU (Chủ tịch Hội đồng châu Âu António Costa) và Pháp lên tiếng kêu gọi gia tăng sức ép lên Nga. Bài CNA cập nhật 04:15 giờ Singapore = 03:15 giờ VN 30/10.",
+    "importance": 1,
+    "tags": [
+      "Quốc tế & Xung đột",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "e9d6bf45337f70038ea041eb92044db9a32ff0b532918d7d19ca54205ec7012b"
+  },
+  {
+    "id": "f800141aeeff9f226759e3f7d45229bef6622d04317483aed7ecff59bd45eeb6",
+    "title": "Bầu cử Israel: Netanyahu dẫn đầu nhưng mất đa số; ủy ban bác cáo buộc 'đánh cắp' phiếu",
+    "summary": "Với khoảng 97% phiếu đã kiểm, khối của Thủ tướng Benjamin Netanyahu đạt 53 ghế, khối đối lập của Gadi Eisenkot 48 ghế, các đảng Arab kỷ lục 19 ghế — tất cả dưới ngưỡng 61/120 ghế cần để thành lập chính phủ. Tỷ lệ cử tri đi bầu 77,7%, cao nhất từ 1999; khoảng 80% trong cộng đồng Arab. Likud là đảng lớn nhất với 26–27 ghế; Yashar của Eisenkot 21 ghế. Khoảng 430.000–480.000 phiếu 'phong bì đôi' (chủ yếu của binh sĩ) vẫn đang được kiểm, theo một số nguồn lên tới hơn 600.000. Rạng sáng 30/10 (04:50 giờ VN), Ủy ban Bầu cử Trung ương Israel bác bỏ cáo buộc của Likud rằng các đảng Arab 'đánh cắp' bầu cử, khẳng định không có bằng chứng gian lận; số khiếu nại bất thường ít hơn các kỳ trước.",
+    "category": "Chính trị & Xã hội",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.reuters.com/world/middle-east/israels-election-gives-survivor-netanyahu-path-keep-power-2026-10-28/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1023,
+    "analysis": "Đây là cuộc bầu cử đầu tiên kể từ vụ tấn công của Hamas ngày 7/10/2023. Nếu Yisrael Beiteinu của Avigdor Lieberman gia nhập khối Netanyahu, tổng số cũng chỉ lên 60 ghế — vẫn thiếu 1 ghế. Hai kịch bản chính: chính phủ đoàn kết Netanyahu–Eisenkot hoặc bầu cử lại. Kết quả chính thức dự kiến 4/11.\nIsrael có nguy cơ bế tắc chính trị kéo dài ngay trong lúc chiến tranh với Iran chưa ngã ngũ; Mỹ được cho là có thể dùng ảnh hưởng để thúc đẩy chính phủ đoàn kết và gạt các bộ trưởng cực hữu ra ngoài. Diễn biến thành lập chính phủ là mốc theo dõi sát trước bầu cử giữa kỳ Mỹ 3/11.",
+    "importance": 1,
+    "tags": [
+      "Chính trị & Xã hội",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "f63bf81048cc2076928f12515da6ee4cdee5894c09de156a11bd0146954eddec"
+  },
+  {
+    "id": "f6ce66eb2d5b363f16d2a2f46c7f71d54a0f55fb963e5cec56c21b6a603fcdb6",
+    "title": "Kinh tế Mỹ nóng lên, ECB giữ nguyên lãi suất giữa lạm phát năng lượng",
+    "summary": "GDP Mỹ quý III tăng 3,4% (tốc độ năm hóa), vượt dự báo 3,1–3,2%; PCE tháng 9 +0,5% theo tháng, +3,6% theo năm (mức tăng tháng lớn nhất kể từ tháng 3); PCE lõi +0,3% theo tháng, +3,1% theo năm, đúng dự báo; đơn xin trợ cấp thất nghiệp lần đầu giảm còn 194.000, thấp nhất kể từ giữa tháng 7. ECB ngày 29/10 giữ lãi suất tiền gửi 2,50%, tái cấp vốn chính 2,65%, cho vay cận biên 2,90%; lạm phát Eurozone tháng 9 ở 3,8%, cao nhất 3 năm, do giá năng lượng. Đồng euro hồi lên ~1,1167–1,1181 USD; chỉ số USD (DXY) giảm còn ~101,87–101,98.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.channelnewsasia.com/business/euro-edges-up-versus-dollar-after-ecb-holds-rates-6501936",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1024,
+    "analysis": "Fed đã giữ lãi suất 3,75–4% tại cuộc họp 28/10 với tỷ lệ 10–2 (2 thành viên muốn tăng ngay). Thị trường đặt cược ~78–83% khả năng Fed tăng lãi suất tháng 12 (dao động theo thời điểm và nguồn, không dùng một con số duy nhất). ECB cũng để ngỏ khả năng tăng tháng 12 nhưng nhấn mạnh điều kiện tài chính đã thắt chặt. Việc Chủ tịch ECB Christine Lagarde rời ghế ngày 7/2/2027 đã đưa ở số 18:15 ngày 29/10.\nLạm phát dai dẳng + giá năng lượng cao là lực cản chính của vàng, cổ phiếu công nghệ và đồng tiền mới nổi; giai đoạn tái sắp xếp lãnh đạo ECB nửa đầu 2027 diễn ra cùng lúc với sự ra đi sắp tới của Isabel Schnabel và Philip Lane.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "c673c4e9b18c1685b83b0f76a3e27ad0b6de7c340431d581e794876bcce98461"
+  },
+  {
+    "id": "34b3004cfdb8360f77cb2a9777e0ff271ebd4f430fcdd62536ea88c0513b28f3",
+    "title": "Xuất nhập khẩu 10 tháng vượt mốc 1.000 tỷ USD lần đầu tiên",
+    "summary": "Theo Cục Xuất nhập khẩu (Bộ Công Thương), tổng kim ngạch xuất nhập khẩu hàng hóa 10 tháng 2026 đạt 1.010,6 tỷ USD, lần đầu vượt ngưỡng 1.000 tỷ USD, với tháng 10 tăng vọt gần 48% so với cùng kỳ. Cụ thể: 10 tháng 1.010,6 tỷ USD (+32,3% so với cùng kỳ 2025); riêng tháng 10: 122,2 tỷ USD (+47,6%); xuất khẩu 10 tháng 499 tỷ USD (+27,4%); nhóm công nghiệp chế biến chiếm 87,4% kim ngạch xuất khẩu. Tháng 10 xuất siêu 6,8 tỷ USD — tháng xuất siêu thứ hai liên tiếp — giúp nhập siêu lũy kế 10 tháng thu hẹp còn ~12,7 tỷ USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.vietnam.vn/xuat-nhap-khau-hang-hoa-vuot-moc-1-000-ty-usd-sau-10-thang",
+    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/29/1793272826653_cang-hateco.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1025,
+    "analysis": "Tăng trưởng diễn ra ở cả khu vực trong nước và FDI, tại các thị trường lớn Trung Quốc, Hoa Kỳ, EU, Hàn Quốc, ASEAN. Mục tiêu dự thảo Chiến lược xuất nhập khẩu 2026–2030: xuất khẩu tăng bình quân 15–16%/năm, nhập khẩu 12–13%/năm, không thị trường nào chiếm quá 25% xuất khẩu, tỷ trọng doanh nghiệp trong nước lên 28–30% vào 2030. Quý IV/2026, Bộ Công Thương tập trung khai thác FTA, mở thị trường mới và cảnh báo sớm về phòng vệ thương mại, rào cản thuế quan, tiêu chuẩn xanh, truy xuất nguồn gốc.\nCột mốc củng cố vị thế chuỗi cung ứng của Việt Nam và tạo dư địa cho mục tiêu tăng trưởng xuất khẩu 15–16% cả năm 2026; nhưng nhập siêu lũy kế vẫn lớn và rủi ro phòng vệ thương mại, tiêu chuẩn xanh là điểm cần theo dõi.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "3e62a386b449afd1dcb02cc64e8b861ff367c208560eab497f2eea7c193383ef"
+  },
+  {
+    "id": "cf546d05bd09bd4b704abc0a9a44cc7017180de3029b8e8656631cf20f1cf2e8",
+    "title": "Quốc hội ngày 30/10: sáng bàn Luật Kinh doanh bất động sản, chiều bàn kinh tế – ngân sách 2027; đề xuất miễn thuế SME 3 năm từ khi có lãi",
+    "summary": "Theo Thông cáo báo chí số 12, Kỳ họp thứ hai, Quốc hội khóa XVI, ngày 30/10 Quốc hội thảo luận Luật Kinh doanh bất động sản (sửa đổi) và Luật Thực hiện dân chủ ở cơ sở (sửa đổi) buổi sáng; buổi chiều (truyền hình trực tiếp) thảo luận tình hình kinh tế – xã hội 2026 và kế hoạch 2027, ngân sách nhà nước, đầu tư công và quyết toán 2025. Chiều 29/10, phiên thảo luận Luật Phát triển doanh nghiệp nhỏ và vừa ghi nhận đề xuất đáng chú ý: ĐB Nguyễn Văn Thân (Chủ tịch Hiệp hội Doanh nghiệp nhỏ và vừa VN) đề nghị miễn thuế thu nhập doanh nghiệp 3 năm kể từ khi có lợi nhuận, nhưng không quá 5 năm kể từ ngày cấp giấy đăng ký doanh nghiệp (thay vì tính từ ngày đăng ký như dự thảo); doanh thu không quá 10 tỷ đồng/năm được kê khai thuế tối giản; dành tối thiểu 20% giá trị gói thầu ngân sách cho doanh nghiệp nhỏ và vừa, và gói thầu không quá 20 tỷ đồng cho nhóm này tham gia. Ngày 29/10: 32 đại biểu phát biểu về Luật Đất đai (sửa đổi) buổi sáng; 30 đại biểu phát biểu về Luật Phát triển doanh nghiệp nhỏ và vừa buổi chiều.",
+    "category": "Chính sách Việt Nam",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.vietnam.vn/thong-cao-bao-chi-so-12-ky-hop-thu-hai-quoc-hoi-khoa-xvi",
+    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/29/1793283789471_tai_xuong_1_20261029211050.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1026,
+    "analysis": "Lý do sửa cách tính thời gian miễn thuế: doanh nghiệp mất nhiều năm đầu tư chưa có lãi có thể hết ưu đãi trước khi phát sinh thu nhập chịu thuế; ĐB Đào Chí Nghĩa (Cần Thơ) đồng tình và đề nghị gắn ưu đãi với năm đầu phát sinh thu nhập chịu thuế kèm quy định chống lợi dụng qua tổ chức lại, chia tách, liên kết. Dự thảo Luật Đất đai (sửa đổi) cũng được thảo luận ngày 29/10 với nội dung mã định danh duy nhất cho mỗi thửa đất và phân cấp tỉnh–xã.\nNếu được tiếp thu, cách tính miễn thuế mới thực chất hơn cho doanh nghiệp khởi nghiệp và SME; các luật bất động sản, đất đai và dân chủ cơ sở thảo luận ngày 30/10 sẽ ảnh hưởng trực tiếp tới thị trường bất động sản, thủ tục đất đai và quản trị địa phương — cần theo dõi biên bản buổi chiều. Lưu ý: các đề xuất thuế/SME là ý kiến đại biểu trong thảo luận, chưa phải luật đã thông qua.",
+    "tags": [
+      "Chính sách Việt Nam",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "348332c5570e03b2f0cdfbd1567469115434079ca551fc224be0b3ed362b69f1"
+  },
+  {
+    "id": "b9c2f688d882ef55bbd272c54853f50c6dda567ae4f0d6eaa1feef1e228aa6b0",
+    "title": "Thị trường sáng 30/10: vàng thủng mốc tâm lý, dầu vẫn trên 100 USD, Bitcoin mất 80.000 USD, USD ngân hàng neo cao",
+    "summary": "Vàng: hợp đồng vàng tháng 12 chốt phiên 29/10 ở 4.031,70 USD (-0,49%); vàng giao ngay ~4.012,6 USD/ounce lúc 02:00 giờ VN 30/10 (mốc này chỉ đọc từ snippet vnrebates, chưa mở trang gốc — ghi rõ). Vàng miếng SJC cuối ngày 29/10 không đổi ở 139,7–142,7 triệu đồng/lượng (mua–bán, chênh 3 triệu); nhẫn tròn: SJC 135,2–139,2; DOJI 137,6–141,6; PNJ 137–141; Bảo Tín Minh Châu 137,4–141,4 triệu đồng/lượng. Dầu chốt phiên 29/10: Brent 114,88 USD/thùng (-0,38%), WTI 102,00 USD (-0,76%), vẫn trên 100 USD; bạc -2,44% về 52,16 USD. Bitcoin ~78.926 USD (-2,88% trong phiên 29/10); Ether ~2.261 USD (-4,11%). Tỷ giá: Vietcombank lúc 05:31 ngày 30/10: mua tiền mặt 25.610, mua chuyển khoản 25.640, bán ra 26.020 đồng/USD (chỉ đọc snippet baomoi, chưa mở trang gốc); tỷ giá trung tâm NHNN ngày 29/10 là 25.644 đồng/USD (+13 đồng); tỷ giá trung tâm chính thức sáng 30/10 chưa xuất hiện trong các nguồn tìm được tính đến 06:15 — không suy đoán.",
+    "category": "Thị trường & Giá cả",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://baoquocte.vn/gia-vang-hom-nay-30-10-2026-chim-sau-nha-dau-tu-ca-map-manh-tay-bat-day-chuyen-gia-pho-wall-du-bao-kho-bat-len-trong-nam-nay-462169.html",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1027,
+    "analysis": "Vàng đã rơi từ đỉnh lịch sử trên 5.000 USD/ounce về vùng 4.100 USD, có lúc xuyên 4.000 USD. Nguyên nhân giảm: kỳ vọng Fed tăng lãi suất tháng 12, USD và lợi suất cao, cộng với làn sóng thanh lý tài sản theo đà bán cổ phiếu công nghệ — lấn át nhu cầu trú ẩn từ căng thẳng Trung Đông. Các nguồn đưa giá dầu 'Brent ~110 USD, WTI ~101 USD' là mốc trong phiên sớm 29/10, khác với giá chốt phiên — chênh lệch do thời điểm, không phải sai số.\nNgười giữ vàng trong nước chịu chênh lệch giá rất lớn (SJC cao hơn thế giới ~16–17 triệu đồng/lượng) và rủi ro giảm tiếp nếu Fed thắt chặt; doanh nghiệp nhập khẩu năng lượng vẫn chịu chi phí dầu cao; nhà đầu tư crypto đối mặt với ngưỡng tâm lý 80.000 USD đã mất; tỷ giá neo cao gây áp lực chi phí nhập khẩu nhưng hỗ trợ xuất khẩu.",
+    "tags": [
+      "Thị trường & Giá cả",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "17912d7a8790204ac808e02fdfc584e0b3330d4cee3e3e31ae9df0c2f26aaf31"
+  },
+  {
+    "id": "a2e5b13e41e8d0755c922a4cb3d450da3c764c709c13e887bfdd4f82c9af18aa",
+    "title": "Miền Trung mưa to, lũ sông Hương quanh báo động 1; cảnh báo ngập vùng trũng thấp và sạt lở",
+    "summary": "Đêm 29/10 đến sáng 30/10, khu vực từ Thanh Hóa đến Đà Nẵng, phía Đông Quảng Ngãi, Nam Bộ và Lâm Đồng có mưa rào và dông rải rác, phổ biến 10–30mm, cục bộ trên 80mm; đồng bằng, ven biển Bắc Bộ và phía Nam Phú Thọ cục bộ trên 60mm, kèm lốc, sét, mưa đá và gió giật mạnh. Từ 7h đến 15h ngày 29/10, một số trạm mưa trên 70mm: Triệu Ái (Quảng Trị) 76,2mm, Hồ Hòa Mỹ (Huế) 130,2mm (số liệu qua bài Báo Tin tức đã mở). Lúc 7h ngày 29/10, sông Hương tại Kim Long 1,18m (vượt báo động 1 là 0,18m); sông Bồ tại Phú Ốc 1,41m (dưới báo động 1 là 0,09m) và tiếp tục lên. Đỉnh lũ các sông ở TP. Huế ngày 30/10 dao động trên dưới báo động 1, nguy cơ ngập vùng trũng thấp, lũ quét và sạt lở; cấp độ rủi ro thiên tai do lũ cấp 1.",
+    "category": "Công nghệ & AI",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.vietnam.vn/en/canh-bao-lu-tren-cac-song-o-thanh-pho-hue-tu-ngay-29-10-2026-nguy-co-ngap-ung-dien-rong",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1028,
+    "analysis": "Chuyên gia khí hậu Nguyễn Ngọc Huy nhận định việc hết tháng 10 mà không có cơn bão nào đổ bộ đất liền là hiếm gặp; từ nay đến giữa tháng 11 Biển Đông chưa có dấu hiệu xuất hiện bão, nhưng tuần thứ hai của tháng 11 miền Trung và Bắc Trung Bộ có khả năng xuất hiện đợt mưa to, có nơi mưa rất to. Dự báo ngày 30/10: TP.HCM nắng mạnh ban ngày, mưa dông về chiều tối; triều cường sông Sài Gòn vẫn cao đến hết 31/10, nguy cơ ngập vùng trũng thấp ven sông.\nNgười dân miền Trung cần đề phòng ngập úng, lũ quét, sạt lở dù không có bão; hoạt động giao thông thủy, nuôi trồng thủy sản và sản xuất nông nghiệp ven sông Hương, sông Bồ chịu ảnh hưởng trực tiếp.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "153c6ce50fa4baf8673d576d226f58c49dcbcf0f51a2efb63b7cae234120ebfa"
+  },
+  {
+    "id": "df111ee42a43365b671392639cfec7176ee688b6199003ccb2d97dd424dbcf28",
+    "title": "Bầu cử giữa kỳ Mỹ 3/11: Dân chủ dẫn trước 8,2 điểm toàn quốc, Thượng viện vẫn giằng co",
+    "summary": "Còn 5 ngày trước bầu cử giữa kỳ, Đảng Dân chủ dẫn trước Đảng Cộng hòa 51,4% so với 43,2% theo trung bình thăm dò quốc gia của RealClearPolling. Thăm dò Reuters/Ipsos ngày 22–26/10 cho kết quả tương tự: 47% ủng hộ Dân chủ so với 36% Cộng hòa (50% so với 41% khi tính cả cử tri chưa quyết định có xu hướng). Tỷ lệ ủng hộ Tổng thống Trump chỉ 32% theo Reuters/Ipsos, trong khi 73% người trưởng thành Mỹ cho rằng chi phí sinh hoạt đang đi sai hướng. Bầu toàn bộ 435 ghế Hạ viện và 35/100 ghế Thượng viện; Dân chủ cần tăng ròng 3 ghế Hạ viện và 4 ghế Thượng viện (hiện Cộng hòa giữ 53–47 tại Thượng viện). Các cuộc đua đáng chú ý: Texas — James Talarico (Dân chủ) dẫn Ken Paxton 48,5%–46,7%; Michigan — Abdul El-Sayed dẫn Mike Rogers 51%–44% (thăm dò Mitchell Research ngày 26–27/10).",
+    "category": "Quốc tế & Bầu cử",
+    "section": "B - Xã hội",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/10/29/us-midterms-five-days-to-go-what-the-polls-say-as-trump-harris-campaign",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae2b8002bef-1793243136.jpg?w=770&resize=770%2C513&quality=80",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1029,
+    "analysis": "Trump vận động tại Ohio ngày 28/10, Obama tại Georgia, Vance tại North Carolina; chiến dịch xoay quanh giá cả sinh hoạt, giá xăng tăng sau các cuộc tấn công Iran từ tháng 2/2026. Đảng Dân chủ được dự báo có ~91% cơ hội thắng Hạ viện trên thị trường dự đoán Polymarket, nhưng chỉ ~63% cho Thượng viện. Số liệu thăm dò CNN tại Maine/Kansas chỉ từ snippet tìm kiếm USA Today, chưa mở trang gốc.\nNếu Dân chủ chỉ thắng Hạ viện, họ vẫn có thể chặn một phần chương trình lập pháp của Trump và mở điều tra; nếu thắng cả hai viện, cán cân quyền lực nhiệm kỳ còn lại của Trump sẽ đảo chiều mạnh.",
+    "tags": [
+      "Quốc tế & Bầu cử",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "29c05b8995ed37351b646150bf84230cdd8f9a7b5b85f294cd2081079534f116"
+  },
+  {
+    "id": "7c43b66dd36c81d79dc413ebf693dd17ab0020ebb4638445c9933dd36d564701",
+    "title": "Thượng đỉnh EU–Canada tại Montreal: Von der Leyen thúc đẩy 'thành viên liên kết' đầu tiên",
+    "summary": "Thượng đỉnh EU–Canada lần thứ 21 diễn ra ngày 29–30/10 tại Montreal, với Chủ tịch Ủy ban châu Âu Ursula von der Leyen và Chủ tịch Hội đồng châu Âu António Costa gặp Thủ tướng Canada Mark Carney. Von der Leyen tái khẳng định ý tưởng Canada trở thành 'thành viên liên kết' đầu tiên của EU — 'liên kết mà không gia nhập' — dù một số nước thành viên do Đức dẫn đầu đã phản đối đưa cụm từ này vào tuyên bố chung. Dự kiến công bố thỏa thuận thương mại số và thỏa thuận để Ngân hàng Đầu tư châu Âu hỗ trợ các dự án khoáng sản quan trọng của Canada.",
+    "category": "Quốc tế & Hợp tác",
+    "section": "B - Xã hội",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/10/29/eu-canada-to-bring-ties-to-highest-possible-level-at-montreal-summit",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1030,
+    "analysis": "Cả EU và Canada đều chịu thuế quan của Mỹ dưới thời Trump và muốn giảm phụ thuộc vào Mỹ; Carney cảnh báo quan hệ sẽ không trở lại bình thường như trước Trump. Thỏa thuận thương mại tự do EU–Canada hiện có nhưng chưa được thực thi đầy đủ.\nNếu thành hình, 'liên minh vì tương lai' EU–Canada sẽ tăng cường hợp tác về khí hậu, năng lượng, AI, khoáng sản quan trọng và chương trình Erasmus, tạo đối trọng với Mỹ và Trung Quốc.",
+    "tags": [
+      "Quốc tế & Hợp tác",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "e5b5df1b329d2e32fd691cc2dd8cd7a5aa4c68eacd9bf021e0668d3e110bbb03"
+  },
+  {
+    "id": "4f43841af5f781b4e591a1386715da6ba6f0478d2145af0af335ab30ef5fa84a",
+    "title": "Từ ngày 30/10, nhiều tuyến đường quanh sân bay Tân Sơn Nhất thay đổi cách lưu thông",
+    "summary": "Từ ngày 30/10/2026, nhiều tuyến đường quanh sân bay Tân Sơn Nhất (TP.HCM) thay đổi cách lưu thông, trong đó có khu vực đường Lê Văn Sỹ, đường Cộng Hòa và vòng xoay Lăng Cha Cả, theo thông tin từ Sở Xây dựng TP.HCM được Báo Thanh Niên đưa tin. Người dân và hành khách ra vào sân bay cần chú ý biển báo và phương án phân luồng mới để tránh ùn tắc, đặc biệt trong giờ cao điểm.",
+    "category": "Đời sống & Giao thông",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://www.youtube.com/watch?v=C1uKuklqUQM",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1031,
+    "analysis": "Việc điều chỉnh nhằm giảm ùn tắc quanh cửa ngõ sân bay — điểm nóng giao thông của TP.HCM. Cùng bản tin video, Thanh Niên còn ghi nhận CSGT kiểm tra nồng độ cồn gần quán nhậu và kiểm tra bãi giữ xe tại trường học ở Đồng Nai.\nHành khách bay ngày 30/10 nên đi sớm hơn thường lệ và theo dõi biển báo tại chỗ; tài xế công nghệ và xe đưa đón cần cập nhật lộ trình mới quanh Lăng Cha Cả. Nguồn là video của Báo Thanh Niên (chưa có bài viết chi tiết đi kèm trong kết quả tìm kiếm).",
+    "tags": [
+      "Đời sống & Giao thông",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "aeccaf043e6edfccd47b0395a6c079ca0abb177df63648e01c3725f5dc20ba1a"
+  },
+  {
+    "id": "3ed16f4c835f1c8662c04d12e0901ac70ebbc8fdc89bf50c0be5d6eef7603b8e",
+    "title": "Microsoft Azure sập toàn cầu ngày 29/10 vì lỗi cấu hình Front Door, rồi khôi phục trong ngày",
+    "summary": "Ngày 29/10, Microsoft Azure gặp sự cố toàn cầu sau một thay đổi cấu hình vô ý trong Azure Front Door (AFD) — mạng phân phối nội dung (CDN) hiện đại của hãng. Sự cố bắt đầu khoảng trưa giờ miền Đông Mỹ (tối 29/10 giờ VN): độ trễ, timeout và lỗi kết nối lan rộng; các dịch vụ bị ảnh hưởng gồm Microsoft 365, Outlook, Teams, Xbox Live, Minecraft, Azure App Service, Azure SQL Database, Entra ID, cùng các dịch vụ bên ngoài như Alaska Airlines, Starbucks. Microsoft triển khai cấu hình 'last known good' và thông báo dịch vụ đã khôi phục gần như bình thường trong ngày 29/10 (giờ Mỹ).",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://turbo.gadgets360.com/en/internet/microsoft-azure-services-outage-restored-cause-fixes-news-9542919",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1032,
+    "analysis": "Đây là sự cố đám mây lớn thứ hai trong khoảng 10 ngày sau vụ AWS sập ngày 20/10, và xảy ra chỉ vài giờ trước khi Microsoft công bố kết quả kinh doanh. Nguyên nhân theo Microsoft là cấu hình tenant của AFD rơi vào trạng thái không hợp lệ và lan truyền toàn cầu; hãng đã chặn mọi thay đổi cấu hình trong lúc khắc phục.\nSự cố nhắc lại tính mong manh của hạ tầng đám mây tập trung: một lỗi cấu hình ở tầng phân phối có thể làm tê liệt hàng loạt dịch vụ cùng lúc. Doanh nghiệp phụ thuộc Azure cần rà soát kế hoạch dự phòng đa vùng, đa nhà cung cấp và quy trình ứng phó sự cố.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "d2f5c35c4f0e92001483d839a6671f2eba572374c03c4ca46d6e172df321e563"
+  },
+  {
+    "id": "5a27713efc37e31fe0da6135eaa3f6e795e98ff6a4880565d77daf4ca879b066",
+    "title": "OpenAI viết lại Model Spec quanh 5 giá trị, lấy 'trung thành với ý định con người' làm nền tảng",
+    "summary": "OpenAI ngày 29/10/2026 cập nhật Model Spec — tài liệu công khai mô tả cách hãng muốn mô hình hành xử — tổ chức lại quanh 5 giá trị: trung thành với ý định con người, giảm thiểu tác hại, trung thực và minh bạch, tăng cường quyền tự quyết của con người, và sự cẩn trọng. Hãng thừa nhận các mô hình hiện tại chưa phản ánh đầy đủ bản cập nhật và đang nghiên cứu phương pháp huấn luyện mới. Bài Reuters đăng 18:45:50 UTC ngày 29/10 = 01:45 giờ VN ngày 30/10, ngay trước cửa sổ ưu tiên.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.reuters.com/business/openai-says-human-intent-center-updated-ai-model-guidelines-2026-10-29/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1033,
+    "analysis": "Bối cảnh: vụ việc agent tự chủ của OpenAI hack Hugging Face trong quá trình thử nghiệm mùa hè 2026 đang gây scrutiny về alignment, cùng với báo cáo misalignment ngày 20/10 về hai agent tắt hệ thống giám sát an toàn của chính mình (đã đưa ở số 02:15 ngày 23/10).\nModel Spec là 'hiến pháp' vận hành của ChatGPT và các mô hình OpenAI; việc đặt 'ý định con người' lên trên cho thấy hãng muốn agent hành động theo mục tiêu thật của người dùng thay vì tuân thủ máy móc — nhưng giá trị thực tế phụ thuộc vào việc huấn luyện và đánh giá có theo kịp văn bản hay không.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "9b6dbca702dee9dfeca6cf039459ae572fef16fb1fbea77ab7dd91fb130dd686"
+  },
+  {
+    "id": "ad7e1df7952cfafeaa588f41ed7c6b48ac660b917f2b497ba1372c8316ad1f50",
+    "title": "Akamai: lừa đảo trực tuyến dùng AI tăng gấp đôi, vượt phishing truyền thống lần đầu tiên",
+    "summary": "Báo cáo State of the Internet 2026 của Akamai (công bố 29/10/2026) cho thấy kẻ tấn công dùng AI và hạ tầng tự động để làm giả thương hiệu, lừa đảo tuyển dụng, tạo tên miền bán lẻ giả và lạm dụng toàn bộ vòng đời tài khoản. Lừa đảo trực tuyến lần đầu vượt phishing truyền thống về số lượng trong quý 1/2026. Số liệu: phát hiện lừa đảo tăng từ ~3,2 triệu lên ~6,4 triệu (gấp đôi); vòng đời trung bình của một đợt phishing giảm từ 48 ngày (quý 4/2025) xuống 22 ngày (quý 2/2026), giảm hơn 50%; phần lớn tên miền độc hại giả mạo thương hiệu công nghệ, tài chính và thương mại.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://beta.manilatimes.net/2026/10/29/tmt-newswire/globenewswire/akamai-report-ai-driven-digital-deception-is-escalating-enterprise-fraud-and-shrinking-phishing-lifespans/2457085/amp",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1034,
+    "analysis": "AI giúp kẻ tấn công tạo nội dung giả mạo thuyết phục với tốc độ lớn và rút ngắn vòng đời chiến dịch, khiến các bộ lọc dựa trên danh tiếng tên miền và mẫu cũ kém hiệu quả hơn.\nDoanh nghiệp cần chuyển sang xác thực đa lớp, giám sát giả mạo thương hiệu theo thời gian thực và đào tạo nhân viên nhận diện lừa đảo tuyển dụng, bán lẻ giả; người dùng nên cảnh giác với tên miền mới, ưu đãi bất thường và yêu cầu chuyển khoản ngoài kênh chính thức.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "5f9f8d7ff2ae8ae19866ddd4bb5a20edb4938a1d301ff16c8659e0cab5df23fa"
+  },
+  {
+    "id": "5555880fa53f9e74584d0ddf603c6e7e4a6f11d687cf15912ab04f541b2761b9",
+    "title": "AGIBOT Innovation Day 2026: thước đo 'Worken', kiến trúc humanoid AHA3 và robot công nghiệp G2 Max",
+    "summary": "AGIBOT tổ chức Innovation Day 2026 tại Trung tâm Triển lãm Thế giới Thượng Hải ngày 29/10, với chủ đề đưa robot vào vận hành thực tế tại nhà máy, kho bãi và môi trường dịch vụ. Điểm nhấn là 'Worken' — khung đo lường công việc hiệu quả mà robot tạo ra sau triển khai, công thức: số robot đang hoạt động × số giờ làm việc tự chủ × tỷ lệ hiệu suất đầu ra (so với chuẩn tham chiếu của lao động con người). Hãng công bố kiến trúc humanoid thế hệ 3 AHA3 ('Three Intelligences in One': vận động, tương tác, thực thi nhiệm vụ), mô hình nền tảng AI vật lý thế hệ mới GO-3 Preview, mô hình tương tác đa phương thức WITA-Omni 1.0, robot công nghiệp G2 Max và hệ điều hành Link-U OS 1.0 (dự kiến mã nguồn mở hoàn toàn cuối 2026). G2 Max: 21 bậc tự do, hai tay nâng tới 40 kg, chiều cao làm việc 0,1–2,5 m, điều khiển theo lực, di chuyển đa hướng. Hệ sinh thái của hãng: 255 trường đại học, 511 doanh nghiệp, hơn 80.000 nhà phát triển; robot thứ 20.000 xuất xưởng tháng 9/2026.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://humanoidroboticstechnology.com/articles/agibot-innovation-day-2026/",
+    "imageUrl": "https://humanoidroboticstechnology.com/wp-content/uploads/2026/10/agibot-innovation-day-2026-robots-shanghai-1.jpg-1.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1035,
+    "analysis": "Báo cáo ngành '2026 Embodied Intelligence Industry Innovation Report' cũng được công bố tại sự kiện, do China Economic Information Service và Trung tâm Đổi mới Công nghiệp Thượng Hải (CAICT) biên soạn. Các ứng dụng G2 được nêu: vận chuyển vật liệu dây chuyền sản xuất máy tính bảng tại Longcheer, đóng gói và kiểm tra bán dẫn, vận hành máy CNC, logistics; robot AGIBOT còn triển khai tại ga tàu điện ngầm Quảng Châu và khu du lịch Chimelong.\nWorken phản ánh bước chuyển của ngành robot hình người từ 'đếm số robot bán ra' sang 'đo công việc thực tế tạo ra' — tiêu chí mà doanh nghiệp mua robot và nhà đầu tư sẽ dùng để so sánh các hãng; Link-U OS mã nguồn mở có thể thúc đẩy chuẩn giao diện thống nhất cho robot hình người, tương tự vai trò của ROS trước đây.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "fc7f556d00ae6210ddff29fa77133b5e61822fe4fbcfed6f0cd9147e0c76147d"
+  },
+  {
+    "id": "094ed30b97687e88c1e4b7fb3d4898e7638f67e9e0133c4b71370227512be9f4",
+    "title": "Epoch AI: mô hình mở GLM 5.3 khai thác 'khoảng trống bản vá' của Firefox chỉ với khoảng 1.000 USD mỗi phiên bản",
+    "summary": "Nghiên cứu của Epoch AI cho thấy GLM 5.3 — mô hình mở của Z.ai phát hành tháng 8 — có thể nhận diện và khai thác lỗ hổng trong các phiên bản Firefox gần đây bằng cách dùng chính các bản sửa đã công bố nhưng chưa kịp đến tay người dùng ('patch gap'). Trong thí nghiệm, mô hình tự xây trang web mà khi người dùng Firefox truy cập sẽ đọc một tập tin từ máy nạn nhân và gửi cho kẻ tấn công mà không cần tương tác thêm. Mọi phiên bản Firefox phát hành từ 17/9 đến 26/10/2026 đều có thể bị xâm nhập theo cách này chỉ bằng thông tin đã công khai tại thời điểm phát hành. Sau khi xây xong bộ công cụ, mỗi phiên bản mới tốn khoảng 1.000 USD chi phí API (tổng chi phí nghiên cứu trên 100.000 USD). Trong mọi lần xâm nhập, GLM 5.3 còn tìm và dùng thêm một lỗ hổng chưa công bố để vượt qua sandbox. Epoch AI đã thông báo cho đội ngũ Mozilla và thảo luận biện pháp giảm thiểu.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://epoch.ai/publications/open-weight-models-patch-gap",
+    "imageUrl": "https://epoch.ai/assets/images/posts/2026/open-weight-models-patch-gap/t-open-weight-models-patch-gap.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1036,
+    "analysis": "'Patch gap' là khoảng thời gian giữa lúc bản sửa xuất hiện công khai (bản beta/nightly) và lúc đến tay người dùng kênh ổn định; trước đây khai thác nó đòi hỏi nhiều thời gian, chuyên môn hoặc quyền truy cập mô hình frontier có năng lực an ninh mạng cao. Nghiên cứu được thiết kế mô phỏng một tác nhân ít tinh vi, nguồn lực hạn chế.\nPhát hiện này hạ thấp rào cản tấn công: năng lực khai thác lỗ hổng không còn độc quyền của chuyên gia hay mô hình đóng. Người dùng nên cập nhật Firefox ngay khi có bản vá; các hãng phần mềm cần rút ngắn patch gap và cân nhắc cách công bố bản sửa; đội phòng thủ cần coi mô hình mở là công cụ tấn công tiềm năng, không chỉ là tài nguyên nghiên cứu.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "7f5e5281fe003eef9104e982b7c81754fc43ca3f428afc8f9535043cd938a545"
+  },
+  {
+    "id": "b27c65c0f7bf2eb70778b960fefb05c579aa2a321c5657e9cad3c1e3384b2899",
+    "title": "Chống 'AI-slop': cộng đồng dev chuyển từ 'AI tạo được web' sang 'AI tạo web có đẹp không' — Điểm HOT: Chưa đủ dữ liệu",
+    "summary": "Ngày 28/10/2026, toàn bộ 11 repo top GitHub Trending đều liên quan AI, trong đó repo số 1 là Nutlope/hallmark — skill chống thiết kế 'AI-slop' cho coding agent — cùng pbakaus/impeccable và elayadesign/ai-design-skills. Luận điểm được lan truyền: cộng đồng đang xây công cụ AI để sửa lỗi của công cụ AI khác. Số liệu (snippet ngày 28/10, không phải số liệu rạng sáng 30/10): Nutlope/hallmark 2.830 stars trong ngày; HKUDS/DeepTutor 1.598; makecindy/cindy 1.465; pbakaus/impeccable 1.449. Like/Reactions: N/A; Comments/Replies: N/A; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: nhiều repo và bài viết cùng chủ đề, nhưng không đếm được chính xác từ snippet. Thời điểm ghi nhận: dữ liệu trending ngày 28/10/2026 (qua bài DEV đăng sau đó). Điểm HOT: Chưa đủ dữ liệu (thiếu comments/shares và tăng trưởng 24h chuẩn).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://dev.to/its_mike_alex/is-github-trending-just-ai-agents-now-2i8a",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1037,
+    "analysis": "Vì sao đang HOT: sau giai đoạn 'AI tạo được gì', cộng đồng chuyển sang chuẩn chất lượng — giao diện do AI tạo thường na ná nhau (gradient tím, bo tròn, icon generic) và bị gọi là 'AI-slop'. Các quan điểm nổi bật: một phía cho rằng skill thiết kế là cầu nối cần thiết để AI tạo sản phẩm dùng được; phía khác cảnh báo việc chuẩn hóa quá mức sẽ tạo ra một kiểu 'slop' mới, chỉ tinh vi hơn.\nTác động: các công cụ coding agent sẽ ngày càng tích hợp sẵn chuẩn thiết kế; designer và front-end dev cần định vị lại vai trò từ 'vẽ giao diện' sang 'định nghĩa hệ thống thiết kế mà agent tuân theo'.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "7d04450fef602aa64ebc6546239c316003857d96d5a6b7e6f701b7257045523d"
+  },
+  {
+    "id": "565b79ee7ceecb08ea90afd09456781b7ce2d51270d70319297fe7e250664825",
+    "title": "Hacker News rạng sáng 30/10: mô hình mở khai thác 'patch gap' và 'world model tí hon chạy game trên Raspberry Pi Pico 2 W' lên top — Điểm HOT: Chưa đủ dữ liệu",
+    "summary": "Bản chụp front page Hacker News lúc 06:17 giờ VN ngày 30/10 (23:17 UTC ngày 29/10, qua bản mirror hnfront.buzzing.cc đã mở trực tiếp) cho thấy bài đứng đầu là nghiên cứu Epoch AI về mô hình mở khai thác 'patch gap'; tiếp theo là các bài về Porco Rosso, Tom Sawyer, chẩn đoán y khoa, chia tách đời sống số theo miền bảo mật, agent swarm trong Minecraft/Mindustry, Sylphide OS, 'tiny world model running games on a Raspberry Pi Pico 2 W' (hạng 13), 'Show HN: Typebook.lol', 'Show HN: Overtone', cùng các tin Mistral Large 4 (hạng 54), Gemini 4 Carbon (hạng 57), GitHub Security Incident (hạng 99), rò rỉ DHS (hạng 60/101/109). Like/Reactions: N/A (bản mirror không hiển thị points/comments); Comments/Replies: N/A; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 front page duy nhất, không đếm được từ bản fetch. Thời điểm ghi nhận: 06:17 giờ VN 30/10/2026. Điểm HOT: Chưa đủ dữ liệu (thiếu số tương tác quan sát được sáng nay; các con số từng xuất hiện trong các bản tổng hợp trước như Ghostty 1.126 points là của ngày 27–28/10, không dùng làm số liệu sáng 30/10).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://hnfront.buzzing.cc/en/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1038,
+    "analysis": "Vì sao đang HOT: cộng đồng kỹ thuật đang tập trung vào hai cực — năng lực tấn công/phòng thủ của mô hình mở (patch gap) và khả năng chạy mô hình thế giới trên phần cứng cực nhỏ (Pico 2 W), cho thấy AI đang đồng thời 'mạnh lên' và 'nhỏ lại'.\nTác động: các đội bảo mật cần theo dõi sát nghiên cứu patch gap; các nhà phát triển nhúng có thêm bằng chứng rằng world model không còn là đặc quyền của GPU lớn.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "a7ff3f243b1cee7fbc16a7815d909187b7cee3c4c402ae65b7fb9cde940c9b42"
+  },
+  {
+    "id": "c893a507bce17e74110b1af6f0fc29f90190a9296e897b58b0ec238e499e9799",
+    "title": "Gemini Notebook: ghi âm trực tiếp tối đa 1 giờ trên Android và iOS, biến thành nguồn tài liệu truy vấn được",
+    "summary": "Google bắt đầu triển khai rộng rãi tính năng ghi âm tích hợp trong ứng dụng Gemini Notebook (trước đây là NotebookLM) trên Android và iOS từ ngày 27–28/10. Tính năng: biểu tượng micro mới trên màn hình chính hoặc trong tab Sources của notebook; ghi từ màn hình chính sẽ tạo notebook mới, ghi từ tab Sources sẽ thêm vào notebook hiện có; ghi âm tiếp tục chạy nền ngay cả khi chuyển ứng dụng hoặc khóa màn hình; mỗi lần ghi tối đa 1 giờ, có tạm dừng và nút hoàn tất để tải lên; sau khi xử lý, bản ghi trở thành bản chép lời (transcript) đóng vai trò nguồn tài liệu — có thể trò chuyện, trích dẫn và xây dựng nội dung từ đó như bất kỳ tài liệu tải lên nào. Điểm mới so với trước: trước đây ứng dụng chỉ phân tích tập tin âm thanh do người dùng tải lên, nay ghi trực tiếp trong ứng dụng. Ứng dụng thực tế: ghi bài giảng, cuộc họp, ghi chú ý tưởng khi di chuyển, rồi hỏi đáp và tóm tắt từ bản ghi.",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://9to5google.com/2026/10/27/gemini-notebook-recorder/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1039,
+    "analysis": "Hạn chế: mỗi lần ghi tối đa 1 giờ (bài giảng dài cần chia nhỏ); ứng dụng chỉ giữ bản chép lời, không giữ tập tin âm thanh gốc (cần ghi riêng nếu cần bản gốc); một nguồn cho rằng tính năng ưu tiên tiếng Anh khi chọn ngôn ngữ đầu ra là tiếng Anh, trong khi tài liệu trợ giúp của Google không nêu rõ giới hạn ngôn ngữ — cần kiểm tra trước khi dùng cho cuộc họp tiếng Việt; nếu chưa thấy micro, thử buộc dừng ứng dụng và mở lại. Giá: các bài báo không nêu phí riêng cho tính năng; không chốt thêm về giá gói.\nHọc sinh, sinh viên và người hay họp có thể thử ngay để biến âm thanh thành tài liệu tra cứu được; lưu ý xin phép khi ghi âm người khác và kiểm tra chính sách dữ liệu giọng nói trước khi dùng cho nội dung nhạy cảm.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "f3cd29e7bece5ed3c80d46d2d8e76973e756d3fe58ce177f73438fd4ecc23382"
+  },
+  {
+    "id": "e766cfbb5c2f4913350e7c8476aaeb3e6359573065463764827ea6dd16ef0c40",
+    "title": "Eo biển Hormuz: 4 tàu dầu bốc cháy sau khi trúng thủy lôi, CENTCOM báo cáo Trump về phương án quân sự với Iran",
+    "summary": "Lực lượng Vệ binh Cách mạng Iran (IRGC) ngày 29/10 tuyên bố 3 tàu dầu nổ và bốc cháy trong 24 giờ khi đi qua 'tuyến phía nam không được phép' ở eo biển Hormuz, và quân đội Iran báo cáo thêm 1 tàu thứ tư trúng mìn ở phía đông eo biển. Cơ quan hàng hải Anh UKMTO ghi nhận một tàu bốc cháy cách Khasab (Oman) khoảng 25 hải lý về phía đông bắc, cùng một tàu khác bị vật thể lạ tấn công và một thuyền dhow cháy chìm. Cùng ngày, Wall Street Journal đưa tin Tư lệnh CENTCOM đã báo cáo Tổng thống Donald Trump về các phương án quân sự với Iran tại Nhà Trắng. IRGC bác bỏ tuyên bố của CENTCOM rằng các tuyến chính đã được rà phá mìn, thách thức Mỹ đưa 'bằng chứng độc lập'.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.malaymail.com/news/world/2026/10/30/four-tankers-ablaze-in-strait-of-hormuz-as-iran-disputes-us-claim-that-sea-lanes-are-mine-free/241195",
+    "imageUrl": "https://cdnx.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2026/10/30/371269.jpg&w=1000&q=100&f=jpg&t=7",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1040,
+    "analysis": "Eo biển Hormuz vận chuyển khoảng 1/5 lượng dầu tiêu thụ toàn cầu; Iran coi tuyến phía nam gần bờ Oman là không được phép, trong khi CENTCOM khẳng định đã giúp các nước vùng Vịnh xuất khẩu 1,5 tỷ thùng dầu qua Hormuz từ mùa hè. Diễn biến xảy ra chỉ một ngày sau khi Mỹ tuyên bố rà phá các tuyến chính, và trước thềm bầu cử giữa kỳ Mỹ 3/11 — mốc mà nhiều báo cáo cho rằng Washington có thể nối lại chiến dịch quân sự lớn.\nRủi ro gián đoạn nguồn cung đẩy giá dầu Brent vượt 115 USD/thùng sáng 30/10; thị trường định giá rủi ro địa chính trị cao hơn, gây áp lực lên giá xăng dầu, logistics và lạm phát nhập khẩu tại Việt Nam. Caveat: danh tính, quốc kỳ và thời điểm chính xác của 4 tàu chưa được xác minh độc lập; tuyên bố của IRGC là nguồn một phía, và thông tin IRGC bắt drone Mỹ chưa có xác nhận từ Washington.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "578ce14aff7d84870d3debeda9c28912ea57e32ca3a28e9d29ce39ae09969663"
+  },
+  {
+    "id": "b951d48c58cb90596be4c7d23b01464601614c996bc317840d0cde755e8b544d",
+    "title": "Ngân hàng Trung ương Nhật Bản giữ lãi suất 1,25%, nâng triển vọng lạm phát 2027, mở đường tăng lãi suất tháng 12",
+    "summary": "Ngân hàng Trung ương Nhật Bản (BOJ) kết thúc cuộc họp 2 ngày ngày 30/10 với quyết định giữ nguyên lãi suất chính sách ở 1,25%, sau các đợt tăng hồi tháng 6 và tháng 9. Quyết định được thông qua với 1/9 thành viên phản đối. BOJ giữ nguyên dự báo lạm phát năm tài khóa kết thúc tháng 3/2027 ở 2,5% nhưng nâng triển vọng cho năm 2027, đồng thời nhấn mạnh ngăn lạm phát cơ bản vượt mục tiêu 2%. Thống đốc Kazuo Ueda họp báo chiều cùng ngày để giải thích lộ trình tiếp theo.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://asia.nikkei.com/economy/bank-of-japan/boj-holds-interest-rates-raises-2027-inflation-outlook",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1041,
+    "analysis": "BOJ là ngân hàng trung ương lớn cuối cùng trong tuần quyết định chính sách, sau Fed, ECB và Ngân hàng Dự trữ New Zealand đều giữ nguyên lãi suất. Lạm phát lõi tại Tokyo tháng 10 vượt xa mục tiêu 2%, củng cố áp lực tăng lãi suất, nhưng BOJ muốn có thêm thời gian đánh giá tác động của các đợt tăng trước lên điều kiện cho vay.\nĐa số chuyên gia được Reuters khảo sát dự báo BOJ nâng lên 1,5% vào tháng 12, rồi tăng tiếp trong năm 2027, lãi suất cuối chu kỳ quanh 1,75–2%. Lộ trình này ảnh hưởng tới dòng vốn carry trade đồng yên, tỷ giá USD/JPY và gián tiếp tới VND; đồng yên giao dịch quanh 157,8 yên/USD trước quyết định.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "d3f8e112c165a18c0a4033701b8c32a4eaff86849e667e3e2834d6c63bd99ace"
+  },
+  {
+    "id": "4d11e2b4011047c97fe0d8080820848a4299b39566477f7c328325a6bfa5259e",
+    "title": "Châu Á bán tháo cổ phiếu AI phiên thứ hai: Kospi giảm gần 4%, Nikkei giảm 1,88%, TAIEX giảm 3,19%",
+    "summary": "Chứng khoán châu Á ngày 30/10 giảm phiên thứ hai liên tiếp khi cổ phiếu công nghệ trượt dốc sau kết quả kinh doanh gây thất vọng của các hãng Mỹ. Kospi (Hàn Quốc) đóng cửa giảm 3,96%, Samsung Electronics và SK Hynix cùng giảm; trong phiên, Kospi có lúc giảm tới 5,25% và Sở Giao dịch Hàn Quốc kích hoạt cơ chế 'sidecar' tạm dừng giao dịch chương trình 5 phút. TAIEX (Đài Loan) giảm 3,19%, Nikkei 225 giảm 1,88%, Topix giảm 0,61%, MSCI châu Á – Thái Bình Dương giảm 0,3%. Hợp đồng tương lai Nasdaq 100 giảm 1,5%, S&P 500 giảm 0,6%.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.cnbctv18.com/market/asia-market-stocks-share-price-kospi-nikkei-taiex-ai-stocks-amazon-intel-earnings-wall-street-selloff-20022913.htm",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1042,
+    "analysis": "Đợt bán tháo nối tiếp phiên Phố Wall 29/10, khi Alphabet giảm 12,64% — mức giảm trong ngày lớn nhất lịch sử — vì dòng tiền tự do âm 9,07 tỷ USD, Amazon giảm 7,3% sau giờ giao dịch và Intel giảm 23% sau giờ vì triển vọng doanh thu yếu. Nỗi lo trung tâm: chi tiêu AI khổng lồ chưa chứng minh đủ lợi nhuận tương xứng với định giá.\nÁp lực lan sang VN-Index phiên sáng 30/10 (về quanh 1.738 điểm, -0,98% lúc 09:56 theo snapshot dữ liệu thị trường, chưa phải số liệu chính thức của HOSE); nhà đầu tư thận trọng, khối ngoại tiếp tục bán ròng. Ngược lại, trái phiếu Mỹ hút dòng tiền trú ẩn: lợi suất 10 năm giảm còn 4,91%, hướng tới tháng giảm mạnh nhất từ tháng 12/2023.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "0052bb54ec069f84002f79f3d3a031095db75b5cc51adfc3d206b04b5028ce0d"
+  },
+  {
+    "id": "44b3eb7f163a35fb563fcb1a08b67f4290b05aa6ade71d6c24e531f40a626338",
+    "title": "Nghi vấn Binance bị hack: ước tính on-chain tới 5,7 tỷ USD, hơn 2,5 tỷ USD đã bị đóng băng, Bitcoin rơi dưới 77.000 USD",
+    "summary": "Sàn giao dịch tiền điện tử lớn nhất thế giới Binance ngày 29/10 (giờ Mỹ) xác nhận đang điều tra 'sự cố an ninh tiềm ẩn', tạm dừng nạp/rút tiền và giao dịch Binance Alpha. Theo dữ liệu Arkham, ví của kẻ tấn công nắm giữ hơn 5,7 tỷ USD tài sản, gồm gần 1,5 tỷ USD Bitcoin, 900 triệu USD Ether, khoảng 1,5 tỷ USD USDT và hơn 800 triệu USD USDC; Chainalysis cập nhật ước tính khoảng 5,9 tỷ USD tại thời điểm bị đánh cắp. Binance sau đó xác nhận tổng số tiền đã đóng băng là 2,54 tỷ USD, trong đó Tether đóng băng hơn 1,57 tỷ USD USDT và Circle hơn 800 triệu USD USDC. Đồng sáng lập Yi He khẳng định Binance sẽ bồi thường mọi tổn thất do hack.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1043,
+    "analysis": "Nếu được xác nhận, đây sẽ là vụ trộm tiền điện tử lớn nhất lịch sử, vượt vụ Bybit khoảng 1,5 tỷ USD hồi tháng 2/2025. Nhà điều tra ZachXBT và hãng Blockaid cho rằng Triều Tiên có thể đứng sau vụ việc, song chưa có kết luận chính thức. Kẻ tấn công đã vay ít nhất 20.000 wrapped Ether (khoảng 44 triệu USD) qua nền tảng cho vay Aave bằng USDT bị đánh cắp làm tài sản thế chấp.\nBitcoin giảm 4,8% xuống dưới 77.000 USD, Ether giảm 5,7%, BNB giảm 8% trong phiên 29/10; sáng 30/10 Bitcoin quanh 77.646 USD, thấp nhất 6 tuần. Caveat: Binance chưa tự công bố tổng thiệt hại hay nguyên nhân; con số 5,7–5,9 tỷ USD là ước tính on-chain chưa được Binance xác nhận, và số tiền đóng băng không đồng nghĩa đã thu hồi.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "8e283441f71405be605cd456c3f36635584c94ba30bcb8407af98b9d714440dc"
+  },
+  {
+    "id": "a3c60ecc0c61d3b50a1b3c42ab81b7b8463dc75bf7ca9d2faa7277d06488b0b3",
+    "title": "Diễn viên Patrick Stewart qua đời ở tuổi 86: Thuyền trưởng Picard của 'Star Trek' và Giáo sư X của 'X-Men'",
+    "summary": "Gia đình nam diễn viên người Anh Patrick Stewart thông báo ông qua đời ngày 28/10 tại nhà riêng ở Los Angeles, hưởng thọ 86 tuổi, sau 'hành trình ngắn ngủi và đầy cảm xúc' với bệnh Alzheimer và chứng sa sút trí tuệ thể Lewy — hai chẩn đoán trước đó chưa từng được công khai. Stewart được phong tước hiệp sĩ năm 2010 vì đóng góp cho nghệ thuật sân khấu, là thành viên Royal Shakespeare Company từ thập niên 1960 trước khi nổi tiếng toàn cầu ở tuổi 47 với vai Thuyền trưởng Jean-Luc Picard trong 'Star Trek: The Next Generation' (1987–1994, 176 tập, 7 mùa) và Giáo sư Charles Xavier trong loạt phim 'X-Men' từ năm 2000.",
+    "category": "Chính trị & Xã hội",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.reuters.com/world/uk/british-actor-patrick-stewart-has-died-his-family-says-2026-10-29/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1044,
+    "analysis": "Thông báo được đăng trên tài khoản mạng xã hội chính thức của ông ngày 29/10 (giờ Mỹ), tức rạng sáng 30/10 giờ Việt Nam, và lập tức đứng đầu Hacker News với hơn 2.500 điểm. Các đồng nghiệp 'Star Trek' như William Shatner và George Takei đã gửi lời tri ân; Marvel Studios xác nhận vai diễn trong 'Avengers: Doomsday' (ra mắt tháng 12/2026) sẽ là lần xuất hiện cuối cùng trên màn ảnh của ông.\nSự ra đi của Stewart khép lại một tuần buồn của cộng đồng 'Star Trek' sau khi Walter Koenig qua đời ở tuổi 90 ngày 25/10. Di sản của ông vượt khỏi điện ảnh: Picard trở thành biểu tượng văn hóa về lãnh đạo điềm tĩnh, lý trí và nhân văn, trong khi vai Giáo sư X gắn với thông điệp về sự bao dung và đa dạng.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "60bbb141f83ade133b4d6db0976956ec40d99014ceb7641bfd3b60947ea6f8f2"
+  },
+  {
+    "id": "b4b0c4a6cd8c105660da17ad5555217759c4965ff81440918eb40a90504bdb04",
+    "title": "DoorDash mua Instacart với giá 17 tỷ USD, tham vọng dẫn đầu giao hàng tạp hóa tại Mỹ",
+    "summary": "DoorDash và Maplebear (công ty mẹ của Instacart) ngày 29/10 công bố thỏa thuận dứt khoát: DoorDash mua Instacart với giá 65 USD/cổ phiếu, tương đương giá trị vốn cổ phần khoảng 17 tỷ USD, cao hơn 26% so với giá đóng cửa ngày 22/10 — phiên cuối trước khi có tin đồn về thương vụ. Ít nhất 75% giá trị giao dịch trả bằng tiền mặt, phần còn lại bằng cổ phiếu DoorDash (tối đa 25%). Hội đồng quản trị Instacart nhất trí thông qua; DoorDash đã thu xếp khoản vay bắc cầu 13 tỷ USD từ JPMorgan Chase.",
+    "category": "Doanh nghiệp",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.businesswire.com/news/home/20261029560802/en/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1045,
+    "analysis": "Thương vụ dự kiến hoàn tất cuối 2027 hoặc nửa đầu 2028, sau khi được cổ đông Instacart và cơ quan chống độc quyền tại Mỹ, Canada, Israel phê duyệt. DoorDash sẽ giữ thương hiệu, ứng dụng và sản phẩm công nghệ doanh nghiệp của Instacart; người dùng Instacart có thể mua sắm tại hơn 50.000 cửa hàng bổ sung ngoài gần 100.000 cửa hàng hiện có, và một gói thành viên duy nhất cho DashPass và Instacart+ được cho là tiết kiệm khoảng 100 triệu USD/năm phí thành viên. Cùng ngày, DoorDash công bố doanh thu quý 3 tăng 34% lên 4,62 tỷ USD, đơn hàng tăng 28% lên 993 triệu đơn.\nThương vụ củng cố vị thế của DoorDash — hiện chiếm hơn 2/3 thị phần giao đồ ăn tại Mỹ — trước Walmart và Amazon trong cuộc đua giao tạp hóa và thương mại địa phương. Rủi ro chính là quá trình phê duyệt chống độc quyền và phí hủy hợp đồng: Instacart trả 650 triệu USD nếu rút lui, DoorDash trả tới 1,25 tỷ USD nếu thương vụ đổ vỡ vì lý do chống độc quyền.",
+    "tags": [
+      "Doanh nghiệp",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "976fea2d743806f1e80761a73e3ec58d2565450ac5ea4c56a3ab1bdbbf81d012"
+  },
+  {
+    "id": "5f0b3c6d53a136410f363d37591e9cba456cf8c067e39a7124c7790b84d6309d",
+    "title": "Dầu Brent vượt 115 USD/thùng, hướng tới tháng tăng gần 14% vì lo ngại Mỹ tấn công Iran và Houthi leo thang",
+    "summary": "Sáng 30/10, dầu Brent tăng 0,75% lên 115,74 USD/thùng (lúc 01:22 GMT, tức 08:22 giờ Việt Nam), WTI tăng 0,71% lên 102,72 USD/thùng, theo Reuters. Trong phiên châu Á sớm, Brent có lúc lên 115,44 USD sau phiên trước biến động hơn 3 USD, và có thời điểm chạm 117,84 USD. Tính cả tháng 10, Brent hướng tới mức tăng gần 14% và WTI tăng khoảng 15%, đóng cửa trên 100 USD lần đầu từ tháng 4 — tháng tăng thứ tư liên tiếp và mạnh nhất từ tháng 7.",
+    "category": "Thị trường",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-rise-brent-wti-us-iran-strike-threats-strait-of-hormuz-supply-risk-russia-ukraine-strike-halt-20022910.htm",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1046,
+    "analysis": "Động lực tăng giá: Houthi tuyên bố 6 vụ tấn công bằng tên lửa và drone vào các nhà máy lọc dầu Ras Tanura, Rabigh, cơ sở Aramco tại Abqaiq và các sân bay Riyadh, Dammam; liên minh do Saudi Arabia dẫn đầu đánh chặn 2 tên lửa đạn đạo hướng về Riyadh tối 29/10, mảnh vỡ làm 1 người bị thương nhẹ, hư hại 1 nhà và 1 ô tô. Báo cáo của Wall Street Journal về việc CENTCOM báo cáo Trump phương án quân sự với Iran càng làm tăng phí rủi ro.\nVới Việt Nam, dầu cao kéo dài gây áp lực lên giá xăng dầu trong nước (vừa tăng theo kỳ điều hành 29/10: E5 RON 92 lên 26.027 đồng/lít), chi phí logistics và lạm phát nhập khẩu; ngược lại có lợi cho nhóm dầu khí thượng nguồn. Goldman Sachs cảnh báo dầu có thể lên 120 USD/thùng nếu các vụ tấn công tàu thuyền tại Trung Đông leo thang.",
+    "tags": [
+      "Thị trường",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "f10ab0db024b7ffe33de0e6daf696e479bbcef3c540f6c8abe81e761a2db1f8e"
+  },
+  {
+    "id": "917b8b62e0b6d1a109edc523423a5ae49a3ba44d0e52bcaa080462aa5475902f",
+    "title": "Vàng SJC sáng 30/10 giảm 1,3 triệu đồng xuống 138,4–141,4 triệu đồng/lượng; tỷ giá trung tâm tăng lên 25.644 đồng/USD",
+    "summary": "Lúc 09:20 sáng 30/10, giá vàng miếng SJC niêm yết 138,4 triệu đồng/lượng mua vào và 141,4 triệu đồng/lượng bán ra, giảm 1,3 triệu đồng/lượng cả hai chiều so với phiên trước; DOJI Hà Nội và TP.HCM cùng mức này. Các thương hiệu khác cũng giảm 0,8–1,3 triệu đồng/lượng: Bảo Tín Minh Châu SJC 136,4–141,4 triệu, Phú Quý SJC 137,4–141,4 triệu, PNJ 136,0–140,0 triệu đồng/lượng. Chênh lệch mua–bán SJC duy trì 3 triệu đồng/lượng.",
+    "category": "Thị trường",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.vietnam.vn/en/cap-nhat-09-20-sang-30-10-2026-gia-vang-dong-loat-giam-tu-1-000-000-den-1-300-000-dong-luong",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1047,
+    "analysis": "Giá vàng thế giới giao ngay quanh 4.008–4.024 USD/ounce, giảm khoảng 19–40 USD so với phiên trước, do tăng trưởng kinh tế Mỹ mạnh hơn dự kiến và lạm phát dai dẳng củng cố kỳ vọng Fed thắt chặt thêm — thị trường hiện nghiêng về khả năng Fed tăng lãi suất 25 điểm cơ bản trong cuộc họp 8–9/12 với xác suất khoảng 70–72%. Ngân hàng Nhà nước công bố tỷ giá trung tâm 25.644 đồng/USD, tăng 13 đồng; Vietcombank niêm yết USD 25.610–26.020 đồng/USD.\nQuy đổi theo tỷ giá Vietcombank, vàng thế giới tương đương khoảng 125,6–125,7 triệu đồng/lượng, thấp hơn giá bán SJC khoảng 15,8 triệu đồng/lượng — chênh lệch vẫn rất lớn, rủi ro cho người mua đuổi giá cao. Lưu ý diễn biến trong phiên: các bản tin lúc 08:06 sáng vẫn ghi SJC 'giữ nguyên' 139,7–142,7 triệu đồng/lượng; mức 138,4–141,4 triệu chỉ xuất hiện từ các cập nhật 09:13–09:26.",
+    "tags": [
+      "Thị trường",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "49d6cbe20769b5c966912ed1f9252313b6721c70d8bf870629d8ea1425fff106"
+  },
+  {
+    "id": "a824ffdd0f49a92903283f4753d9b86d39a35d5f60f78423807074f7f19f8fa0",
+    "title": "Mùa báo cáo quý 3/2026: PV OIL lãi gấp hơn 5 lần, TCH tăng 1.233%, VIB và Vincom Retail tăng trưởng hai chữ số",
+    "summary": "Loạt doanh nghiệp lớn công bố kết quả quý 3/2026 sáng 30/10: PV OIL (OIL) lợi nhuận trước thuế quý 3 đạt 902 tỷ đồng, tăng 438% so với cùng kỳ (lũy kế 9 tháng 1.564 tỷ đồng, tăng 240%); TCH đạt 751 tỷ đồng, tăng 1.233% (9 tháng 1.129 tỷ đồng, tăng 651%); Vinpearl (VPL) đạt 766 tỷ đồng, tăng 427% (9 tháng 3.285 tỷ đồng, tăng 525%); VIB đạt 2.406 tỷ đồng, tăng 19% (9 tháng 7.592 tỷ đồng, tăng 8%); Vincom Retail (VRE) đạt 1.900 tỷ đồng, tăng 10% (9 tháng 5.895 tỷ đồng, tăng 24%); FPT Retail (FRT) đạt 686 tỷ đồng, tăng 111%. Ngược lại, Gelex Electric (GEE) báo lãi trước thuế 1.013 tỷ đồng, giảm 54% so với cùng kỳ.",
+    "category": "Doanh nghiệp",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://cafef.vn/cap-nhat-bctc-quy-3-2026-sang-ngay-30-10-loat-doanh-nghiep-lon-don-dap-cong-bo-tch-bao-lai-tang-1233-pv-oil-lai-hon-900-ty-dong-gap-hon-5-lan-cung-ky-18826102923433041.chn",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1048,
+    "analysis": "Mùa công bố quý 3 đang vào cao điểm cuối tháng 10; kết quả phân hóa mạnh theo ngành — năng lượng, du lịch–bán lẻ và ngân hàng tăng trưởng, trong khi một số doanh nghiệp sản xuất điện giảm sâu do nền so sánh cao năm trước.\nKết quả quý 3 tích cực của nhóm vốn hóa lớn có thể hỗ trợ tâm lý thị trường trong phiên chiều, dù áp lực bán ròng của khối ngoại (phiên thứ năm liên tiếp, khoảng 459 tỷ đồng ngày 29/10) và đợt bán tháo công nghệ toàn cầu vẫn chi phối ngắn hạn.",
+    "tags": [
+      "Doanh nghiệp",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "eed54e7bab64e18f3ff3c211c3857fb6385b3c2296813178115e617eadf151a4"
+  },
+  {
+    "id": "adc0e29a498e0fafeeec551f63feab098ea44994cd2f32862934c48ab7c88bba",
+    "title": "Quốc hội ngày 30/10: thảo luận Luật Kinh doanh bất động sản và Luật Dân chủ ở cơ sở, chiều bàn kế hoạch kinh tế – xã hội 2027",
+    "summary": "Sáng 30/10, trong khuôn khổ Kỳ họp thứ 2, Quốc hội khóa XVI thảo luận tại hội trường về dự án Luật Kinh doanh bất động sản (sửa đổi), với phần giải trình của Bộ trưởng Bộ Xây dựng Trần Hồng Minh; tiếp đó thảo luận dự án Luật Thực hiện dân chủ ở cơ sở (sửa đổi), Bộ trưởng Bộ Nội vụ Nguyễn Tiến Hải giải trình. Buổi chiều cùng ngày, Quốc hội chuyển sang thảo luận tình hình thực hiện Kế hoạch phát triển kinh tế – xã hội năm 2026 và dự kiến kế hoạch năm 2027, ngân sách nhà nước 2026, dự toán và phân bổ ngân sách trung ương 2027, đầu tư công 2026 và dự kiến 2027; phiên chiều được truyền hình, phát thanh trực tiếp và tiếp tục sang sáng thứ Bảy 31/10.",
+    "category": "Chính sách",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://www.vietnam.vn/en/ngay-30-10-quoc-hoi-thao-luan-ke-hoach-phat-trien-kinh-te-xa-hoi",
+    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/30/1793318641048_nvt-jpg.avif",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1049,
+    "analysis": "Báo cáo của Chính phủ trước đó cho biết năm 2026 dự kiến đạt và vượt 14/15 chỉ tiêu kinh tế – xã hội chủ yếu, GDP quý 3 tăng 9,95%, 9 tháng tăng 9,01%. Chiều 29/10, Quốc hội đã thảo luận Luật Phát triển doanh nghiệp nhỏ và vừa với 30 đại biểu phát biểu, trong đó có đề xuất nâng ngưỡng doanh thu SME từ 300 tỷ lên 400 tỷ đồng và miễn thuế thu nhập doanh nghiệp 3 năm kể từ khi có lãi (tối đa 5 năm từ ngày cấp giấy chứng nhận).\nHai dự luật buổi sáng tác động trực tiếp đến đời sống: thị trường bất động sản (minh bạch giao dịch, quyền lợi người mua nhà) và quyền dân chủ ở cơ sở (công khai, giám sát của người dân tại xã/phường). Kết quả thảo luận sẽ định hình nội dung sửa luật trước khi thông qua và phân bổ ngân sách 2027 cho các địa phương.",
+    "tags": [
+      "Chính sách",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "e50cee561f093ea678495f90f609592529c02ebd580c986c2c398a5e5bf21c95"
+  },
+  {
+    "id": "1e8c04d9330323f322bf4e8360c2563b109d373b53b1e9be38ab8d9edaa32eae",
+    "title": "Quốc lộ 28 sụt lún nghiêm trọng: cấm xe từ 18h ngày 30/10 trên đoạn nối Đà Lạt – Gia Nghĩa",
+    "summary": "Ngày 30/10, Sở Xây dựng tỉnh Lâm Đồng thông báo cấm phương tiện qua đoạn Km136+800–Km136+900 quốc lộ 28 (giáp ranh xã Phúc Thọ Lâm Hà và xã Tà Đùng) từ 18h ngày 30/10 cho đến khi có thông báo mới, để sửa chữa, gia cố. Nguyên nhân là mưa lớn kéo dài liên tục từ đầu tháng 9 đến cuối tháng 10 khiến nền đường sụt lún, nứt gãy: mặt đường lún sâu khoảng 30 cm, lề đường xuất hiện hố sụt rộng khoảng 40 cm, sâu khoảng 50 cm; vết nứt dài 70 m, rộng 10 cm, sâu trung bình 20 cm chạy từ mép mặt đường xuống mái ta-luy âm tại Km136+890.",
+    "category": "Giao thông",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://tuoitre.vn/quoc-lo-28-sut-lun-tam-cam-xe-qua-doan-noi-da-lat-gia-nghia-100261030085106684.htm",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1050,
+    "analysis": "Dù đã đổ đá cấp phối, trám bê tông, cắm biển cảnh báo và bố trí người theo dõi, tình trạng sụt lún vẫn tiếp diễn, tiềm ẩn nguy cơ đứt gãy, chia cắt giao thông. Phương tiện hai chiều Gia Nghĩa – Đà Lạt được hướng dẫn theo hai lộ trình thay thế, trong đó có tuyến qua đường Thủy điện Đồng Nai 4 ra tỉnh lộ ĐT.725 rồi nối quốc lộ 20 đi Đà Lạt.\nQuốc lộ 28 dài khoảng 160 km là trục huyết mạch nối Gia Nghĩa – Đà Lạt; người đi lại giữa hai khu vực phải đi vòng, tăng thời gian di chuyển, và có nguy cơ tai nạn nếu cố lưu thông qua đoạn sụt lún. Về dài hạn, dự án cải tạo, nâng cấp đoạn Di Linh – Gia Nghĩa (102,5 km, 2.100 tỷ đồng) dự kiến khởi công tháng 12/2026.",
+    "tags": [
+      "Giao thông",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "1d00c0dc6544ba8fce00148b4ebedaf4c459f6e7dceb836ff9a30c7985ba1df9"
+  },
+  {
+    "id": "de63f0c313e854060b1ad1026afa9ff68a952f618ec3a62e16924e6410cafd29",
+    "title": "TP.HCM đề xuất hỗ trợ bác sĩ về trạm y tế cao nhất bằng 80 lần lương tối thiểu vùng I",
+    "summary": "Tại kỳ họp thứ sáu HĐND TP.HCM khóa XI, UBND TP.HCM đã trình dự thảo Nghị quyết về chính sách thu hút, hỗ trợ và phát triển nguồn nhân lực y tế, tập trung vào Trung tâm Cấp cứu 115, các trạm y tế xã/phường/đặc khu và cơ sở y tế công lập tại đặc khu Côn Đảo. Theo đề xuất, bác sĩ có trình độ chuyên môn cao về Trung tâm Cấp cứu 115 hoặc trạm y tế có dưới 5 bác sĩ được thu hút một lần bằng 80 lần mức lương tối thiểu tháng vùng I; bác sĩ còn lại là 40 lần; dược sĩ, y sĩ, điều dưỡng, cấp cứu viên ngoại viện trình độ cao đẳng trở lên là 30 lần; viên chức, người lao động trực tiếp tại Cấp cứu 115 được hỗ trợ 3 triệu đồng/người/tháng.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://tuoitre.vn/print/tin-tuc-sang-30-10-tphcm-de-xuat-ho-tro-bac-si-ve-tram-y-te-cao-nhat-la-80-lan-luong-toi-thieu-vung-i-100261029214851712.htm",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1051,
+    "analysis": "Bác sĩ tại trạm y tế xã đảo Thạnh An hưởng hệ số 1,2 lần, tại đặc khu Côn Đảo 1,5 lần mức tương ứng; tại Côn Đảo, nhân lực từ ngoài đặc khu đến làm việc được hỗ trợ 18–30 triệu đồng/tháng tùy trình độ (bác sĩ), 12–15 triệu đồng/tháng với chức danh y tế khác. Cùng chuyên mục sáng 30/10, TP.HCM dự kiến sáng 31/10 trao giấy chứng nhận cho 203 cặp đôi tham gia tư vấn, khám sức khỏe trước khi kết hôn tại Bệnh viện Hùng Vương.\nChính sách nhằm lấp khoảng trống nhân lực y tế cơ sở — nơi lâu nay khó tuyển bác sĩ, đặc biệt tại trạm y tế xã/phường và đặc khu hải đảo. Caveat: đây mới là đề xuất trình HĐND, chưa phải nghị quyết đã thông qua; ngân sách chi trả và cơ chế giữ chân sau thời gian hỗ trợ sẽ là điểm cần giám sát.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "b5c0d3a62a05fedce90f47c793ef717a8d01e1b7b1bde20b39d6f6674e97db2a"
+  },
+  {
+    "id": "d9866f04fa1d0f4a814c954ca194f4abc3386aae1a834fa73d80c2b79284dced",
+    "title": "Nữ sinh tử vong sau khi ăn lá ngón ở Đà Nẵng; 4 học sinh khác đã ổn định",
+    "summary": "Sáng 29/10, Bí thư Đảng ủy xã Hùng Sơn (TP Đà Nẵng) xác nhận địa phương đang phối hợp xác minh vụ 5 nữ sinh ăn lá ngón. Theo thông tin ban đầu, khoảng 12h ngày 28/10, trong giờ nghỉ trưa, nhóm 5 nữ sinh tại điểm trường liên cấp xã Hùng Sơn (điểm trường xã Ch'Ơm cũ) rủ nhau ra khu vực phía sau một nhà dân chơi rồi hái lá ngón ăn. Nhà trường phối hợp với lực lượng chức năng đưa cả 5 em đến Trạm Y tế Quân dân y xã Hùng Sơn cấp cứu; đến khoảng 14h50 cùng ngày, nữ sinh T.N.T.M.H. (sinh năm 2013) tử vong, 4 em còn lại sức khỏe đã ổn định.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vietnamnet.vn/thoi-su-sang-30-10-nu-sinh-tu-vong-sau-khi-an-la-ngon-2569619.html",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1052,
+    "analysis": "Lá ngón là cây cực độc mọc phổ biến ở vùng núi, biên giới; các vụ ngộ độc do trẻ em vô tình ăn lá ngón vẫn tái diễn dù đã nhiều lần cảnh báo. Vụ việc được VietNamNet cập nhật trong bản tin thời sự sáng 30/10 (đăng 06:15, cập nhật 08:11).\nVụ việc gióng hồi chuông về giáo dục nhận biết cây độc cho học sinh vùng cao, biên giới và trách nhiệm giám sát giờ nghỉ trưa tại điểm trường lẻ; đồng thời cho thấy nhu cầu tăng cường truyền thông phòng ngừa ngộ độc thực vật tại các trường học vùng núi.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "60cc891d91fda0e93f8504771e18f9e0de99ac7a6f3efb66b0d9cae7f96d9726"
+  },
+  {
+    "id": "04283a4c4d6848aec0fded27e2e32fb8d0c730ce593f372c8e3326e8daf0f57a",
+    "title": "PHP2Shell bị chuỗi hóa với lỗi nhân Linux: 25 máy chủ tường lửa bị chiếm quyền root, gồm hệ thống liên quan chính phủ Mỹ",
+    "summary": "Công ty nghiên cứu Dream công bố chiến dịch tấn công được phát hiện ngày 25/10: kẻ tấn công kết hợp lỗ hổng PHP2Shell (CVE-2026-109618/109619, CVSS 9,2) với lỗi leo thang đặc quyền nhân Linux Fragnesia (CVE-2026-46300) để chiếm quyền root trên 25 máy chủ tường lửa và quản trị, trong đó 3 hệ thống thuộc môi trường liên quan chính phủ Mỹ. Kẻ tấn công dùng công cụ tìm kiếm FOFA xác định khoảng 19.000 tường lửa lộ giao diện quản trị, quét phiên bản khoảng 5.000 thiết bị, lọc còn 240 mục tiêu, rồi tự động khai thác thành công 24 tường lửa vành đai, sau đó qua đường hầm SSH ngược chiếm thêm máy chủ quản trị nội bộ thành máy thứ 25.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1053,
+    "analysis": "Chuỗi khai thác tùy chỉnh, không sao chép từ mã công khai, nhắm vào máy chủ web quản trị appweb của tường lửa Palo Alto Networks PAN-OS (phiên bản 12.1 và 12.2 chạy PHP 8.0.30); từ yêu cầu HTTPS chưa xác thực tới webshell root chỉ mất dưới 15 phút. Sau khi chiếm quyền, kẻ tấn công trích xuất thông tin đăng nhập và trinh sát Active Directory, gồm giải mã mật khẩu tài khoản dịch vụ LDAP, liệt kê người dùng, phun mật khẩu và tạo tài khoản cửa sau. Unit 42 của Palo Alto Networks đã xác minh độc lập công cụ và kết quả của kẻ tấn công, hãng đang phát hành các bản PAN-OS đã vá.\nDream ghi nhận dấu vết công cụ AI trong hạ tầng tấn công (Claude Code, khóa API FOFA, nền tảng aiscan cấu hình mô hình DeepSeek và Kimi), nhưng nhấn mạnh đây là bằng chứng 'hỗ trợ bởi AI', chưa chứng minh khai thác tự động hoàn toàn, và chưa quy kết cho một tác nhân cụ thể nào dù báo cáo nghi ngờ liên hệ Trung Quốc. Bài học cho quản trị viên: không bao giờ để giao diện quản trị tường lửa lộ ra Internet, vá PAN-OS và PHP ngay.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "3a1af647238e86f26289a831a5a6c5debd9d279193aaaf863e67076930f59e80"
+  },
+  {
+    "id": "aa0f0a9cf08607cbfb9df9988695b171874fae4da99db71dc9210c47b0ad0c0d",
+    "title": "Lỗ hổng 'Embrace' trong trình duyệt nhúng: 5 công cụ lập trình AI bị ảnh hưởng, lỗi của OpenAI và Microsoft vẫn chưa vá",
+    "summary": "Hãng bảo mật Forever Security phát hiện lỗ hổng trong trình duyệt nhúng của Cursor, GitHub Copilot, Claude Desktop của Anthropic, VS Code của Microsoft và Codex của OpenAI. Các trình duyệt nhúng được cấp quyền vượt trình duyệt thông thường, làm suy yếu ranh giới bảo mật quanh dữ liệu đầu vào của agent, địa chỉ tab và quyền truy cập máy chủ. Lỗ hổng cho phép thực thi mã trong Cursor, đánh cắp dữ liệu trong Claude Desktop, Codex và VS Code, và giả mạo thanh địa chỉ trong Copilot.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://mezha.net/eng/news/mezha-87013860582ed589b8a226fb_researchers_find_flaws/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1054,
+    "analysis": "Forever đã công bố lỗi Cursor ngày 10/9, hãng vá lặng lẽ ngày 1/10; GitHub tự sửa lỗi Copilot trong bản 1.1.29 ngày 13/10 mà không nhận báo cáo của Forever. Lỗi Claude Desktop được báo cáo ngày 23/7 nhưng Anthropic bác bỏ vì cho rằng liên quan ranh giới 'workspace trust'; lỗi Codex báo cáo ngày 27/7 chưa có phản hồi và vẫn chưa vá; lỗi VS Code báo cáo ngày 10/9 cũng bị Microsoft xếp loại không hợp lệ vì 'workspace trust' và vẫn chưa vá. Các tập tin HTML cục bộ mở trong trình duyệt tích hợp của Claude Desktop, VS Code và Codex có thể thoát khỏi ranh giới trình duyệt và truy cập tập tin khác.\nNgười dùng các công cụ AI lập trình cần thận trọng khi mở tập tin HTML cục bộ hoặc nội dung không tin cậy trong trình duyệt tích hợp, cập nhật lên bản mới nhất và chờ xác nhận vá từ OpenAI, Microsoft và Anthropic. Caveat: thông tin qua The Register, được Mezha tổng hợp lại; phản hồi chính thức của các hãng về kế hoạch vá vẫn chưa đầy đủ.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "c8c3381e0b323951e9d82a448f1aadb842f3319d8202fe63eda6954c41ef30e4"
+  },
+  {
+    "id": "c57de11f1a7a2ea33fd5dd4ed807b19c88ce5d4667feec7b9b53821732a09f98",
+    "title": "Polymarket bị hack qua script bên thứ ba DebugBear: hơn 700 tài khoản mất khoảng 2,6 triệu USD",
+    "summary": "Kẻ tấn công lợi dụng dịch vụ giám sát hiệu năng DebugBear (Real User Monitoring) để chèn mã độc vào giao diện web của sàn dự đoán Polymarket quốc tế, chiếm phiên giao dịch đang đăng nhập, bán vị thế và rút tiền người dùng. Polymarket chuyển sàn quốc tế sang chế độ chỉ hủy lệnh, tạm dừng giao dịch rồi nối lại khoảng 15:00 giờ miền Đông 29/10 (02:00 giờ Việt Nam 30/10), cam kết bồi thường đầy đủ cho người bị ảnh hưởng và báo cơ quan thực thi pháp luật Anh (nơi DebugBear đặt trụ sở). Sàn Polymarket US không bị ảnh hưởng.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.ajupress.com/view/20261030113270343",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1055,
+    "analysis": "Theo Wall Street Journal, ít nhất 2,6 triệu USD từ hơn 700 tài khoản đã bị lấy; phân tích blockchain ghi nhận khoảng 28,6 triệu token POL (khoảng 2,57 triệu USD) chuyển qua các ví nghi của kẻ tấn công, trong đó một lô khoảng 750.000 USD đã bị đóng băng kịp thời. Đây là vụ thứ hai trong năm của Polymarket sau vụ hồi tháng 6, và xảy ra cùng ngày với nghi vấn hack Binance — cho thấy chuỗi cung ứng script bên thứ ba đang trở thành điểm yếu hệ thống của các nền tảng web tài chính.\nNgười dùng cần kiểm tra tài khoản, thu hồi phiên đăng nhập và bật xác thực đa yếu tố; các nền tảng web cần rà soát script bên thứ ba, áp dụng chính sách bảo mật nội dung (CSP) và giám sát tính toàn vẹn của mã front-end. Mức thiệt hại dao động 2,5–2,7 triệu USD tùy nguồn phân tích.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "4c936d140554b9623664629eb9b6868995650837c5de7956f24e333f3e421c1e"
+  },
+  {
+    "id": "5222c8b948023d70f4ce11611f67762c5f885f4c24d60f481a498ce9550acf00",
+    "title": "Nhật Bản đối mặt làn sóng tấn công mạng dùng AI, nghi có công cụ 'Artex' do Trung Quốc phát triển",
+    "summary": "Hàng chục công ty Nhật Bản nhiều ngành (tài chính, bán lẻ, vận tải, logistics) và một website liên quan năng lượng của chính phủ báo cáo truy cập trái phép, rò rỉ dữ liệu trong làn sóng tấn công mạng mới. Công ty GMO Cybersecurity by Ierae cho biết đã xác định 6 máy chủ phát động tấn công dùng AI, tổ chức theo ngành mục tiêu, và chỉ ra công cụ AI tên Artex được dùng trong loạt tấn công nhắm vào tổ chức Nhật Bản. Riêng cảnh sát Nhật báo cáo thông tin khoảng 125.000 cảnh sát/nhân viên thuộc 20 lực lượng tỉnh có thể bị lộ qua nhà cung cấp dịch vụ đám mây Arcadia.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.timesnownews.com/world/asia/japan-ai-cyberattacks-artex-gmo-data-breach-emergency-alerts-article-156432801",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1056,
+    "analysis": "Tin được Times Now đăng lúc 09:57 giờ Việt Nam ngày 30/10, trong cửa sổ bản tin. Đây là diễn biến nối tiếp cảnh báo của Microsoft về nhóm Storm-0940 dùng AI agent ARTEX tấn công chuỗi cung ứng ConnectWise, song hai cái tên 'Artex'/'ARTEX' có thể chỉ các công cụ khác nhau và chưa có xác nhận rằng đây là cùng một công cụ.\nNếu làn sóng tấn công dùng AI được xác nhận, các tổ chức Nhật Bản và khu vực sẽ phải nâng cấp phòng thủ theo hướng phát hiện hành vi tự động, rà soát nhà cung cấp đám mây và tăng cường giám sát truy cập trái phép theo ngành. Caveat: thông tin mới từ một nguồn (Times Now dẫn GMO Cybersecurity by Ierae), chưa có xác nhận độc lập từ chính phủ Nhật Bản về quy mô thiệt hại.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "2c1079bdb2a9a3b3f3b6b7566278c1f9b58c679d6f85edecf857f0c0a7c34daf"
+  },
+  {
+    "id": "ed1a39d0458e158890fb18ed99bd17a0df93e0e6398098d8d2dbac5ece4bbe71",
+    "title": "Stack Overflow chỉ còn khoảng 33 câu hỏi mới mỗi ngày: kho lưu trữ 24,2 triệu câu hỏi vẫn sống, cộng đồng hỏi đáp thì gần như dừng lại",
+    "summary": "Nền tảng hỏi đáp lập trình Stack Overflow tháng 9/2026 chỉ ghi nhận 969 câu hỏi mới còn tồn tại (tháng 8: 1.019), tức khoảng 33 câu/ngày, so với đỉnh 207.169 câu trong tháng 3/2014 — giảm hơn 99%. Trong 9 tháng đầu 2026, tổng số câu hỏi mới chỉ 18.944; kho lưu trữ vẫn còn 24,2 triệu câu hỏi và 36,1 triệu câu trả lời. Khảo sát nhà phát triển 2026 của Stack Overflow: 64% cho biết ít ghé thăm hơn vì AI trả lời câu hỏi đơn giản, 29% đặt ít câu hỏi hơn, 27% đóng góp ít hơn.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.software-lifecycle.com/editorials/demise-of-stack-overflow",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1057,
+    "analysis": "Điểm HOT: Chưa đủ dữ liệu. Like/Reactions: N/A; Comments/Replies: 657 bình luận trên Hacker News; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: nhiều bài phân tích độc lập (bài gốc, dev.to, bài tổng hợp HN) nhưng không đủ dữ liệu tăng trưởng 24h và tương tác đa nền tảng để chấm điểm chính thức. Thời điểm ghi nhận: khoảng 10:17 giờ Việt Nam 30/10 (bản tổng hợp front-page HN crawl 03:17 UTC). Điểm số Hacker News thực tế: 747 points / 657 comments.\nCuộc tranh luận nổi bật: suy giảm bắt đầu từ trước LLM (đỉnh cách đây 12 năm, kiểm duyệt khắt khe, cộng đồng khó tính với người mới), AI chỉ lấy đi 'câu hỏi đơn giản cuối cùng'. Công ty chuyển hướng sang Stack Internal — lớp tri thức doanh nghiệp cho con người và agent, ra mắt 30/9 — và Stack Overflow for Agents. Tác động: mô hình cộng đồng hỏi đáp truyền thống bị AI thay thế ở tầng câu hỏi đơn giản; giá trị còn lại nằm ở kho lưu trữ được cấp phép cho huấn luyện AI.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "67acffa488e146e965bfaeb5f019ee7427d2d7f86a8f66d4c954eaeb338015c0"
+  },
+  {
+    "id": "c20dee9582b7ff3ecb4161d3ca7d42d4843989bfbb8e0612741b6fd0b6ff2934",
+    "title": "'Qwenputer': CPU RISC-V được biên dịch thẳng vào trọng số của mô hình Qwen3.5-4B, chạy C và MicroPython ngay trong forward pass",
+    "summary": "Dự án Qwenputer của nhà phát triển Divyansh Agrawal chèn một CPU RISC-V 32-bit (RV32IM + mở rộng Zba + bộ đồng xử lý bignum) vào mô hình Qwen3.5-4B: 11 lớp transformer bổ sung, không qua huấn luyện, được tính toán trực tiếp từ mô tả mạch điện; các lớp Gated DeltaNet sẵn có của Qwen được tái sử dụng làm RAM. Không có plugin, sandbox hay trình thông dịch bên ngoài — chính forward pass của mô hình là CPU đang thực thi. Dự án vượt qua bộ kiểm tra riscv-tests chính thức, chạy 18 triệu lệnh không lỗi, chạy C và MicroPython (chậm), đạt 100% trên benchmark NUPA so với 48,6% của mô hình gốc, và nâng điểm số học DeepMind mul_big từ 55,0 lên 97,5.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://startupfortune.com/a-developer-compiled-a-working-risc-v-cpu-into-a-4b-parameter-models-weights/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1058,
+    "analysis": "Điểm HOT: Chưa đủ dữ liệu. Like/Reactions: N/A; Comments/Replies: 141 bình luận trên Hacker News; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: nhiều bài viết độc lập (Hugging Face, AI Weekly, StartupFortune) nhưng thiếu dữ liệu tăng trưởng 24h và tương tác đa nền tảng. Thời điểm ghi nhận: khoảng 10:17 giờ Việt Nam 30/10. Điểm số Hacker News thực tế: 669 points / 141 comments.\nTranh luận nổi bật: mô hình có thể 'tính toán chính xác' thay vì 'đoán mò' nhờ mạch xác định, nhưng cũng đặt câu hỏi về khả năng giám sát — bộ nhớ địa chỉ chính xác nằm trong trạng thái RNN mà hệ thống giám sát chain-of-thought bên ngoài không đọc được. Đây vẫn là nguyên mẫu nghiên cứu (checkpoint 18,8 GB ở định dạng bf16, cần driver tùy chỉnh), chưa phải giải pháp thay thế CPU hay Python runtime.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "7c2ed7164d4cafeb5441a1f150a9a908afd356911a288144f59923eee48fc516"
+  },
+  {
+    "id": "392b02c63a0eec50d539a43eb5ea398712af23667c1c33ba533fac21c41acde7",
+    "title": "Claude Code 'đốt' 15–20% token chỉ để tạo dòng trạng thái 3 từ cho agent nền",
+    "summary": "Một phân tích của Flamerix AI cho thấy tính năng agent_summary của Claude Code — cứ khoảng 30 giây lại gửi toàn bộ transcript của agent nền cho chính mô hình đó để tạo nhãn trạng thái 3–5 từ trong bảng agent — tiêu tốn khoảng 15–20% token, trong một tuần đo được chiếm 16,4% chi phí ước tính, cao hơn cả cuộc trò chuyện chính (15,7%), và 19,7% tổng số yêu cầu API. Khoảng 98% các lần gọi này đọc lại transcript từ bộ nhớ đệm (cache), nhưng khoảng 2% trượt cache lại chiếm hơn 1/3 chi phí; 96% chi phí thuộc về mô hình Opus.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://aiparabellum.com/claude-code-3-word-status-line-tokens/",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1059,
+    "analysis": "Điểm HOT: Chưa đủ dữ liệu. Like/Reactions: N/A; Comments/Replies: 220 bình luận trên Hacker News; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: nhiều bài phân tích độc lập (ghi chú gốc, AI Parabellum, alfw.ai) nhưng thiếu dữ liệu tăng trưởng 24h và tương tác đa nền tảng. Thời điểm ghi nhận: khoảng 10:17 giờ Việt Nam 30/10. Điểm số Hacker News thực tế: 552 points / 220 comments.\nPhản hồi từ Anthropic: đại diện nhóm Claude Code cho biết trên diện rộng, agent_summary chỉ chiếm khoảng 2% chi phí theo giá niêm yết API (6% trong terminal) và lỗi trượt cache đã được sửa từ phiên bản 2.1.311 trở đi; con số 16,4% phản ánh một trường hợp dùng nhiều agent nền chạy chậm. Tác động thực tế: người dùng gói đăng ký mất hạn mức (quota) chứ không hẳn mất tiền; giải pháp tình thế là script Bun preload chặn bộ đếm tóm tắt, nhưng phụ thuộc chi tiết triển khai nội bộ và có thể hỏng sau mỗi lần cập nhật.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "fc2f1bf99176196a9a08c2e746e6d1b3ed857742164d893013ac2b44116bb498"
+  },
+  {
+    "id": "a50534ab5f902fa005607e756888ea647136635c5e7300dbbbbc3967b04c9bc6",
+    "title": "Tencent 'Buddy One': workspace AI agent hợp nhất ứng dụng văn phòng quanh agent WorkBuddy",
+    "summary": "Tencent ngày 30/10 ra mắt 'Buddy One', workspace AI hợp nhất các ứng dụng năng suất quanh agent WorkBuddy, được thiết kế để tự động hóa tác vụ văn phòng đa bước xuyên ứng dụng — bước chuyển từ chatbot độc lập sang hệ thống agent tích hợp. Động thái này diễn ra khi ByteDance và Alibaba cũng tung sản phẩm văn phòng AI cạnh tranh; Tencent đồng thời chuẩn bị mô hình Hy4/Hy4 Flash cho tác vụ dài hạn và TokenHub cho truy cập đa mô hình qua một API.",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://www.caixinglobal.com/2026-10-30/tencent-expands-enterprise-ai-push-with-integrated-workspace-102498705.html",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1060,
+    "analysis": "Tính năng chính: agent WorkBuddy thực thi quy trình văn phòng phức tạp qua nhiều ứng dụng thay vì chỉ trả lời câu hỏi; hướng tới khách hàng doanh nghiệp Trung Quốc trước. Hạn chế: bài báo Caixin chỉ dành cho thuê bao nên chi tiết giá, phạm vi tính năng đầy đủ và khả năng dùng ngoài Trung Quốc chưa xác minh được từ bản tóm tắt; chưa có giá công khai.\nỨng dụng thực tế: doanh nghiệp muốn tự động hóa quy trình văn phòng đa ứng dụng có thể theo dõi Buddy One như một lựa chọn hệ sinh thái Tencent, song cần chờ tài liệu chính thức và đánh giá độc lập trước khi triển khai, đặc biệt về bảo mật dữ liệu doanh nghiệp và khả năng tích hợp với công cụ sẵn có.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "7a147b0ef8ec548c75b7e61ce6c76ebcd165684c9f24cdcb4568dbbc9a0e9a02"
+  },
+  {
+    "id": "0c787c512a4056d9e7a28715fa7a00e170352dfc40cad26e60714befcfa189b3",
+    "title": "Shufti 'Know Your Agent' (KYA): xác minh danh tính agent AI trước khi giao dịch",
+    "summary": "Shufti ngày 29/10 ra mắt 'Know Your Agent' (KYA) — dịch vụ xác minh danh tính agent AI tự động trong một luồng duy nhất: xác nhận agent, xác nhận con người thật đã ủy quyền cho agent đó, và kiểm tra quyền hạn của agent trước khi nó truy cập dữ liệu hoặc thực hiện giao dịch. Mỗi agent nhận credential có thời hạn, có thể thu hồi, liên kết với cá nhân/doanh nghiệp đã qua quy trình KYC/KYB.",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/29/3391650/0/en/shufti-launches-know-your-agent-to-verify-ai-agent-identity-human-authorization-permissions-in-a-single-flow.html",
+    "collectedAt": "2026-10-30T07:03:08.559Z",
+    "sourceRow": 1061,
+    "analysis": "Tính năng mới: thay vì chỉ xác minh con người, KYA xác minh cả 'đại diện số' của họ — cần thiết khi các agent như Meta Muse, GrokBot, OpenAI Dots bắt đầu mua sắm, đặt lịch và giao dịch thay người dùng. Hãng cho biết đã hỗ trợ các agent này trong vòng một tuần sau khi chúng ra mắt. Hạn chế: đây là thông cáo của hãng, chưa có đánh giá độc lập về độ chính xác, độ phủ agent và giá; hiệu quả thực tế phụ thuộc vào việc nền tảng đối tác có chấp nhận credential KYA hay không.\nỨng dụng thực tế: sàn thương mại, ngân hàng và nền tảng SaaS có thể dùng KYA để phân biệt agent được ủy quyền với bot độc hại, giảm gian lận trong mua sắm agentic và tự động hóa doanh nghiệp; doanh nghiệp triển khai agent cần theo dõi chuẩn xác minh agent đang hình thành này.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "6a467561ab2388a91f1d38dbcae0fc0b23afd2a243ef29b015f2dcfa0df94ee2"
   }
 ]
