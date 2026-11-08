@@ -17353,7 +17353,7 @@
     "id": "e305f91b8de7d3a769af45aa5ca69001df66e1081e3f3e3f75a690d58e6aa171",
     "title": "Nhà xuất bản của Eminem và chủ sở hữu quyền Elvis kiện Suno vì AI nhạc vi phạm bản quyền, đòi hơn 41 triệu USD",
     "summary": "Eight Mile Style — đơn vị quản lý 269 tác phẩm của Eminem, gồm 'Lose Yourself', 'Stan' và 'The Real Slim Shady' — kiện Suno tại tòa liên bang Bắc California, cáo buộc Suno sao chép không phép để huấn luyện mô hình và cho người dùng tạo nhạc/lời giống catalogue của Eminem. Yêu cầu tối đa 150.000 USD/tác phẩm cố ý vi phạm, tổng ~40,35 triệu USD, cộng 672.000 USD về xóa thông tin quản lý bản quyền — tổng hơn 41 triệu USD (số tiền nguyên đơn yêu cầu, chưa phải phán quyết của tòa; Eminem không phải nguyên đơn trực tiếp). Cùng ngày 6/11, nhóm chủ sở hữu quyền Elvis Presley cũng kiện Suno riêng, cáo buộc vi phạm bản quyền và luật ELVIS Act của Tennessee về giả giọng nói. Suno phản hồi với Billboard: công ty 'tồn tại để giúp mọi người tạo nhạc mới, nguyên bản', cấm dùng trái phép tác phẩm nghệ sĩ, chặn prompt nêu tên nghệ sĩ/bài hát. RIAA đã kiện Suno từ tháng 6/2024; Warner Music đã đạt thỏa thuận và hợp tác với Suno.",
-    "category": "Công nghệ",
+    "category": "Công nghệ & AI",
     "section": "A - Top 5",
     "sourceUrl": "https://www.dancehallmag.com/2026/11/08/news/eminems-publisher-sues-ai-music-generator-suno-for-41-million.html",
     "imageUrl": "https://www.dancehallmag.com/wp-content/uploads/2026/11/eminem-36-1112x1200.jpg",
@@ -17362,28 +17362,28 @@
     "sourceRow": 2251,
     "analysis": "Phép thử lớn tiếp theo về ranh giới huấn luyện mô hình nhạc AI, sau các vụ kiện của hãng thu âm lớn; vụ Elvis là một trong những vụ đầu tiên viện dẫn luật ELVIS Act 2024 về quyền giọng nói và hình ảnh.\nNếu nguyên đơn thắng, các công ty nhạc AI có thể phải thay đổi dữ liệu huấn luyện, cơ chế lọc bắt chước giọng/ca khúc và đối mặt chi phí bồi thường lớn; nếu Suno thắng, tiền lệ sẽ nới rộng không gian huấn luyện AI.",
     "tags": [
-      "Công nghệ",
+      "Công nghệ & AI",
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "876b3f35aaf682438b3c7078cc7b6cdf18150c8dd7239ff24a5cf39bb5f4ac13"
+    "contentHash": "d81dcee09a034a8796891488e672a4aeeb194ca07dc403c15e039ffeacfdefe6"
   },
   {
     "id": "0c51a10fc85bb9bd826ae76ffecadbd9a56fcf3b1a51d356456d80a629346b92",
     "title": "Cháy lớn quán karaoke đang hoạt động ở Đồng Nai, nhiều người được cứu",
     "summary": "Vụ cháy bùng phát khoảng 16h45 ngày 8/11 tại quán karaoke Nữ Hoàng, đường Hai Bà Trưng, phường Bình Phước, TP Đồng Nai, lúc quán đang hoạt động, có nhiều khách và nhân viên. Công an TP Đồng Nai huy động nhiều xe chữa cháy, trong đó có xe thang; phong tỏa hiện trường, chia nhiều mũi chữa cháy, chống cháy lan. Đến 18h45 quán vẫn còn cháy kèm nhiều tiếng nổ lớn; khoảng hơn 19h đám cháy cơ bản được khống chế, bên trong vẫn còn khói, nhiệt độ cao. Lực lượng chức năng dùng xe cẩu phá tường để tiếp cận, dập các điểm cháy; trinh sát vào bên trong kiểm tra. Bài báo khẳng định cảnh sát cứu nhiều người thoát khỏi nguy hiểm nhưng không nêu con số cụ thể người được cứu hay thương vong; nguyên nhân chưa được nêu.",
-    "category": "Xã hội",
+    "category": "Chính trị & Xã hội",
     "section": "A - Top 5",
     "sourceUrl": "https://dantri.com.vn/thoi-su/chay-lon-quan-karaoke-o-dong-nai-nhieu-nguoi-duoc-cuu-20261108184650090.htm",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2252,
     "analysis": "Nhóm cơ sở kinh doanh karaoke có rủi ro cháy nổ cao, từng nhiều lần gây thương vong lớn; vụ cháy xảy ra chiều cuối tuần, khống chế sau ~2,5 giờ và phải phá tường cho thấy mức độ phức tạp của đám cháy.\nCần theo dõi cập nhật về thương vong và nguyên nhân từ cơ quan chức năng; nhắc lại yêu cầu an toàn phòng cháy chữa cháy với cơ sở karaoke đang hoạt động.",
     "tags": [
-      "Xã hội",
+      "Chính trị & Xã hội",
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "b87067f61ca08bb9b57c4622f03d219bf99352c4a30e0eeddf0d78defe1a12e7"
+    "contentHash": "1ccbffabba9aff3b8567ce1c2c6e6f3a50d1aebc45645e1a620e865a5ad4eee4"
   },
   {
     "id": "c6cbd71fc60c9838efb65698335b8d438183b89291533b7f3af2527a7d45a216",
@@ -17464,7 +17464,7 @@
     "id": "bca94d459a51ea1edda080272133e5a1fd437437a6e3a98d8635c6b032e1f00a",
     "title": "Vàng tuần: thế giới tăng 5% lên ~4.070 USD/ounce nhưng SJC chỉ nhích 2 triệu đồng/lượng; Goldman Sachs hạ dự báo giá vàng cuối 2026",
     "summary": "Sáng 8/11, vàng miếng SJC niêm yết 138–141 triệu đồng/lượng (mua–bán), giữ nguyên so với hai ngày trước; DOJI, PNJ, Bảo Tín Mạnh Hải cùng mức này; vàng nhẫn SJC 136,5–140,5 triệu đồng/lượng. So với mở cửa sáng thứ Hai 2/11 (136–139 triệu), SJC tăng 2 triệu đồng/lượng cả hai chiều, dù biên độ dao động trong tuần tới 5,5 triệu đồng/lượng (đỉnh 144,5 triệu sáng 5/11, đáy 139 triệu sáng 2/11). Vàng nhẫn tăng mạnh hơn: +4,7 triệu đồng/lượng trong tuần, khiến chênh lệch giá bán nhẫn – miếng SJC thu hẹp từ 3,2 triệu xuống 500.000 đồng/lượng. Vàng thế giới mở tuần ở 3.875 USD/ounce, đóng tuần quanh 4.070 USD/ounce (+~195 USD, ~5%, tuần tăng mạnh nhất từ cuối tháng 8), nhờ USD suy yếu sau bầu cử giữa nhiệm kỳ Mỹ; lên đỉnh 4.147 USD/ounce ngày 5/11 rồi hạ nhiệt khi báo cáo việc làm Mỹ mạnh lên và kỳ vọng Fed tăng lãi suất tháng 12 tăng (~75–78% theo FedWatch). Goldman Sachs ngày 5/11 hạ dự báo giá vàng cuối năm 2026 xuống 4.150 USD/ounce (từ 4.650 USD/ounce). Chênh lệch SJC – thế giới thu hẹp từ hơn 17 triệu xuống khoảng 14 triệu đồng/lượng. Thống đốc NHNN Phạm Đức Ấn cho biết NHNN đã đề xuất Thủ tướng chưa thành lập sàn/sở giao dịch vàng trong giai đoạn hiện nay.",
-    "category": "Vàng",
+    "category": "Kinh tế & Tài chính",
     "section": "B - Kinh tế",
     "region": "Quốc tế",
     "sourceUrl": "https://www.vietnam.vn/vang-the-gioi-tang-5-trong-tuan-nhung-sjc-chi-nhich-2-trieu-dong-luong",
@@ -17472,11 +17472,11 @@
     "sourceRow": 2257,
     "analysis": "Vàng thế giới tăng nhờ USD suy yếu sau bầu cử giữa nhiệm kỳ Mỹ; SJC tăng chậm hơn do chênh lệch trong nước và chính sách quản lý thị trường vàng.\nNgười mua tại đỉnh tuần (144,5 triệu) nếu bán lại sáng 8/11 chịu chênh lệch 6,5 triệu đồng/lượng; chênh lệch mua–bán 3 triệu đồng/lượng vẫn là rủi ro lớn với nhà đầu tư ngắn hạn; diễn biến tuần tới phụ thuộc CPI Mỹ ngày 10/11 và PPI ngày 13/11.",
     "tags": [
-      "Vàng",
+      "Kinh tế & Tài chính",
       "B - Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "d25527bac41745db47a7ae7ee953b1d0ce10cf72a23d81ec9fc89b2b058069ff"
+    "contentHash": "3613c72a40d9968fc8856f7d3336e3b727653200e5a0cdff05dfb53e8da5f103"
   },
   {
     "id": "f763ef25c306df12269a3fb9a273ee0729fcbed51077cb9dca99a4d168ae9cc9",
@@ -17500,7 +17500,7 @@
     "id": "6983adbc1cc90f27ced949fd7a66fff8d6d31f0f2354a6e4e426923b20f8a25e",
     "title": "Vụ lăng mộ 'khủng' xây trong nghĩa trang: xã chờ hướng dẫn xử lý từ các sở",
     "summary": "Chiều 8/11, Chủ tịch UBND xã Nga Sơn (Thanh Hóa) Lê Ngọc Khánh cho biết địa phương đang chờ hướng dẫn xử lý từ Sở Xây dựng và Sở Văn hóa, Thể thao và Du lịch tỉnh Thanh Hóa về khu lăng mộ rộng lớn do gia đình ông L.V.S. xây trong nghĩa trang Nga Thanh. Hai sở đã về làm việc sau khi báo chí phản ánh, để xem việc xây dựng có đúng quy hoạch nghĩa trang hay không và các văn bản liên quan có cấm xây mộ lớn như vậy hay không. Ông Khánh nói địa phương đã nghiên cứu mà 'không thấy có quy định nào cấm xây cả nên cũng khó trong xử lý'; kết luận thẩm tra của các sở ra sao thì xã sẽ thực hiện như vậy. Khu mộ nằm trên đất quy hoạch nghĩa trang; diện tích hộ ông S. xây dựng được mua lại của nhiều hộ dân từ năm 2019, khi còn xã cũ. Trước đó, cuối năm 2025 xã nhận phản ánh của người dân, lập đoàn liên ngành kiểm tra và ghi nhận công trình dài 15m, rộng 12m, tổng diện tích 180m², tường gạch, bê tông cốt thép cao 2,5m; xã đã 2 lần lập biên bản, yêu cầu dừng thi công vì xây công trình kiên cố khi chưa được cơ quan có thẩm quyền cho phép, không báo cáo chính quyền — nhưng công trình vẫn xây và đến cuối tháng 1/2026 đã cơ bản hoàn thành. Gia đình ông S. hai lần kiểm tra đều không có mặt và nhiều lần được mời làm việc nhưng không hợp tác.",
-    "category": "Quản lý đất đai - Pháp luật",
+    "category": "Công nghệ & AI",
     "section": "B - Xã hội",
     "sourceUrl": "https://tuoitre.vn/vu-lang-mo-khung-xay-trong-nghia-trang-cho-huong-dan-tu-cac-so-100261108191652817.htm",
     "imageUrl": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/8/base64-17941398729291426329031.jpeg",
@@ -17509,17 +17509,17 @@
     "sourceRow": 2259,
     "analysis": "Diễn biến mới trong cửa sổ so với bản tin Tuổi Trẻ sáng 8/11 (09:08) chỉ đưa tin các sở vào cuộc kiểm tra.\nPhơi bày khoảng trống pháp lý trong quản lý nghĩa trang và xây mộ quy mô lớn, cùng tình trạng quyết định hành chính (lập biên bản, yêu cầu dừng) không được chấp hành; kết luận của các sở sẽ quyết định hướng xử lý (giữ nguyên, tháo dỡ hay xử phạt).",
     "tags": [
-      "Quản lý đất đai - Pháp luật",
+      "Công nghệ & AI",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "77282eeffb11778bcef8d311d849a1611c1b58e4ce8290bbb08f0a789809f08b"
+    "contentHash": "494505674d6de72531ad459f8278dbbd7e4acdf7e5098fe7a57297e4bfa64e37"
   },
   {
     "id": "0baff07699fa3e64717c0d0181ec6cee647f546cbaad88e2d37cd56c9e19ed4b",
     "title": "Chính phủ yêu cầu xây dựng đề án quản lý học sinh dùng điện thoại thông minh, mạng xã hội tại trường học",
     "summary": "Chính phủ giao Bộ Giáo dục và Đào tạo chủ trì, phối hợp các bộ, ngành, địa phương xây dựng, trình ban hành Đề án tổng thể về quản lý việc sử dụng điện thoại thông minh và mạng xã hội tại các cơ sở giáo dục, phù hợp với từng cấp học. Nhiệm vụ được nêu tại Nghị quyết số 353/NQ-CP ngày 6/11/2026 của Chính phủ về giao nhiệm vụ cho địa phương, bộ ngành trong tháng 11 và thời gian tới. Theo quy định hiện hành (Điều lệ trường THCS, THPT ban hành kèm Thông tư 32/2020/TT-BGDĐT), học sinh không được dùng điện thoại di động và thiết bị khác trong giờ học khi không phục vụ học tập và không được giáo viên cho phép; nhưng được dùng để tra cứu, học tập khi có hướng dẫn, đồng ý của giáo viên. Cùng Nghị quyết 353, Bộ GD&ĐT còn được giao rà soát, điều chỉnh chương trình, sách giáo khoa phổ thông theo hướng giảm tải, thiết thực, hiệu quả; phối hợp Bộ Tài chính và địa phương xây dựng lộ trình giải quyết thiếu trường, lớp; tăng cường giáo dục đạo đức, nhân cách, truyền thống, lịch sử dân tộc, ý thức chấp hành pháp luật cho học sinh, sinh viên; xây dựng văn hóa học đường, chấn chỉnh và phòng, chống bạo lực học đường.",
-    "category": "Giáo dục - Chính sách",
+    "category": "Chính trị & Xã hội",
     "section": "B - Xã hội",
     "region": "Việt Nam",
     "sourceUrl": "https://baogialai.com.vn/chinh-phu-yeu-cau-lap-de-an-quan-ly-hoc-sinh-dung-dien-thoai-mang-xa-hoi-sap-co-quy-dinh-moi-post604376.html",
@@ -17527,17 +17527,17 @@
     "sourceRow": 2260,
     "analysis": "Đề án tổng thể cho thấy định hướng quản lý không chỉ dừng ở cấm dùng điện thoại trong giờ học mà xây dựng khuôn khổ quản lý cả thiết bị số và mạng xã hội trong trường học, phân theo cấp học (tiểu học, THCS, THPT có nhu cầu, khả năng tự kiểm soát và nhận thức an toàn mạng khác nhau).\nChính sách sẽ ảnh hưởng trực tiếp đến hàng triệu học sinh, phụ huynh và nhà trường; tác động hai chiều: hỗ trợ học trực tuyến, tra cứu tài liệu và kỹ năng số, nhưng cũng tiềm ẩn mất tập trung, sa đà game/mạng xã hội, tiếp xúc thông tin độc hại, bắt nạt trên mạng. Cần theo dõi nội dung đề án khi Bộ GD&ĐT trình ban hành.",
     "tags": [
-      "Giáo dục - Chính sách",
+      "Chính trị & Xã hội",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "9b0b76ab7ae5862260af0e4910bee91260891d4950843a88a4f44d818d9888b9"
+    "contentHash": "5fea112c4b5211f07070968fbcba185a0a42d5e51a020e34bb52d32a98c87d03"
   },
   {
     "id": "42b9ec22f4007bc16e8e55848c02ecccc2130c461ed5e8d5bd46fef0f5c3c729",
     "title": "Dự báo miền Trung mưa lớn kéo dài, nguy cơ ngập lụt và sạt lở đất; hồ Tả Trạch xả nước đón lũ",
     "summary": "Chiều 8/11, Trung tâm Dự báo khí tượng – thủy văn quốc gia cảnh báo miền Trung bước vào đợt mưa lớn diện rộng dồn dập từ đêm 8/11 đến ngày 11/11 do ảnh hưởng của không khí lạnh; trọng tâm mưa dịch chuyển từ Nghệ An, Hà Tĩnh xuống Trung Trung Bộ và Nam Trung Bộ. Từ đêm 8/11 đến 9/11: phía Nam Nghệ An mưa to, phổ biến 50–100mm, cục bộ trên 150mm; Hà Tĩnh và phía Bắc Quảng Trị mưa to đến rất to, phổ biến 100–250mm, cục bộ trên 350mm. Từ 9 đến 11/11: mưa to tập trung từ phía Nam Quảng Trị đến TP Đà Nẵng và phía Đông Quảng Ngãi, phổ biến 150–250mm, cục bộ trên 400mm; phía Đông Gia Lai và Đắk Lắk mưa vừa đến mưa to, phổ biến 60–150mm, cục bộ trên 200mm. Hồ Tả Trạch (TP Huế) bắt đầu xả nước về hạ du sông Hương để phòng đón lũ, từ 15h ngày 8/11. Cảnh báo lũ trên các sông từ Quảng Trị đến Đắk Lắk: trong ngày 8/11 mực nước biến đổi chậm, dưới báo động 1; từ 9 đến 12/11 có khả năng xuất hiện một đợt lũ, đỉnh lũ phổ biến ở mức báo động 1–2, có sông trên báo động 2. Nguy cơ ngập lụt tại vùng trũng thấp ven sông, khu đô thị, lũ quét và sạt lở đất trên sườn dốc.",
-    "category": "Thời tiết - Phòng chống thiên tai",
+    "category": "Công nghệ & AI",
     "section": "B - Xã hội",
     "region": "Việt Nam",
     "sourceUrl": "https://www.sggp.org.vn/share880705.html",
@@ -17545,17 +17545,17 @@
     "sourceRow": 2261,
     "analysis": "Bổ sung chi tiết mới so với bản tin VnExpress 16:22 đã đưa ở số 18:15 (mốc thời gian mưa theo từng khu vực, hồ Tả Trạch xả nước từ 15h 8/11, khung lũ 9–12/11). Lưu ý: các khung dự báo mưa khác nhau giữa các bản tin (bản này ghi tối đa cục bộ trên 400mm cho đợt 9–11/11), không gộp số liệu của hai nguồn thành một.\nCảnh báo phòng tránh lũ, sạt lở cho 8 tỉnh/thành từ Nghệ An đến Đắk Lắk trong 3–4 ngày tới; người dân vùng trũng thấp ven sông và khu đô thị cần theo dõi mực nước và thông báo của chính quyền địa phương.",
     "tags": [
-      "Thời tiết - Phòng chống thiên tai",
+      "Công nghệ & AI",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "6e6322faae85d3fdefe74cc5ceb26886ec825bec4f7b717172ece220b24cef61"
+    "contentHash": "b7bbae0761aa3b8893e805d141749249721105401299ba8cfa19431b537c9277"
   },
   {
     "id": "ec89131cf2f5ce14b7fce5906f5ba99e2a6e2d27c766818ece9cd5c3323271e4",
     "title": "Ninh Bình điều tra vụ đấu giá đất nông thôn cao bất thường 1,5 tỷ đồng/m²",
     "summary": "Ngày 7/11, tại xã Lý Nhân, tỉnh Ninh Bình diễn ra phiên đấu giá 68 lô đất (diện tích 110 m² đến gần 200 m², tổng diện tích 8.798,5 m²); một số lô được trả giá lên tới 1 tỷ đến 1,468 tỷ đồng/m², cao gấp hàng trăm lần giá khởi điểm. Lô LK01-1 diện tích 182 m², giá khởi điểm 9,625 triệu đồng/m² (tổng giá trị hơn 1,751 tỷ đồng), mức giá được đưa ra lên tới 1,468 tỷ đồng/m², đẩy tổng giá trị lô đất lên hơn 267 tỷ đồng; một lô khác được trả đến 850 triệu đồng/m². Chủ tịch UBND xã Lý Nhân Trương Tuấn Lực cho biết qua nắm bắt ban đầu, nguyên nhân có thể xuất phát từ việc người tham gia đấu giá nhầm lẫn cách tính bước giá theo m² với cách tính theo cả lô đất; UBND xã đã giao các phòng chức năng phối hợp với đơn vị tổ chức đấu giá và công an để kiểm tra, làm rõ có việc đẩy giá lên hay làm rối loạn việc đấu giá hay không. Khu vực đấu giá là đất ở nông thôn, giá thị trường cao nhất cũng chỉ khoảng 17–20 triệu đồng/m². Trường hợp người trúng đấu giá không thực hiện nghĩa vụ tài chính thì sẽ không trả lại tiền đặt cọc, cấm đấu giá trên địa bàn, thậm chí xử lý theo quy định của pháp luật.",
-    "category": "Quản lý đất đai - Pháp luật",
+    "category": "Công nghệ & AI",
     "section": "B - Xã hội",
     "sourceUrl": "https://cafebiz.vn/ninh-binh-dieu-tra-vu-dau-gia-dat-nong-thon-cao-bat-thuong-15-ty-dong-m-17626110819192123.chn",
     "imageUrl": "https://cafebiz.cafebizcdn.vn/162123310254002176/2026/11/8/khu-vuc-dau-gia-dat-tai-ninh-binh-16225755-1794140319655-1794140320229787358491.png",
@@ -17564,146 +17564,461 @@
     "sourceRow": 2262,
     "analysis": "Dư luận hoài nghi về tính bất thường của mức giá được trả, cao gấp hàng trăm lần giá trị thật của đất ở nông thôn.\nChính quyền kiểm tra, xác minh diễn biến phiên đấu giá, ngăn ngừa tình trạng lợi dụng đấu giá để đầu cơ, gây nhiễu loạn thị trường bất động sản; kết quả kiểm tra sẽ quyết định xử lý các trường hợp vi phạm (nếu có).",
     "tags": [
-      "Quản lý đất đai - Pháp luật",
+      "Công nghệ & AI",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "2203e614e11fc3648b96c131b22218b3d19d28323ff042a46f63f15c9dd1cb98"
+    "contentHash": "aa463c8c70e7b2463b2db144dc67c5038b7e0e9219a8b8cf2d351b777964c1fe"
   },
   {
     "id": "3c0eb3c4dea0e88a6b84dac4f94b450b1a7b78f38d137f592d1c55894fb7ace9",
     "title": "METR: Anthropic đang cải tiến mô hình nhanh gấp ~2 lần nhờ chính AI",
     "summary": "Tổ chức đánh giá an toàn AI METR công bố ngày 5/11, sau 11 tuần làm việc trong Anthropic (12/8–29/10/2026), rằng Anthropic hiện cải tiến khả năng mô hình với tốc độ gấp khoảng 2 lần giai đoạn 3/2024–10/2025 — tương đương khoảng 2 năm tiến bộ lịch sử trong 1 năm. METR ước tính tốc độ tăng trưởng AECI (chỉ số năng lực nội bộ của Anthropic) là 1,9 lần, khoảng tin cậy 95% là 1,5–2,8 lần. Phần lớn đà tăng được cho là nhờ AI hỗ trợ nghiên cứu AI, có thể khoảng 80%, chứ không chỉ tăng compute. Nhân viên dùng mô hình nội bộ mạnh nhất tự báo năng suất cao gấp ~12 lần khi không có AI, gấp đôi mức báo cáo vài tháng trước. METR cho biết Anthropic đã biên tập (redact) phần lớn bằng chứng mà họ coi là nhiều thông tin nhất trong báo cáo đầy đủ ~100 trang, và đã huấn luyện xong 3 mô hình chưa phát hành (Model 2, 3, 4) trong 7–10/2026.",
-    "category": "AI - An toàn AI",
+    "category": "Công nghệ & AI",
     "section": "B - Công nghệ",
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2263,
     "analysis": "Đánh giá độc lập hiếm hoi từ bên trong một lab frontier về 'AI tự xây AI' (recursive self-improvement); đồng thời đặt câu hỏi về tính minh bạch khi phần lớn bằng chứng bị lược bỏ.\nNếu tốc độ này duy trì, chu kỳ phát hành mô hình và áp lực quản trị an toàn đều tăng; ngược lại, METR thừa nhận đây là ước tính chủ quan, độ không chắc chắn cao, và đà tăng có thể chỉ giới hạn ở các nhiệm vụ đo lường được.",
     "tags": [
-      "AI - An toàn AI",
+      "Công nghệ & AI",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "fc77986bc0b70decf840f0357a2799f73bd67e576e0d2dd83f564b58214fa461"
+    "contentHash": "194022341b6919c7b312ab01b164ea2c527ba120e0ce5a3d5b70b80bdd76b46f"
   },
   {
     "id": "3fc3506f20bf67b0527ab5494be471919bbf4887a1f88c6bcdc898620996eed0",
     "title": "Nhóm nghiên cứu AI Frontiers của Microsoft Research đã giải thể",
     "summary": "John Langford, quản lý nghiên cứu đối tác tại Microsoft Research New York và người sáng lập nhóm AI Frontiers năm 2023, thông báo rời Microsoft và tuyên bố 'AI Frontiers is over' trong bài blog ngày 6/11/2026. Nhóm khoảng 50 người, làm về agent framework AutoGen và agent dùng máy tính Fara, đã bị chuyển từ Microsoft Research sang Microsoft AI từ đầu tháng 9/2026. Langford cho rằng triết lý của lãnh đạo Microsoft AI (xuất thân từ Inflection) là 'scaling, and aggressively not research' — không tương thích với nghiên cứu khám phá. Ông cho biết đã sắp xếp vị trí cho các thành viên rồi rời đi; nhóm sẽ không nhận thực tập sinh năm tới. AutoGen đã có thay đổi README ngày 16/10/2026 ghi Microsoft không còn cung cấp bản sửa lỗi, kể cả bảo mật, cho dự án này.",
-    "category": "AI - Nghiên cứu",
+    "category": "Công nghệ & AI",
     "section": "B - Công nghệ",
     "sourceUrl": "https://www.thebrief.news/en/standard/article/41133/microsofts-ai-frontiers-research-group-closes-after-leader-departs",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2264,
     "analysis": "Tín hiệu rõ về sự dịch chuyển của các lab lớn khỏi nghiên cứu nền tảng mở sang mở rộng quy mô thương mại.\nNgười dùng AutoGen cần tính đến rủi ro không còn hỗ trợ chính thức, kể cả bản vá bảo mật; nhân sự nghiên cứu agent có thể dịch chuyển sang startup hoặc lab khác.",
     "tags": [
-      "AI - Nghiên cứu",
+      "Công nghệ & AI",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "a0e639baeaf0a567e518ea51fd5065de9541715d609f34265a2de04e7a178968"
+    "contentHash": "63317abb38f4e88714a563df2bcb62843dceabafe622632f764807c2751c2a2f"
   },
   {
     "id": "245ed28eb92a91cd532acb5783623802fdc4632aadee62f68c35732dd5672a6e",
     "title": "Claude Code: nút 'Don't Ask Again' làm lộ mật khẩu/API key trong 1.122 file GitHub công khai",
     "summary": "Nghiên cứu của Apiiro công bố ngày 5/11 cho thấy khi lập trình viên chọn 'Yes, and don't ask again' trong Claude Code, lệnh shell đã phê duyệt — kèm mật khẩu/token trong đó — được lưu nguyên văn vào file .claude/settings.local.json trong thư mục dự án. Quét GitHub từ 1–3/11, Apiiro tìm thấy 104.185 bản sao công khai của file này, trong đó 1.122 file (1,1%) chứa bí mật thật, tổng 1.379 bí mật riêng biệt; tính cả lịch sử git, file settings dùng chung và log chat của agent, tổng cộng 2.539 bí mật trong 1.994 repository. Các bí mật gồm mật khẩu database (379), 122 khóa service-role của Supabase, token Square production, mật khẩu Postgres production trên Azure, khóa cloud cấp admin của một nhà cung cấp database, và mật khẩu owner của database hồ sơ y tế. 63 tổ chức bị ảnh hưởng, chủ yếu là công ty phần mềm; một công ty đã xác nhận khóa bị lộ vẫn còn hiệu lực. Apiiro không thử các credential nên chưa chứng minh được bao nhiêu khóa còn hoạt động. Tính đến 8/11, chưa có phản hồi công khai từ Anthropic. 215/1.122 file không bị gitleaks hay TruffleHog phát hiện.",
-    "category": "An ninh mạng - AI Agents",
+    "category": "An ninh mạng & Bảo mật",
     "section": "B - Công nghệ",
     "sourceUrl": "https://madrobot.blog/2026/11/07/claude-code-dont-ask-again-secrets-github/",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2265,
     "analysis": "Lỗi rò rỉ bí mật do hành vi mặc định của coding agent, không phải prompt injection; người dùng đã báo cáo hành vi này trên GitHub của Claude Code từ tháng 8/2025, 4 báo cáo không nhận được phản hồi từ Anthropic, 3 báo cáo bị đóng tự động.\nCác tổ chức dùng Claude Code cần quét ngay .claude/settings.local.json và .claude/settings.json trong repo công khai, thu hồi/rotate key, và đưa file vào .gitignore của repo (không chỉ global gitignore); xóa file không làm sạch lịch sử git, fork hay bản sao của người khác — biện pháp khắc phục là rotate, không phải xóa.",
     "tags": [
-      "An ninh mạng - AI Agents",
+      "An ninh mạng & Bảo mật",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "a3b784daa48a2ec3b1dd18c2c92ece21de2a7ef1bf1e042f00ef7d5f54f8cabb"
+    "contentHash": "ef2b7f0a7861b0da43ff4b42942aa7e4545ca19fdf69e4dfd74a4c05f850ded6"
   },
   {
     "id": "9e7213910f1f483665fb79d9bb83724c3df27b0be8b3623d0e6290b53f354589",
     "title": "Mọi máy Mac đều có bộ phân loại 'thành viên gia đình' không được ghi chép — 8rank.ai (HN 776 points, 420 comments)",
     "summary": "Phát hiện macOS có sẵn (undocumented) family member classifier — 8rank.ai. Số liệu Hacker News thực tế ghi nhận lúc 22:08 VN 8/11: 776 points, 420 comments. Like/Reactions: N/A (HN không có). Comments/Replies: 420. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN front page tại thời điểm quan sát. Điểm HOT: Chưa đủ dữ liệu (thiếu Like/Share, tăng trưởng 24h và tương tác đa nền tảng; chỉ chấm tiêu chí có bằng chứng).",
-    "category": "Hacker News",
+    "category": "Hot Trends & Tiêu điểm",
     "section": "B - Hot Trends",
     "sourceUrl": "https://8rank.ai/",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2266,
     "analysis": "Chạm tới quyền riêng tư trên thiết bị Apple; lượng bình luận rất cao (420) cho thấy tranh luận sâu về dữ liệu phân loại người dùng trên máy.\nNếu phát hiện được xác nhận rộng rãi, có thể làm dấy lên câu hỏi về minh bạch dữ liệu trên macOS và áp lực Apple giải thích cơ chế phân loại; theo dõi phản hồi chính thức của Apple và phân tích kỹ thuật độc lập.",
     "tags": [
-      "Hacker News",
+      "Hot Trends & Tiêu điểm",
       "B - Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "319dd15fe5ec72184265d34c3002d7a663c1da951a0fa855f67fe42c82d53e7d"
+    "contentHash": "d7d40175af7522b1ed91a1f406f2edb2b07bbf3f1f18d6b66b764304c2192476"
   },
   {
     "id": "1397af0e8be9b6e257a334aabaac20ef145005a2ed4bc5381b020f3b951ce9ef",
     "title": "'Goodbye Claude, Hello Pi' — làn sóng rời Claude Code sang harness Pi (HN 476 points, 315 comments)",
     "summary": "Người dùng Claude Code lâu năm chuyển sang Pi (harness coding agent tối giản, mã nguồn mở, MIT, hỗ trợ 15+ nhà cung cấp model), phàn nàn về lỗi kết nối đa tab VS Code, 244 bản phát hành/năm với thay đổi system prompt thường xuyên, token tốn kém (~3.000 token chỉ để giải thích công cụ Bash cơ bản). Pi 1.0 ra mắt 1/10/2026; Pi 1.5.0 được cho là ra ngày 2/11/2026. Số liệu Hacker News thực tế ghi nhận lúc 22:08 VN 8/11: 476 points, 315 comments. Like/Reactions: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN front page + thảo luận HN sôi nổi. Điểm HOT: Chưa đủ dữ liệu. Lưu ý: có bình luận HN cho rằng bài gốc có phần lỗi thời (từ giữa tháng 9).",
-    "category": "Hacker News",
+    "category": "Hot Trends & Tiêu điểm",
     "section": "B - Hot Trends",
     "sourceUrl": "https://hn-client.demo-by-discourse.com/t/goodbye-claude-hello-pi/16157",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2267,
     "analysis": "Phản ánh mệt mỏi với Claude Code sau vụ rò rỉ bí mật (xem mục B-Công nghệ) và tranh luận về 'harness của riêng mình' so với công cụ đóng.\nNếu làn sóng rời bỏ lan rộng, các harness mã nguồn mở tối giản có thể thành lựa chọn thay thế đáng kể cho coding agent thương mại; đồng thời gây áp lực lên Anthropic về độ ổn định và minh bạch thay đổi system prompt.",
     "tags": [
-      "Hacker News",
+      "Hot Trends & Tiêu điểm",
       "B - Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "1d00e1882288ff59849ee797b43841adf7bff4126ef2e2072a12fd1666820900"
+    "contentHash": "ea6627fb0a8fd7c66d45ab0d21d0f6d9e8493344aca042a8ca913a1bdd8c3604"
   },
   {
     "id": "b95ae8a0d1e602ef548ab2a791a5024295a3036252101602a3c40eda8b775230",
     "title": "Claude Code 'Don't Ask Again' lộ 1.122 file GitHub chứa bí mật thật (HN 471 points, 334 comments)",
     "summary": "Nghiên cứu Apiiro (xem chi tiết mục B-Công nghệ): 1.122 trong 104.185 bản sao công khai của file .claude/settings.local.json chứa bí mật thật; tổng 2.539 bí mật trong 1.994 repository. Số liệu Hacker News thực tế ghi nhận lúc 22:08 VN 8/11: 471 points, 334 comments; nhiều bài báo ngày 7–8/11 (Apiiro, MadRobot, iTWire). Like/Reactions: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN front page + nhiều bài báo độc lập. Điểm HOT: Chưa đủ dữ liệu (thiếu Like/Share, tăng trưởng 24h có đối chứng).",
-    "category": "Hacker News",
+    "category": "Hot Trends & Tiêu điểm",
     "section": "B - Hot Trends",
     "sourceUrl": "https://pasqualepillitteri.it/en/news/31165/claude-code-leaks-passwords-api-keys-github-apiiro",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2268,
     "analysis": "Số liệu cụ thể, ảnh hưởng trực tiếp tới mọi lập trình viên dùng Claude Code; tranh luận về trách nhiệm của Anthropic khi hành vi mặc định của agent gây rò rỉ.\nBuộc cộng đồng dev rà soát repo công khai và rotate key; có thể thúc đẩy Anthropic thay đổi hành vi mặc định lưu lệnh đã phê duyệt.",
     "tags": [
-      "Hacker News",
+      "Hot Trends & Tiêu điểm",
       "B - Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "7f5aa6736ad8c4e619989a6a1683296f63d2f208be6a5321580bdaf9f0084856"
+    "contentHash": "bf090b3b9e6066eb997752ec5b00202b2cd7933a3df6796836e63c4dd51a0536"
   },
   {
     "id": "98fde566ef365ec8a153faf7509c675a2c8f879950b5a0f5ed44e9d93ce46d33",
     "title": "GitHub Trending ngày 8/11: Sherlock tăng vọt 2.372 sao/ngày; làn sóng công cụ cho AI agent dùng trình duyệt",
     "summary": "GitHub Trending ngày 8/11 (ghi nhận 22:16 VN): sherlock-project/sherlock — tìm tài khoản mạng xã hội theo username; tổng 102.327 stars, 2.372 stars hôm nay. milind-soni/OpenMausBot — bản thay thế Grok Bot mã nguồn mở; tổng 17.830 stars, 1.437 stars hôm nay. Repo design system 'agent ready' của Meta; tổng 15.495 stars, 863 stars hôm nay. vercel-labs/agent-browser — CLI tự động hóa trình duyệt cho AI agent (Rust); tổng 47.328 stars, 812 stars hôm nay. anthropics/skills — repo Agent Skills công khai; tổng 189.264 stars, 793 stars hôm nay. ranxianglei/billion-context — plugin nén context cho phiên dài; tổng 4.927 stars, 460 stars hôm nay. dsx-ai-factory/nvke — NVIDIA Kubernetes Engine; tổng 727 stars, 345 stars hôm nay. Like/Comments/Shares: N/A (GitHub không công bố theo định dạng đó). Điểm HOT: Chưa đủ dữ liệu (chỉ có snapshot stars một thời điểm, thiếu tăng trưởng 24h có đối chứng và tương tác đa nền tảng).",
-    "category": "GitHub Trending",
+    "category": "Hot Trends & Tiêu điểm",
     "section": "B - Hot Trends",
     "sourceUrl": "https://github.com/ranxianglei/billion-context",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2269,
     "analysis": "Sherlock tăng vọt bất thường (repo cũ bỗng trending lại); OpenMausBot + agent-browser cho thấy nhu cầu về agent dùng trình duyệt/mạng xã hội và công cụ 'agent-ready'.\nXu hướng 'agent dùng trình duyệt' và quản lý context dài đang thành mặt trận công cụ mới cho AI agent; theo dõi xem các repo này có duy trì đà tăng trong 24–48 giờ tới hay chỉ là sóng nhất thời.",
     "tags": [
-      "GitHub Trending",
+      "Hot Trends & Tiêu điểm",
       "B - Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "9fa7f9093bda7b8e2d68d23fbe4bc015572872958f104a41bf67daadd103666d"
+    "contentHash": "1d1ffae8f05a361e42c347d404a7606ad2db6041e18022c5902476df1a99f203"
   },
   {
     "id": "28f0efeaf66795218247f4dea06791a9c0d64891b8017ee2f90f6816c2d3f172",
     "title": "EyesRhythm — ứng dụng desktop offline giúp duy trì nhịp chớp mắt khỏe mạnh",
     "summary": "EyesRhythm là ứng dụng desktop giúp duy trì nhịp chớp mắt khỏe mạnh khi làm việc màn hình dài: dùng webcam theo dõi tần suất và độ đều của nhịp chớp mắt cùng tư thế đầu; chấm Ocular Rhythm Index 0–100, biểu đồ trực tiếp 5 phút, nhắc nghỉ/ngáp, cảnh báo bằng âm thanh và hình ảnh. Xử lý hoàn toàn trên máy, không tài khoản, không video rời khỏi thiết bị. Điểm mới: tập trung hẹp vào mỏi mắt số (digital eye strain) thay vì app sức khỏe chung; nhấn mạnh privacy-by-design (offline). Ứng dụng thực tế: người làm việc màn hình dài, dân văn phòng và lập trình viên. Hạn chế: chỉ là wellness companion, không phải chẩn đoán y tế; cần webcam luôn bật; chưa xác minh được nền tảng hỗ trợ đầy đủ (macOS/Windows) và hiệu quả lâm sàng. Giá: được mô tả là miễn phí theo RuntimeWire (7/11), chưa xác minh giá chính thức trên site. Lưu ý: ra mắt trên Show HN lúc 04:47 VN 8/11 — ngoài cửa sổ 4 giờ, mới trong 24 giờ.",
-    "category": "Công cụ AI",
+    "category": "Công nghệ & AI",
     "section": "D - ĐÁNG THỬ",
     "sourceUrl": "https://eyesrhythm.com/",
     "collectedAt": "2026-11-08T15:56:36.961Z",
     "sourceRow": 2270,
     "analysis": "Xuất hiện trên Show HN ngày 7–8/11 trong bối cảnh người dùng màn hình dài ngày càng quan tâm mỏi mắt số; điểm khác biệt là xử lý offline hoàn toàn, không đưa video lên máy chủ.\nThử cho dân văn phòng và lập trình viên làm việc màn hình dài; chưa nên dùng thay cho khám mắt hay chẩn đoán y tế; cần xác minh nền tảng hỗ trợ trước khi cài đặt.",
     "tags": [
-      "Công cụ AI",
+      "Công nghệ & AI",
       "D - ĐÁNG THỬ"
     ],
     "language": "vi",
-    "contentHash": "50639535da5967d1bb146077d68e4808d687b330cc04f5e0a8b08f3f004f9fca"
+    "contentHash": "261dd1b77d80f98f0aeb6f94b330b89e4fe2ae24e02f7456641a17a692c256c4"
+  },
+  {
+    "id": "ac96b8ba9163904953d121983bf0ca7653d2b5a1ecc804157b2e75aa203cafca",
+    "title": "Trump: 'rất khó' tấn công mới Iran nếu đàm phán tiến triển; Tehran nói trung gian 'chưa di chuyển' từ sau bầu cử giữa kỳ",
+    "summary": "Trump nói với CNN ngày 8/11: 'rất khó' ra lệnh tấn công mới vào Iran chừng nào đàm phán còn tiến triển, với điều kiện Tehran ký 'một thỏa thuận rất mạnh'. Ngoại trưởng Iran Araghchi cùng tối 8/11 nói trên truyền hình nhà nước rằng các trung gian hòa giải 'chưa hề di chuyển' kể từ 'cú sốc' của bầu cử giữa kỳ Mỹ. Tổng thống Iran Pezeshkian kêu gọi tiết kiệm nhiên liệu trong mùa lạnh, viện dẫn sự cố sản xuất khí đốt do 'hành động quân sự của kẻ thù Mỹ-Do Thái'. Tàu sân bay thứ ba của Mỹ USS Theodore Roosevelt dự kiến tới khu vực trong tuần; chưa có cuộc tấn công lớn nào sau bầu cử.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://gulfnews.com/world/mena/uae-rescues-22-crew-in-gulf-of-oman-as-us-tightens-iran-blockade-and-tehran-lifts-missile-limits-1.500739993",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2271,
+    "analysis": "Tín hiệu hạ nhiệt rõ rệt nhất từ Trump kể từ sau bầu cử giữa kỳ; trước đó ông từng để ngỏ khả năng 'đòn đánh mạnh' và một số cố vấn muốn mở chiến dịch lớn trước khi Quốc hội mới nhậm chức tháng 1/2027. Iran vẫn yêu cầu Mỹ dỡ phong tỏa hải quân mới chịu mở lại eo biển Hormuz trong 2 ngày thay vì 7 ngày.\nKhoảng trống giữa hai tuyên bố là rủi ro leo thang chính trong những ngày tới; thị trường dầu chờ tín hiệu khi mở cửa thứ Hai 9/11. Caveat: phát biểu của Trump được dẫn lại qua CNN rồi Gulf News, chưa có bản ghi độc lập; phát biểu của Araghchi là phía Iran qua truyền hình nhà nước.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "6b14ce352c50b84607cfdfe4cbcf0f0c35bb7b6f77e5b192bd1d106006481059"
+  },
+  {
+    "id": "b944a1ddb24a8637a6ccce25489618264e2b58f0a1e3674404ab2298e092885d",
+    "title": "Ba tàu dầu bốc cháy ở eo biển Hormuz; IRGC nói ít nhất 12 tàu dính mìn trong tuần qua, lưu lượng chỉ còn ~20%",
+    "summary": "Sáng sớm 8/11, ba tàu chở dầu nổ và bốc cháy ở eo biển Hormuz theo tuyên bố của Hải quân IRGC (gọi là tàu 'không tuân thủ' vì đi qua 'kênh trái phép' và tắt hệ thống định vị; không nêu tên, quốc tịch hay số thương vong). Cơ quan hàng hải Anh UKMTO xác nhận một tàu chở dầu bốc cháy ngoài khơi Khasab (Oman) ngày 7/11, thủy thủ đoàn được sơ tán; trong tuần qua UKMTO xác nhận 8 vụ tấn công ở Hormuz và 3 vụ ở Vịnh Ả Rập, trong đó 3 tàu chìm và 5 tàu phải cứu hộ. Vệ binh Quốc gia UAE cứu toàn bộ 22 thuyền viên khỏi một tàu hàng bốc cháy ở Vịnh Oman. Lưu lượng qua Hormuz chỉ còn khoảng 20% mức trước chiến tranh (Lloyd's List Intelligence).",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/11/08/smoke-blanketing-the-strait-iran-steps-up-campaign-of-threats-to-shipping/",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2272,
+    "analysis": "Diễn biến dữ dội nhất trong chiến dịch gây sức ép hàng hải của Iran kể từ giữa tháng 10. Viện Nghiên cứu Chiến tranh (ISW) lưu ý ít vụ được UKMTO xác nhận độc lập và cho rằng các tuyên bố của Iran có thể nhằm thổi phồng cảm nhận rủi ro của hãng tàu.\nHormuz vận chuyển khoảng 1/5 lượng dầu tiêu thụ toàn cầu; giá dầu và chi phí bảo hiểm vận tải vẫn là rủi ro trực tiếp với kinh tế toàn cầu. Caveat: số lượng và nguyên nhân 3 tàu cháy ngày 8/11 mới chỉ là tuyên bố một phía của IRGC; UKMTO chỉ xác nhận độc lập một phần các vụ việc trong tuần.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "657719ef55e5463426baf0ad355c7cb5a907cfe1d54ff286b90568632b52c371"
+  },
+  {
+    "id": "8cc9c7e3b7a1cfa2fae106d2013fbcf6f25bf42980f2751677e0c3d06cbd4970",
+    "title": "Dân chủ Mỹ nhắm điều tra Musk và Miller, ủng hộ luận tội Bộ trưởng Quốc phòng Hegseth",
+    "summary": "Hạ nghị sĩ Robert Garcia (dự kiến chủ trì Ủy ban Giám sát Hạ viện từ tháng 1/2027) nói với CNN ngày 8/11 rằng Elon Musk và Chánh văn phòng Nhà Trắng mới Stephen Miller 'nhiều khả năng' sẽ là mục tiêu điều tra của Quốc hội: Musk vì vai trò trong Bộ Hiệu quả Chính phủ (DOGE) sa thải công chức liên bang, Miller vì vai trò kiến trúc sư chiến dịch trấn áp nhập cư. Chủ tịch Hạ viện tương lai Hakeem Jeffries cùng ngày nói với ABC rằng Dân chủ sẽ ủng hộ nghị quyết luận tội Bộ trưởng Quốc phòng Pete Hegseth (Hạ nghị sĩ Cộng hòa Thomas Massie nói sẽ tái trình) với lý do Hegseth giám sát cuộc chiến Iran không được lòng dân và khiến giá xăng tăng. Bộ trưởng Tư pháp Todd Blanche đáp trả rằng chính quyền 'sẵn sàng' đối đầu với các cuộc điều tra.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.reuters.com/legal/government/democrats-eye-musk-miller-probes-after-midterm-rout-2026-11-08/",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2273,
+    "analysis": "Lần đầu lãnh đạo Dân chủ nêu đích danh mục tiêu điều tra sau chiến thắng giữa kỳ. Reuters/Ipsos tháng 10 cho thấy chỉ 37% cử tri tán thành cách Trump xử lý nhập cư, giảm từ 50% khi ông nhậm chức. Miller lên nắm Nhà Trắng từ 9/11.\nQuốc hội mới sẽ mở mặt trận giám sát toàn diện thay vì chỉ lập pháp; xung đột giữa hành pháp và Quốc hội mới nhiều khả năng leo thang thành bế tắc lập pháp và điều tra kéo dài trong 2 năm cuối nhiệm kỳ.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "b1fd157320ec23415df5f7fe29c0f2f4e8214508aac550c64e9b74af1b975c55"
+  },
+  {
+    "id": "486839864c7eb3c71b6f469ac21663fc304174d5ff39f2a3ee522b2b296a5afc",
+    "title": "Nga tập kích lưới điện Ukraine trong đêm: hơn 600.000 hộ mất điện, Zaporizhzhia mất điện ngoài lần thứ 16",
+    "summary": "Đêm 8/11, Nga tấn công Ukraine bằng 3 tên lửa dẫn đường Kh-59/69 và 164 drone Shahed (112 chiếc chạy bằng động cơ phản lực), ghi nhận trúng đạn tại 23 địa điểm (Không quân Ukraine). Hơn 600.000 khách hàng ở 5 huyện thuộc tỉnh Dnipropetrovsk mất điện, bệnh viện phải chạy máy phát; mất điện mới ở 6 tỉnh (Dnipropetrovsk, Zhytomyr, Rivne, Sumy, Kharkiv, Chernihiv), cắt điện khẩn cấp ở Kharkiv, Poltava, Sumy và tỉnh Kyiv. Một drone giết 1 người ở ngoại ô Dnipro, pháo kích giết 1 người ở Odesa. Nhà máy điện hạt nhân Zaporizhzhia mất đường dây điện ngoài cuối cùng lúc 02:36 ngày 8/11 và đang chạy bằng máy phát diesel — lần mất điện ngoài thứ 16 trong năm 2026; Energoatom cảnh báo nguy cơ tai nạn phóng xạ nếu máy phát hỏng hoặc hết nhiên liệu.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://euromaidanpress.com/2026/11/08/russia-cuts-power-to-more-than-600000-in-dnipropetrovsk-oblast-as-zelenskyy-says-the-strikes-aim-to-squeeze-ukraine-before-talks/",
+    "imageUrl": "https://euromaidanpress.com/wp-content/uploads/2026/11/odesa-1024x576.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2274,
+    "analysis": "Đòn đánh vào hạ tầng năng lượng ngay trước vòng đàm phán ba bên Abu Dhabi ngày 10-11/11. Zelenskyy nói Nga dùng đòn đánh để gây sức ép trước đàm phán, đồng thời cho biết Ukraine thiếu tên lửa đánh chặn Patriot (đợt 7/11 Nga bắn 36 tên lửa đạn đạo, Ukraine chỉ bắn hạ 4).\nMục tiêu kép của Moscow: làm suy yếu lưới điện Ukraine trước mùa đông và tăng đòn bẩy tại Abu Dhabi, nơi Kyiv muốn đạt ngừng bắn năng lượng, đình chiến Biển Đen, trao đổi tù binh và bảo đảm an ninh. Rủi ro hạt nhân tại nhà máy lớn nhất châu Âu là điểm nóng an toàn quốc tế riêng biệt. Caveat: số liệu tấn công và thiệt hại chủ yếu từ phía Ukraine.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "5e92e1ec7dc3c5c36ef57291076150d6388d039c51fdc3ab5c29961d4f1b48f0"
+  },
+  {
+    "id": "ce0343f062738aa8ea11606e26d86e9bdb5f0fcb337f66f56e63af982ce20f07",
+    "title": "Tesla dừng sản xuất Cybertruck giữa năm 2027 để nhường chỗ cho robotaxi Cybercab",
+    "summary": "CEO Elon Musk thông báo trên X ngày 6/11: Tesla sẽ giảm dần rồi dừng sản xuất Cybertruck tại Gigafactory Texas vào khoảng giữa năm 2027 để tăng sản lượng Cybercab — robotaxi tự lái hoàn toàn. Kể từ khi giao xe đầu tiên tháng 11/2023, giới chuyên gia ước tính chỉ khoảng 71.000 chiếc Cybertruck đã bán ra; dây chuyền được thiết kế cho 250.000 xe/năm, tức doanh số chỉ bằng khoảng 10-12% kế hoạch; 9 tháng đầu 2026 chỉ bán 11.586 chiếc tại Mỹ (Cox Automotive), giảm 28% so với cùng kỳ 2025. Kỹ sư trưởng Cybertruck Wes Morrill xác nhận Tesla sẽ tiếp tục cung cấp phụ tùng và dịch vụ cho xe đang lưu hành.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2275,
+    "analysis": "Khép lại mẫu xe gây tranh cãi nhất của Tesla sau chưa đầy 4 năm bán ra; Musk từng hứa tầm hoạt động 500 dặm và giá dưới 40.000 USD — cả hai đều không đạt được. Đảo chiều hoàn toàn so với tin 'Tesla thêm ca sản xuất Cybertruck' trước đây.\nTesla đặt cược toàn bộ tương lai vào robotaxi — một sản phẩm chưa chứng minh được khả năng thương mại. Cùng bản tin: Uber cho biết trong quý 3 chỉ có 4 chuyến xe được đặt qua AI agent trong tuần bận rộn nhất tháng 10 — bằng chứng AI agent đặt xe vẫn chưa thành hiện thực đại trà; Waymo chấm dứt độc quyền với Uber tại Austin và Atlanta từ tháng 1/2028; Zipline huy động thêm 1,5 tỷ USD, định giá 21,5 tỷ USD.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "2326c4058ca711723399f38df3d7e4696774f08bb0a49aac52b4945d68a52574"
+  },
+  {
+    "id": "7d07f1ef7d858a16acc5ebd0b9a045c9e6bc83da8615355b5dcb473ec73fb9cf",
+    "title": "Giá vàng tuần tới chờ CPI Mỹ: SJC 138-141 triệu, thế giới đóng tuần ~4.070 USD",
+    "summary": "Chốt phiên giao dịch cuối tuần 8/11, vàng miếng SJC 138-141 triệu đồng/lượng (mua-bán), tăng 1 triệu đồng/lượng so với 7 ngày trước; vàng nhẫn SJC 136,5-140,5 triệu đồng/lượng. So với đỉnh 188,3-191,3 triệu đồng/lượng ngày 29/1, vàng miếng hiện giảm 50,3 triệu; người mua tại đỉnh nếu bán ra hôm nay lỗ 53,3 triệu đồng/lượng. Tuần qua, giá vàng thế giới tăng từ vùng 3.891 USD/ounce lên đỉnh 4.146 USD/ounce (tăng khoảng 6,6%) rồi đóng cửa quanh 4.070 USD/ounce. Việc làm Mỹ tháng 10: tạo thêm 165.000 việc làm phi nông nghiệp (vượt xa dự báo 65.000); tỷ lệ thất nghiệp giảm từ 4,2% xuống 4,1%; thu nhập bình quân theo giờ tăng 3,1% so với cùng kỳ. Khảo sát Kitco: trong 13 chuyên gia Phố Wall, 4 người (31%) dự báo giá tăng, 5 người (38%) dự báo giảm, 4 người (31%) dự báo đi ngang; khảo sát trực tuyến 212 lượt: 143 người (68%) kỳ vọng tăng.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://baoquocte.vn/gia-vang-hom-nay-9-11-2026-cho-tin-hieu-suc-khoe-kinh-te-my-thoi-ky-cac-tai-san-huu-hinh-sap-den-466181.html",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2276,
+    "analysis": "Thị trường chờ CPI Mỹ tháng 10 công bố sáng 10/11 (giờ Mỹ), số liệu trợ cấp thất nghiệp và doanh số bán nhà sáng 12/11, PPI tháng 10 sáng 13/11 — các dữ liệu có thể tác động đến kỳ vọng về chính sách của Fed và diễn biến giá vàng.\nTuần 9-13/11 là tuần dữ liệu quyết định kỳ vọng Fed tăng lãi suất tháng 12 (thị trường cược ~75-80%); vàng trong nước đi ngang qua đêm cuối tuần khi thị trường thế giới nghỉ giao dịch.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "4fa47014f4367e340f59edb0964bba9066b9a3c943ac22a86755140f2ef8ce41"
+  },
+  {
+    "id": "3f9a26a55d31850d376ad44d4830e40219ac6aefbd72b191630adba3e0a72708",
+    "title": "Không khí lạnh tràn về: miền Bắc chuyển rét từ 9/11, miền Trung mưa lớn đến đêm 11/11",
+    "summary": "Tối 8/11, không khí lạnh đã ảnh hưởng đến một số nơi ở Đông Bắc Bộ; trong đêm 8/11 tiếp tục mở rộng sang Tây Bắc Bộ, Bắc và Trung Trung Bộ, một số nơi ở Nam Trung Bộ. Từ đêm 8/11, vùng núi Bắc Bộ chuyển rét, vùng núi cao có nơi rét đậm; các khu vực khác ở Bắc Bộ và Bắc Trung Bộ chuyển rét từ ngày 9/11. Nhiệt độ thấp nhất phổ biến 15-18°C, vùng núi cao có nơi dưới 13°C. Tại Hà Nội, gần sáng 9/11 không khí lạnh bắt đầu ảnh hưởng; từ đêm 8/11 đến sáng 9/11 có mưa rào và dông rải rác, cục bộ mưa to; từ ngày 9/11 chuyển rét. Từ đêm 8/11 đến đêm 11/11, khu vực từ phía Nam Nghệ An đến TP Đà Nẵng và phía Đông các tỉnh từ Quảng Ngãi đến Đắk Lắk có mưa lớn diện rộng; có nơi mưa trên 100mm trong 3 giờ. Trên biển, vịnh Bắc Bộ gió Đông Bắc cấp 7, có lúc cấp 8, giật cấp 9-10, sóng cao 2-4m.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vov.vn/xa-hoi/du-bao-thoi-tiet/khong-khi-lanh-tran-ve-mien-bac-ret-sau-mien-trung-sap-mua-lon-post1348426.vov",
+    "imageUrl": "https://media.vov.vn/sites/default/files/styles/large/public/2026-11/khong-khi-lanh-tran-xuong-mien-bac-ret-sau-mien-trung-sap-mua-lon-2.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2277,
+    "analysis": "Mốc xác nhận không khí lạnh đã về thực tế (không còn là dự báo), nối tiếp Công điện 73 của Thủ tướng về ứng phó mưa lớn miền Trung 8-11/11 (Huế/Đà Nẵng/đông Quảng Ngãi 250-450mm, cục bộ trên 700mm).\nCơ quan khí tượng cảnh báo mưa lớn có thể gây lũ quét trên sông, suối nhỏ, sạt lở đất ở sườn dốc và ngập úng tại vùng trũng, thấp; lũ các sông từ Quảng Trị đến Đắk Lắk có thể lên báo động 1-2 trong các ngày 9-12/11.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "cde48bc75614f41494bb156a0e4762f807bd81a664b3d2cc4def59fca946c5aa"
+  },
+  {
+    "id": "9e813566694aa37416cae531172eeef99dbd32db9b3f9ca40f06c05dd7ec0643",
+    "title": "Hà Nội dự kiến di dời 382 căn hộ tại hai dự án sai phạm của Mường Thanh",
+    "summary": "Kết quả rà soát ban đầu: hai dự án CT6-Bemes (phường Kiến Hưng) và khu đô thị Kim Văn-Kim Lũ (phường Định Công) có tổng cộng 382 căn hộ, căn nhà được xác định sơ bộ thuộc diện phải di dời. Riêng CT6-Bemes có 136 căn (126 căn hộ tại các khối chung cư cao tầng và 10 căn nhà thấp tầng): tòa CT6A 60 căn, CT6B 37 căn, CT6C 29 căn. Dự án CT6-Bemes gồm 3 tòa, 32 tầng nổi và tum thang, dùng chung khối đế 3 tầng; từ tầng 2 đến tầng 32 có tổng cộng 1.584 căn hộ, trong khi quy hoạch chỉ có 231 căn hộ cùng khối tháp khách sạn 459 phòng. Tại Kim Văn-Kim Lũ, 246 căn hộ từ tầng 2 đến tầng 4 tại các tòa CT11, CT12A, CT12B và CT12C thuộc diện phải di dời; chính quyền phường Định Công dự kiến triển khai di dời, phá dỡ trong giai đoạn 2027-2028. Trong 10 căn nhà thấp tầng tại CT6-Bemes, 6 căn có phần lớn diện tích nằm trên đất quy hoạch trường mầm non, 4 căn còn lại nằm trong phạm vi đất quy hoạch đường giao thông nội bộ.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vov.vn/xa-hoi/ha-noi-du-kien-di-doi-382-can-ho-tai-hai-du-an-sai-pham-cua-muong-thanh-post1348423.vov",
+    "imageUrl": "https://media.vov.vn/sites/default/files/styles/large/public/2026-11/mt3.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2278,
+    "analysis": "Bước triển khai Nghị quyết của HĐND TP Hà Nội ngày 28/10 về xử lý vi phạm đất đai, trật tự xây dựng; chi tiết mới so với con số 136 căn tại CT6 đã biết trước đó (nay công bố tổng 382 căn ở cả hai dự án và mốc thời gian xử lý).\nCần bảo đảm quyền lợi, an sinh cho người dân bị ảnh hưởng; mốc xử lý 2027-2028 đặt ra bài toán tái định cư và trách nhiệm của chủ đầu tư.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "97330101ab5bec0ce430ee3adfecc8e0fbc417f6c7d761c733f25e754a835b6e"
+  },
+  {
+    "id": "d41099fd19557e48bc7bd81e8eb05462c40362f8c22ba15f9a49a95f22885fe5",
+    "title": "Tuần làm việc thứ năm của Kỳ họp thứ hai: Quốc hội chất vấn Bộ trưởng Tài chính và Bộ trưởng Khoa học-Công nghệ ngày 12/11",
+    "summary": "Từ ngày 9 đến 13/11, Kỳ họp thứ hai, Quốc hội khóa XVI bước vào tuần làm việc thứ năm, với phiên chất vấn và trả lời chất vấn, xem xét điều chỉnh địa giới đơn vị hành chính giữa TP Hà Nội và tỉnh Phú Thọ, đồng thời thảo luận, thông qua nhiều nội dung quan trọng. Điểm nhấn: Quốc hội dành cả ngày 12/11 để tiến hành phiên chất vấn đầu tiên của Quốc hội khóa XVI; hai lĩnh vực được lựa chọn là Tài chính và Khoa học-Công nghệ. Bộ trưởng Tài chính Ngô Văn Tuấn và Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân sẽ trả lời chất vấn; Thủ tướng Chính phủ (hoặc Phó Thủ tướng được ủy quyền) sẽ trực tiếp trả lời chất vấn của các đại biểu. Trong tuần, Quốc hội biểu quyết thông qua Nghị quyết về dự toán ngân sách nhà nước năm 2027 và phương án phân bổ ngân sách Trung ương năm 2027; thảo luận về chủ trương đầu tư Chương trình mục tiêu quốc gia phòng, chống ma túy và tội phạm giai đoạn 2026-2035, dự án Luật Phát triển công nghiệp văn hóa, dự án Luật An toàn thực phẩm (sửa đổi), dự án Nghị quyết về cơ chế, chính sách đặc thù về phát triển du lịch.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.qdnd.vn/chinh-tri/tin-tuc/tuan-lam-viec-thu-nam-cua-ky-hop-thu-hai-quoc-hoi-se-tien-hanh-phien-chat-van-va-tra-loi-chat-van-1063816",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2279,
+    "analysis": "Nối tiếp Nghị quyết KT-XH 2027 đã thông qua (GDP từ 10%); phiên chất vấn tập trung vào giải ngân vốn đầu tư công, quản lý thuế, chuyển đổi số và thực hiện Nghị quyết 57 về khoa học, công nghệ, đổi mới sáng tạo.\nKết quả chất vấn và các nghị quyết ngân sách 2027 sẽ định hình khung chính sách tài khóa và khoa học-công nghệ năm tới.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "6bc48f68f61f5830fab9dfb04e3cdc54e2d1213ef9ee5dd2f35a007123a906b3"
+  },
+  {
+    "id": "9081e5b799c93d7b798e2b9caf9dcfe5193782e057d37c73463092c338a21abb",
+    "title": "Vòng 7 V-League khép lại: Nam Định xây chắc ngôi đầu, Thể Công chìm sâu vào khủng hoảng",
+    "summary": "Tối 8/11, trận đấu muộn vòng 7 giữa Thể Công-Viettel và Thanh Hóa khép lại với tỷ số hòa 1-1; Thể Công nối dài chuỗi không thắng trên mọi đấu trường lên 10 trận liên tiếp. Thanh Hóa mở tỷ số từ phút 8 nhờ Saliou Guindo; Thể Công gỡ hòa phút 80 nhờ Doãn Ngọc Tân đánh đầu cận thành. Phút 35, hậu vệ Nguyễn Bá Tiến (Thanh Hóa) va chạm mạnh với thủ môn Nguyễn Văn Việt và bị truất quyền thi đấu. Đội đầu bảng Thép Xanh Nam Định thắng 2-1 ngay trên sân Hồng Lĩnh Hà Tĩnh, với bàn thắng ở phút bù giờ 90+4 của Văn Vĩ — chiến thắng thứ tư liên tiếp, giúp Nam Định có 16 điểm, ghi 16 bàn, hiệu số +10. Công an Hà Nội (14 điểm) và Ninh Bình (13 điểm) cùng thắng 2-1 trên sân nhà; Sông Lam Nghệ An (13 điểm) duy trì thành tích bất bại với trận hòa 2-2 trên sân Hải Phòng. Hà Nội FC thua 1-2 trên sân Pleiku trước Hoàng Anh Gia Lai.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.vietnam.vn/vong-7-v-league-nam-dinh-xay-chac-ngoi-dau-the-cong-chim-sau-vao-khung-hoang",
+    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/08/1794153238988_5-jpg.avif",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2280,
+    "analysis": "Trận ra mắt của HLV Kim Young-chul (cựu tuyển thủ Hàn Quốc, dự World Cup 2006) trên cương vị HLV trưởng Thanh Hóa. Sau vòng 7, V-League tạm nghỉ để nhường chỗ cho đội tuyển Việt Nam thi đấu giải giao hữu quốc tế Casper Cup 2026.\nKhoảng cách giữa nhóm đầu (Nam Định bỏ xa) và khủng hoảng của Thể Công — một 'ông lớn' rơi xuống nhóm cuối bảng (thứ 13, 5 điểm, hơn đội cuối bảng Đồng Nai 1 điểm) — là câu chuyện chính của mùa giải.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "3b87ac62f9c49f7f198d0a1cbac712543b44e8015ef84202a156c976bbbbdc42"
+  },
+  {
+    "id": "fdc0c72158d66eb847bdc1414aa36e6390fef543a462be61791106e9d229293f",
+    "title": "Lỗ hổng RCE trong Microsoft Paint (CVSS 8.1): bản vá chỉ có trên Microsoft Store, Windows Update không vá được",
+    "summary": "Lỗ hổng CVE-2026-83844 là lỗi đọc ngoài giới hạn (CWE-125) trong ứng dụng Windows Paint, cho phép kẻ tấn công không cần xác thực, không cần tương tác người dùng, thực thi mã tùy ý qua mạng bằng cách gửi một gói tin được chế tạo đặc biệt. Microsoft đánh giá mức Important, điểm CVSS 8.1 (High), công bố ngày 13/10/2026. Bản vá — Paint build 11.2609.401.0 — chỉ được phân phối qua Microsoft Store, không qua Windows Update, vì Paint là ứng dụng Store (MSIX/Appx) cài theo từng tài khoản người dùng. The Hacker News kiểm tra ngày 6/11 và xác nhận build đã vá là build mới nhất tại cả 10 quốc gia được kiểm tra. Hồ sơ chính thức của Microsoft mâu thuẫn nhau: advisory ghi build vá là 11.2609.401.0, nhưng bản ghi CVE/NVD vẫn ghi chỉ các build dưới 11.2605.91.0 là bị ảnh hưởng (build này thực tế chưa từng xuất hiện trên Store công khai), khiến máy quét lỗ hổng có thể báo sai là 'đã vá' trong khi máy vẫn chạy bản chưa vá (ví dụ 11.2605.81.0). Microsoft không đưa ra giải pháp tạm thời; chưa ghi nhận khai thác thực tế; CVE chưa vào danh mục KEV của CISA. Paint cổ điển trên Windows 10 không nằm trong diện ảnh hưởng.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEFFUv1MUNRoFx03Jcw0k5NZCU0EOf5qEpbvAEQoTSTzoxHWPk1rc7XgQeG1USPP9vVB0ePI_lzQLqBU5bHdQ7-YrwEXFo8gJwayqwCvCtcDrw1JYMxKYxieV3bcQeCRAJAxt8CRfifzMzL22_ab0Z0OxwWrNckC36gPEOnubZnzagv6DkV7iY4AQJfA/s1600/paint-rce.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2281,
+    "analysis": "'Điểm mù' vá lỗi điển hình của doanh nghiệp: máy tính có thể đã cài đầy đủ bản cập nhật Windows tích lũy mà Paint vẫn còn lỗ hổng RCE, đặc biệt ở môi trường chặn Microsoft Store bằng Group Policy/MDM.\nQuản trị viên cần kiểm tra bằng PowerShell (Get-AppxPackage -AllUsers -Name Microsoft.Paint) và đối chiếu build từ 11.2609.401.0 trở lên cho mọi tài khoản và bản provisioned.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "a3cb8636772afc141fd546baa1406cf6142c5956fdb396226cbe1e03030f3168"
+  },
+  {
+    "id": "9de46aa6db4bcb9cf175a44423a2485ae45a74a4aad4990f2bc0cdba03fbe084",
+    "title": "Chainalysis xác nhận vụ tấn công lộ thông tin đăng nhập và token của toàn bộ khách hàng; một số dịch vụ đã khôi phục ngày 7/11",
+    "summary": "Hãng phân tích blockchain Chainalysis xác nhận một cuộc tấn công đa hướng vào hệ thống và công cụ nội bộ đã làm lộ tên, tên người dùng, hash mật khẩu và token đang hoạt động (live token) của toàn bộ người dùng. Ban đầu (30/10) công ty nói chỉ lộ metadata không nhạy cảm và khẳng định không có bằng chứng thông tin đăng nhập hay token bị chạm tới; đến cập nhật ngày 4/11, công ty thừa nhận phát hiện từ 2/11 rằng toàn bộ thông tin trên đã bị lộ, một phần qua tấn công 'on-path' (man-in-the-middle) — và một số mật khẩu thậm chí bị lộ dạng plaintext. Kẻ tấn công được mô tả là dùng 'offensive agentic techniques' (kỹ thuật tấn công có sự hỗ trợ của AI agent). Chainalysis đã khóa tài khoản, đưa trang đăng nhập, Reactor, Data Solutions, giao diện và API KYT cùng các sản phẩm sàng lọc địa chỉ xuống offline; theo cập nhật ngày 7/11 lúc 13:50 giờ miền Đông Mỹ (01:50 ngày 8/11 giờ VN), Reactor, KYT và Address Screening đã hoạt động trở lại với biện pháp bảo mật tăng cường, trong khi Data Solutions và Chain (Beta) vẫn offline. Công ty yêu cầu mọi người dùng đặt lại mật khẩu và xoay vòng API key, đồng thời cung cấp IP tin cậy để được đưa vào allowlist. Công ty khẳng định chưa có bằng chứng dữ liệu điều tra (investigation graph) bị truy cập hay dữ liệu attribution blockchain bị thay đổi.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2282,
+    "analysis": "Góc mới so với tin vụ tấn công đã đưa trước đây: cập nhật khôi phục dịch vụ ngày 7/11 và quy mô đầy đủ (toàn bộ khách hàng, token đang hoạt động, mật khẩu plaintext). Nối tiếp chuỗi sự cố crypto gần đây (Binance bị hack 6,3 tỷ USD).\nToken đang hoạt động bị lộ đồng nghĩa kẻ giữ token được coi như đã đăng nhập, không cần mật khẩu — rủi ro lớn với các cơ quan thực thi pháp luật, chính phủ, ngân hàng dùng công cụ này để truy vết tội phạm tiền mã hóa.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "02bad34b95a496d4a1fe98b516ff7686f08f8fc3d7c54c16e1dc8d89eb20dca3"
+  },
+  {
+    "id": "bd5dd873cfdfc60ff7dd91231b92025c6bf02f9ec069fc98dd97975d58898f03",
+    "title": "SM Entertainment (Hàn Quốc) bị hack, lộ số đăng ký cư trú và số tài khoản ngân hàng của nhân viên",
+    "summary": "Công ty giải trí SM Entertainment (Hàn Quốc) thông báo ngày 8/11: khoảng ngày 4/11, một kẻ tấn công bên ngoài đã truy cập trái phép vào hệ thống làm việc của công ty (gồm hệ thống phê duyệt điện tử) và làm rò rỉ một số tài liệu lưu trữ ra bên ngoài. Dữ liệu bị lộ gồm số điện thoại di động, địa chỉ, số tài khoản ngân hàng, số đăng ký cư trú (tương đương số CMND/CCCD của Hàn Quốc), đơn vị công tác và một số thông tin trong hợp đồng của nhân viên và đối tác. Rò rỉ tương tự cũng được xác nhận tại hai công ty con: DearU (vận hành nền tảng giao tiếp fan-nghệ sĩ Bubble) và Dream Maker Entertainment (tổ chức concert). SM khẳng định thông tin của fan trên Bubble không bị lộ. Công ty cho biết ngay khi phát hiện đã chặn IP và đường truy cập của kẻ tấn công, thay khóa truy cập trái phép, đồng thời báo cáo vụ việc cho Cơ quan Internet & An ninh Hàn Quốc (KISA) và Ủy ban Bảo vệ Thông tin Cá nhân (PIPC). Đến nay chưa xác nhận trường hợp thiệt hại thứ cấp nào do lạm dụng dữ liệu bị lộ.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://biz.chosun.com/en/en-society/2026/11/08/XF4UESERQBB7TP5DZTIUTKGW5Y/",
+    "imageUrl": "https://biz.chosun.com/resizer/v2/GU3GEYZVHAYTQOLEMMZWMZJUHE.jpg?auth=7ac0c13a52f1c91b2d23e6cf27cdade85551601ae92abad309506cc26f807bbe&width=616",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2283,
+    "analysis": "Vụ rò rỉ dữ liệu doanh nghiệp lớn thứ hai trong ngành giải trí Hàn Quốc chỉ trong khoảng một tuần (sau vụ HYBE công bố rò rỉ dữ liệu nội bộ 6 ngày trước đó), cho thấy các tập đoàn giải trí đang trở thành mục tiêu tấn công có hệ thống.\nSố đăng ký cư trú và số tài khoản ngân hàng là dữ liệu định danh nhạy cảm nhất ở Hàn Quốc, khó thay đổi và có nguy cơ bị lạm dụng lâu dài.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "7f87025037ff7b6934ec22a630aa162ac3508f2cbe57a6271e86f973293f006d"
+  },
+  {
+    "id": "45ea0fa68d66d9ca841690c09b5865b90e8d05fb974890756bff416c0702cbb8",
+    "title": "Mã iOS 27.3 beta hé lộ Apple có thể đưa chatbot bên thứ ba lên hub nhà thông minh HomeView",
+    "summary": "Mã trong bản beta iOS 27.3 chứa một danh mục mới 'Conversational Apps' (Ứng dụng trò chuyện) gắn với HomeView — hub nhà thông minh sắp ra mắt của Apple — cho thấy Apple đang chuẩn bị nền tảng để chatbot bên thứ ba chạy trên thiết bị này, theo nhà nghiên cứu mã pdfu và bài viết của The Verge ngày 8/11. Beta cũng bổ sung bước chuẩn bị cho định tuyến âm thanh hai chiều, quản lý phiên trò chuyện và xử lý ngắt lời, nhưng pdfu lưu ý tính năng 'vẫn chưa được nối dây hoàn toàn'. Apple chưa công bố tính năng này; mã không nêu ứng dụng nào sẽ được hỗ trợ hay thời điểm ra mắt, nên việc ChatGPT hay Claude có mặt trên HomeView vẫn chưa được xác nhận. HomeView (màn hình 7 inch Liquid Retina, chip A18, Siri AI) sẽ bán ra ngày 13/11 với giá 299 USD, bản để bàn và bản gắn tường; thiết bị không có App Store riêng mà hiển thị ứng dụng bên thứ ba kiểu CarPlay từ iPhone/iPad qua cầu nối 'PebblePlay'. Cùng phát hiện: HomeView có cơ chế chống giả mạo — sau 3 lần xác thực khuôn mặt thất bại phải xác thực bằng iPhone — và hệ thống khóa tạm với thời gian chờ tăng dần (1 giờ, 4 giờ, 8 giờ).",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.macrumors.com/2026/11/05/homeview-code-suggests-support-ai-chatbot-apps/",
+    "imageUrl": "https://images.macrumors.com/t/RqRDOhEFHlrmg6_Lnx3fAqUzYh0=/400x0/article-new/2026/10/homeview_home_screen_feature-2.jpg?lossy",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2284,
+    "analysis": "Phát hiện gốc từ MacRumors ngày 5/11; The Verge đăng 22:00 ngày 8/11 (15 phút trước cửa sổ). Nếu thành hiện thực, HomeView sẽ trở thành điểm chạm chatbot AI trong nhà — cạnh tranh trực tiếp với loa thông minh tích hợp Alexa/Google Assistant.\nĐây mới chỉ là tín hiệu từ mã beta, không phải công bố chính thức — không nên đưa như tính năng đã chắc chắn. Theo dõi khi HomeView bán ra ngày 13/11.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "26c3dfffea44520d188afdaf829b65bf7fc416a567b5a8fecb59f25e3bcc16a1"
+  },
+  {
+    "id": "6a4db1a0f32d48dc9a765ade5d6254025c6c3071313abe48042659eee08beb3c",
+    "title": "Goldman Sachs rút Claude Code khỏi bankers và traders, chỉ giữ cho kỹ sư",
+    "summary": "Goldman Sachs cập nhật hướng dẫn nội bộ tháng 10/2026, giới hạn Claude Code (Anthropic) và GitHub Copilot chỉ cho ~12.000 kỹ sư; các bankers/traders đã dùng hai công cụ này nhiều tháng để theo dõi dòng tiền khách hàng, mô hình hóa vị thế thị trường và soạn tài liệu thì mất quyền truy cập. Lý do chính thức: 'năng suất và quản lý rủi ro' sau giai đoạn thử nghiệm. Trớ trêu: Goldman là lead underwriter cho đợt IPO sắp tới của Anthropic (mã ANT, hồ sơ S-1 nộp 26/10), và CIO Marco Argenti mới tháng 7 còn ca ngợi 'vibe coding' của nhân viên phi kỹ thuật. Tháng 4 ngân hàng đã cắt Claude với bankers tại Hong Kong; JPMorgan làm tương tự tháng 6. Số liệu tương tác: HN 116 points / 49 comments (quan sát ~02:19 ngày 9/11; bài HN đăng 01:16 ngày 9/11, trong cửa sổ); Shares/Reposts: N/A. Điểm HOT: Chưa đủ dữ liệu (thiếu Shares/Reposts và tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2285,
+    "analysis": "Đánh dấu bước ngoặt 'thu hẹp AI agent' tại ngân hàng lớn nhất Phố Wall — từ 'AI cho mọi nhân viên' sang 'chỉ kỹ sư mới được dùng agent viết code'. Ít nhất 5 nguồn độc lập cùng đưa: Bloomberg (2/11, gốc, paywall), State of AI, AI Tool Briefing, ExplainX, Financial Spark.\nCó thể tạo tiền lệ cho các ngân hàng/tổ chức tài chính khác siết quyền dùng coding agent theo vai trò; quản trị và ownership của code do agent viết sẽ thành chủ đề nóng trong 3-7 ngày tới. Quan điểm: ủng hộ — code không qua review trên bàn giao dịch là rủi ro tuân thủ (information barrier, FINRA); phản đối — traders mất công cụ làm việc thật, đội kỹ sư sẽ tắc nghẽn.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "89d63ad75d6b852e2daf44d78b5135d766dcf041fbb96ba2ce431092986d6a49"
+  },
+  {
+    "id": "fa7dc8b097728863d60d1d9930b720be0b5a049c9e88b188480a686d76b40303",
+    "title": "Llama-modchip: chạy mô hình DeepSeek-V4 284B trên CPU 64GB, không cần GPU",
+    "summary": "Repo synchopate/llama-modchip (v2.4.0) — patch kernel cho llama.cpp, bộ chuyển đổi lượng tử và công cụ runtime — tuyên bố chạy được DeepSeek-V4-Flash 284B (13,17B tham số active) trong dưới 59 GiB RAM với 44,4 tok/s prefill và 9,1-14,7 tok/s decode trên CPU AMD Ryzen 9 9955HX 16 nhân, không GPU, context 256K; và Nemotron-3.5-30B đạt 25-111 tok/s. Kỹ thuật chính: lượng tử Fractal-64 (~1,71 bpw cho DeepSeek-V4), tiling AVX-512, speculative decoding kiểu Stockfish-PVS, khôi phục KV cache trong ~13 ms. Số liệu tương tác: HN 267 points / 86 comments (quan sát ~02:19 ngày 9/11, tăng từ 102/33 lúc 22:15 ngày 8/11); GitHub 378 stars, 23 forks; Shares/Reposts: N/A. Điểm HOT: Chưa đủ dữ liệu (thiếu Shares/Reposts và tăng trưởng 24h có bằng chứng).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://github.com/synchopate/llama-modchip",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2286,
+    "analysis": "'284B trên CPU 64GB' là con số gây sốc với cộng đồng local LLM — nếu đúng, nó hạ rào cản phần cứng chạy mô hình frontier xuống mức một chiếc laptop/desktop cao cấp. Repo tạo 29/10/2026, 47 commit, 4 release.\nCAVEAT QUAN TRỌNG: mọi con số tok/s/RAM đều là tự công bố của tác giả repo, chưa có kiểm chứng độc lập; mức lượng tử ~1,7 bpw cực thấp đặt câu hỏi về chất lượng đầu ra thực tế. Nếu được cộng đồng tái kiểm chứng, có thể kích hoạt làn sóng tối ưu CPU inference; ngược lại sẽ thành case-study về benchmark tự công bố. Lưu ý: số 22:15 ngày 8/11 đã loại trend này vì tuyên bố chưa kiểm chứng và HN chỉ 102/33; nay điểm tăng gần gấp 3 nên đưa lại với caveat đầy đủ.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "4064401136ba3b1bb3929fca2e03dcdc6d4f7e6606a962e34316fefb398124bc"
+  },
+  {
+    "id": "318ebae8d3b84e611dc95f3d20f10af808661468b1e4be20d597442838882f83",
+    "title": "'Person of Interest' 15 năm sau: khi 'The Machine' trong phim dần thành hiện thực",
+    "summary": "Bài viết của kỹ sư Wilson Tovar (krthr.co, 7/11/2026) về việc xem lại series 'Person of Interest' (2011) và nhận ra nó 'thậm chí còn đúng với thời đại hơn cả 15 năm trước': cỗ máy AI giám sát toàn diện từng là khoa học viễn tưởng giờ không còn xa thực tế. Bài viết gợi lại không khí Internet đầu thập niên 2010 — SOPA/PIPA, vụ đóng cửa Megaupload, các forum cộng đồng. Số liệu tương tác: HN 253 points / 168 comments (quan sát ~02:19 ngày 9/11; bài HN đăng 18:23 ngày 8/11); Shares/Reposts: N/A. Điểm HOT: Chưa đủ dữ liệu (thiếu Shares/Reposts và tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://krthr.co/person-of-interest/",
+    "collectedAt": "2026-11-08T21:06:11.010Z",
+    "sourceRow": 2287,
+    "analysis": "Đánh trúng hai dòng cảm xúc cùng lúc: hoài niệm Internet 'ngày xưa' và lo ngại hiện tại về AI giám sát — chủ đề đang nóng sau nhiều tin về agent, dữ liệu và quyền riêng tư trong tuần.\nThiên về văn hóa/cộng đồng hơn là sự kiện; có thể kéo theo làn sóng xem lại và thảo luận về phim khoa học viễn tưởng 'tiên tri' về AI trong vài ngày tới. Quan điểm: đồng cảm — nhiều bình luận chia sẻ ký ức về Internet đầu 2010; phản biện — 'The Machine' trong phim vẫn khác xa hệ thống AI thực tế (rời rạc, thương mại, không toàn năng); cảnh báo — điểm đáng sợ không phải một cỗ máy duy nhất mà là hàng nghìn hệ thống giám sát nhỏ gộp lại.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "50719c8259a8fcb7826bfefd633d48b15477f35f543e501cc3c1ede26e039a33"
   }
 ]
