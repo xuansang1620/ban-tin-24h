@@ -43617,7 +43617,7 @@
     "id": "817dc8f99ca249791319b0c5917dfb4e259059bc406c059ba8938c5f818826f4",
     "title": "Mưa lũ miền Trung: sông Yên vượt báo động 3, cây đè ôtô ở Đà Nẵng, sóng cao 2–4 m tràn kè ở Huế",
     "summary": "Mưa lớn đêm 8 đến sáng 9/11 khiến lũ sông Yên (Thanh Hóa) vượt báo động 3: trạm Chuối lúc 17h ngày 9/11 đạt 4,47 m, vượt BĐ3 0,97 m, dự báo đỉnh 4,55–4,65 m trong khoảng 17–20h. Chiều tối 9/11, mưa lớn kèm gió giật làm cây xanh bật gốc đè ôtô trên đường Nguyễn Văn Linh (Đà Nẵng) và đè vào nhà dân; ven biển Huế sóng cao 2–4 m tràn kè, ngập đường hơn 40 cm, sạt lở bờ biển hơn 100 m. Thanh Hóa: 12 vị trí tỉnh lộ và 35 ngầm tràn ngập, 230 ha rau màu ngập, 471 gia cầm bị cuốn trôi, 5 cột điện đổ; Thanh Hóa và Gia Lai di dời 35 hộ dân.",
-    "category": "Xã hội",
+    "category": "Chính trị & Xã hội",
     "section": "A - Top 5 tin quan trọng",
     "region": "Việt Nam",
     "sourceUrl": "https://vnexpress.net/mua-lu-mien-trung-cay-de-oto-song-tran-ke-duong-ngap-5142653.html",
@@ -43626,17 +43626,17 @@
     "analysis": "Đây là diễn biến mới trong đêm so với bản tin lũ 17:57 ngày 9/11 (đỉnh lũ tối 9/11 và thiệt hại tại Đà Nẵng, Huế). Cảnh báo lũ quét, sạt lở tại 237 xã, phường thuộc 8 tỉnh, thành phố.\nĐợt mưa lớn còn kéo dài đến 11/11, nguy cơ mưa trên 100 mm/3 giờ tại Huế, Đà Nẵng, Quảng Ngãi–Gia Lai; lũ các sông từ Quảng Trị đến Đắk Lắk có thể lên báo động 2 và trên báo động 2. Người dân vùng trũng thấp, ven sông cần theo dõi sơ tán.",
     "importance": 1,
     "tags": [
-      "Xã hội",
+      "Chính trị & Xã hội",
       "A - Top 5 tin quan trọng"
     ],
     "language": "vi",
-    "contentHash": "b5d0eecd311e8b6fc9f72d16a67565e4cc2fc6dbce6c62ddec3f015e92fc8945"
+    "contentHash": "a15109aabe34bdd6910926451a95ec7bc01842cfeb21a5b8382bb551043f033c"
   },
   {
     "id": "139ab865c16551c81d55c9f69558084db071b3c19ac56b76478fd9524ff7e029",
     "title": "Anthropic ra mắt Claude Fable 5.2 và Mythos 5.2: nhanh hơn tới 30%, rẻ hơn 20%, context 1 triệu token",
     "summary": "Anthropic ngày 9/11 ra mắt Claude Fable 5.2 và Claude Mythos 5.2 — hai model mạnh nhất của hãng cho công việc kỹ thuật khó. Cả hai hỗ trợ context 1 triệu token, trả lời tối đa 128.000 token/lần, nhanh hơn tới 30% so với bản 5.1 và rẻ hơn: 8 USD/triệu input token, 40 USD/triệu output token (trước đây 10/50 USD). Chế độ 'fast mode' tùy chọn tăng tốc độ sinh token tới 2,5 lần với giá 16/80 USD. Fable 5.2 mở cho mọi người dùng; Mythos 5.2 chỉ dành cho tổ chức đã qua xác minh an ninh mạng hoặc khoa học sự sống. Theo benchmark do Anthropic tự đo, Fable 5.2 đạt 49,1% FrontierCode 2.0, vượt Opus 5.5 (45,5%) và GPT-6 Astra (42,8%).",
-    "category": "Công nghệ",
+    "category": "Công nghệ & AI",
     "section": "A - Top 5 tin quan trọng",
     "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
     "collectedAt": "2026-11-09T19:44:54.759Z",
@@ -43644,11 +43644,11 @@
     "analysis": "Ra mắt ngay trước thềm IPO dự kiến của Anthropic giữa tháng 11; Fable và Mythos là cùng một model nền, khác nhau ở lớp bảo vệ an ninh/sinh học. Cộng đồng Hacker News lan truyền mạnh ngay trong đêm: 6 bài đăng độc lập trong ~15 phút.\nGiảm giá model flagship gây sức ép cạnh tranh lên OpenAI, Google và Meta (cùng ngày Meta ra mắt Muse Ember giá 0,10 USD/triệu token); Mythos củng cố vị thế Anthropic trong an ninh mạng. Lưu ý: benchmark là số liệu do Anthropic tự công bố, chưa có kiểm chứng độc lập.",
     "importance": 1,
     "tags": [
-      "Công nghệ",
+      "Công nghệ & AI",
       "A - Top 5 tin quan trọng"
     ],
     "language": "vi",
-    "contentHash": "03b0369e4b37046be309bf660e612beac2bd825ceddf7ac24b2be4341b6a1f99"
+    "contentHash": "8ab8e9e9328f91128cd879e978ddac750bcd749e6b06b7237f5f0c68131c4f52"
   },
   {
     "id": "a60ad1300c0ff657742472694f924f755d88a9fde0c4d78fc7c9f555582738b3",
@@ -43745,7 +43745,7 @@
     "id": "002997c1dd90a789fd15c9a00c4702ee0e9a64d531836c210575a223c36949a8",
     "title": "Lãi suất hạ nhiệt: 46/46 ngân hàng đã giảm lãi suất huy động",
     "summary": "Theo Phó Thống đốc NHNN Phạm Thanh Hà tại họp báo Chính phủ thường kỳ tháng 10/2026, đến cuối tháng 10, lãi suất huy động niêm yết đã giảm phổ biến 0,5–0,7%/năm tùy nhóm ngân hàng; toàn bộ 46/46 ngân hàng thương mại đã điều chỉnh giảm lãi suất tiền gửi kỳ hạn từ 6 tháng trở lên. Lãi suất cho vay phát sinh mới bình quân giảm 0,2–0,5%/năm, song vẫn thấp xa mức định hướng giảm 1,5–2%. Hơn 20 ngân hàng công bố gói tín dụng ưu đãi với tổng hạn mức hơn 451.000 tỷ đồng, lãi suất từ khoảng 8%/năm, chủ yếu cho sản xuất kinh doanh và lĩnh vực ưu tiên.",
-    "category": "Ngân hàng",
+    "category": "Kinh tế & Tài chính",
     "section": "B - Kinh tế",
     "region": "Việt Nam",
     "sourceUrl": "https://baomoi.com/ngan-hang-tiep-tuc-tim-du-dia-giam-lai-suat-c56470648.epi",
@@ -43753,17 +43753,17 @@
     "sourceRow": 2406,
     "analysis": "Lãi huy động kỳ hạn 6–12 tháng hiện khoảng 5,5–6,9%/năm; CPI tháng 10 tăng 5,09% so với cùng kỳ (bình quân 10 tháng +4,57%, đã nhỉnh hơn mục tiêu ~4,5% cả năm). UOB nhận định NHNN nhiều khả năng giữ nguyên lãi suất điều hành đến hết 2026 và sang 2027.\nLãi suất huy động giảm giúp hạ chi phí vốn cho ngân hàng, tạo dư địa giảm lãi cho vay; tuy nhiên lãi cho vay mới chỉ giảm 0,2–0,5% cho thấy độ trễ truyền dẫn, doanh nghiệp vẫn chờ giảm sâu hơn.",
     "tags": [
-      "Ngân hàng",
+      "Kinh tế & Tài chính",
       "B - Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "30701e87368db42ba7993604e8cd556f474ed62a0e3eb2894a5459c1782fd75f"
+    "contentHash": "c2289c3e9f768aa8b157591cb4cbdbea731157885691661f6092e88cf325550b"
   },
   {
     "id": "7528ed18c39ed02ee93874a2fbee0d9eec01747e0eea5caf03adfebbe4959a30",
     "title": "Cảnh báo mưa cường độ lớn trên 100 mm trong 3 giờ tại Trung Bộ, đêm 9/11 đến 11/11",
     "summary": "Trung tâm Dự báo Khí tượng Thủy văn Quốc gia cảnh báo từ đêm 9/11 đến ngày 11/11, khu vực Huế, Đà Nẵng và phía Đông các tỉnh Quảng Ngãi đến Gia Lai có mưa to đến rất to, nguy cơ xuất hiện mưa cường độ lớn trên 100 mm trong 3 giờ, gây ngập úng đô thị, lũ quét và sạt lở đất. Mưa phổ biến 150–300 mm, cục bộ trên 500 mm; phía Nam Quảng Trị, phía Đông Đắk Lắk và Khánh Hòa 100–200 mm, cục bộ trên 300 mm. Miền Bắc tiếp tục rét trong đêm 9/11 và ngày 10/11, vùng núi cao có nơi dưới 12°C. Mưa lớn Trung Bộ dự báo giảm dần từ ngày 12/11.",
-    "category": "Thời tiết",
+    "category": "Chính trị & Xã hội",
     "section": "B - Xã hội",
     "region": "Việt Nam",
     "sourceUrl": "https://baomoi.com/c56471973.epi",
@@ -43771,17 +43771,17 @@
     "sourceRow": 2407,
     "analysis": "Các sông từ Quảng Trị đến Đắk Lắk có thể xuất hiện một đợt lũ từ 9–12/11, đỉnh lũ sông ở Huế lên báo động 2 và trên báo động 2.\nNguy cơ ngập úng đô thị, lũ quét và sạt lở đất ở mức cao trong 2 ngày tới; các địa phương Trung Bộ cần duy trì trực 24/24 tại hồ chứa và sẵn sàng sơ tán vùng trũng thấp, ven sông.",
     "tags": [
-      "Thời tiết",
+      "Chính trị & Xã hội",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "fff207a2e3147899e3e4238e83543f0cde1837f72e817e0472ab8bca9770f96e"
+    "contentHash": "0806097a1e8df446cd0b884cf04a7be3ae7b8703991c4a5f0f7ddbe7014e9dbf"
   },
   {
     "id": "312f80850e19d5268d2772acdb9e592eb019d5fb5e484309645c1adbb48827b0",
     "title": "Gần 2.000 trường học đồng loạt tuyên truyền phòng, chống bạo lực học đường và xâm hại trẻ em",
     "summary": "Hưởng ứng Ngày Pháp luật Việt Nam năm 2026, ngày 9/11, Bộ Công an phối hợp Bộ Giáo dục và Đào tạo tổ chức chương trình tuyên truyền phòng, chống bạo lực học đường và xâm hại trẻ em, với chương trình điểm cấp Bộ tại THCS Nghĩa Trụ (Hưng Yên) và THPT chuyên Lương Văn Tụy (Ninh Bình), cùng gần 2.000 chương trình đồng loạt tại các trường THCS, THPT trên cả nước. Nội dung tập trung nhận diện hành vi bạo lực, xâm hại (nhất là trên không gian mạng), kỹ năng tự bảo vệ và tìm kiếm hỗ trợ, thực hiện Chỉ thị số 03/CT-TTg của Thủ tướng. Ban Tổ chức trao 20 suất học bổng và 20 xe đạp cho học sinh khó khăn tại hai trường điểm.",
-    "category": "Giáo dục",
+    "category": "Chính trị & Xã hội",
     "section": "B - Xã hội",
     "region": "Việt Nam",
     "sourceUrl": "https://baomoi.com/gan-2-000-truong-hoc-dong-loat-to-chuc-tuyen-truyen-phong-chong-bao-luc-hoc-duong-va-xam-hai-tre-em-c56468116.epi",
@@ -43791,17 +43791,17 @@
     "sourceRow": 2408,
     "analysis": "Diễn ra trong bối cảnh các vụ bạo lực học đường và xâm hại trẻ em trên mạng liên tục được phản ánh; chương trình là hoạt động quy mô toàn quốc hiếm có trong năm.\nNâng cao nhận thức và kỹ năng tự bảo vệ cho học sinh trên diện rộng; hiệu quả phụ thuộc vào việc duy trì tuyên truyền thường xuyên thay vì chỉ hoạt động điểm trong một ngày.",
     "tags": [
-      "Giáo dục",
+      "Chính trị & Xã hội",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "71806de28c13c97bfeb1530a3d554af56305111ca3e903853c8fc46f57cf2bcf"
+    "contentHash": "af3c5e226d123ea2f81956bb9b82949a91c10ee9841ca45f2ed14f628ca2616d"
   },
   {
     "id": "acdd9bb394b8826ceb5656c97afb7d4a68a40e4cae17704d44ba43184011ce35",
     "title": "Hà Nội tính miễn phí bữa trưa, sách giáo khoa cho học sinh ở hai xã thí điểm 'xã, phường xã hội chủ nghĩa'",
     "summary": "Chiều 9/11, Chủ tịch UBND TP Hà Nội Vũ Đại Thắng chủ trì buổi làm việc với hai xã Thư Lâm và Phúc Thịnh về tiến độ thí điểm mô hình 'xã, phường xã hội chủ nghĩa'. Ông yêu cầu trường học trong mô hình phải tốt hơn chuẩn quốc gia, gợi mở nghiên cứu hỗ trợ miễn phí bữa ăn trưa, sách giáo khoa, mở rộng hoạt động văn hóa, nghệ thuật và kỹ năng xã hội cho học sinh. Mô hình thí điểm có 54 tiêu chí; hai xã đã xây dự thảo đề án và 9 kế hoạch triển khai; phấn đấu thông qua đề án trong thời gian tới, triển khai từ năm 2027, lộ trình đến 2030, định hướng đến 2035.",
-    "category": "Giáo dục",
+    "category": "Chính trị & Xã hội",
     "section": "B - Xã hội",
     "region": "Việt Nam",
     "sourceUrl": "https://vietnamnet.vn/chu-tich-ha-noi-tinh-den-mien-phi-bua-trua-cho-hoc-sinh-o-xa-phuong-xhcn-2573185.html",
@@ -43809,17 +43809,17 @@
     "sourceRow": 2409,
     "analysis": "Đây mới là đề xuất nghiên cứu, chưa phải chính sách đã ban hành.\nNếu triển khai, học sinh hai xã thí điểm được hưởng hỗ trợ trực tiếp về bữa ăn và học liệu; mô hình có thể nhân rộng nếu chứng minh hiệu quả, nhưng cần nguồn lực ngân sách rõ ràng.",
     "tags": [
-      "Giáo dục",
+      "Chính trị & Xã hội",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "58e98ecd1cf0fe582c218aab008559ab173b501e01cbbb4a7fe1c92b5b190de1"
+    "contentHash": "5b610a23c57ea4db61742f026795a0f87a6e48ebbc4ed42cfe15ea4c90166c66"
   },
   {
     "id": "88ff322139af94fe24a4cc4cbf8a87a8b48fa5274841297099480b410db2ef4e",
     "title": "Meta ra mắt Muse Ember — model nhẹ nhất cho AI agent, chỉ 0,10 USD/triệu token",
     "summary": "Meta Superintelligence Labs ra mắt Muse Ember, model nhẹ và rẻ nhất của dòng Muse, thiết kế cho các tác vụ agent lặp lại cả ngày: gọi tool, subtask lập trình, routing, trích xuất dữ liệu và phân tích tài liệu dài. Model đa phương tiện (văn bản, ảnh, âm thanh, video), đọc được screenshot, biểu đồ, tài liệu scan, voice memo mà không cần model riêng; context 1 triệu token, output tối đa 512.000 token. Giá 0,10 USD/triệu input token và 0,50 USD/triệu output token — theo Meta, Ember đạt điểm Artificial Analysis Index 36 với chi phí chỉ 0,14 USD/nhiệm vụ, rẻ nhất ở mức đó. Đây là model thứ 4 dòng Muse, sau Spark, Glimmer và Wonder.",
-    "category": "AI",
+    "category": "Công nghệ & AI",
     "section": "B - Công nghệ",
     "sourceUrl": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
     "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Intelligence-vs.-Cost-Per-Task-LM.png?w=680",
@@ -43828,28 +43828,28 @@
     "sourceRow": 2410,
     "analysis": "Định vị 'Muse Wonder lập kế hoạch, Muse Ember xử lý khối lượng'; có mặt trên Muse Code và Meta Model API dưới tên muse-ember-1.0.\nĐặt cược vào thị trường agent chạy khối lượng lớn với chi phí thấp; gây sức ép giá lên các model nhẹ của Anthropic (Haiku) và OpenAI (Luna). Hạn chế: benchmark do Meta/Artificial Analysis công bố, cần kiểm chứng độc lập trong thực tế.",
     "tags": [
-      "AI",
+      "Công nghệ & AI",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "ef81bbdc1802a370422dab13d53c9246b43f55e954419c204fc74757ca2eb190"
+    "contentHash": "29d9aa3bd55214d38be6e583118a4ef1c5b76b50f6002aec8e88282db4af99ec"
   },
   {
     "id": "10d2024a1a68ad809c5c12927841ea413e4b52bfbb999cd680c2e892de2995a5",
     "title": "Lỗ hổng 'SSHole' trong OpenSSH đang bị khai thác thực tế để xâm nhập máy chủ Linux",
     "summary": "Tin tặc đang khai thác lỗ hổng SSHole (CVE-2026-123158) trong OpenSSH để thực thi lệnh, đánh cắp thông tin đăng nhập và duy trì quyền truy cập. Lỗi cho phép vượt qua xác thực trên các hệ Linux dùng musl (như Alpine, OpenWrt) khi mật khẩu vượt quá 256 ký tự: hàm băm mật khẩu của musl trả về '*' khi lỗi, OpenSSH nhầm tưởng trùng với giá trị đã lưu. GreyNoise ghi nhận lần khai thác thành công đầu tiên trong thực tế ngày 7/11 lúc 00:46 UTC (khoảng 40 giờ sau bản vá), với 16 chuỗi khai thác thành công từ 6 IP; tổng cộng 27,5 triệu lượt quét cổng 22 và 20,1 triệu phiên SSH đã thử. OpenSSH đã vá trong phiên bản 10.6p2 phát hành ngày 5/11. Một kẻ tấn công đã giành quyền root và cài implant TAC Agent (Python, ghi chú bằng tiếng Trung).",
-    "category": "An ninh mạng",
+    "category": "An ninh mạng & Bảo mật",
     "section": "B - Công nghệ",
     "sourceUrl": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
     "collectedAt": "2026-11-09T19:44:54.759Z",
     "sourceRow": 2411,
     "analysis": "Các cuộc tấn công bắt đầu ngày 5/11, ngay sau khi PoC xuất hiện; nối tiếp chuỗi lỗ hổng hạ tầng số bị khai thác dồn dập (PHP2Shell, GitLab, Arista, Signal).\nQuản trị viên hệ thống dùng Alpine/OpenWrt cần cập nhật OpenSSH 10.6p2 ngay và rà soát nhật ký SSH; các hệ dùng glibc không bị ảnh hưởng bởi lỗi này.",
     "tags": [
-      "An ninh mạng",
+      "An ninh mạng & Bảo mật",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "f98f986f1ed1633e06ab01939f9a11781ad37d4519e3f7c88a3a27107d00b06a"
+    "contentHash": "5117ac8af8e34819ed9d587dfca641b5f078c3666bbf50012174e66de5b2c179"
   },
   {
     "id": "16ce3b424a99982cc02b353323d3634694eeb344905c2737ab691d2c9b5540a7",
@@ -43873,18 +43873,18 @@
     "id": "f821455ded78596382b4ef370145b932181ce9da055ce8863a485597d6497b49",
     "title": "Disney và Adobe hợp tác nhiều năm xây model AI tạo sinh riêng cho Disney",
     "summary": "Disney và Adobe công bố liên minh chiến lược nhiều năm tại Adobe MAX (Miami Beach): Adobe trở thành 'Official AI Innovation Partner' của Disney, hai bên cùng xây các model AI tạo sinh 'artist-led' riêng cho Disney qua nền tảng Adobe Firefly Foundry, huấn luyện trên nhân vật, bối cảnh và phong cách hình ảnh của chính Disney để cho ra sản phẩm an toàn thương mại, sẵn sàng đưa vào sản xuất. Disney được truy cập sớm Firefly, Firefly Foundry, Premiere và Photoshop, kèm đội ngũ kỹ sư/nghiên cứu chuyên trách của Adobe. Phạm vi: công viên, du thuyền, studio (StudioLAB) và ESPN. Đội R&D của Walt Disney Imagineering đã dùng model sketch-to-image để vẽ concept art cho trò chơi và trải nghiệm mới. Không công bố giá trị hợp đồng.",
-    "category": "AI",
+    "category": "Công nghệ & AI",
     "section": "B - Công nghệ",
     "sourceUrl": "https://www.reuters.com/business/media-telecom/disney-adobe-co-develop-custom-ai-models-tailored-media-giant-2026-11-09/",
     "collectedAt": "2026-11-09T19:44:54.759Z",
     "sourceRow": 2413,
     "analysis": "Sau khi thỏa thuận 1 tỷ USD của Disney với OpenAI Sora đổ vỡ hồi tháng 3/2026, Disney chọn hướng model riêng huấn luyện trên IP của chính mình.\nMô hình 'model riêng cho từng hãng lớn' có thể trở thành xu hướng thay vì dùng model chung; câu hỏi mở: nghệ sĩ được ghi công ra sao, khán giả Disney+ có thấy nội dung AI tạo sinh hay không, và chi phí liên minh là bao nhiêu.",
     "tags": [
-      "AI",
+      "Công nghệ & AI",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "769459492547d1d4631a8432ee0871a2c80bee7de04789c152ff3cfe64f85c4e"
+    "contentHash": "843b8ce299b98c973972bdfb12e51128e6e083172298681ec5abaff265f5a128"
   },
   {
     "id": "497bccdd409c1e0288535d819144dc89d2727a0624a87e4510100b8ecfa58581",
@@ -43977,17 +43977,407 @@
     "id": "054fa21205f962145f7ba28de09899d7f4eee18af518f3f685a1cb8c062af08f",
     "title": "Muse Ember (Meta) — model siêu rẻ cho AI agent chạy khối lượng lớn",
     "summary": "Meta ra mắt Muse Ember, model nhỏ và hiệu quả nhất của dòng Muse, thiết kế cho công việc agent lặp lại cả ngày: gọi tool, subtask lập trình, routing, trích xuất dữ liệu, phân tích tài liệu dài. Đa phương tiện (văn bản, ảnh, âm thanh, video), context 1 triệu token, output tối đa 512.000 token. Giá 0,10 USD/triệu input token, 0,004 USD/triệu cached input token, 0,50 USD/triệu output token; Artificial Analysis Index 36 với chi phí chỉ 0,14 USD/nhiệm vụ — rẻ nhất ở mức điểm đó. Có mặt trên Muse Code và Meta Model API dưới tên muse-ember-1.0.",
-    "category": "AI",
+    "category": "Công nghệ & AI",
     "section": "D - Công nghệ đáng thử",
     "sourceUrl": "https://research.meta.ai/blog/muse-ember",
     "collectedAt": "2026-11-09T19:44:54.759Z",
     "sourceRow": 2419,
     "analysis": "Định vị 'Wonder lập kế hoạch, Ember xử lý khối lượng'; là model đầu tiên được huấn luyện bằng Muse Wonder Full.\nỨng dụng thực tế: agent xử lý hàng loạt tác vụ nhỏ (rà soát hợp đồng, phân loại tài liệu, gọi tool) với chi phí cực thấp. Hạn chế: hiệu năng coding (FrontierCode 2.0: 27,2) thấp hơn Haiku 5.5 (34,9); benchmark do Meta/Artificial Analysis công bố. Link chính thức: https://research.meta.ai/blog/muse-ember",
     "tags": [
-      "AI",
+      "Công nghệ & AI",
       "D - Công nghệ đáng thử"
     ],
     "language": "vi",
-    "contentHash": "42769f89a057ff4b7458c1b11a2b2326e8242cb11eb8b6bf2d26236d4755586b"
+    "contentHash": "0252cbfa18571477bdda677485c11312559e573d23d3d161247c64a93793e1e6"
+  },
+  {
+    "id": "4cbbf08349810a2b8237f71f3118e1f7b82e6fc46e54b350836e663bd56947bc",
+    "title": "Trump: chiến tranh với Iran “về mặt quân sự coi như đã kết thúc” sau cuộc gặp Thủ tướng Qatar — nhưng phong tỏa vẫn tiếp tục, Iran bác bỏ là “tin giả”",
+    "summary": "Sau cuộc gặp kín khoảng 45 phút tại Nhà Trắng với Thủ tướng Qatar Sheikh Mohammed bin Abdulrahman Al Thani (kết thúc lúc 01:32 giờ VN 10/11), Tổng thống Donald Trump bất ngờ xuất hiện tại phòng họp báo và tuyên bố: “Iran, về mặt quân sự, coi như đã kết thúc. Chúng ta chỉ đang giữ nguyên trạng.” Ông nói “tại thời điểm này, sẽ không cần thiết” tiến hành hành động quân sự mới, nhưng không cam kết ngừng bắn dài hạn: “Tôi không đảm bảo bất cứ điều gì… nếu chúng ta phải quay lại, chúng ta đã khóa mục tiêu và sẵn sàng.” Trong cuộc phỏng vấn điện thoại với Reuters sau đó, ông nói Qatar và Saudi Arabia đều muốn giải pháp hòa bình, nhưng Mỹ “sẵn sàng bất cứ lúc nào” nối lại không kích. Phía Iran bác bỏ: Thư ký Hội đồng An ninh Quốc gia Tối cao Mohsen Rezaei gọi đó là “tin giả”, yêu cầu Mỹ “dừng bịa tin về các cuộc đàm phán tưởng tượng”.",
+    "category": "Quốc tế",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2420,
+    "analysis": "Đây là kết quả đầu tiên của cuộc gặp Trump–Thủ tướng Qatar mà số 02:15 vẫn chưa có. Thủ tướng Qatar được cho là đã trình Trump đề xuất khung 2 ngày của Iran (Mỹ dỡ phong tỏa hải quân và giải phóng tài sản bị đóng băng, đổi lại Iran mở lại Hormuz và cho phép thanh sát hạt nhân); không có thông cáo chung và không có thỏa thuận nào được công bố. Al Jazeera lưu ý chưa rõ phát biểu của Trump có thay đổi thực chất lập trường quân sự của Mỹ hay không. Tổng thống Iran Masoud Pezeshkian nói Lãnh tụ tối cao Mojtaba Khamenei kêu gọi chấm dứt tình trạng “không chiến tranh cũng không hòa bình”, Iran sẵn sàng đàm phán tiếp nhưng “sẽ không đầu hàng trước vũ lực”.\nTín hiệu hạ nhiệt ngắn hạn rõ rệt — giá dầu lao dốc ngay sau đó (xem tin thị trường) — nhưng lập trường thực chất chưa thay đổi: phong tỏa hải quân và Lực lượng đặc nhiệm Iron Gate (chặn buôn lậu qua đường bộ và biển Caspi) vẫn duy trì. Rủi ro đảo chiều cao nếu đàm phán đổ vỡ. Mốc theo dõi: CPI Mỹ 20:30 tối 10/11, đàm phán Nga–Ukraine tại Abu Dhabi 10–11/11, Trump dự kiến gặp Tập Cận Bình và Putin bên lề APEC 18–19/11. Caveat: tuyên bố “chiến tranh coi như kết thúc” là đánh giá một chiều của Trump; đề xuất 2 ngày và mức giải phóng 8 tỷ USD tài sản chỉ là thông tin truyền thông, chưa xác minh độc lập.",
+    "importance": 1,
+    "tags": [
+      "Quốc tế",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "5cecdeafc9e9600a5e3c3409773bc21322bef0ce1d3814ce446ce51410abff5d"
+  },
+  {
+    "id": "251730547f6d9b1b1c52519d0b687583618442f193736fde9ed6a38481edee56",
+    "title": "Hãng bán khống Culper đã cảnh báo về quan hệ của CEO Nvidia Jensen Huang từ 6 tháng trước vụ bê bối gián điệp",
+    "summary": "TechCrunch ngày 10/11 cho biết, 6 tháng trước khi vụ bê bối nổ ra, hãng bán khống Culper Research (New York) đã nêu nghi vấn về mối quan hệ “gần gũi một cách khó chịu” giữa CEO Nvidia Jensen Huang và Alice Huang, giám đốc điều hành của Megaspeed — công ty Singapore mua chip Nvidia, hiện bị tình báo Mỹ nghi là gián điệp Trung Quốc. Báo cáo ngày 13/5/2026 của Culper ghi nhận hai lần hai người xuất hiện cùng nhau công khai (tiệc tại Đài Bắc quanh Computex tháng 6/2024 và bữa tối tháng 5/2025) và cho rằng một số nhân viên Nvidia từng băn khoăn liệu họ có “mối quan hệ đặc biệt” hay không. Culper cũng đặt giả thuyết doanh thu Nvidia tại Trung Quốc bị mất do kiểm soát xuất khẩu đã được chuyển hướng qua Đông Nam Á, và Megaspeed — với tổng nợ phải trả và vốn chủ sở hữu tăng từ 33 triệu USD cuối 2023 lên khoảng 3 tỷ USD cuối 2024, phần lớn là tiền đặt cọc hoàn lại từ nguồn không xác định — được Alibaba bí mật tài trợ qua công ty vỏ bọc; Financial Times ngày 9/11 đưa tin tài liệu cho thấy Alibaba đã cho Megaspeed vay tiền qua các công ty con.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2421,
+    "analysis": "Cuối tuần qua, Jensen Huang đã thừa nhận ngoại tình trong memo gửi nhân viên và hội đồng quản trị Nvidia mở cuộc điều tra độc lập về việc ông có phải mục tiêu của một chiến dịch tình báo nước ngoài hay không. Cổ phiếu Nvidia giảm 4,27% xuống 178,67 USD trong phiên 9/11 (có lúc giảm hơn 6%), trong bối cảnh Quốc hội Mỹ yêu cầu báo cáo và công ty chuẩn bị công bố kết quả kinh doanh ngày 17/11. Hội đồng quản trị khẳng định “không có lý do gì để tin rằng” an ninh quốc gia Mỹ hay bí mật của Nvidia bị xâm phạm.\nVụ việc làm dấy lên câu hỏi về khả năng lãnh đạo của Huang, lập trường của Nvidia trong việc nới lỏng kiểm soát xuất khẩu chip AI sang Trung Quốc và rủi ro quản trị tại công ty trung tâm của cơn sốt AI. Caveat: Culper là bên bán khống nên hưởng lợi tài chính nếu cổ phiếu giảm; cáo buộc chuyển hướng chip trái phép và cáo buộc gián điệp chưa được kiểm chứng độc lập; Reuters lưu ý không thể xác minh độc lập các cáo buộc trong bài báo của New York Times.",
+    "importance": 1,
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "8e3e92949962841f9bb523d6c91f9a33f816d57f1933213aa2d6c071eecf505b"
+  },
+  {
+    "id": "b38e2dbd9614ada2ea15993394424461b297e23b67c76a2b123c7300f7a83d46",
+    "title": "Phố Wall đóng cửa tăng mạnh nhất từ tháng 4: Dow +1.104 điểm, S&P +2,35%, Nasdaq +2,74%; dầu Brent rơi về 92,57 USD, vàng lên 4.138 USD",
+    "summary": "Theo bảng chốt phiên chính thức của AP (đăng 04:27 giờ VN 10/11): S&P 500 tăng 173,08 điểm (+2,35%) lên 7.549,94 — phiên tốt nhất kể từ tháng 4, chỉ còn thấp hơn 3,4% so với đỉnh lịch sử tháng 10; Dow Jones tăng 1.104,02 điểm (+2,15%) lên 52.389,75; Nasdaq Composite tăng 673,71 điểm (+2,74%) lên 25.253,14; Russell 2000 tăng 3,15% lên 2.840,81. Dầu Brent chốt phiên giảm 5,75 USD (-5,85%) xuống 92,57 USD/thùng — thấp nhất kể từ cuối tháng 8; WTI giảm 3,98 USD (-4,38%) xuống 86,85 USD/thùng. Vàng giao ngay tăng 1,74% lên 4.138,25 USD/ounce. Lợi suất trái phiếu Kho bạc Mỹ kỳ hạn 10 năm gần như đi ngang ở 4,87–4,88%.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://tvnewscheck.com/business/article/dow-jumps-1104-nasdaq-climbs-674-sp-500-adds-173/",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2422,
+    "analysis": "Động lực chính là phát biểu của Trump cuối tuần rằng tấn công mới vào Iran là “rất khó xảy ra” nếu đàm phán tiến triển, làm xẹp “phí rủi ro chiến tranh” trên giá dầu; cùng với báo cáo lợi nhuận mạnh của các công ty lớn (Constellation Energy +10,5%) và sự phục hồi của cổ phiếu chip sau đợt bán tháo tuần trước vì lo ngại chiến thắng của đảng Dân chủ sẽ làm chậm xây dựng trung tâm dữ liệu AI. AMD tăng 13,3% (hồi phục mức giảm 11% tuần trước), CoreWeave +5,6%; ngược lại Nvidia giảm 4,3% vì bê bối của CEO. Thị trường châu Âu và châu Á cũng tăng theo: CAC 40 (Pháp) +1,2%, Nikkei 225 +2,3%; Kospi -0,8%.\nDầu rẻ giúp giảm áp lực lạm phát trước thềm công bố CPI tháng 10 của Mỹ tối nay (20:30 giờ VN), nhưng đà giảm mạnh của dầu cũng phản ánh kỳ vọng thị trường đặt vào một thỏa thuận Mỹ–Iran — nếu đàm phán đổ vỡ, dầu có thể bật tăng trở lại rất nhanh. Goldman Sachs đã nâng dự báo Brent tháng 12 lên 105 USD/thùng (từ 90 USD). Đây là số đóng cửa chính thức, cập nhật mới so với số tăng điểm giữa phiên ở số 02:15.",
+    "importance": 1,
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "7d7a470d25ae4d2038ea8e0bf3b4e0bd5e148ae2d4d4019795b075047f3e845a"
+  },
+  {
+    "id": "ccef5f1be207253c6b82507ada44169ecb16953f9905bd92fb8992fac3ad9f13",
+    "title": "Trump đảo ngược lập trường, cáo buộc bầu cử giữa kỳ 3/11 “không trung thực” dù trước đó đã chấp nhận kết quả",
+    "summary": "Ngày 9/11 (giờ Mỹ), Tổng thống Trump đăng trên Truth Social: “Có ai thực sự tin rằng cuộc ‘bầu cử’ này là trung thực không? Sao các cuộc thăm dò lại sai đến vậy???” Ông cáo buộc các đợt kiểm phiếu sớm “quá lớn đến mức không thể thắng” và viết: “Tất cả là do máy móc, quan trọng hơn nhiều so với cử tri!” Ông không đưa ra bằng chứng nào về gian lận hay sai phạm. Đây là lần đầu tiên ông công khai thách thức tính toàn vẹn của toàn bộ kết quả giữa kỳ, chỉ 6 ngày sau khi đảng Dân chủ thắng lớn, giành quyền kiểm soát cả Hạ viện và Thượng viện, cùng nhiều ghế thống đốc và cơ quan lập pháp bang, kể cả ở các bang vốn là thành trì Cộng hòa như Texas, Kansas và South Carolina.",
+    "category": "Quốc tế",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.aljazeera.com/amp/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2423,
+    "analysis": "Diễn biến mới hoàn toàn so với các số trước: trước đó Trump đã chúc mừng đảng Dân chủ, nói với New York Times đêm bầu cử rằng ông “hoàn toàn sẵn sàng chấp nhận kết quả” và trong phỏng vấn CBS “60 Minutes” ngày 8/11 vẫn tỏ ra chấp nhận, thậm chí thừa nhận chính sách trục xuất quá cứng rắn là một phần nguyên nhân thất bại. Các cuộc thăm dò trước bầu cử thực tế đã dự báo một đêm mạnh cho đảng Dân chủ; báo cáo của Pew Research cho thấy thăm dò đã đánh giá thấp biên độ thắng của đảng Dân chủ ít nhất 2 điểm tại 23 trong 27 cuộc đua thống đốc và Thượng viện.\nLàm tăng căng thẳng chính trị nội bộ Mỹ và đặt dấu hỏi về khả năng hợp tác giữa Nhà Trắng với Quốc hội mới (nhậm chức tháng 1/2027), vốn sẽ có quyền điều tra sâu rộng và cản trở chương trình lập pháp của Trump, dù ông vẫn giữ quyền phủ quyết. Ngay cả một số nhân vật bảo thủ ủng hộ ông, như bình luận viên Megyn Kelly, cũng phản ứng “Just stop.” (Dừng lại đi.). Lãnh đạo Dân chủ tại Thượng viện Chuck Schumer đáp trả trên X: “Sự trở lại với chủ nghĩa phủ nhận bầu cử của Donald Trump là điều không thể tránh khỏi”. Caveat: cáo buộc gian lận không có bằng chứng; giới chức bầu cử trên toàn quốc không nêu quan ngại lớn về bỏ phiếu sớm hay máy bỏ phiếu.",
+    "importance": 1,
+    "tags": [
+      "Quốc tế",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "047e00acf035a32a69001236f3c719db3392b1c3ffd4fbd712272941c18c30eb"
+  },
+  {
+    "id": "a7f1d88db4454327378f05a2ffd9d837af9bc82f07a06ccb389250251871d0f5",
+    "title": "Việt Nam – Nhật Bản ra Tuyên bố Tầm nhìn chung, ký 11 văn kiện; phấn đấu kim ngạch thương mại 80 tỷ USD vào 2030",
+    "summary": "Chiều tối 9/11 tại Tokyo, sau hội đàm chính thức, Tổng Bí thư, Chủ tịch nước Tô Lâm và Thủ tướng Nhật Bản Takaichi Sanae đã họp báo chung và công bố Tuyên bố Tầm nhìn chung Việt Nam – Nhật Bản, đưa quan hệ Đối tác Chiến lược toàn diện lên tầm cao mới với vị trí đối tác bình đẳng, đồng hành, đồng kiến tạo, cùng có lợi, vì tăng trưởng chất lượng cao, tự chủ chiến lược và tự cường. Hai bên chứng kiến lễ trao 9 văn kiện trong tổng số 11 văn kiện đã ký, gồm hiệp định khung về viện trợ không hoàn lại của Nhật Bản, thỏa thuận vay JICA cho Nhà máy nhiệt điện Ô Môn 3, công hàm trao đổi về khoản vay ODA cho Đại học Việt – Nhật, hợp tác nghiên cứu và phát triển AI, cùng các văn kiện về chính sách biển, môi trường, năng lượng, giáo dục, tư pháp. Hai bên nhất trí khởi công đúng tiến độ Đại học Việt – Nhật và Bệnh viện Chợ Rẫy, phấn đấu kim ngạch thương mại đạt 80 tỷ USD vào năm 2030, khởi động Năm Du lịch Việt Nam – Nhật Bản 2027–2028.",
+    "category": "Quốc tế",
+    "section": "A - Top 5 tin quan trọng",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vov.vn/chinh-tri/dua-quan-he-doi-tac-chien-luoc-toan-dien-viet-nam-nhat-ban-len-tam-cao-moi-post1348725.vov",
+    "imageUrl": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2026-11/09-11_tong-bi-thu-chu-tich-nuoc-to-lam-phat-bieu-tai-hop-bao.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2424,
+    "analysis": "Chuyến thăm chính thức Nhật Bản của Tổng Bí thư, Chủ tịch nước Tô Lâm diễn ra ngày 8–11/11; đây là kết quả trung tâm của chuyến thăm, được cả hai nhà lãnh đạo xác nhận tại họp báo tối 9/11. Góc mới so với tin hội đàm đã đưa ở số 22:15 (Znews): Tuyên bố Tầm nhìn chung và mục tiêu thương mại 80 tỷ USD, cùng danh mục hợp tác cụ thể về công nghệ vũ trụ, biển, AI, kỹ thuật số, chất bán dẫn, công nghệ y học, nông nghiệp công nghệ cao, an ninh mạng.\nMở ra hợp tác thực chất về khoa học – công nghệ, ODA thế hệ mới, chuỗi cung ứng và đào tạo nhân lực chất lượng cao; gần 700.000 công dân Việt Nam tại Nhật Bản được đề nghị tiếp tục tạo điều kiện sinh sống, học tập và làm việc; Nhật Bản khẳng định Việt Nam có vai trò quan trọng trong đa dạng hóa chuỗi cung ứng của Nhật Bản.",
+    "importance": 1,
+    "tags": [
+      "Quốc tế",
+      "A - Top 5 tin quan trọng"
+    ],
+    "language": "vi",
+    "contentHash": "9c827212ccefde8731c8fb2853d989deb53d4b418c4706c35bd9e3faa59e3885"
+  },
+  {
+    "id": "c0c75b599244fd99af30f5da1f705d448f25a47f3712f9527ac859f5f757bd62",
+    "title": "Giá vàng sáng 10/11: SJC 138,2 – 141,2 triệu đồng/lượng (+200.000 đồng), vàng thế giới quanh 4.141 USD/ounce",
+    "summary": "Cập nhật 05:00 ngày 10/11/2026: vàng miếng SJC tại SJC, PNJ Hà Nội, DOJI và Bảo Tín Mạnh Hải cùng niêm yết 138,2 triệu đồng/lượng mua vào và 141,2 triệu đồng/lượng bán ra, tăng 200.000 đồng/lượng so với phiên trước; vàng nhẫn SJC 99,99 ở mức 136,8 – 140,8 triệu đồng/lượng (+300.000 đồng). Vàng nhẫn DOJI chạm 141 triệu đồng/lượng chiều bán ra. Giá vàng thế giới lúc 05:38 là 4.141,40 USD/ounce, tăng 75,41 USD (+1,85%) so với giá đóng cửa hôm qua; quy đổi tham khảo khoảng 127,8 triệu đồng/lượng. Tỷ giá USD/VND là 25.592 (cập nhật 05:51 ngày 10/11).",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.vietnam.vn/gia-vang-hom-nay-10-11-2026-vang-mieng-sjc-nhan-tron-9999-btmc-va-vang-the-gioi",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2425,
+    "analysis": "Đây là bản cập nhật giá sáng sớm trong cửa sổ 02:15–06:15, xác nhận giá SJC đứng ở mức 141,2 triệu đồng/lượng bán ra trong khi vàng thế giới tăng — khoảng chênh giữa giá trong nước và thế giới quy đổi vẫn lớn (SJC bán ra cao hơn giá thế giới quy đổi khoảng 13,4 triệu đồng/lượng theo số liệu tham khảo). Lưu ý: một nguồn tổng hợp khác ghi SJC 139,0 – 142,0 triệu đồng/lượng lúc 02:29, khác với bảng giá SJC/PNJ/DOJI/BTMC thống nhất 138,2 – 141,2 triệu — bản tin dùng số liệu thống nhất của các thương hiệu lớn, không dùng con số mâu thuẫn kia.\nNgười mua – bán vàng trong nước chưa có biến động giá mới vào sáng sớm; cần theo dõi phiên giao dịch trong ngày vì giá có thể thay đổi nhiều lần. Vàng thế giới tăng nhờ kỳ vọng Fed sớm kết thúc chu kỳ tăng lãi suất (nhận định chuyên gia Trần Duy Phương).",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "2d127e83ccc3145365f2703c53dc608e073ad52e6875be93127836a3b824a702"
+  },
+  {
+    "id": "4d23e526a0bc066c778690acdf1f17756d2741ab20b4ba6d6ada91355b139757",
+    "title": "Quốc hội chốt 80.400 tỷ đồng cho cải cách tiền lương năm 2027",
+    "summary": "Sáng 9/11, với 100% đại biểu tham gia biểu quyết tán thành, Quốc hội thông qua Nghị quyết về dự toán ngân sách nhà nước năm 2027; chiều cùng ngày, với 469/469 đại biểu có mặt tán thành, Quốc hội thông qua Nghị quyết về phương án phân bổ ngân sách trung ương năm 2027. Tổng thu ngân sách nhà nước năm 2027 là hơn 3,334 triệu tỷ đồng; tổng chi hơn 4,073 triệu tỷ đồng; bội chi 739.597 tỷ đồng (tương đương 4,5% GDP). Trong hơn 2,06 triệu tỷ đồng chi thường xuyên năm 2027, Quốc hội bố trí 80.400 tỷ đồng cho cải cách tiền lương; chi thường xuyên ngân sách trung ương là 980.970 tỷ đồng. Chính phủ cho biết tổng nguồn tích lũy cải cách tiền lương của ngân sách địa phương đến nay đạt trên 500.000 tỷ đồng, tập trung chủ yếu tại Hà Nội và TP.HCM (khoảng 70%); dự kiến năm 2027 sẽ nghiên cứu, xây dựng đề án báo cáo Bộ Chính trị, trình Trung ương xem xét, ban hành nghị quyết mới về chính sách tiền lương.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://znews.vn/znews-post1695140.html",
+    "imageUrl": "https://photo.znews.vn/Uploaded/wohuhuo/2026_11_09/quoc_hoi_08310120.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2426,
+    "analysis": "Đây là nghị quyết phân bổ ngân sách trung ương chiều 9/11 — bước tiếp theo sau nghị quyết dự toán ngân sách nhà nước buổi sáng (471/471) đã đưa ở số 02:15; con số 80.400 tỷ đồng là chi tiết mới, cụ thể hóa nguồn lực cho cải cách tiền lương.\nNguồn cải cách tiền lương được mở rộng phạm vi sử dụng để điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội, trợ cấp hằng tháng, trợ cấp ưu đãi người có công và tinh giản biên chế; kinh phí cải cách tiền lương trung ương cuối năm không sử dụng hết phải hoàn trả nguồn tích lũy và không dùng cho mục đích khác.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "3e026dc515fdd4dc96a0456a87f875633585a4b4fb9060c344e995f0995b3678"
+  },
+  {
+    "id": "a24c78d8cfb8c35e8a80203d61ec925adc33607ad37cab6136e6528250a1abe1",
+    "title": "G7 họp tại Paris ngày đầu: châu Âu gây sức ép với Rubio — không thỏa thuận Ukraine nếu thiếu châu Âu, không leo thang với Iran",
+    "summary": "Ngoại trưởng các nước G7 (Anh, Canada, Pháp, Đức, Italy, Nhật Bản, Mỹ) bắt đầu 2 ngày họp tại Paris ngày 9/11, với tâm điểm là chiến tranh Nga–Ukraine và nguy cơ Mỹ tấn công Iran trở lại. Ngoại trưởng Mỹ Marco Rubio — trong chuyến công du nước ngoài đầu tiên kể từ thất bại giữa kỳ của đảng Cộng hòa — đối mặt với sức ép từ các đồng minh châu Âu: Ngoại trưởng Đức Johann Wadephul nói “chúng ta chắc chắn không thể để xảy ra leo thang quân sự vào lúc này”, và nhấn mạnh châu Âu phải tham gia mọi giải pháp cho Ukraine; Ngoại trưởng Pháp Jean-Noël Barrot cho biết người châu Âu sẽ có mặt tại các cuộc đàm phán ở Abu Dhabi. Rubio trước khi lên đường đã hạ thấp triển vọng thỏa thuận với Iran, gọi các yêu cầu của Tehran là “không chỉ không thể chấp nhận mà trong một số trường hợp còn vô lý, lố bịch và thực sự không thực tế”, và nói “tôi sẽ không nói chúng ta đang ở bờ vực đột phá”.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.military.com/g7-talks-in-paris-try-to-tackle-unresolved-global-crises-with-uncertainty-high-over-the-us-approach",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2427,
+    "analysis": "Cuộc họp diễn ra ngay trước đàm phán ba bên Nga–Ukraine–Mỹ tại Abu Dhabi ngày 10–11/11 và sau thất bại giữa kỳ của đảng Cộng hòa — các đồng minh muốn thăm dò liệu thất bại đó có làm thay đổi chính sách đối ngoại của Trump hay không. Pháp cũng mời Ukraine, Saudi Arabia, Ai Cập, Hàn Quốc và Brazil tham dự một số phiên. Hội nghị ban đầu dự kiến tổ chức ở Marseille nhưng được chuyển gấp sang Paris vì lý do an ninh sau nhiều tuần biểu tình tại Pháp.\nG7 chưa ra tuyên bố chung trong ngày đầu; khoảng cách giữa Mỹ và châu Âu về Ukraine và Iran vẫn rõ. Nếu Washington đạt thỏa thuận với Moscow mà bỏ qua châu Âu, nguy cơ rạn nứt đồng minh và thỏa thuận thiếu tính bền vững sẽ tăng. Ngày họp thứ hai (10/11) sẽ có phiên riêng về Ukraine với sự tham dự của Ngoại trưởng Ukraine Andriy Sybiga.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "b5303c8581fe9b19c4d24595c88538a54016a3ed16813d966319b98c0a2b24ca"
+  },
+  {
+    "id": "3050494a1a3c39c4d8263ff08df750b115a87ebf1d1b641f7619d879edcfee30",
+    "title": "Startup phần cứng AI Nominal gọi vốn 240 triệu USD, định giá tăng gấp 3 lên 3 tỷ USD chỉ trong 8 tháng",
+    "summary": "Nominal — startup 4 năm tuổi tại Austin, cung cấp nền tảng AI chuyên cho kỹ thuật và kiểm thử phần cứng phức tạp như máy bay, lò phản ứng hạt nhân và nhà máy thông minh — ngày 9/11/2026 công bố vòng Series C trị giá 240 triệu USD với định giá 3 tỷ USD, do Lightspeed Venture Partners dẫn đầu và Insight Partners đồng dẫn đầu. Vòng này nối tiếp vòng Series B mở rộng 155 triệu USD hồi tháng 3/2026 với định giá 1 tỷ USD, do Founders Fund dẫn đầu. Công ty cho biết có 80 khách hàng là tổ chức thương mại và chính phủ, trong đó có Anduril; tháng 10/2026, Không quân Mỹ đã chọn Nominal cho khoản đầu tư Strategic Funding Increase (STRATFI) trị giá 71,2 triệu USD. CEO kiêm đồng sáng lập Cameron McCord là cựu sĩ quan tàu ngầm Hải quân Mỹ và cựu nhân sự Anduril.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Nominal-CEO-Cameron-McCord.jpg?w=1024",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2428,
+    "analysis": "Định giá tăng gấp 3 trong 8 tháng cho thấy dòng vốn vẫn đổ mạnh vào AI ứng dụng trong công nghiệp quốc phòng và phần cứng phức tạp, chứ không chỉ vào các lab mô hình nền tảng.\nCủng cố vị thế của Nominal trong mảng “AI cho kỹ thuật phần cứng” và hệ sinh thái Anduril/Founders Fund; đồng thời là tín hiệu cho thấy nhà đầu tư sẵn sàng trả giá cao cho các startup AI có doanh thu từ hợp đồng chính phủ và quốc phòng.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "d436b75516fef8ec035d66d4094947b7b23b4bf2f2a7b2494399c2d7c5a4a65d"
+  },
+  {
+    "id": "73a6fa5e47aaf0a8cd9df51f517b54d5a197d9ed756731d57e0af32ac6463e7c",
+    "title": "Quốc hội hôm nay 10/11: thảo luận Luật Phát triển công nghiệp văn hóa và 3 dự án cao tốc",
+    "summary": "Theo chương trình Kỳ họp thứ Hai, Quốc hội khóa XVI, sáng thứ Ba 10/11 Quốc hội họp phiên toàn thể tại hội trường thảo luận về (1) dự án Luật Phát triển công nghiệp văn hóa và (2) dự án Luật sửa đổi, bổ sung một số điều của Luật Thể dục, thể thao, Luật Du lịch, Luật Thư viện, Luật Điện ảnh, Luật Di sản văn hóa, Luật Quảng cáo, Luật Báo chí. Buổi chiều, Quốc hội thảo luận về dự án Luật Văn bản quy phạm pháp luật; tình hình triển khai Nghị quyết số 206/2025/QH15 về cơ chế đặc biệt xử lý khó khăn, vướng mắc do quy định của pháp luật; báo cáo của Chính phủ về những vấn đề phát sinh khi sắp xếp tổ chức bộ máy, đẩy mạnh phân cấp, phân quyền; và chủ trương đầu tư 3 dự án đường bộ cao tốc: Bảo Hà – Lai Châu (đoạn Bảo Hà – Tân Phong), Quảng Ngãi – Kon Tum, Mộc Châu – Sơn La – Điện Biên (địa phận tỉnh Sơn La).",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://nhandan.vn/thong-cao-bao-chi-so-21-ky-hop-thu-hai-quoc-hoi-khoa-xvi-post1001342.html",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2429,
+    "analysis": "Đây là ngày làm việc trong tuần làm việc thứ tư (9–13/11), tuần cuối của đợt 1 kỳ họp; ngày 12/11 Quốc hội dành trọn ngày chất vấn 2 Bộ trưởng. Các luật văn hóa – thể thao – du lịch – báo chí được thảo luận cùng lúc cho thấy phạm vi sửa đổi rộng, liên quan nhiều ngành.\nKết quả thảo luận hôm nay định hướng hoàn thiện các luật trước đợt 2 kỳ họp (bắt đầu 20/11); chủ trương đầu tư 3 cao tốc miền núi phía Bắc và miền Trung – Tây Nguyên nếu được thông qua sẽ tác động lớn đến kết nối vùng và đầu tư công.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "7945975744d60a276bec65da6e5a7a58db1004a8bb1fac24b7797b7c77a4442c"
+  },
+  {
+    "id": "d1045775bbb2a46870356433009b3d58eace0b32bb99ed557da1fa553f53aeee",
+    "title": "Mưa lớn Trung Bộ tiếp diễn: Hà Tĩnh đo được 222,2 mm trong 8 giờ, cảnh báo mưa trên 100 mm/3 giờ; mưa giảm từ 12/11",
+    "summary": "Từ 7h đến 15h ngày 9/11, lượng mưa tại trạm Kỳ Lạc (Hà Tĩnh) đạt 222,2 mm, Đồng Tâm (Quảng Trị) 151,6 mm. Từ chiều tối 9/11 đến sáng 10/11, Hà Tĩnh và phía Bắc Quảng Trị có mưa to đến rất to, phổ biến 60–120 mm, cục bộ trên 200 mm. Từ chiều tối 9/11 đến ngày 11/11, Huế, Đà Nẵng và phía Đông các tỉnh Quảng Ngãi đến Gia Lai mưa phổ biến 150–300 mm, cục bộ trên 500 mm; phía Nam Quảng Trị, phía Đông Đắk Lắk và Khánh Hòa mưa 100–200 mm, cục bộ trên 300 mm. Cơ quan khí tượng cảnh báo nguy cơ mưa cường độ lớn trên 100 mm trong 3 giờ. Trong khi đó Bắc Bộ trời rét, Hà Nội đêm 9 và ngày 10/11 nhiệt độ thấp nhất 16–18°C; đêm 10 và ngày 11/11 Hà Nội không mưa, ngày nắng hanh, rét về đêm và sáng. Từ ngày 12/11, mưa lớn tại Trung Bộ giảm dần.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baomoi.com/ha-noi-giam-mua-tiep-tuc-ret-c56469502.epi",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2430,
+    "analysis": "Đây là đợt mưa lớn diện rộng do không khí lạnh mạnh kết hợp trường gió Đông, nối tiếp lũ sông Yên đã vượt báo động 3 ở Thanh Hóa chiều 9/11; đỉnh lũ các sông từ Quảng Trị đến Đắk Lắk dự báo lên báo động 1–2, có nơi trên báo động 2 trong ngày 9–12/11. Góc mới so với tin cảnh báo mưa đã đưa ở số 02:15: số liệu mưa ĐO ĐƯỢC thực tế (222,2 mm tại Kỳ Lạc) và dự báo chi tiết theo khu vực.\nNguy cơ cao ngập úng vùng trũng thấp, khu đô thị, lũ quét và sạt lở đất; giao thông và sản xuất nông nghiệp miền Trung tiếp tục bị ảnh hưởng; người dân cần theo dõi bản tin lũ quét, sạt lở theo thời gian thực. Lưu ý: không có bản cập nhật mực nước sông mới sau 17h ngày 9/11 trong đêm — các số liệu lũ sông Yên đã đưa ở số 02:15 nên không lặp lại.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "3d7f08e0f4489ecfb534f7397ad2a00264f862641d0a8bd2849de7cf25fb125a"
+  },
+  {
+    "id": "12f500a24960032fee1937b616ac1e76077bc1f9626eb8685c2fe04614fac61b",
+    "title": "Sập cầu Tân Thành ở Tây Ninh: máy cày chở xe cuốc rơi xuống kênh, may mắn không có thương vong",
+    "summary": "Khoảng 8h30 ngày 9/11, một máy cày kéo rơ-moóc chở xe cuốc lưu thông qua cầu Tân Thành (xã Khánh Hưng, tỉnh Tây Ninh), khi đến gần giữa cầu thì nhịp cầu bất ngờ gãy, khiến máy cày và rơ-moóc rơi xuống kênh. Tài xế may mắn không bị thương; thời điểm xảy ra sự cố không có người và phương tiện khác lưu thông qua cầu nên không xảy ra thương vong. Cầu Tân Thành là cầu sắt nối 2 ấp Láng Lớn và Hưng Điền A, xây dựng khoảng năm 2002, tải trọng khoảng 3 tấn và đã xuống cấp; xe chở xe cuốc có thể đã vượt tải trọng cho phép. Địa phương đã rào chắn 2 đầu cầu, cấm người và phương tiện qua lại, bố trí biển cảnh báo và đèn tín hiệu ban đêm, đồng thời bố trí phà phục vụ người dân qua kênh; ô tô có thể đi dọc kênh khoảng 2 km để qua cầu khác.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://dantri.com.vn/thoi-su/sap-cau-sat-o-tay-ninh-may-cay-cho-xe-cuoc-roi-xuong-kenh-20261109125336895.htm",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2431,
+    "analysis": "Vụ việc xảy ra trong ngày 9/11 và được chính quyền địa phương xác nhận chiều cùng ngày; nguyên nhân đang được Công an xã Khánh Hưng phối hợp các đơn vị liên quan xác minh, làm rõ.\nGiao thông giữa 2 ấp Láng Lớn và Hưng Điền A bị chia cắt tạm thời; sự cố đặt lại câu hỏi về kiểm soát tải trọng và tình trạng xuống cấp của cầu sắt nông thôn xây dựng từ năm 2002.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "dc5272df21767c3f1db07be1d0efed383dd4675bb8269a9069af0cb7f5e7519b"
+  },
+  {
+    "id": "2a003c54d41dd023fae1620da289a3e0dacfbf1de09fcd83c6b4811e4fb8cea0",
+    "title": "Sở Giáo dục An Giang thông tin vụ nhân viên y tế chém hiệu trưởng tại Trường THPT An Biên",
+    "summary": "Ngày 9/11, Sở Giáo dục và Đào tạo tỉnh An Giang cho biết đã nhận được báo cáo của Trường THPT An Biên (xã An Biên) về vụ việc ông Q.M.H., Hiệu trưởng nhà trường, bị nhân viên y tế dùng dao truy đuổi, chém gây thương tích. Theo báo cáo, khoảng 7h25 ngày 5/11, ông P.H.P., nhân viên y tế trường, đến phòng hiệu trưởng trao đổi việc xin chuyển công tác; khoảng 7h40 cùng ngày, ông P. ra nhà xe lấy một con dao đã để sẵn trong cốp xe máy, quay lại phòng hiệu trưởng, chốt cửa, chém vào bàn phím máy tính và tay cầm ghế. Ông H. bỏ chạy thì bị truy đuổi, chém 2 nhát vào tay phải và 1 nhát vào tay trái, chạy vào một lớp học cách đó khoảng 40 m; ông P. tiếp tục đuổi vào lớp, đuổi học sinh ra ngoài. Ông H. được đưa đến Bệnh viện An Biên cấp cứu rồi chuyển lên Bệnh viện Đa khoa Kiên Giang điều trị; hiện sức khỏe dần hồi phục, đã ổn định. Ông P. bị công an tạm giữ hình sự để điều tra. Bước đầu, nguyên nhân được xác định xuất phát từ việc ông H. chưa ký giấy chuyển công tác cho ông P.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://laodong.vn/phap-luat/thong-tin-moi-vu-hieu-truong-o-an-giang-bi-nhan-vien-chem-thuong-tich-1797308.ldo",
+    "imageUrl": "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/11/9/1797308/Du-An-Moi-30.jpg?w=660",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2432,
+    "analysis": "Vụ việc xảy ra sáng 5/11 và lan truyền trên mạng xã hội, nhưng đến ngày 9/11 Sở Giáo dục An Giang mới chính thức thông tin trên cơ sở báo cáo của nhà trường — đây là diễn biến xác minh chính thức mới trong 24 giờ qua.\nCông an đang tiếp tục điều tra, xử lý; vụ việc gây quan tâm về an toàn trường học và quy trình giải quyết nguyện vọng chuyển công tác của viên chức trong trường.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "6f4acf9a906625d34b214cbc6264790f565d175ecf2169f95379525b772ce470"
+  },
+  {
+    "id": "34e0dbcd2dfb4463a2f7b12701f622c54923b057ff0fd8bd5cfc3ffbebd11d18",
+    "title": "Jensen Huang rút khỏi ElevenLabs Summit và Diễn đàn CEO của Anthropic giữa lúc Nvidia điều tra",
+    "summary": "CEO Nvidia Jensen Huang đã rút khỏi ElevenLabs Summit dự kiến diễn ra thứ Tư (12/11) tại New York, theo xác nhận của ElevenLabs ngày 9/11/2026. Ông cũng rút khỏi các sự kiện phát biểu khác, trong đó có Anthropic CEO Forum. Nvidia là nhà đầu tư của ElevenLabs, công ty AI giọng nói. Việc rút lui diễn ra sau khi Huang thừa nhận ngoại tình cuối tuần qua và Nvidia mở cuộc điều tra về quan hệ của ông với một người bị nghi là gián điệp Trung Quốc. Trong memo gửi nhân viên, Huang viết: “Tôi nợ gia đình và tất cả các bạn một lời xin lỗi. Tôi đã không chung thủy với vợ mình.”",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2433,
+    "analysis": "Đây là diễn biến mới nhất, cụ thể và có thể kiểm chứng được của khủng hoảng lãnh đạo tại Nvidia — từ thừa nhận cá nhân chuyển sang hệ quả công khai đối với lịch trình và quan hệ đối tác của CEO. Góc mới so với tin Culper đã đưa ở Phần A (cùng sự kiện, URL khác).\nSự kiện làm tăng bất định về vị thế của Huang và về tham vọng của Nvidia tại Trung Quốc; đồng thời cho thấy các đối tác AI (ElevenLabs, Anthropic) đang giữ khoảng cách công khai trong lúc chờ kết quả điều tra độc lập của hội đồng quản trị.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "cf6a67db365fc2196add8eaa0217fffe314804e43b07bb4995a0c53276be43f0"
+  },
+  {
+    "id": "53c48e1a044ffa2e2c9a8984e4c67e236c71055c4dad2c477e4a85b23fe8f4c7",
+    "title": "LNbits kêu gọi mọi nhà vận hành tắt máy chủ ví Bitcoin Lightning vì bị tấn công, chưa có bản vá",
+    "summary": "Dự án LNbits — hệ thống ví Bitcoin Lightning mã nguồn mở miễn phí — đã yêu cầu mọi nhà vận hành tắt máy chủ ngay lập tức vì một đợt tấn công đang diễn ra, theo The Hacker News ngày 9/11/2026. Dự án cho biết có nhiều bản vá bảo mật cần phát hành và yêu cầu thận trọng cho đến khi bản vá ra mắt; tính đến 09:00 UTC ngày 9/11 (16:00 giờ Việt Nam) vẫn chưa có phiên bản sửa lỗi nào. Một nhà vận hành, Kevin Ravensberg (dịch vụ BitTipBot), báo cáo kẻ tấn công đã dùng tài khoản mới tạo để rút 2.285.545 satoshi (khoảng 0,023 bitcoin) khỏi máy chủ của ông trong khoảng 09:22–14:00 UTC ngày 8/11, bắt đầu hơn 3 giờ trước cảnh báo đầu tiên của dự án lúc 12:33 UTC ngày 8/11 (yêu cầu tắt tiện ích mở rộng Paywall). LNbits cũng đã tắt toàn bộ các phiên bản do dự án vận hành trên dịch vụ đám mây my.lnbits.com, dự kiến khôi phục trong 24 giờ (khoảng 17:20 UTC ngày 9/11).",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2434,
+    "analysis": "Đây là cảnh báo tắt máy khẩn cấp hiếm gặp đối với một dự án ví tiền mã hóa mã nguồn mở, cho thấy lỗ hổng đang bị khai thác tích cực trong khi chưa xác định được tiện ích mở rộng nào là nguyên nhân và chưa có CVE/CVSS công bố.\nNhà vận hành LNbits phải tắt máy chủ và kiểm tra số dư/nhật ký giao dịch; người dùng BitTipBot tạm thời không tiếp cận được tiền cho đến khi có bản vá (nhà phát triển Ben Arc ước tính bản vá sẵn sàng trong 24–48 giờ kể từ ngày 8/11). Lưu ý: cảnh báo chỉ áp dụng cho máy chủ LNbits, không phải toàn bộ nút Lightning Network hay phần mềm ví khác; tổng số máy chủ bị tấn công và tổng thiệt hại chưa được công bố.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "88127658d484969981a4e624fc5c154deee84bcd3fe0a92f53f7d93146fa9adb"
+  },
+  {
+    "id": "d97fd8aa9f57533defd6172595c37099ebb56949a13b9c24d5c884615ff93ffd",
+    "title": "OpenAI đưa ChatGPT Enterprise lên AWS Marketplace, cho phép tính chi tiêu vào cam kết AWS",
+    "summary": "OpenAI ngày 9/11/2026 thông báo ChatGPT Enterprise đã có mặt trên AWS Marketplace, cho phép tổ chức mua và quản lý sản phẩm qua quan hệ mua hàng và thanh toán AWS hiện có, đồng thời được tính chi tiêu đủ điều kiện vào cam kết AWS (EDP/PPA). Gói doanh nghiệp gồm 4 sản phẩm trong một: Chat, ChatGPT Work, Codex và dots (trợ lý luôn bật theo dõi cập nhật). OpenAI khẳng định khách hàng qua Marketplace nhận được cùng mô hình, tính năng và thời điểm phát hành tính năng mới như mua trực tiếp; khách hàng đủ điều kiện cũng có thể dùng ChatGPT for Healthcare và ChatGPT for Financial Services qua Marketplace. Không có giá công khai — khách hàng phải yêu cầu báo giá riêng (private offer).",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.unite.ai/openai-starts-selling-chatgpt-enterprise-through-aws-marketplace/",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2435,
+    "analysis": "Đây là bước tiếp nối quan hệ đối tác OpenAI–AWS mở rộng từ 28/4/2026 (mô hình OpenAI trên Amazon Bedrock, Codex trên AWS). Trong khi Claude Enterprise của Anthropic đã bán qua AWS Marketplace từ trước, OpenAI nay cũng đi theo cùng kênh phân phối, cho thấy cuộc đua giành khách hàng doanh nghiệp đang chuyển sang khâu mua sắm và cam kết chi tiêu đám mây.\nDoanh nghiệp dùng AWS có thể triển khai ChatGPT Enterprise nhanh hơn, gộp chi tiêu phần mềm và tận dụng cam kết AWS đã ký. Lưu ý: theo trang Marketplace, việc mua qua AWS không đảm bảo mọi dữ liệu khách hàng đều lưu trên hạ tầng AWS; dữ liệu doanh nghiệp được mã hóa khi lưu trữ và truyền tải, mặc định không dùng để huấn luyện mô hình.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "74a68ceb6e53dd16c4529b34ed3c3df8b72e8239710e2bca4f52470999733bba"
+  },
+  {
+    "id": "3c3751ddca94834fade1a9a783ce9664a24c239d7c2dee227fec621044d66e91",
+    "title": "Trump kể trên “60 Minutes” rằng chính quyền từng dọa bỏ tù lãnh đạo một công ty AI lớn, nhưng không nêu tên",
+    "summary": "Trong cuộc phỏng vấn với chương trình “60 Minutes” của CBS (phát sóng tối Chủ nhật 8/11), Tổng thống Mỹ Donald Trump cho biết chính quyền của ông từng đe dọa bỏ tù lãnh đạo một công ty AI lớn vì “làm điều xấu với AI”. Trump kể lại: “Chúng tôi đã gọi điện rất cứng rắn và nói: ‘Hãy chuẩn bị đi tù. Hãy hôn tạm biệt vợ con đi’” — và người này sau đó đã “thay đổi hoàn toàn mọi thứ”. Khi được hỏi, Trump chỉ nói đó là lãnh đạo của “một trong những công ty lớn”, từ chối nêu tên người hay công ty, cũng như không nêu hành vi cụ thể, thời điểm hay căn cứ pháp lý. Trump đồng thời cho rằng rủi ro an toàn AI “không thực như người ta nói” và có thể kiểm soát được, nhưng sẵn sàng hợp tác với đảng Dân chủ về các biện pháp bảo vệ (guardrails) mà không muốn Mỹ tụt lại sau Trung Quốc.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://gizmodo.com/trump-says-he-told-an-ai-executive-to-kiss-his-family-goodbye-before-going-to-jail-2000837040",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2436,
+    "analysis": "Phát ngôn được đưa ra đúng thời điểm nhạy cảm — cùng ngày Jensen Huang thừa nhận ngoại tình và Nvidia mở cuộc điều tra, và sau khi các cử tri Mỹ vừa bác bỏ hàng loạt dự án trung tâm dữ liệu trong các cuộc trưng cầu dân ý địa phương. Trump trước đó (14/9/2026) từng đăng trên Truth Social rằng chính quyền đã ngăn “những người AI” làm điều xấu, trong đó nêu tên Dario Amodei (Anthropic) — nhưng chưa rõ có phải cùng vụ việc hay không. Góc mới so với phần nhắc ngắn ở Phần C số 02:15 (chỉ nêu guardrails).\nTuyên bố làm dấy lên tranh luận về cách chính quyền Mỹ quản lý an toàn AI — bằng đe dọa hình sự không minh bạch thay vì khung pháp lý rõ ràng — và khơi mào suy đoán về danh tính vị lãnh đạo (chưa có bằng chứng xác thực nào). Caveat: toàn bộ câu chuyện dựa trên lời kể của Trump trên truyền hình, chưa có xác nhận độc lập từ Nhà Trắng, Bộ Tư pháp hay công ty liên quan.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "e843a09c2e34fe9fd6543546c585befaef1eda017aa52d8d389ba395a93b7f16"
+  },
+  {
+    "id": "4e111deae60c5ffb344b3e4026908bb4a6e6ce25bd2311e7c377146961c6ed32",
+    "title": "Cáo buộc Google Gemini đưa file Drive và Gmail cá nhân vào luồng review của người thật",
+    "summary": "Một dự án tài liệu trên GitHub (“Documentation of Gemini File Leaking Behavior”, tác giả ẩn danh) cáo buộc Google đã lặng lẽ đảo ngược cam kết 2023 rằng nội dung Gmail/Docs/Drive “không bị người review đọc”: bản sửa ngày 16/10/2026 được cho là đưa file Drive và email đã kết nối vào pipeline human review; Gemini được cho là tự truy xuất file trong nền mà không cần gắn thẻ @Drive/@Gmail rõ ràng, và kết quả có tính xác suất (cùng câu hỏi cho kết quả khác nhau). Đồng thời, cập nhật chính sách riêng tư có hiệu lực 16/10 cho phép dùng nội dung Gmail/Drive/Photos cho quảng cáo cá nhân hóa khi người dùng đã kết nối app. Google nói dữ liệu không chia sẻ với nhà quảng cáo; các chat được review có thể lưu tới 3 năm kể cả sau khi người dùng xóa. Số liệu thực tế: Hacker News 251 points / 49 comments lúc 06:20 giờ VN 10/11 (bài đăng 01:24 giờ VN). Like/Reactions: N/A; Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: ít nhất 4 nguồn (GitHub repo gốc, Reddit r/artificial, AI Weekly, AlexTech.ai).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://github.com/thisisme6598/gemini_files/",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2437,
+    "analysis": "Chạm đúng nỗi lo quyền riêng tư cốt lõi của hàng trăm triệu người dùng Gmail/Drive; cáo buộc “đảo ngược cam kết” gây phẫn nộ; đúng thời điểm Google đẩy mạnh Personal Intelligence (kết nối app cá nhân). Cần phân biệt rõ “dữ kiện đã xác minh” (nội dung Privacy Hub) với “cáo buộc” (repo GitHub ẩn danh).\nĐiểm HOT: Chưa đủ dữ liệu (chỉ có points/comments HN tại một thời điểm; thiếu shares/tăng trưởng 24h/đa nền tảng; cáo buộc chưa có xác minh độc lập). Tác động: có thể khiến người dùng cá nhân rà soát lại cài đặt Gemini/Workspace; doanh nghiệp cần phân biệt rõ chính sách tài khoản cá nhân và Workspace; rủi ro niềm tin với Google nếu cáo buộc được xác minh thêm.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "cd5c26366d3ae8eaf498be30abb755a1784e1956665ca30080660dc0708c3280"
+  },
+  {
+    "id": "b22b30437c5606622d9dc613c9ae6a346882cd40a206d4f63b1fa66d92705bc5",
+    "title": "Meme “kiss cam” giả của CEO Nvidia Jensen Huang lan truyền giữa bê bối “honeytrap”",
+    "summary": "Sau khi Jensen Huang thừa nhận ngoại tình và hội đồng Nvidia thông báo mở điều tra độc lập về khả năng ông là mục tiêu của “nỗ lực tình báo nước ngoài” (liên quan nữ doanh nhân Alice Huang — Trung Quốc bác bỏ cáo buộc gián điệp; Singapore khẳng định cảnh sát chưa từng điều tra Alice Huang về gián điệp), một clip AI 13 giây giả mạo kiểu “kiss cam” Coldplay (ám chỉ vụ CEO Astronomer Andy Byron tháng 7/2025) lan truyền trên X từ 8/11, cùng video nhảy cũ của Huang và meme phong cách Bollywood (phim “Ek Tha Tiger”). Cổ phiếu Nvidia giảm khoảng 5% trong giao dịch pre-market ngày thứ Hai 9/11. Số liệu thực tế: Like/Comments/Shares của từng bài X/Reddit cụ thể: N/A (không đo được, không bịa). Chỉ số gián tiếp có bằng chứng: Reddit — Nvidia là cổ phiếu được nhắc nhiều nhất 24h qua với 3.950 lượt nhắc, tăng 1.051,6%, tâm lý Neutral (AltIndex, cập nhật 9/11/2026). Số bài đăng/cộng đồng độc lập: ít nhất 5 nguồn báo chí độc lập cùng đưa trong 24h (NDTV, WION, Telegraph India, Mathrubhumi, India Times) + thảo luận r/memes, X, Instagram.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.ndtv.com/world-news/another-ceo-has-cheated-social-media-reacts-to-jensen-huangs-affair-admission-12301823",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2438,
+    "analysis": "CEO của công ty chip giá trị nhất thế giới + cáo buộc gián điệp + clip AI giả mạo lan truyền — kết hợp scandal cá nhân, địa chính trị và meme; đúng mô-típ “kiss cam CEO” từng gây bão năm 2025.\nĐiểm HOT: Chưa đủ dữ liệu (không có số Like/Share từng bài X/Reddit; số liệu Reddit là lượt nhắc cổ phiếu, không phải tương tác của một bài cụ thể). Tác động: áp lực lên quản trị Nvidia và niềm tin nhà đầu tư; làm nổi bật nguy cơ deepfake/meme AI bóp méo tin tức nghiêm trọng; báo chí liên tục nhấn mạnh clip kiss cam là giả mạo/chỉnh sửa, không phải sự kiện thật, và cáo buộc gián điệp chưa được xác minh độc lập.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "a89f8d1daae339695aa5dd718f102bae49d0880f864cc956492c3913e6b49ca7"
+  },
+  {
+    "id": "ae9b89ee633bbd1b53a39c72d3491ad2f0dbeebb410e0d04d046b647f2a449f9",
+    "title": "“Một năm sau mệnh lệnh 100% AI, không ai hiểu code của chúng ta nữa”",
+    "summary": "Bài đăng Reddit r/ClaudeCode (ngày 9/11/2026) kể về một tổ chức áp dụng “mandate 100% AI” (mọi code phải do AI viết) được một năm — kết quả: không ai trong team còn hiểu codebase của chính mình, mất khả năng debug, review và bảo trì; năng suất ngắn hạn tăng nhưng nợ kỹ thuật và rủi ro dài hạn tích lũy. Đây là câu chuyện cảnh báo đang được cộng đồng dev bàn luận sôi nổi, nối tiếp tranh luận về “vibe coding” và phụ thuộc AI. Số liệu thực tế: Hacker News 42 points / 38 comments lúc 06:20 giờ VN 10/11 (bài đăng HN lúc 05:19 giờ VN 10/11 — hoàn toàn trong cửa sổ kể từ 02:15). Số liệu Reddit gốc (upvote/comment): N/A. Like/Shares: N/A. Số bài đăng/cộng đồng độc lập: 2 cộng đồng (r/ClaudeCode + HN).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2439,
+    "analysis": "Đánh trúng nỗi lo lớn nhất của giới lập trình năm 2026: AI viết code nhanh nhưng con người mất hiểu biết hệ thống; bài học thực tế sau một năm áp dụng cực đoan.\nĐiểm HOT: Chưa đủ dữ liệu (chỉ là một bài đăng ẩn danh, tính xác thực của câu chuyện gốc chưa kiểm chứng; tương tác còn thấp vì mới đăng ~1 giờ trước thời điểm quan sát). Tác động: có thể ảnh hưởng chính sách AI-coding của doanh nghiệp (chuyển từ “100% AI” sang “AI hỗ trợ, con người chịu trách nhiệm”); tăng nhu cầu về tài liệu hệ thống và công cụ hiểu codebase. Các quan điểm nổi bật: đồng tình mandate 100% AI là sai lầm quản trị; phản biện cho rằng vấn đề là quy trình review/kiểm thử yếu, không phải AI.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "6826b43d9d17e25216243402d6cd8e887e04c4c9dc1243feec05fcdba5a9b9d2"
+  },
+  {
+    "id": "4f66617734537e2be63db23437019dd31ed7fb240e5a56ccf11eb20c4c8457b0",
+    "title": "USPS công bố polygon biên giới ZIP Code chính thức",
+    "summary": "Bưu điện Mỹ (USPS) lần đầu cung cấp chính thức polygon biên giới ZIP Code (PostalPro ZCB) — dữ liệu địa lý mà trước đây cộng đồng dev phải tự suy đoán từ các nguồn bên thứ ba không chính thức, gây lỗi trong bản đồ, logistics, phân tích thị trường và định giá bảo hiểm. Số liệu thực tế: Hacker News 340 points / 170 comments lúc 06:20 giờ VN 10/11 (bài đăng lúc 02:58 giờ VN 10/11 — trong cửa sổ kể từ 02:15) — tương tác cao thứ hai trong các xu hướng mới hôm nay. Like/Shares: N/A (HN không có). Số bài đăng/cộng đồng độc lập: HN là cộng đồng chính ghi nhận; nguồn gốc là USPS chính thức.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://postalpro.usps.com/zcb",
+    "collectedAt": "2026-11-10T03:29:46.324Z",
+    "sourceRow": 2440,
+    "analysis": "Dữ liệu “mở khóa” được cộng đồng geo/dev chờ đợi nhiều năm; tác động thực tế ngay lập tức tới hàng nghìn ứng dụng bản đồ, giao hàng, bất động sản.\nĐiểm HOT: Chưa đủ dữ liệu (chỉ có tương tác HN; chưa có số liệu nền tảng khác). Tác động: cải thiện độ chính xác của dịch vụ dựa trên ZIP Code; giảm chi phí mua dữ liệu địa lý bên thứ ba; có thể thúc đẩy các dự án mã nguồn mở bản đồ Mỹ. Các quan điểm nổi bật: dev hoan nghênh vì cuối cùng có nguồn chính thức, chính xác; một số băn khoăn về điều khoản sử dụng, tần suất cập nhật và định dạng dữ liệu.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "a5594599d0bbf6df98dcf868a8ea496ad08141e7b5ed25c173b268cdf9242078"
   }
 ]
