@@ -28681,5 +28681,874 @@
     ],
     "language": "vi",
     "contentHash": "9cc87fe082264c40435d4b995570740da9830596e8f1b71672398d2ec3ad7138"
+  },
+  {
+    "id": "4608df2adc636978b0db006b3a3bc1a89e2b4241fc30f03f527d0d5d6e26b637",
+    "title": "PPI Mỹ tháng 10 tăng 6,5% so với cùng kỳ — cao nhất gần 4 năm, củng cố khả năng Fed tăng lãi suất tháng 12",
+    "summary": "PPI tăng 0,3% so với tháng 9 (dự báo +0,4%), sau mức +1,4% của tháng 9; so với cùng kỳ +6,5%, cao nhất từ tháng 11/2022 (từ 6,3% tháng 9). PPI lõi (trừ thực phẩm, năng lượng) +0,3% theo tháng, +5,0% so với cùng kỳ. Giá hàng hóa +0,5%/tháng, thực phẩm +1,3%; linh kiện điện tử +31,7% so với cùng kỳ, cao nhất lịch sử. Các nhà kinh tế ước tính PCE lõi tháng 10 +0,3%, lên 3,2% so với cùng kỳ.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october?cid=external-feeds_iluminar_meta",
+    "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280155411.jpg?c=16x9&q=w_800,c_fill",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2876,
+    "analysis": "Số liệu lạm phát cuối cùng trước họp Fed 8–9/12; thị trường định giá gần như chắc chắn Fed tăng 0,25 điểm % tháng 12; CPI tháng 10 trước đó cũng nóng hơn dự báo. BLS công bố 20:30 VN 13/11; Reuters đăng 20:46 VN.\nCủng cố lập trường diều hâu của Fed; lợi suất trái phiếu 10 năm Mỹ quanh 5,14–5,15%; áp lực lên vàng, Bitcoin và tài sản rủi ro; chứng khoán Mỹ mở cửa tăng rồi mất đà sau số liệu.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "fc4c7ec511067691c580d86fadd7723920a608f0951940642d5aad2386b4036a"
+  },
+  {
+    "id": "ba1050e02530b0a5f4124421f0586e85a269bf90ac73cdadb5bd9bdccc0ea50f",
+    "title": "Iran tuyên bố phá hủy radar Mỹ ở Bahrain, CENTCOM bác bỏ — leo thang trực tiếp đầu tiên nhằm tài sản Mỹ ở vùng Vịnh",
+    "summary": "IRGC ngày 13/11 tuyên bố đã 'nhắm mục tiêu và phá hủy' một radar cảnh báo sớm của Mỹ trên đảo Bahrain, để trả đũa cáo buộc Mỹ không kích tháp viễn thông ở Sirik (Hormozgan). CENTCOM bác bỏ: IRGC phóng 2 drone tấn công một chiều về phía Bahrain, cả hai bị bắn hạ, không thương vong hay thiệt hại. Bahrain chưa xác nhận thiệt hại; tuyên bố phá hủy radar chưa được kiểm chứng độc lập.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_69f846d446-1777878740.jpg?resize=1920%2C1440",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2877,
+    "analysis": "Lần đầu tiên kể từ đầu tháng 9 Iran tuyên bố tấn công tài sản quân sự Mỹ ở một nước vùng Vịnh; diễn biến mới so với vụ tàu LNG trúng thủy lôi ở Hormuz; Trump tuyên bố Mỹ 'không cần thỏa thuận với Iran' và duy trì phong tỏa. Al Jazeera cập nhật 21:32 VN, Gulf News 21:20 VN.\nRủi ro vòng xoáy leo thang mới dù CENTCOM khẳng định không thiệt hại; dầu Brent hồi +0,9% lên 96,67 USD trong phiên nhưng vẫn giảm tuần thứ hai; theo dõi APEC 18–19/11 và bầu cử giữa kỳ Mỹ 3/11. Hai bên đưa ra hai bản tường trình mâu thuẫn, chưa bên nào được xác minh độc lập.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "e8482cec5b3134a53bceee3d0c845ea12c811f79426358155fd4850cc417a1e2"
+  },
+  {
+    "id": "01694fcb636c16d407e9ae2beaf21bbf06e319aa55036fce7d363fd2323ef7e8",
+    "title": "Nổ cửa hàng gas TP.HCM: 2 người chết, 12 bị thương — cập nhật tối 13/11",
+    "summary": "Khoảng 10h30 ngày 13/11, cửa hàng gas ~100 m² tại số 81 Bùi Văn Ba, phường Tân Thuận, phát nổ rồi đổ sập, kéo theo tiệm sửa đồng hồ bên cạnh; 5 căn nhà khác nứt tường, vỡ mái. Tổng 14 nạn nhân: 2 tử vong (người đàn ông 37 tuổi và nhân viên cửa hàng gas 55 tuổi, tìm thấy lúc 17h sau gần 7 giờ tìm kiếm); 12 bị thương, trong đó 9 đang điều trị, 3 xuất viện. Một bệnh nhân nam 36 tuổi bỏng 90% cơ thể, 38% bỏng độ 3 kèm bỏng hô hấp, tiên lượng dè dặt tại Bệnh viện Chợ Rẫy.",
+    "category": "Chính trị & Xã hội",
+    "section": "A - Top 5",
+    "sourceUrl": "https://vnexpress.net/no-cua-hang-gas-o-tp-hcm-khien-day-nha-do-sap-5144277.html",
+    "imageUrl": "https://i2-vnexpress.vnecdn.net/2026/11/13/1794553148778-g285941118706946-5110-9234-1794556936.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=YcFPfhcS-S2NDRoanC9vDg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2878,
+    "analysis": "Diễn biến mới so với số 17:38 (14 nhập viện, 1 ngưng tim): nay chốt 2 tử vong và phân loại điều trị. Nguyên nhân ban đầu nghi rò rỉ khí gas; hơn 30 cảnh sát, 2 xe cẩu, 5 trạm cấp cứu vệ tinh được huy động; đường Bùi Văn Ba phong tỏa ~1 km. VnExpress cập nhật 20:33 VN.\nĐặt lại câu hỏi về an toàn PCCC và quản lý cửa hàng gas trong khu dân cư đông đúc; cửa hàng hoạt động hơn 10 năm.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "d3349b0e57566f7b68d5a7db00c25e2e9804d1c3a70377165d8b73508395107b"
+  },
+  {
+    "id": "61e44a1e03c9252fa05ce6874a2c3a32e69be5dcdd6769465499e756a273e116",
+    "title": "Google ra mắt Gemini 4 Hydrogen — nhanh gấp 2,5 lần Gemini 3.8 Flash, triển khai trên Search toàn cầu",
+    "summary": "Mẫu AI tốc độ cao trong họ Gemini 4, thay thế Gemini 3.8 Flash; hoàn thành nhiệm vụ nhanh gấp 2,5 lần ở mức suy luận mặc định; 4 mức suy luận (low/medium/high/extra-high); cửa sổ ngữ cảnh 1 triệu token; triển khai trên Google Search (toàn cầu, mọi người dùng), ứng dụng Gemini, Google Sheets, AI Studio và Gemini API. Điểm Artificial Analysis Intelligence Index 51 (mặc định) và 54 (cao nhất). Giá API: 1,50 USD/triệu token đầu vào, 7,50 USD/triệu token đầu ra. Tính năng Orchestrator trong Antigravity chuyển đổi giữa Carbon (lập kế hoạch) và Hydrogen (thực thi), giúp giảm 24% quota và nhanh hơn gần 20% (theo Google).",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.ghacks.net/2026/11/13/google-releases-gemini-4-hydrogen-in-search-and-the-gemini-app-replacing-gemini-3-8-flash/",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2879,
+    "analysis": "Ra mắt ngày 13/11 (ghacks 21:34 VN); cùng ngày cộng đồng HN thảo luận sôi nổi (thread chính 553 points/343 comments).\nCạnh tranh trực tiếp với các mẫu tốc độ cao của OpenAI/Anthropic; AI nhanh–rẻ hơn thúc đẩy agent và ứng dụng thời gian thực; cần kiểm chứng độc lập các con số tốc độ do Google công bố.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "de7a403241d3e3b0c0a0d47f2110ed913a2790dd3ccda3f7e6bb144d518baa6f"
+  },
+  {
+    "id": "0ee1d06448cad38af3fd98996580db33f15b5b47005df0bfb3ffe9b48f562433",
+    "title": "Mỹ–Ukraine: châu Âu sẽ tham gia vòng đàm phán hòa bình tiếp theo với Nga; thúc đẩy đợt trao đổi tù binh lớn nhất",
+    "summary": "Đặc phái viên Mỹ Jared Kushner cho biết Nga và Ukraine đã nhất trí mở rộng vòng đàm phán tiếp theo để bao gồm các nước châu Âu; Washington thúc đẩy 'đợt trao đổi tù binh lớn nhất của cuộc chiến, có khả năng đoàn tụ hàng nghìn người với gia đình', song không đưa chi tiết. Tuyên bố sau khi Kushner và Steve Witkoff đàm phán hơn 4 giờ với Tổng thống Nga Vladimir Putin tại Điện Kremlin, rồi bay sang Dublin báo cáo Tổng thống Ukraine Volodymyr Zelenskyy. Zelenskyy hoan nghênh việc châu Âu có tiếng nói tại bàn đàm phán. Tuy nhiên Putin vẫn giữ lập trường cứng rắn, không nhượng bộ yêu sách lãnh thổ và loại trừ lực lượng gìn giữ hòa bình nước ngoài; Điện Kremlin chưa xác nhận đã đồng ý cho châu Âu tham gia.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.jpost.com/international/article-914791",
+    "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746198",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2880,
+    "analysis": "Hai ngày đàm phán ba bên ở Abu Dhabi trong tuần là lần đầu tiên sau 9 tháng; việc châu Âu có ghế tại bàn đàm phán là điều Kyiv và đồng minh đòi hỏi từ lâu. Reuters đăng 08:39 VN 13/11.\nBước đột phá ngoại giao chính sau vòng Abu Dhabi, nhưng vẫn mong manh; đợt trao đổi tù binh kỷ lục sẽ là kết quả nhân đạo cụ thể đầu tiên nếu thành hiện thực; Zelenskyy cho biết hạn chế mới với dịch vụ vệ tinh Starshield đang ảnh hưởng khả năng đánh chặn drone của Ukraine.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "ab13b9bf9678ff585a5f78d9c88b0a55973417c1e9b4954894f51256b962b8ef"
+  },
+  {
+    "id": "67adc6152169ff8c9926b97e35fd52e6b163d02e7b58f5c43112b09e481a9409",
+    "title": "Vàng SJC giảm 1 triệu đồng/lượng về 135–138 triệu; vàng thế giới hồi phục sau đáy 13 tháng",
+    "summary": "Đến 19h00 ngày 13/11, SJC niêm yết vàng miếng 135–138 triệu đồng/lượng (mua–bán), giảm 1 triệu cả hai chiều; DOJI và Phú Quý cùng mức. Vàng nhẫn SJC 134,8–138,8 triệu, giảm 1 triệu; chênh lệch mua–bán 3–4 triệu đồng/lượng. Vàng thế giới lúc 19h00 quanh 3.890,7 USD/ounce, sau đó lên ~3.898,3 USD (+15,7 USD) lúc ~21:57; đã hồi trên 3.900 USD sau khi chạm đáy thấp nhất 13 tháng ở phiên trước. Chênh SJC–thế giới quy đổi ~15,9–16,2 triệu đồng/lượng.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://laodong.vn/tien-te-dau-tu/gia-vang-chot-phien-1311-vang-the-gioi-phuc-hoi-sau-khi-cham-muc-thap-nhat-13-thang-1799781.ldo",
+    "imageUrl": "https://media-cdn-v2.laodong.vn/storage/newsportal/2026/11/13/1799781/Gia-Vang-Hom-Nay-Sjc.jpg?w=660",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2881,
+    "analysis": "Diễn biến mới so với chiều 13/11 (SJC đứng yên 135–138 triệu): tối nay SJC giảm dù thế giới hồi. Vàng hướng tới một tuần giảm do lợi suất trái phiếu Mỹ tăng, USD mạnh (DXY 103,17) và kỳ vọng Fed tăng lãi suất. Lao Động 20:14 VN.\nDiễn biến trái chiều hiếm gặp cho thấy áp lực bán trong nước; biên độ mua–bán 3–4 triệu đồng/lượng vẫn rất rủi ro cho người mua ngắn hạn.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "a302279dda8be07ba9ae458655218e60bb82a09783165dc1586d7d1359aaf948"
+  },
+  {
+    "id": "af694724a175ddb1e4cf2ad2ba526d8ef13c336984e2384f2cf25b4c493d5c42",
+    "title": "Bitcoin thủng đường trung bình 200 tuần, về 67.652 USD; funding hợp đồng vĩnh cửu chuyển âm",
+    "summary": "Bitcoin rơi xuống thấp nhất 67.652 USD, giảm hơn 3,5% trong 24 giờ và 16% trong một tháng, thủng đường trung bình động 200 tuần quanh 68.000 USD; sau số liệu PPI, Bitcoin hồi nhẹ lên ~69.500 USD. Lãi suất funding hợp đồng vĩnh cửu trung bình chuyển âm lần đầu trong một tháng khi giá quanh 68.500 USD — dấu hiệu vị thế bi quan. Lợi suất trái phiếu 10 năm Mỹ 5,14–5,15%, tăng gần 30 điểm cơ bản trong tuần — tuần tệ nhất kể từ đợt áp thuế tháng 4/2025; DXY trên 103.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets?post-id=d472793aa8a",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2882,
+    "analysis": "Diễn biến mới so với đáy 67.628 USD đã đưa lúc 18:15 (nay thủng mốc kỹ thuật 200 tuần); áp lực từ kỳ vọng Fed thắt chặt sau PPI và CPI nóng. CoinDesk cập nhật 21:02 VN.\nDòng tiền rời tài sản rủi ro; mốc 200 tuần là hỗ trợ dài hạn quan trọng — mất mốc này mở rủi ro giảm sâu hơn.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "e8a8c83928c0c98bc9bde33192d990e6e382d7d0d25f8594f6e51d80cc90837c"
+  },
+  {
+    "id": "3b6ee695d81b798e8aac313ba8e2f46742a69401928ab0398744cb678d2e4df1",
+    "title": "Dầu Brent hồi 0,9% lên 96,67 USD nhưng vẫn hướng tới tuần giảm thứ hai liên tiếp",
+    "summary": "Dầu Brent tăng 0,9% lên 96,67 USD/thùng lúc 21:14 VN 13/11; WTI tăng 0,5% lên 89,18 USD/thùng. Cả hai vẫn hướng tới mức giảm khoảng 2% trong tuần — tuần giảm thứ hai liên tiếp — sau khi lao dốc 16% (Brent) và 13% (WTI) tuần trước, khi Mỹ duy trì phong tỏa Iran thay vì nối lại xung đột trực diện.",
+    "category": "Năng lượng",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.channelnewsasia.com/business/oil-prices-set-second-weekly-decline-trump-sticks-iran-blockade-6548391",
+    "imageUrl": "https://dam.mediacorp.sg/image/upload/s--UwbqTyXm--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-13T030043Z_1_LYNXNPEMAC07J_RTROPTP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG?itok=Z04Rlth1",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2883,
+    "analysis": "Diễn biến mới so với Brent ~95–96 USD đã đưa lúc 18:15; IRGC nói 4 tàu dầu bị tấn công ở eo biển Hormuz hôm 12/11 (Reuters chưa xác minh được).\nDầu hạ nhiệt giảm áp lực lạm phát năng lượng, nhưng rủi ro địa chính trị (radar Bahrain, tàu LNG) vẫn có thể đẩy giá bật lại nhanh.",
+    "tags": [
+      "Năng lượng",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "23284afc93720061a5a94a31048d7bab725a52824f73c48ad82b969ef86fe2a2"
+  },
+  {
+    "id": "359f7c6a75d2c79f92e0a3dcb1aa642cceb09ec51161fa6f5fdf1f8d72551529",
+    "title": "NHNN thanh tra chuyên đề việc giảm lãi suất trong tháng 11 — ngân hàng chây ỳ có thể bị cắt room tín dụng",
+    "summary": "NHNN ban hành Công văn 10488/NHNN-TTNH, yêu cầu các NHNN chi nhánh khu vực lập đoàn thanh tra, kiểm tra chuyên đề việc giảm lãi suất tại các tổ chức tín dụng ngay trong tháng 11/2026, thực hiện chỉ đạo của Phó Thủ tướng Nguyễn Văn Thắng. Mức giảm bắt buộc: lãi suất huy động giảm tối thiểu 0,5 điểm %/năm với tiền gửi kỳ hạn từ 6 tháng trở lên; lãi suất cho vay giảm 1,5–2,0 điểm %/năm cho sản xuất kinh doanh, doanh nghiệp ưu tiên và động lực tăng trưởng. Ngân hàng không thực hiện nghiêm túc sẽ bị xem xét giảm chỉ tiêu tăng trưởng tín dụng (room tín dụng).",
+    "category": "Chính sách",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://motthegioi.vn/nhnn-thanh-tra-giam-lai-suat/",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2884,
+    "analysis": "Tin trong 24h (Một Thế Giới 15:02 VN 13/11), chưa từng đưa. Bước siết kỷ cương sau hiện tượng ngân hàng 'hô giảm lãi suất nhưng chi phí vay thực tế không giảm' do phí và điều kiện kèm theo; BIDV đã giảm lãi huy động 15–18 tháng xuống 6,6%/năm.\nQuyết định mặt bằng lãi vay thực tế cho doanh nghiệp dịp cuối năm; đòn cắt room mạnh nhất vào quý 4, khi ngân hàng cần room để đẩy vốn và hoàn thành kế hoạch lợi nhuận năm.",
+    "tags": [
+      "Chính sách",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "a65f1ea245b97c05ed60e1c92abd394748131691a2843e72b52db65a737df809"
+  },
+  {
+    "id": "46c247fb1c64fbe817c42addc60a21ed1b45b3b4c51fb81e075ecb19f44fb2e9",
+    "title": "MB chào bán riêng lẻ 200 triệu cổ phiếu thu 3.018 tỷ đồng; VinFast bàn giao 22.896 xe trong tháng 10",
+    "summary": "MB công bố chào bán riêng lẻ 200 triệu cổ phiếu giá 15.090 đồng/cp, dự kiến thu 3.018 tỷ đồng (2.568,5 tỷ đầu tư công nghệ, 449,5 tỷ bổ sung cho vay). VinFast mở đặt cọc VF 5/VF 6 mới sau khi bàn giao 22.896 xe trong tháng 10, tổng 10 tháng 2026 đạt 200.593 xe.",
+    "category": "Doanh nghiệp",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://stockbiz.vn/tin-tuc/tai-chinh-doanh-nghiep-247-ket-noi-von-quoc-te-mo-rong-dau-tu-san-xuat/42770140",
+    "imageUrl": "https://static.fireant.vn/Upload/20261113/images/87633f13f250485da018208f7e9b864c20261113134551.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2885,
+    "analysis": "Tin trong ngày 13/11 (Stockbiz 13:35 VN), chưa từng đưa.\nMB tăng vốn cho chuyển đổi số giữa lúc NHNN siết kỷ cương lãi suất; VinFast duy trì đà bàn giao cao, tổng 10 tháng vượt 200.000 xe.",
+    "tags": [
+      "Doanh nghiệp",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "5ef6d7069355f91f6c8b580bd542d461143aa21a56c2c456f925f3e12f50c708"
+  },
+  {
+    "id": "1c53940f7bd5911065b14d773357ef991e3bbe47c5bbe119f691a27321c31ebd",
+    "title": "Tìm thấy thi thể du khách Kuwait mất tích 6 ngày ở đèo Ô Quy Hồ, Sa Pa",
+    "summary": "Chiều 13/11, lực lượng chức năng tìm thấy thi thể ông Khalid Aldawoud, 51 tuổi, quốc tịch Kuwait, tại khu vực thác nước/đường lên đèo Ô Quy Hồ, phường Sa Pa, tỉnh Lào Cai, cách nơi phát hiện xe máy của ông khoảng 200 m. Ông lưu trú tại Green Sapa Homestay từ 5/11, dự kiến ở đến 20/11; sáng 7/11 thuê xe máy Yamaha PG-1 biển kiểm soát 25AA-526.78 rồi mất liên lạc; gia đình nhờ Đại sứ quán Kuwait đề nghị hỗ trợ từ tối 10/11. Tối 12/11 công an tìm thấy xe máy tại khu vực Ô Quy Hồ; sáng 13/11 khoảng 250 người được huy động tìm kiếm tại Sín Chải và Thác Bạc, đến 15h30 thì phát hiện thi thể.",
+    "category": "Đời sống",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://thanhnien.vn/tim-thay-thi-the-du-khach-nuoc-ngoai-bi-mat-tich-o-deo-o-quy-ho-18526111318074719.htm",
+    "imageUrl": "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/11/13/anh-man-hinh-2026-11-13-luc-175754-1794567484505935081463.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2886,
+    "analysis": "Nhận định ban đầu: nạn nhân có thể đã đi vào cống thoát nước rồi bị dòng nước cuốn vào khu vực thác, hoặc trượt chân ngã xuống thác khi khám phá; nguyên nhân tử vong đang được xác minh; địa phương hoàn tất thủ tục bàn giao thi thể cho Đại sứ quán Kuwait. Thanh Niên 19:39 VN.\nKết thúc vụ mất tích của du khách nước ngoài kéo dài 6 ngày, được dư luận và Đại sứ quán Kuwait quan tâm; cảnh báo an toàn cho du khách tự khám phá đèo núi, thác nước ở Sa Pa — đèo Ô Quy Hồ dài gần 50 km, đỉnh cao hơn 2.000 m.",
+    "tags": [
+      "Đời sống",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "c5cc53cdbfe8b4b6d3e7492001fea9cc0352303f6b774046ed36da1afee44c3f"
+  },
+  {
+    "id": "2a65a173416de09e1fac9a4f2f8d07870b0813c89146b568370ea2578f84c21e",
+    "title": "Sạt lở, hố sụt sâu 3 m đe dọa trường học và khu dân cư ở Đà Nẵng",
+    "summary": "Ngày 13/11, UBND xã Trà Leng, TP Đà Nẵng khảo sát sau những ngày mưa lớn liên tiếp: phía sau Trường Phổ thông dân tộc bán trú THCS Trà Leng, trên đỉnh núi cách chân kè taluy khoảng 130 m, cao khoảng 40 m so với sân trường, xuất hiện hố sâu đường kính ~1,7 m, sâu ~3 m cùng vệt nứt dài ~50 m. Sạt lở làm biến dạng kè tường chắn, lệch khớp nối giữa hai đốt kè ~2 cm; rãnh thoát nước sau kè nứt vỡ, sụt lún dài ~30 m. Diễn biến đe dọa trực tiếp 383 học sinh cùng 40 cán bộ, giáo viên, nhân viên (toàn trường 664 học sinh, 21 lớp, 450 em bán trú). Xã đã cắm biển cảnh báo, giăng dây khoanh vùng, trực ban theo dõi vết nứt và chuẩn bị phương án di dời học sinh bán trú; đồng thời đề nghị TP Đà Nẵng xem xét công bố tình huống khẩn cấp về thiên tai. Xã còn sơ tán khẩn cấp ~30 hộ dân với 127 khẩu khỏi vùng nguy cơ; tại xã Trà Linh, vết trượt dài hơn 50 m, độ tụt ~3 m, khối lượng đất đá có nguy cơ sạt trượt ~1.000 m³ đe dọa 3 hộ dân.",
+    "category": "Công nghệ & AI",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baomoi.com/sat-lo-nut-dat-de-doa-truong-hoc-va-khu-dan-cu-o-da-nang-c56505951.epi",
+    "imageUrl": "https://photo-baomoi.bmcdn.me/w700_r1/2026_11_13_293_56505951/fb8790ef31a4d8fa81b5.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2887,
+    "analysis": "Tin trong cửa sổ (Báo Mới đăng lại VietnamPlus/TTXVN 18:30 VN 13/11; bản gốc VietnamPlus 17:30). Diễn biến thiên tai mới sau mưa lớn, khác các điểm đã đưa (cầu gỗ Ông Cọp, sạt lở QL15D La Lay).\nNguy cơ sạt lở trực tiếp đe dọa trường bán trú vùng cao với hàng trăm học sinh nội trú; việc xã đề nghị công bố tình huống khẩn cấp cho thấy mức độ nghiêm trọng vượt khả năng xử lý của địa phương.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "dd599c01265c8803a88d0fa33d7e4c2ca82bbaba7dd64cada0c98cd8c8057d65"
+  },
+  {
+    "id": "fc70f010d3bdfe8d16a4ed3a3b063296265c82c722aefcb610dae2d5b44ff60c",
+    "title": "Bộ GD&ĐT: tuyệt đối không huy động phụ huynh, học sinh đóng góp tổ chức 20/11",
+    "summary": "Bộ Giáo dục và Đào tạo ban hành Công văn số 8010/BGDĐT-NGCBQLGD gửi các sở GD&ĐT và cơ sở giáo dục về tổ chức các hoạt động kỷ niệm Ngày Nhà giáo Việt Nam 20/11. Bộ yêu cầu các trường tổ chức kỷ niệm tinh gọn, ý nghĩa, không phô trương, lãng phí và 'tuyệt đối không huy động đóng góp từ người học, cha mẹ người học để tổ chức hoạt động kỷ niệm', đồng thời chủ động bảo đảm an ninh, trật tự, an toàn cho nhà giáo và người học. Các hoạt động cần phù hợp điều kiện thực tế, không ảnh hưởng kế hoạch giảng dạy, học tập; gắn với chủ đề năm học 2026–2027 'Đổi mới tư duy – Chuyển biến mạnh mẽ – Kết quả thực chất'.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baoxaydung.vn/bo-gddt-yeu-cau-khong-huy-dong-phu-huynh-hoc-sinh-dong-gop-to-chuc-20-11-192261113171801931.htm",
+    "imageUrl": "https://baoxaydung.mediacdn.vn/thumb_w/780/603483875699699712/2026/11/13/89776036616650510620822016009873701329666818n-1794564834819812095457.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2888,
+    "analysis": "Văn bản mới trong ngày (Báo Xây dựng 18:14 VN 13/11, sát cửa sổ), áp dụng toàn quốc, sát ngày 20/11.\nTrực tiếp giảm áp lực đóng góp tài chính cho phụ huynh và học sinh — vấn đề gây bức xúc hằng năm mỗi dịp lễ tri ân thầy cô; các trường phải điều chỉnh kế hoạch kỷ niệm ngay trong tuần tới.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "4e71016ab28bbd52080e692a37179af32dd3a7b20f08211a9d9ea1d5e2a79165"
+  },
+  {
+    "id": "40d9f8f8e3bec80d50228094147892a9d3c10bb3efe9c2e736198e6b3db536c5",
+    "title": "Làng trẻ em SOS lên tiếng về tin sai lệch liên quan đến hiến tạng",
+    "summary": "Thời gian gần đây, một số tài khoản Facebook, Threads, TikTok đăng tải thông tin sai lệch, gán ghép việc chuyển giao một số Làng trẻ em SOS cho Bộ Y tế với hoạt động hiến, ghép mô, bộ phận cơ thể người ở trẻ em dưới 18 tuổi. Chiều 11/11, Văn phòng Làng trẻ em SOS Việt Nam có văn bản gửi Bộ Y tế, khẳng định thông tin không đúng, đã gây hoang mang cho các gia đình có con em đang được chăm sóc. Theo SOS Việt Nam, việc chuyển giao 8 làng và 25 cơ sở giáo dục về địa phương quản lý xuất phát từ đề nghị của chính SOS Quốc tế từ năm 2024 (công thư 19/9/2024 và 14/5/2025), do từ năm 2023 SOS Quốc tế cắt giảm dần kinh phí hỗ trợ Việt Nam — hiện chỉ đáp ứng khoảng 30% nhu cầu hoạt động — để ưu tiên khu vực chịu chiến tranh, xung đột, đói nghèo. Tháng 3/2026, Bộ Y tế và SOS Quốc tế ký biên bản ghi nhớ bàn giao; ngày 24/4/2026 Thủ tướng ban hành Quyết định số 735 phê duyệt phương án, thời hạn hoàn thành trước 30/6/2026. Đến nay 5 địa phương (Khánh Hòa, Nghệ An, TP Huế, Quảng Trị, Gia Lai) đã hoàn thành sắp xếp; 3 địa phương còn lại (Hà Nội, Phú Thọ, Hưng Yên) đang hoàn thiện phương án.",
+    "category": "Tin giả",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vtcnews.vn/lang-tre-em-sos-len-tieng-ve-thong-tin-sai-lech-lien-quan-den-hien-tang-ar1051243.html",
+    "imageUrl": "https://cdn-i.vtcnews.vn/resize/th/upload/2026/11/13/lang-sos-21120360.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2889,
+    "analysis": "Tin trong cửa sổ (VTC News đăng 20:23, cập nhật 21:29 VN 13/11). SOS Việt Nam đề nghị cơ quan chức năng xác minh, ngăn chặn việc phát tán thông tin sai sự thật.\nTrường hợp điển hình về xử lý tin giả liên quan trẻ em lan truyền đa nền tảng; bài đính chính có đầy đủ mốc thời gian, văn bản và con số để bác bỏ suy diễn.",
+    "tags": [
+      "Tin giả",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "2ac1d4f5a9738a59c73be5f4e35a30f466aa7e6a33737bb099ff6420eebaf19e"
+  },
+  {
+    "id": "171462f6241625fb249eb8a7cff4c925601b325956fae272b5afa37ef30f2fa4",
+    "title": "10 người chết trong đụng độ ở Guinea sau lệnh cấm khai thác vàng thủ công",
+    "summary": "10 người, trong đó có 5 công dân nước ngoài, thiệt mạng và 13 người bị thương trong các cuộc đụng độ với lực lượng quốc phòng và an ninh ở vùng sản xuất vàng Siguiri, đông bắc Guinea, theo tuyên bố của Bộ Quản lý Lãnh thổ Guinea. Đụng độ xảy ra hôm thứ Tư khi lực lượng chức năng kiểm tra việc thực thi lệnh cấm khai thác vàng thủ công (ban hành ngày 2/11) và người biểu tình dựng rào chắn trên đường công cộng, sau đó hai bên nổ súng. Lệnh cấm đã khiến khoảng 100.000 người đổ về thủ đô Bamako của Mali và gần 60.000 người tới thị trấn biên giới Kouremale; Burkina Faso cho biết hôm thứ Sáu đã hồi hương 45.406 công dân bị buộc rời Guinea vì lệnh cấm.",
+    "category": "Quốc tế",
+    "section": "B - Xã hội",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/world/africa/10-killed-clashes-guinea-after-artisanal-mining-ban-2026-11-13/",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2890,
+    "analysis": "Tin trong cửa sổ (Reuters 19:50 VN 13/11, dẫn tuyên bố chính thức của Guinea; 1 nguồn báo chí).\nVụ bạo lực chết người nghiêm trọng nhất từ lệnh cấm khai thác vàng thủ công ở Tây Phi; hàng trăm nghìn thợ mỏ mất sinh kế, gây làn sóng di dời xuyên biên giới trong bối cảnh giá vàng tăng cao thúc đẩy khai thác thủ công khắp khu vực.",
+    "tags": [
+      "Quốc tế",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "bd4826f7148a6c4b305da17a41b1880821d3417de5a9b6945f5adc9ddebb32b3"
+  },
+  {
+    "id": "fce46c051f72c0d7ce1d6b9138399d03900296c7aa59d42b2f86c519e8e817dc",
+    "title": "Uber xác nhận hacker trộm thông tin bằng lái của hàng nghìn tài xế qua vụ rò rỉ nhà cung cấp Fireworks AI",
+    "summary": "Uber đang thông báo cho hàng nghìn tài xế rằng thông tin cá nhân và bằng lái của họ đã bị đánh cắp trong vụ rò rỉ tháng 10 tại một nhà cung cấp công nghệ. Nhà cung cấp báo cho Uber ngày 9/10 rằng hacker đã dùng thông tin đăng nhập nội bộ bị đánh cắp để truy cập dữ liệu Uber; điều tra đến 13/10 xác nhận dữ liệu cá nhân nằm trong phạm vi bị truy cập. TechCrunch xác định nhà cung cấp là Fireworks AI (nền tảng cho lập trình viên dùng mô hình AI mở); Fireworks trước đó cũng báo rò rỉ dữ liệu thanh toán và một số dataset AI riêng, và Notion xác nhận dữ liệu của họ cũng bị lấy. Số liệu theo từng bang đã thấy: 2.567 người ở Massachusetts, 3.430 ở South Carolina, 1.873 ở Rhode Island (tổng 3 bang = 7.870); Illinois chưa có con số, California chưa công bố; tổng số nạn nhân chưa rõ và dự kiến còn tăng.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?resize=1200,676",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2891,
+    "analysis": "Tin trong cửa sổ (TechCrunch 21:57 VN 13/11). Uber khẳng định hệ thống sản xuất, tài khoản người dùng, dữ liệu thanh toán và lịch sử chuyến đi của chính Uber không bị chạm tới; người bị ảnh hưởng được hỗ trợ theo dõi tín dụng miễn phí qua Cyberscout (TransUnion).\nChuỗi rò rỉ qua nhà cung cấp thứ ba tiếp diễn (Fireworks AI còn liên quan dữ liệu Notion); Fireworks cho rằng thủ phạm là nhóm tội phạm tài chính chuyên bán token truy cập LLM bị đánh cắp; chưa có nhóm nào nhận trách nhiệm.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "09f5fbb575629fbaf31655c8a0a309283ae547f73c7792850aa21a170bd6724b"
+  },
+  {
+    "id": "43b0cc4a67c20a1cdeb57f6d04708e49f6606ab6643f5b5acaf718d58dc0c12e",
+    "title": "Claude đã được khắc phục hoàn toàn lúc 18:58 sau sự cố lỗi xác thực diện rộng",
+    "summary": "Trang trạng thái chính thức của Claude ghi: 'Resolved — The issue affecting claude.ai and Claude Cowork has been resolved', đăng lúc 11:58 UTC = 18:58 giờ VN ngày 13/11/2026. Trước đó: Monitoring 11:05 UTC (18:05 VN), Investigating 09:58 UTC (16:58 VN). Phạm vi ảnh hưởng: claude.ai, Claude Console (platform.claude.com), Claude Code và Claude Cowork.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://status.claude.com/incidents/nn11wk485zfn",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2892,
+    "analysis": "Diễn biến mới trong cửa sổ của sự cố đã đưa ở số 18:15 (lỗi xác thực từ 16:58, fix triển khai và monitoring từ 18:05).\nSự cố AI lớn thứ hai trong ngày sau MS365 (ngày thứ 2 degraded); cộng đồng HN tiếp tục theo dõi sát (thread tăng từ 162 points/108 comments lúc 18:19 lên 419/344 lúc 23:56 VN) — đặt câu hỏi về độ tin cậy của nhà cung cấp AI và rủi ro phụ thuộc một vendor.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "7844e71229e298ed1a51837bbcd0b82dfcb940a4b47e2badf25e0c337c30538c"
+  },
+  {
+    "id": "7b9225665d1b25fdb9bb74e02b4e80cf77badaf203dbb04c91a090abdbe06335",
+    "title": "OpenAI ra mắt ChatGPT Wallet: AI agent 'dots' được trả tiền mua hàng thay người dùng",
+    "summary": "OpenAI ngày 13/11 ra mắt ChatGPT Wallet, cho phép agent luôn-bật 'dots' giúp chọn mua rồi hoàn tất thanh toán thay người dùng. Thẻ được nạp một lần; mỗi giao dịch dùng payment token thay cho số thẻ thật nên agent và merchant không thấy số thẻ đầy đủ; người dùng vẫn xem lại món hàng/tổng tiền/thẻ trước khi duyệt bằng Face ID/vân tay. Ban đầu chỉ áp dụng giới hạn cho một số ít thuê bao ChatGPT Pro tại Mỹ từ 18 tuổi trở lên, dùng thẻ Visa/Mastercard/American Express do Mỹ phát hành. OpenAI hợp tác với American Express, Mastercard, Visa; không thu hoa hồng giao dịch ở thời điểm ra mắt; đồng thời phát hành Commerce Partner Playbook cho nhà bán lẻ.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2893,
+    "analysis": "Công bố sau cửa sổ (TechCrunch 23:00 VN, Reuters 22:43 VN ngày 13/11) nhưng là tin lớn nhất trong 24h về AI agent; ghi rõ mốc thời gian. Rủi ro: nhiều nhà bán lẻ đang chặn agent AI (Amazon chặn để đẩy Alexa; United Airlines vừa cấm agent bên thứ ba đặt vé ngày 11/11).\nMở ra kỷ nguyên agent tự mua sắm — nhưng cuộc chiến 'agent vs merchant' mới bắt đầu; mô hình token hóa thanh toán có thể trở thành chuẩn an toàn cho agentic commerce nếu được chấp nhận rộng rãi.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "5b216bfa5d27cf9da6e69cb1e1008240c6808d4a0eff788df275da75da0aae40"
+  },
+  {
+    "id": "30801488fee0f2525be1baaff61523e02d6c1873abab175b1188c280a89e2e25",
+    "title": "Zero-day Windows 'SignDrop' leo thang lên SYSTEM qua file xác thực, chưa có bản vá",
+    "summary": "Zero-day Windows 'SignDrop' (CLFS) leo thang đặc quyền local lên SYSTEM qua file xác thực .cnpf, lợi dụng Windows Defender; Cyderes đã biên dịch và kiểm chứng PoC thành công. Chưa có CVE, chưa có bản vá, Microsoft chưa xác nhận; chưa có bằng chứng khai thác thực tế; tác giả ước tính ~80% máy Windows có thể bị ảnh hưởng (chưa kiểm chứng độc lập).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+    "imageUrl": "https://www.securityweek.com/wp-content/uploads/2026/11/Nightmare-Eclipse.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2894,
+    "analysis": "SecurityWeek đăng 15:50 VN, cập nhật 21:56 VN ngày 13/11 (trong cửa sổ). Ghi rõ các caveat: chưa CVE, chưa vá, chưa xác minh độc lập con số 80%.\nNếu được xác nhận, đây là lỗ hổng leo thang đặc quyền nghiêm trọng trên diện rộng; người dùng nên theo dõi bản vá của Microsoft và hạn chế chạy file .cnpf không rõ nguồn gốc.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "44d09542794b90c9fa7e79839c1f718be236e65d7322fbe217e990058bb957cf"
+  },
+  {
+    "id": "3b93f34e771483b2a9452751b1b93ebaa8c8e38a36df3aced5294fd459f6ef7e",
+    "title": "Nhân viên Nvidia kiến nghị đưa Jensen Huang trở lại — Hacker News 744 points/609 comments",
+    "summary": "Điểm HOT: Chưa đủ dữ liệu. Nền tảng: Hacker News (bài WIRED) + X. Nội dung: Sau khi Huang từ chức ngày 12/11, một bài đăng trong 'suggestion box' nội bộ Nvidia (gửi trước khi Huang rời đi) kêu gọi ban lãnh đạo cân nhắc tâm tư nhân viên; bài đăng thu hút hơn 1.600 bình luận nội bộ, nhiều người yêu cầu đưa Huang trở lại ('bring back THE boss'). Song song, một 'thư ngỏ' lan truyền trên X, tự xưng do hàng trăm nhân viên Nvidia ký, đòi giải tán hội đồng quản trị và dọa chuyển sang dự án SpaceX Terafab — CHƯA có bằng chứng xác thực; TalkEsport kiểm chứng thấy văn bản này sao chép gần như từng dòng thư nhân viên OpenAI năm 2023. Like/Reactions: N/A (HN dùng upvote); Points HN: 744; Comments/Replies: 609 (Algolia, quan sát 23:57 VN 13/11); Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: nhiều — HN (bài WIRED) + WIRED + BusinessToday + Daring Fireball + bài đăng lan truyền trên X; Thời điểm ghi nhận: 23:57 VN 13/11/2026.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "imageUrl": "https://media.wired.com/photos/6af6533dc5d481da1362b330/191:100/w_1280,c_limit/Petition-Bring-Back-Jensen-Business-2299493060.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2895,
+    "analysis": "Khủng hoảng lãnh đạo tại công ty chip AI quan trọng nhất thế giới; cổ phiếu Nvidia tiếp tục rơi ~2,3% trong phiên 13/11 sau khi giảm hơn 4% phiên trước; vốn hóa đã mất gần 1.000 tỷ USD trong tháng 11.\nĐiểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu shares/tăng trưởng 24h). Vì sao HOT: khủng hoảng lãnh đạo Nvidia + yếu tố 'thư giả mạo sao chép OpenAI 2023' gây tranh luận về xác thực. Tác động: niềm tin nhà đầu tư và nhân viên vào ban lãnh đạo mới (CEO tạm quyền Colette Kress) bị thử thách trước KQKD 17/11 và họp nhân viên 18/11.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "93345b016be9f34a49e8c9533f107df563154138f6bd8e84fb9987a2ee5fb793"
+  },
+  {
+    "id": "748ea581196d6597f2f5f797ef0fb59442f33abb070ab8ced8c697371f79019d",
+    "title": "'Doomsday: Friday, 13 November, A.D. 2026' — bài báo Science năm 1960 'tiên tri' ngày tận thế đúng thứ Sáu 13/11/2026",
+    "summary": "Điểm HOT: Chưa đủ dữ liệu. Nền tảng: Hacker News (bài gốc Science, 1960). Nội dung: Bài báo Science năm 1960 của von Foerster và cộng sự dự đoán dân số loài người tăng theo hàm hyperbolic và 'ngày tận thế' rơi vào thứ Sáu 13/11/2026. Cộng đồng HN bàn luận nhân đúng ngày này (thứ Sáu ngày 13), về mô hình toán học, sai số dự báo và tính trùng hợp. Like/Reactions: N/A; Points HN: 320; Comments/Replies: 220 (Algolia, quan sát 23:56 VN 13/11); Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 bài HN chính (story 50482379), đăng 19:10 VN 13/11 — trong cửa sổ; Thời điểm ghi nhận: 23:56 VN 13/11/2026.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2896,
+    "analysis": "Trùng hợp ngày tháng hiếm có (thứ Sáu 13/11/2026 đúng ngày bài báo 1960 nêu).\nĐiểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu shares/tăng trưởng 24h). Vì sao HOT: tính giải trí + tranh luận khoa học về mô hình tăng trưởng dân số. Tác động: chủ yếu văn hóa–giải trí, không có tác động kinh tế–xã hội thực chất.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "841c80537555fc86f87817f7634d01d305fcbf6ac9f6e3a0f1d8e90f04cf8e52"
+  },
+  {
+    "id": "2429fefe627d1317c483c155375a0994331af37fa001d2a8098ffb3a7eaae202",
+    "title": "'Why Zig over C for Systems Programming' — tranh luận ngôn ngữ hệ thống trên Hacker News",
+    "summary": "Điểm HOT: Chưa đủ dữ liệu. Nền tảng: Hacker News. Nội dung: Bài viết so sánh Zig với C trong lập trình hệ thống, bàn về an toàn bộ nhớ, khả năng tương tác với C và trải nghiệm lập trình viên. Like/Reactions: N/A; Points HN: 128; Comments/Replies: 72 (Algolia, quan sát ~23:56 VN 13/11); Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 bài HN chính, đăng 21:01 VN 13/11 — trong cửa sổ; Thời điểm ghi nhận: ~23:56 VN 13/11/2026.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2897,
+    "analysis": "Xu hướng tranh luận dài hạn về ngôn ngữ thay thế C/C++ trong lập trình hệ thống (cùng mạch với Rust, Carbon).\nĐiểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu shares/tăng trưởng 24h). Vì sao HOT: chủ đề 'ngôn ngữ hệ thống' luôn thu hút cộng đồng lập trình viên HN. Tác động: nhỏ, chủ yếu trong cộng đồng dev.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "772bc3e51b52e7a79c6242e8f305ee74bd46fe179e149eca6259a77a044fc3ed"
+  },
+  {
+    "id": "6aedb29d929b9774bf7db65ff1ff301ac2515f5c0d1282f42d7ca8728947e598",
+    "title": "ElevenAI (ElevenLabs) — app ghi chú họp + đọc chính tả cho nhóm",
+    "summary": "Tính năng: ghi chú/phiên âm cuộc họp (kể cả họp trực tiếp), tóm tắt và action items, tìm kiếm qua các cuộc họp cũ, hỗ trợ trực tiếp trong lúc họp, soạn email follow-up qua ElevenAgent; đọc chính tả chuyển giọng nói thành văn bản đã biên tập trong mọi ứng dụng, hỗ trợ hơn 90 ngôn ngữ (Scribe v3 hỗ trợ 102 ngôn ngữ); có cơ chế thông báo và xin phép khi ghi âm. Điểm mới: ra mắt tại 11/11 Summit ở New York (11/11), trong gói 13 sản phẩm/nâng cấp của ElevenLabs; định vị cho nhóm/doanh nghiệp thay vì cá nhân, cạnh tranh Fireflies, Granola, Wispr Flow.",
+    "category": "Công nghệ & AI",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2898,
+    "analysis": "Bài TechCrunch 21:44 VN 13/11 (trong cửa sổ); free early access mở từ 11/11/2026.\nỨng dụng thực tế: nhóm cần họp + ghi chép + đọc chính tả trong một app, đặc biệt họp đa ngôn ngữ. Hạn chế: vẫn ở dạng preview, phải đăng ký early access chứ không tải trực tiếp; chưa công bố giá (định vị enterprise, có thể subscription theo nhóm); early access được mô tả là miễn phí theo nguồn thứ ba — chưa xác minh trên trang chính thức. Giá: chưa công bố.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "5c34300d7febc559ae305e523e751cb82ed4fe8ae11b3e5a5868e70a832c74ea"
+  },
+  {
+    "id": "e06183f5ffca06e6112eb9adb7c338bad2d9735ae173b5a3590814465365f36a",
+    "title": "Google Tabletop (Google Labs) — không gian cộng tác AI cho nhóm",
+    "summary": "Tính năng: tạo 'hub' cộng tác tùy chỉnh cho gia đình/bạn bè/câu lạc bộ; nhập link, file, ý tưởng rồi ra lệnh cho AI (@tabletop) tạo lịch trình chuyến đi, bình chọn món ăn, chia tiền, bảng đấu giải, theo dõi tiết kiệm, bảng phân việc — dạng 'vibecode' bằng ngôn ngữ tự nhiên; giao diện được The Verge so sánh với Asana/Monday. Điểm mới: thí nghiệm Google Labs giới thiệu 11/11/2026.",
+    "category": "Công nghệ & AI",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://labs.google/tabletop",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2899,
+    "analysis": "Ra mắt 11/11/2026; nhiều nguồn độc lập xác nhận đăng ký waitlist tại labs.google/tabletop.\nỨng dụng thực tế: nhóm lên kế hoạch chung (du lịch, tiệc tùng, giải đấu) trong một không gian sống thay vì chuỗi chat rời rạc. Hạn chế: chỉ triển khai tại Mỹ, từ 18 tuổi trở lên, qua waitlist; chưa công bố giá, mô hình đứng sau, hay thời gian mở rộng; Google Labs thường dừng hoặc chuyển hướng thí nghiệm. Giá: chưa công bố.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "fd118d01f453357e1d31329756e1092869f2ceb1eb010c8a6c3687c8fdff25fc"
+  },
+  {
+    "id": "a148bab4020bc3b16449f5856e3315b511c227a7250730f62ea39a243c03ceca",
+    "title": "Vance thăm dò đàm phán trực tiếp với Iran trong khi Mossad vận động Washington tấn công mới; vận tải qua Hormuz vẫn thấp hơn ~65%",
+    "summary": "Phó Tổng thống Mỹ JD Vance được cho là đang thăm dò đàm phán trực tiếp với quan chức Iran Mohsen Rezaei, trái với tuyên bố trước đó của Trump rằng Mỹ 'không cần thỏa thuận với Iran'. Giám đốc Mossad Roman Gofman tới Washington gặp quan chức chính quyền Trump và Giám đốc CIA John Ratcliffe, trong lúc Israel vận động Mỹ mở chiến dịch quân sự lớn mới chống Tehran. UKMTO (báo cáo tuần 13/11): vận tải qua Hormuz vẫn thấp hơn ~65% so với trước chiến tranh (139 lượt ra, 169 lượt vào trong 7 ngày; 8 sự cố hàng hải; tổng 163 sự cố từ 28/2). IEA: xuất khẩu dầu vùng Vịnh 18,4 triệu thùng/ngày, thấp hơn 26% so với trước chiến tranh. IAEA (13/11): Iran từ chối nối lại thảo luận giám sát hạt nhân khi còn bị đe dọa tấn công; chưa thể xác minh kho uranium gần cấp độ vũ khí kể từ vụ ném bom tháng 6.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://gulfnews.com/world/mena/us-israel-iran-war-enemy-strike-hits-irans-sirik-as-trump-warns-tehran-over-threats-to-us-officials-houthis-claim-attack-on-saudi-pipeline-1.500745854",
+    "imageUrl": "https://media.assettype.com/gulfnews%2F2026-11-13%2Fhsr3lthb%2FF-35A.jpg?w=480&auto=format%2Ccompress&fit=max",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2900,
+    "analysis": "Hai luồng đối nghịch trong chính quyền Trump cùng tồn tại: kênh ngoại giao (Vance) và áp lực quân sự (Israel/Mossad). Trump đồng thời cảnh báo Iran sẽ 'không tồn tại được lâu' nếu ám sát quan chức cấp cao Mỹ, sau khi Bộ trưởng Tài chính Bessent được chuyển tới căn cứ quân sự vì bị đe dọa tính mạng. Live blog Gulf News cập nhật lần cuối 01:10 ngày 14/11 (giờ VN, trong cửa sổ).\nNguy cơ leo thang vẫn cao dù chưa có chiến dịch lớn mới; vận tải Hormuz đình trệ kéo dài và bế tắc thanh sát IAEA làm tăng rủi ro giá dầu, an ninh hàng hải và phổ biến hạt nhân. Mốc theo dõi: APEC 18–19/11, FOMC 8–9/12. Caveat: tin Vance–Rezaei và chuyến thăm của Mossad dựa trên nguồn tin (Axios) do Gulf News dẫn lại, chưa có xác nhận chính thức từ Nhà Trắng hay chính phủ Iran.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "94fa2571b50b9489afa2381c1b3a5cdd2c5ac4f23f892a8fe9c6857de8b5d561"
+  },
+  {
+    "id": "2eaf24979533dc19edd98576c58f65ba261f049ca9149fe1bb6a69ae77725f98",
+    "title": "Kremlin 'phanh' kế hoạch để châu Âu tham gia đàm phán Nga–Ukraine; Kallas cảnh báo đừng rơi vào 'bẫy' của Nga",
+    "summary": "Điện Kremlin ngày 13/11 cho biết châu Âu phải chứng tỏ 'sẵn sàng đóng góp' cho hòa bình trước khi Nga quyết định có cho châu Âu tham gia đàm phán hay không (phát ngôn viên Dmitry Peskov). Tuyên bố mâu thuẫn với thông báo của đặc phái viên Mỹ Jared Kushner và Tổng thống Zelenskyy hôm 12/11 rằng Putin đã đồng ý để châu Âu tham gia vòng đàm phán tiếp theo. Lãnh đạo đối ngoại EU Kaja Kallas tại thượng đỉnh EU ở Dublin cảnh báo châu Âu không được rơi vào 'bẫy' của Nga khi Moskva muốn đàm phán lại toàn bộ kiến trúc an ninh châu Âu thay vì ưu tiên ngừng bắn trước. Kushner viết trên X ngày 13/11: các bên hướng tới đợt trao đổi tù binh 'có thể là lớn nhất trong cuộc chiến'; Zelenskyy trước đó nêu 1.000–1.200 tù binh mỗi bên; vòng đàm phán tiếp theo có thể ở UAE hoặc Thụy Sĩ.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://northlandnewsradio.com/2026/11/13/russia-says-europeans-can-join-ukraine-peace-talks-if-they-show-readiness-to-contribute/",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2901,
+    "analysis": "Diễn biến mới so với tin 'châu Âu sẽ tham gia' đã đưa: Nga chưa cam kết, và nội bộ phương Tây chia rẽ về thứ tự ưu tiên (ngừng bắn trước hay đàm phán an ninh rộng). Kiểm chứng bằng 2 nguồn độc lập (Reuters + The Hindu/Interfax).\nTiến trình hòa bình vẫn bế tắc về lãnh thổ; trao đổi tù binh quy mô lớn là kết quả cụ thể duy nhất có thể đạt được trong ngắn hạn. Caveat: con số 1.000–1.200 tù binh mỗi bên là phát biểu của Zelenskyy, chưa phải con số chốt.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "1e1ad717bd8163eaea381549de8b73d0cbd8bf29b88d2c56cf7fdbbe6323b3a0"
+  },
+  {
+    "id": "3be9dfd1f0704d47edb8f7b05a345b66034c8247274e2b4ed7660e763f19964d",
+    "title": "Phố Wall giữa phiên 13/11: Nasdaq giảm ~1,1–1,45%, Nvidia tiếp tục bị bán tháo, lợi suất 10 năm trên 5%",
+    "summary": "Tính đến 11:31 giờ miền Đông Mỹ (23:31 VN 13/11): Nasdaq Composite -1,45% về 24.998 điểm; S&P 500 -0,82% về 7.530; Dow Jones chỉ -0,12% về 52.234 nhờ dòng tiền xoay sang cổ phiếu phòng thủ. Cập nhật 01:49 VN 14/11: Nasdaq -1,1% ở 25.083, S&P 500 -0,6% ở 7.544, Dow -0,1% ở 52.255 — mức giảm đã thu hẹp phần nào. Nvidia giảm khoảng 2–4% trong phiên (sau khi -4,34% về 166,19 USD phiên 12/11); AMD lao dốc ~9,9–10%, Broadcom -7%, Cisco -6% sau KQKD. Lợi suất trái phiếu Kho bạc Mỹ 10 năm dao động 5,10–5,16%, duy trì trên ngưỡng 5%.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-midday-nov-13-nasdaq-plunges-as-nvidia-turmoil-deepens-and-treasury-yields-hit-5/",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2902,
+    "analysis": "Phiên thứ hai liên tiếp chao đảo sau khi CEO Jensen Huang từ chức; đà giảm diễn ra bất chấp PPI tháng 10 chỉ +0,3% MoM (thấp hơn dự báo 0,4%), dù PPI theo năm vẫn 6,5% — cao nhất từ 11/2022. SỐ GIỮA PHIÊN, CHƯA CHỐT — thị trường Mỹ đóng cửa ~04:00 VN 14/11.\nĐà bán tháo lan từ Nvidia sang toàn bộ chuỗi AI/bán dẫn; nếu lợi suất 10 năm giữ trên 5% và Nvidia không ổn định trước thềm KQKD 17/11, rủi ro điều chỉnh của Phố Wall và các thị trường liên đới (trong đó có chứng khoán châu Á sáng 14/11) còn cao. Caveat: số liệu khác nhau theo thời điểm chụp giữa các nguồn; dùng khoảng đồng thuận, không dùng một số tuyệt đối duy nhất.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "cdb76d4794aa7b3ad8cf8c698c63746309d7ab8ec7630699455759638beb6f67"
+  },
+  {
+    "id": "fcc1b84437765626066e18265c76c9d91bd5c55581d42f2a7232bb43d4d834a7",
+    "title": "Khủng hoảng lập chính phủ Israel: giáo sĩ UTJ đòi toàn bộ 48 nghị sĩ khối Eisenkot ký cam kết miễn nghĩa vụ cho sinh viên Haredi",
+    "summary": "Các cố vấn giáo sĩ của phe Agudat Yisrael trong đảng United Torah Judaism (UTJ) yêu cầu toàn bộ 48 nghị sĩ khối 4 đảng của Gadi Eisenkot ký cam kết bằng văn bản: không chỉ thông qua luật miễn nghĩa vụ quân sự toàn diện cho sinh viên yeshiva Haredi mà còn kèm điều khoản 'override' ngăn Tòa án Tối cao bác bỏ đạo luật. Tài liệu do Channel 12 thu thập ngày 13/11 cũng yêu cầu UTJ xin phê duyệt trước của Tổng chưởng lý — khó khả thi về mặt pháp lý. Ynet: khối Eisenkot cân nhắc đóng băng việc bắt giữ người trốn nghĩa vụ tới một năm để lôi kéo UTJ. Cựu Thủ tướng Yair Lapid ngày 13/11: khối sẽ lập được chính phủ nhưng phải chấp nhận 'những thỏa hiệp đau đớn'.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.timesofisrael.com/report-utj-rabbis-urge-signed-commitments-on-draft-evasion-law-from-entire-eisenkot-bloc/",
+    "imageUrl": "https://static-cdn.toi-media.com/www/uploads/2026/11/WhatsApp-Image-2026-11-03-at-13.41.01-640x400.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2903,
+    "analysis": "Eisenkot nhận ủy nhiệm thành lập chính phủ từ Tổng thống Herzog ngày 8/11, hạn 28 ngày đến 6/12 (có thể gia hạn 14 ngày); khối của ông có 48 ghế, cần 61 ghế; UTJ có 7 ghế, Shas có 6 ghế nhưng vẫn ủng hộ Netanyahu. Luật nghĩa vụ cho người Haredi từng khiến Shas rời liên minh Netanyahu tháng 7/2025.\nYêu cầu của giáo sĩ UTJ được đánh giá vượt xa những gì bất kỳ đảng nào trong khối Eisenkot sẵn sàng chấp nhận, làm tăng nguy cơ đàm phán kéo dài hoặc bầu cử lại vào đầu năm sau. Caveat: nội dung dựa trên tài liệu Channel 12 và tin Ynet/Channel 13, chưa có xác nhận chính thức từ UTJ hay khối Eisenkot.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "44c96042680d6d2c9f296e947a0f9cc39c157170f511f1e06219c8b2d4b7fc82"
+  },
+  {
+    "id": "dcd26b4404db7719780a457751c472cc74e110629978452d91b6920fe47cabb0",
+    "title": "Vụ nổ gas TP.HCM: chốt 14 nạn nhân, 2 tử vong, 1 ca bỏng 90% tiên lượng dè dặt",
+    "summary": "Theo báo cáo nhanh của Sở Y tế TP.HCM (đăng 20:03, cập nhật 22:18 ngày 13/11 — sau mốc 20:33 của số trước): vụ nổ tại cơ sở kinh doanh gas số 81/98 Bùi Văn Ba, phường Tân Thuận, khiến 14 người gặp nạn: 2 tử vong, 9 người đang điều trị, 3 người đã xử trí và xuất viện. Hai trường hợp tử vong ngoại viện: một nam giới chưa xác định danh tính (khoảng 50 tuổi), tử vong lúc 15h30 dù được hồi sức; ông V.T.N. (55 tuổi) tử vong tại hiện trường. Nặng nhất: bệnh nhân N.M.Đ. (36 tuổi) tại Bệnh viện Chợ Rẫy bỏng 90% cơ thể (38% bỏng độ 3), kèm bỏng đường hô hấp, suy hô hấp, đặt nội khí quản, thở máy, tiên lượng dè dặt. Bệnh nhân D.V.T. (33 tuổi) suy hô hấp, chấn thương đầu, cột sống cổ và chân.",
+    "category": "Chính trị & Xã hội",
+    "section": "A - Top 5",
+    "sourceUrl": "https://znews.vn/znews-post1696262.html",
+    "imageUrl": "https://photo.znews.vn/w960/Uploaded/gtnvzv/2026_11_13/BINH_GA.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2904,
+    "analysis": "Vụ nổ xảy ra khoảng 10h–11h ngày 13/11, làm sập hoàn toàn 2–3 căn nhà liền kề, 5 căn xung quanh hư hại; hiện trường cơ bản được kiểm soát từ trưa cùng ngày. Nguyên nhân vẫn đang được điều tra. Cập nhật mới so với số 22:15 (14 nhập viện, 1 ngưng tim): số liệu chốt chính thức cuối ngày với phân bổ điều trị đầy đủ.\nCon số thương vong đã chốt cao hơn báo cáo ban đầu; ca bỏng 90% là thách thức điều trị lớn; vụ việc đặt lại câu hỏi về an toàn kho chứa gas trong khu dân cư. Caveat: chênh lệch nhỏ giữa các nguồn về địa chỉ (số 81 vs 98) và số căn nhà sập (2 vs 3); nguyên nhân chưa có kết luận chính thức.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "3a6523f16af9606e67c3e385af4ce080a19c52c62b5dfbebecf74633fb45f451"
+  },
+  {
+    "id": "d223865a411ede91302764440d261d8c723f90eb6fc1b04d3c66ab60c387c64b",
+    "title": "Bitcoin thủng 70.000 USD về sát 67.500 USD trong đêm rồi hồi lên gần 69.300 USD; thanh lý hơn 1,6 tỷ USD",
+    "summary": "Bitcoin rơi xuyên mốc 70.000 USD trong đêm 12–13/11, xuống đáy khoảng 67.500–67.770 USD — thấp nhất kể từ 19/8 — rồi hồi về khoảng 69.254 USD lúc 01:39 VN 14/11. Ether về 1.900 USD, thấp nhất kể từ 18/8; tổng vốn hóa crypto khoảng 2,19–2,3 nghìn tỷ USD. Thanh lý 1,64 tỷ USD/24h theo CoinGlass (88,7% là lệnh long; riêng Bitcoin 916 triệu USD, Ether 289 triệu USD). Chỉ số Sợ hãi & Tham lam ở 19–20 (sợ hãi cực độ). ETF Bitcoin giao ngay Mỹ rút ròng khoảng 1,88 tỷ USD từ đầu tháng 11 (Farside); riêng phiên 12/11 rút ròng 47,7 triệu USD, ngày thứ 6 liên tiếp.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2905,
+    "analysis": "Diễn biến mới so với mốc 67.652 USD/thủng MA 200 tuần đã đưa: đáy đêm nay thấp hơn và đã có nhịp hồi kỹ thuật trong phiên Mỹ. Nguyên nhân được nêu: USD mạnh lên (DXY trên 103, cao nhất từ 4/2025) khi thị trường định giá Fed tăng lãi suất tháng 12 (~88–90,5% cho +25 điểm cơ bản); tâm lý giảm rủi ro lan từ cú sốc Nvidia; lo ngại Strategy bị loại khỏi chỉ số MSCI toàn cầu (hiệu lực sau phiên 30/11). CoinDesk dẫn giả thuyết nhu cầu đặt mua IPO Anthropic (đặt mua gấp ~6 lần, dự kiến huy động tới 64,4 tỷ USD) đã hút tiền khỏi tài sản thanh khoản — nhiều chuyên gia khác cho rằng không có liên hệ trực tiếp, mà là đợt giảm đòn bẩy toàn thị trường.\nCú thủng 70.000 USD và MA 200 tuần (~68.000 USD) làm suy yếu cấu trúc kỹ thuật dài hạn; nếu Fed giữ giọng diều hâu và ETF tiếp tục rút ròng, rủi ro kiểm tra lại đáy 67.500 USD còn hiện hữu; nhịp hồi về gần 69.300 USD cho thấy lực mua bắt đáy vẫn xuất hiện. Caveat: đáy trong đêm chênh lệch nhỏ giữa các nguồn (67.500–67.770 USD); số thanh lý khác theo cửa sổ đo (1,64 tỷ USD/24h theo CoinDesk/CoinGlass vs 1,41 tỷ USD theo nguồn khác).",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "b856c186fa839b0a0a94a1088a1fc54a4e2f2e93adcef550486eefc0758c5299"
+  },
+  {
+    "id": "2ecb0dba57e1fbcc94fff203db3fea660a7bf23ef646728240b6becf3cbdced6",
+    "title": "Vàng thế giới hồi nhẹ sau đáy 13 tháng; vàng SJC chiều 13/11 đứng yên 135–138 triệu đồng",
+    "summary": "Sau khi lao dốc gần 3% phiên 12/11 xuống 3.880,93 USD/ounce (đáy kể từ tháng 10/2025, có lúc trong phiên về 3.852 USD), vàng giao ngay hồi phục trong ngày 13/11: lúc 17:30 VN đạt 3.897,67 USD/ounce (+0,41%), hợp đồng tương lai tháng 12 lên 3.902,7 USD (+0,5%); trong phiên có lúc lên 3.918–3.926 USD. Dù vậy vàng vẫn giảm hơn 4% từ đầu tuần và hơn 6% trong 3 phiên gần nhất. Trong nước, SJC chiều 13/11 (17:30 VN) giữ nguyên 135–138 triệu đồng/lượng, nhẫn trơn SJC 133,8–137,8 triệu đồng/lượng — không hồi theo giá thế giới. Quy đổi theo tỉ giá Vietcombank, vàng thế giới tương đương khoảng 120,9–121,9 triệu đồng/lượng, tức SJC vẫn cao hơn thế giới khoảng 16–17 triệu đồng/lượng; chênh lệch mua–bán duy trì 3 triệu đồng/lượng.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.vietnam.vn/en/gia-vang-the-gioi-bat-ngo-tang-nhe-sau-khi-cham-day-13-thang",
+    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/13/1794569504928_gold-1794565990153.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2906,
+    "analysis": "Lý do hồi phục theo Reuters (qua OANDA) và Bloomberg: chỉ báo động lượng ngắn hạn rơi vào vùng quá bán mạnh, kích hoạt mua kỹ thuật/bắt đáy của quỹ đầu tư và ngân hàng trung ương; lợi suất trái phiếu Mỹ có dấu hiệu ổn định, kìm đà tăng của USD. Vùng 3.850 USD được mô tả là vùng từng được kiểm chứng hồi tháng 7 và cuối tháng 10. Áp lực chưa hết: CME FedWatch định giá ~89% khả năng Fed tăng 25 điểm cơ bản tháng 12 và ~11% cho +50 điểm cơ bản; các Chủ tịch Fed New York, Chicago, San Francisco đều phát tín hiệu lạm phát còn cao.\nNhịp hồi của vàng thế giới mới chỉ mang tính kỹ thuật, chưa đảo chiều xu hướng giảm; SJC đứng yên trong khi thế giới hồi nhẹ khiến chênh lệch trong–ngoài không thu hẹp, rủi ro mua đuổi vẫn cao nếu Fed tiếp tục diều hâu. Điểm mới so với số trước: diễn biến hồi phục của vàng thế giới và việc SJC chiều đứng yên.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "cb41b9d0ade2fabf47ce79e5b60601527ab65a70f65aed9ed36212fe6e6080c2"
+  },
+  {
+    "id": "d9631227f0c53e3243f91c502fa1f80437e7a6ff3d1c6a67c97ff376eed9ca13",
+    "title": "Dầu Brent về 95,45 USD, WTI 88,06 USD; hướng tới tuần giảm thứ hai liên tiếp",
+    "summary": "Lúc 17:15 VN 13/11, dầu Brent giảm 37 cent (-0,4%) về 95,45 USD/thùng; WTI giảm 68 cent (-0,8%) về 88,06 USD/thùng (Reuters). Cả tuần, Brent và WTI đều hướng tới mức giảm gần 3% — tuần giảm thứ hai liên tiếp, sau khi tuần trước Brent lao dốc 16% và WTI giảm 13%.",
+    "category": "Năng lượng",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://q106fm.com/2026/11/12/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade/",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2907,
+    "analysis": "Lý do giảm: thị trường bớt lo ngại về một cuộc xung đột trực tiếp mới với Iran khi Trump cho biết Mỹ không cần thỏa thuận với Iran và Washington tập trung vào phong tỏa kinh tế thay vì leo thang quân sự; tồn kho dầu thô và nhiên liệu của Mỹ tăng trong tuần trước (EIA), cho thấy nhu cầu lọc dầu yếu đi. Rủi ro nguồn cung chưa biến mất: quân đội Iran cho biết 4 tàu chở dầu đã bị trúng nổ ở Hormuz hôm 12/11 (Reuters chưa xác minh độc lập); Houthi tuyên bố tấn công trạm bơm đường ống Đông–Tây của Saudi Arabia, cơ sở dầu ở Yanbu và tòa nhà Aramco ở Riyadh.\nGiá dầu hạ nhiệt giúp giảm áp lực lạm phát chi phí đẩy và giảm bớt sức ép lên các ngân hàng trung ương, nhưng rủi ro địa chính trị ở Hormuz có thể nhanh chóng đẩy giá bật lại; với Việt Nam, Brent quanh 95 USD vẫn là mức cao so với mặt bằng đầu năm, cần theo dõi tác động tới giá xăng dầu trong nước và chi phí logistics. Mốc 96,67 USD đã đưa ở số trước là giá một thời điểm khác trong tuần, không mâu thuẫn.",
+    "tags": [
+      "Năng lượng",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "647180091e541b13f063c5b26b69fff525e7f65145b1cc2663f22be17803069a"
+  },
+  {
+    "id": "45335054d65a42a81bcaa388536d6d4ce21a5e6f490b1599d0830eca32810745",
+    "title": "NHNN mua USD giao ngay 25.500 đồng/USD để bơm thanh khoản; 46/46 ngân hàng đã giảm lãi suất huy động",
+    "summary": "NHNN từ ngày 11/11 triển khai mua ngoại tệ giao ngay từ các tổ chức tín dụng có trạng thái ngoại tệ dương, tỉ giá 25.500 đồng/USD, định kỳ 2 phiên/tuần (thứ Hai và thứ Tư). Khi ngân hàng bán USD cho NHNN, NHNN thanh toán bằng VND, qua đó bơm tiền đồng vào hệ thống — kênh cung ứng thanh khoản trung–dài hạn, đồng thời giúp NHNN tăng dự trữ ngoại hối. Trước đó, NHNN đã triển khai hoán đổi USD/VND kỳ hạn 182 ngày quy mô tối đa 2 tỷ USD; theo NH Citi Việt Nam, các ngân hàng đã hấp thụ trọn hạn ngạch 2 tỷ USD, đưa gần 50.000 tỷ đồng ra thị trường với chi phí dưới 7%/năm. Theo TCBS, mỗi 1 tỷ USD NHNN mua vào tương ứng khoảng 25.500 tỷ đồng bơm vào hệ thống; lãi suất liên ngân hàng qua đêm đã giảm từ 5,79% (30/10) xuống 4,51% (5/11). Đến 4/11, cả 46/46 ngân hàng thương mại đã giảm ít nhất 0,5 điểm % lãi suất tiền gửi niêm yết kỳ hạn từ 6 tháng trở lên; lãi suất cho vay mới bình quân cuối tháng 10 giảm 0,2–0,5%/năm so với giữa tháng 10. Tỉ giá ngày 13/11: trung tâm 25.637 VND/USD (+14 đồng); Vietcombank niêm yết 25.440–25.850 đồng/USD; DXY 103,17 điểm (+0,30%).",
+    "category": "Chính sách",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://thanhnien.vn/tiep-tuc-keo-giam-lai-suat-ho-tro-thanh-khoan-185261112191709347.htm",
+    "imageUrl": "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/11/12/tnw-a1-1794485791034805071531.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2908,
+    "analysis": "Nghị quyết 353 (6/11) của Chính phủ tiếp tục yêu cầu NHNN đôn đốc giảm mặt bằng lãi suất cho vay với sản xuất, kinh doanh, xuất khẩu và doanh nghiệp nhỏ và vừa. Từ đầu năm đến 5/11, VND tăng 2,15% so với USD, thặng dư thương mại quý 3/2026 đạt hơn 7 tỷ USD — tạo dư địa cho NHNN mua vào dự trữ mà ít gây áp lực tỉ giá. Chi tiết mới: khối ngoại đảo chiều mua ròng trên HOSE hơn 320 tỷ đồng phiên 13/11 (tập trung VIX 308 tỷ, POW 86,41 tỷ, VJC 57,75 tỷ); VN-Index đóng cửa 1.734,93 điểm (+0,01%), 108 mã tăng/192 mã giảm, thanh khoản HOSE hơn 15.137,8 tỷ đồng; cả tuần VN-Index tăng 9,57 điểm (+0,55%).\nĐộng thái mua USD giao ngay là tín hiệu NHNN ưu tiên thanh khoản và giảm chi phí vốn cuối năm, hỗ trợ mục tiêu tăng trưởng; tuy nhiên chuyên gia lưu ý dư địa giảm lãi suất không còn nhiều (NIM hệ thống đã giảm từ ~3% cuối 2025 xuống ~2,5% hiện nay; Techcombank/VNDirect dự báo mặt bằng lãi suất đi ngang đến cuối năm) và biến số lớn nhất vẫn là Fed — nếu Fed tăng lãi suất tháng 12, áp lực tỉ giá và thanh khoản sẽ quay lại. Caveat: số mua ròng khối ngoại chênh lệch nhỏ theo phạm vi tính (HOSE hơn 320 tỷ vs cả 3 sàn hơn 301 tỷ) — hai phạm vi khác nhau, không mâu thuẫn.",
+    "tags": [
+      "Chính sách",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "8ee32d70db6b851e4017d77ed0af0a2c11b388be1698777edca8567bd7ebdaed"
+  },
+  {
+    "id": "f091380d9e02cf4e0542e06828535400b81bec28fae444cfc40d3b34b85570e4",
+    "title": "Cảnh báo mưa to, lũ quét, sạt lở đất trong đêm 13 rạng sáng 14/11 tại Trung Bộ và Nam Bộ",
+    "summary": "Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, đêm 13/11 khu vực từ Đà Nẵng đến phía Đông Gia Lai và Nam Bộ có mưa rào và dông rải rác, lượng mưa 10–30mm, cục bộ mưa to trên 70mm; đề phòng lốc, sét, mưa đá, gió giật mạnh. Ngày 13/11, khu vực từ Huế đến phía Đông Quảng Ngãi, cao nguyên Trung Bộ và Nam Bộ mưa to đến rất to; lượng mưa từ 7h đến 19h ngày 13/11 có nơi trên 80mm, cao nhất trạm Hương Trà (Quảng Ngãi) 117,4mm. Từ 20h20 ngày 13/11 đến 1h20 ngày 14/11, Quảng Ngãi tiếp tục mưa, tích lũy phổ biến 20–40mm, có nơi trên 80mm; cảnh báo lũ quét, sạt lở đất tại 16 xã/phường (Tây Trà, Tây Trà Bồng, Ba Vinh, Cà Đam, Măng Bút, Minh Long, Sơn Hà, Sơn Hạ, Sơn Kỳ, Sơn Linh, Sơn Tây, Sơn Tây Hạ, Sơn Tây Thượng, Sơn Thủy, Thanh Bồng, Trà Bồng). Độ ẩm đất một số khu vực Quảng Ngãi đã gần bão hòa (trên 85%) hoặc bão hòa. Cấp độ rủi ro thiên tai do lũ quét, sạt lở cấp 1. Thời tiết ngày 14/11 (dự báo Lao Động, 20:00 13/11): Bắc Bộ mưa vài nơi, trưa chiều giảm mây trời nắng, đêm và sáng sớm rét 15–18°C (Hà Nội 16–18°C, cao nhất 22–24°C); Trung Bộ mưa rào và dông vài nơi; Nam Bộ chiều tối mưa rào và dông rải rác; TP.HCM 24–26°C đến 31–33°C.",
+    "category": "Công nghệ & AI",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://bnews.vn/mua-to-de-phong-lu-quet-sat-lo-dat-trong-dem-tai-trung-bo-va-nam-bo/444304.html",
+    "imageUrl": "https://image.bnews.vn/MediaUpload/Org/2026/11/13/212435-da-nang-dien-luc-mien-trung-khan-truong-khac-phuc-su-co-bao-dam-an-toan-dien-cho-nguoi-dan.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2909,
+    "analysis": "Mưa lớn miền Trung đã giảm dần từ chiều 12/11, nhưng đất đã bão hòa nước nên nguy cơ sạt lở vẫn cao dù lượng mưa giảm. Trên biển, đêm 13/11 và ngày 14/11 vùng biển từ Cà Mau đến An Giang và vịnh Thái Lan có mưa dông mạnh, nguy cơ lốc xoáy, gió giật cấp 7–8, sóng cao trên 2m.\nNguy cơ trực tiếp đến tính mạng người dân vùng sườn dốc, giao thông cục bộ, sản xuất nông nghiệp và an toàn tàu thuyền; cơ quan khí tượng kiến nghị địa phương rà soát điểm nghẽn dòng, vị trí xung yếu.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "9e32a8f5df823998abf7237e6ae3d8d91e2a604caf2f7dbd4d4e3a334824a59b"
+  },
+  {
+    "id": "65203decd4d71a676ba6512221e8e007ca41a2ea30f5cd26ddd41e852095ea1c",
+    "title": "Sạt lở ăn sâu 50m ở cửa sông Vệ (Quảng Ngãi), hàng nghìn m² đất bị cuốn trôi",
+    "summary": "Sáng 13/11, tại khu vực Cửa Lở, thôn Tân Mỹ, xã An Phú (Quảng Ngãi), bờ sông Vệ và bờ biển sạt lở nghiêm trọng sau đợt mưa lũ đầu tháng 11: sạt lở dài khoảng 100m, ăn sâu vào đất liền khoảng 50m; hàng nghìn m² đất ven sông, cửa biển bị xóa sổ, cuốn theo cây cối, ngư lưới cụ; một đoạn bờ biển dài khoảng 50m cũng bị xâm thực. Dù đợt lũ đã qua, đất ven sông vẫn tiếp tục sụp xuống từng mảng, nhiều nhà dân ven sông bị đe dọa trực tiếp. Chính quyền xã An Phú đã kiểm tra, huy động lực lượng quân sự phối hợp Đồn Biên phòng Cửa khẩu cảng Sa Kỳ hỗ trợ di dời ngư lưới cụ, tài sản, trục vớt ghe chìm; kiến nghị tỉnh kiểm tra tổng thể khu vực, xem xét nạo vét, thông luồng kết hợp xây kè chống sạt lở. Chủ tịch UBND tỉnh Quảng Ngãi Nguyễn Đức Tâm yêu cầu địa phương không chủ quan: theo dõi hiện trường, khoanh vùng nguy hiểm, cắm biển cảnh báo, kiểm soát tàu thuyền, chuẩn bị sẵn phương án di dời các hộ bị đe dọa.",
+    "category": "Công nghệ & AI",
+    "section": "B - Xã hội",
+    "region": "Quốc tế",
+    "sourceUrl": "https://baomoi.com/sat-lo-an-sau-50m-o-cua-song-ve-hang-nghin-met-vuong-dat-bi-cuon-troi-c56505590.epi",
+    "imageUrl": "https://photo-baomoi.bmcdn.me/w700_r1/2026_11_13_296_56505590/5ea348cfe98400da5995.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2910,
+    "analysis": "Hệ quả kéo dài của đợt mưa lũ miền Trung (khác với tin sạt lở QL15D và Trà Leng đã đưa), cho thấy rủi ro sạt lở vẫn hiện hữu sau khi lũ rút.\nNhu cầu kè bảo vệ bờ sông cấp bách trước mùa mưa tiếp diễn; người dân kể nước lũ từ thượng nguồn đổ về bất ngờ trong đêm, tạo dòng xoáy khoét bờ; có hộ trước đây bờ sông còn cách nhà cả trăm mét, nay đất đã bị cuốn trôi hết. Caveat: đơn nguồn (Người Đưa Tin qua Báo Mới); số liệu 100m/50m do Phó Chủ tịch UBND xã An Phú cung cấp.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "43e448ab8a18a380fafce0a077cd83bf5d4e8bf66ea4d354956d0c8bc2063bfe"
+  },
+  {
+    "id": "3958686ad677d70f9a3edb739e9be1eaed2e222986658b23f7aed9cf49921468",
+    "title": "Bộ GD&ĐT chốt quy chế tuyển sinh đại học 2027: điểm cộng IELTS tối đa 0,5/30, bỏ hẳn từ 2028",
+    "summary": "Thông tư sửa đổi, bổ sung quy chế tuyển sinh đại học do Bộ GD&ĐT công bố ngày 13/11 (Thông tư 95/2026/TT-BGDĐT) quy định: thí sinh có IELTS, giải học sinh giỏi quốc gia (không dùng quyền tuyển thẳng) hoặc thành tích/năng khiếu đặc biệt chỉ được cộng tối đa 0,5 điểm trên thang 30 trong năm 2027, thay vì tối đa 3 điểm như trước; từ năm tuyển sinh 2028, các trường không còn được sử dụng điểm cộng. Chỉ các trường đã dùng điểm cộng từ năm 2026 trở về trước mới được tiếp tục áp dụng trong năm 2027 và phải giải trình việc sử dụng. Thí sinh vẫn được quy đổi IELTS thành điểm môn ngoại ngữ nếu trường chấp nhận. Kèm theo: mỗi trường tối đa 5 phương thức tuyển sinh; mỗi ngành/chương trình tối đa 3 phương thức từ 2027, giảm còn 2 từ 2028 (không tính xét tuyển thẳng và cử tuyển).",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://vnexpress.net/chot-quy-che-tuyen-sinh-dai-hoc-2027-chi-tiet-nhat-giam-manh-diem-cong-ielts-va-giai-hoc-sinh-gioi-5134277.html",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2911,
+    "analysis": "Lý do: năm 2026, hơn 37.300 thí sinh dùng chứng chỉ tiếng Anh để được cộng điểm, chủ yếu IELTS; riêng mức IELTS 6.0 phổ biến nhất (hơn 8.300 em) được các trường quy đổi thành tới 26 mức điểm cộng khác nhau, gây bất công — Bộ siết để đảm bảo công bằng tuyển sinh. Kiểm chứng chéo: VTV qua vietnam.vn và Người Đưa Tin cùng nội dung.\nẢnh hưởng trực tiếp hàng chục nghìn thí sinh và thị trường luyện thi IELTS; phụ huynh, học sinh trên các diễn đàn giáo dục bày tỏ đồng thuận lớn (theo CafeF, 20:26 ngày 13/11); các trường và trung tâm ngoại ngữ phải điều chỉnh chiến lược tuyển sinh, tư vấn.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "0c38481b5f8a5cdd58ae9604bc3cab1df0b1e02548467659158192620ba0fc04"
+  },
+  {
+    "id": "cf5addb21a3b53a75d5e75548cfca8f6239869649c0606fc57bb911dc8ad70a2",
+    "title": "Agent AI bị jailbreak tấn công nhà mạng châu Âu suốt hơn 2 tuần — 'Operation Snowball'",
+    "summary": "Malbear Labs phát hiện một agent AI tự hành chạy trên DeepSeek Flash (bị jailbreak bằng prompt ~78.000 ký tự) đã tấn công một nhà cung cấp viễn thông châu Âu và 13 tổ chức trên hạ tầng của nhà mạng này trong hơn 2 tuần. Agent tự quét mạng, khai thác lỗ hổng, chuyển hướng khi bị chặn mà gần như không cần con người can thiệp — người vận hành chỉ nhắn ngắn gọn 'Go on'/'Stop'. Lối vào là CVE-2026-20320 (XXE trong Cisco BroadWorks, CISA đưa vào danh mục KEV ngày 10/11), sau đó khai thác Liferay (CVE-2020-7961) và JBoss/RichFaces (CVE-2013-2165). Agent được cho là đã lấy hàng chục bộ credential, private key, dữ liệu Active Directory và tiếp cận hồ sơ thanh toán thuê bao cùng 'hàng triệu hồ sơ bệnh nhân' qua hệ thống TrakCare chạy Oracle còn dùng mật khẩu mặc định.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/",
+    "imageUrl": "https://assets.infosecurity-magazine.com/webpage/og/c9b2c96e-fcbb-4009-9f13-bee2920447f0.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2912,
+    "analysis": "Nghiên cứu Malbear công bố 8/11, bài báo đăng 9/11, cập nhật 12/11; làn sóng đưa tin mở rộng ngày 13/11. Chưa từng đưa ở các số trước.\nCho thấy agent AI tự hành đã trở thành công cụ tấn công thực chiến với mức độ tự chủ cao — bước ngoặt về an ninh mạng, nối tiếp chuỗi 'Black October' (wfx-loot, GhostAction, PHP2Shell). Caveat quan trọng: Malbear chưa xác minh với nạn nhân về mức độ dữ liệu thực sự bị lấy đi; chỉ đánh giá operator nói tiếng Trung, không quy kết nhà nước.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "fbcce1b04bd9cb48a8423185cd9423e610f9c636737fd0df345545fd773e2076"
+  },
+  {
+    "id": "57a2fd942910641a4373e83ff5f445775ad3aa67bb487439e87ae8f8cc536fb8",
+    "title": "Nhóm nghi thân Trung Quốc dùng framework AI mã nguồn mở Cairn tấn công 25 chiến dịch, xâm nhập 10 tổ chức",
+    "summary": "Palo Alto Networks Unit42 công bố chiến dịch CL-STA-1238 (tháng 8–9/2026): attacker nói tiếng Trung dùng framework pentest mã nguồn mở Cairn, gắn với model Zhipu GLM 5.2 (13 chiến dịch) và DeepSeek V4 Flash/Pro (12 chiến dịch), chạy 25 chiến dịch tự hành nhắm vào ít nhất 19 tổ chức — 10 tổ chức bị xác nhận truy cập trái phép hoặc rò rỉ dữ liệu. Mục tiêu: chuỗi cung ứng bán dẫn/sản xuất tiên tiến (7), quốc phòng/chính sách quốc phòng Mỹ (3), nhân quyền/xã hội dân sự (4). Chỉ cần đưa mục tiêu + mục đích, Cairn tự lập kế hoạch 3–7 bước, chạy từ 20 phút đến hơn 50 giờ; có thể chỉ 1 người hoặc một nhóm nhỏ vận hành. Unit42 đánh giá 'mức tin cậy vừa phải' đây là hoạt động thu thập tình báo gắn với Trung Quốc. Điểm đáng chú ý: cả hai model đều không từ chối khi attacker gắn lời dẫn 'đây là kiểm thử được ủy quyền'.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.cybersecuritydive.com/news/china-hacker-ai-tool-campaign-us-defense-semiconductor/874619/",
+    "imageUrl": "https://imgproxy.divecdn.com/bvd9xykwgD6Mx65qRErrbikfPf95OoVF9rvrSyuDUPk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5NzUzNDc1LmpwZw==.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2913,
+    "analysis": "Unit42 công bố 12/11 (giờ Mỹ), lan truyền trên báo chí 13/11; kiểm chứng chéo qua CybersecurityDive, GBHackers, Daily AI Brief. Khác với Operation Snowball (Malbear/DeepSeek Flash/viễn thông châu Âu) — hai chiến dịch khác nhau, không nhầm lẫn.\nCho thấy framework AI mã nguồn mở + model thương mại có thể bị vũ khí hóa ở quy mô lớn với chi phí thấp; các model không từ chối yêu cầu tấn công khi được gắn mác 'kiểm thử được ủy quyền' — lỗ hổng căn bản của cơ chế từ chối hiện nay.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "d4fe03be4cc50087d3ca80eab05969bb53aff5f832bf9185c87d425da40dde27"
+  },
+  {
+    "id": "481901e2077f691b9567cc227883fe43c96255e403b0d4ba0610be2499a68e4a",
+    "title": "Brazil: Caixa Vida e Previdência bị lộ dữ liệu toàn bộ 7,6 triệu khách hàng đang hoạt động; Tesouro Nacional cũng bị xâm nhập",
+    "summary": "Caixa Vida e Previdência (công ty bảo hiểm và hưu trí thuộc ngân hàng nhà nước Caixa) phát hiện truy cập trái phép ngày 6/11, làm lộ dữ liệu cá nhân/cadastro của toàn bộ 7,6 triệu khách hàng đang hoạt động (tên, số thuế CPF, địa chỉ, điện thoại, email, ngày sinh) cùng một số lượng chưa xác định cựu khách hàng. Cùng đợt, Tesouro Nacional (Kho bạc quốc gia) phát hiện truy cập ngày 4/11, lộ ~30.000 hồ sơ e-Serviços và ~4.000 khóa Pix của người thụ hưởng thanh toán chính phủ. Cả hai đã chặn vector tấn công, thuê pháp y độc lập, báo cáo cơ quan bảo vệ dữ liệu ANPD; chưa xác nhận lộ credential tài chính hay mật khẩu. Thông báo tới khách hàng bị chậm 6 ngày sau khi phát hiện.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://particle.news/story/massive-data-breaches-hit-caixa-vida-e-previdncia-and-tesouro-nacional",
+    "imageUrl": "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/199330716/df47c52d1886e0c4ae8d1aa89f744ac7dea2cb21cb2320c8c217db8501f7bf6b",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2914,
+    "analysis": "Particle News tổng hợp từ công bố chính thức, đăng 13/11 20:20 VN. Chưa từng đưa ở các số trước.\nVụ rò rỉ quy mô quốc gia tại Brazil nối tiếp chuỗi sự cố dữ liệu toàn cầu (Copenhagen 525.000 người, Capcom 11,7 triệu tài khoản, TSMC); chậm thông báo 6 ngày đặt câu hỏi về minh bạch sau sự cố.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "61746a6ccf600d4f1e1fc67475846010a80e7da340cca23b51f58ba01f90b582"
+  },
+  {
+    "id": "298adf01a662d203a65d813a633c1d94f2a6d307b2056b8d51af259a6a524037",
+    "title": "FBI: hacker Triều Tiên dùng cuộc gọi video giả để đánh cắp 400 triệu USD tiền mã hóa — chiến dịch 'FaceStealer'",
+    "summary": "FBI cho biết hacker Triều Tiên đã dùng các cuộc gọi video giả mạo để đánh cắp hơn 400 triệu USD tiền mã hóa từ hơn 900 nạn nhân trong 18 tháng qua, trong chiến dịch mang tên 'FaceStealer'. Thủ đoạn: dùng tài khoản mạng xã hội giả hoặc bị chiếm đoạt để mời nạn nhân vào cuộc gọi video trên bản giả mạo của Zoom, Microsoft Teams và Google Meet; phát lại đoạn webcam đã ghi lén của người quen để giả danh, rồi giả vờ lỗi âm thanh và gửi link 'sửa lỗi' để cài mã độc. FBI đã thu giữ hơn 900 video webcam của nạn nhân theo lệnh tòa và Bộ Tư pháp Mỹ đã triệt phá hạ tầng đám mây của chiến dịch (công bố 12/11). Nhóm được quy cho Sapphire Sleet/UNC1069 (khác với nhóm TraderTraitor vụ Binance). FBI cảnh báo thủ đoạn đã bắt đầu dùng video deepfake AI của người có ảnh hưởng trong ngành crypto/Web3.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.bbc.com/news/articles/cqdj1ellpd70o",
+    "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2915,
+    "analysis": "GÓC MỚI so với tin FBI thu giữ 1,2 tỷ USD vụ Binance đã đưa ở số 10:15 (trong đó chỉ nhắc 'FaceStealer 400 triệu USD' một dòng): bài BBC/Reuters ngày 13/11 tập trung vào phương thức FaceStealer, quy mô 900 nạn nhân và việc DOJ triệt phá hạ tầng. Kiểm chứng chéo: BBC, Reuters, Help Net Security, DOJ.\nCho thấy tấn công xã hội bằng deepfake/video giả đã vượt qua cả người dùng có kinh nghiệm an ninh mạng; FBI đã lập trang tài nguyên FaceStealer và khuyến cáo người làm crypto/Web3 và maintainer mã nguồn mở — nhóm mục tiêu chính. Caveat: bài BBC không mở được qua browser.open (policy nguồn fetch); đã xác minh qua curl (og:image + og:title khớp) và listing HN (52 points/15 comments) cùng nhiều nguồn độc lập.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "6c2abc7975fe95b2f75b337ae0413018bb517b72430f5f7817a98ac9184ee6e1"
+  },
+  {
+    "id": "7fe50599b0bb5a30816e530450a074429d7b939d67ce6b11cfbac671349b64b1",
+    "title": "OpenAI giải tán đội robot riêng — model đa năng giờ trực tiếp điều khiển robot",
+    "summary": "Theo Fortune (độc quyền), OpenAI đã giải tán đội robot độc lập của mình vì các model đa năng hiện nay đã đủ khả năng vận hành robot trực tiếp, không cần một nhóm chuyên biệt riêng. Động thái phản ánh xu hướng 'model chung làm được mọi việc' thay cho đội chuyên trách phần cứng/robot — và đặt câu hỏi về chiến lược robot hình người của OpenAI sau nhiều năm đầu tư.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2304572308-e1794587995495.jpg?resize=1200,600",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2916,
+    "analysis": "Fortune, ngày 13/11/2026. Chưa từng đưa ở các số trước. Trên HN lúc quan sát: 34 points/7 comments.\nTín hiệu về sự thay đổi chiến lược của OpenAI trong cuộc đua robot hình người, trong bối cảnh các model đa năng ngày càng đảm nhiệm trực tiếp điều khiển vật lý; tác động tới các đối thủ chuyên robot (Tesla Optimus, Unitree, Figure).",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "aa0f2bd17d039158e4654d5685409a4d4f35e881e7bdcae0f092c1040e5272ab"
+  },
+  {
+    "id": "35ac4984470fd067a95e5ab7c3a8c66ba1859c7eea230e3c1853e4e04702de4b",
+    "title": "LibreOffice châm biếm 'thực sự hoạt động 365 ngày một năm' sau ngày sập kép Microsoft 365 và Claude",
+    "summary": "Tài khoản LibreOffice đăng rằng bộ phần mềm văn phòng mã nguồn mở 'thực sự hoạt động 365 ngày một năm' — lời châm biếm trực diện sau ngày Microsoft 365 và Claude cùng sập (13/11), cộng đồng bàn về độ tin cậy của phần mềm tự host/mã nguồn mở so với SaaS đám mây. Số liệu Hacker News (Algolia API, quan sát ~02:16 VN 14/11): 501 points, 178 comments. Like/Reactions: N/A (HN không có Like). Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 thread HN (đang top front page). Thời điểm đăng: 13/11 17:09:58 UTC = 14/11 00:09 VN (TRONG cửa sổ đêm). Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu Shares/tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50486482",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2917,
+    "analysis": "Đúng thời điểm MS365 bước sang ngày sập thứ 2 và Claude vừa sập cùng ngày; câu đùa ngắn gọn, dễ lan truyền, chạm đúng nỗi bực của người dùng SaaS.\nPhản ánh làn sóng hoài nghi về độ tin cậy của SaaS đám mây sau 'ngày sập kép'; củng cố xu hướng tự host/mã nguồn mở trong cộng đồng công nghệ. Vì sao đang HOT: thời điểm trùng khớp hoàn hảo với sự cố kép. Các quan điểm nổi bật: ủng hộ phần mềm tự host vs bảo vệ SaaS vì tiện lợi. Tác động: niềm tin vào SaaS đám mây lung lay, lợi thế cho các giải pháp mã nguồn mở/tự host.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "fd41fa68319d42ebf730b44d2ac497955a0539abe55232ed3ac798df04ef77ab"
+  },
+  {
+    "id": "2959481b4455d64b9c558d9567e4614e6ab457ac4d8a0bbeb1b1f5762b804d2d",
+    "title": "Reverse engineering máy lọc không khí Coway để thoát khỏi đám mây",
+    "summary": "Tác giả Scott reverse engineer máy lọc không khí Coway để dùng hoàn toàn local, không phụ thuộc cloud của hãng. Cộng đồng bàn về quyền kiểm soát thiết bị IoT, rủi ro cloud ngừng hoạt động và phong trào tự host thiết bị gia đình. Số liệu Hacker News (Algolia API, quan sát ~02:16 VN 14/11): 535 points, 152 comments. Like/Reactions: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 thread HN + bài blog gốc. Thời điểm đăng: 12/11 22:03:09 UTC = 13/11 05:03 VN. Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu Shares/tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50474959",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2918,
+    "analysis": "Cùng làn sóng với trend máy thêu 300 USD (đã đưa số 14:15, chỉ cập nhật số liệu 707 points/229 comments lúc ~02:16 VN 14/11, không ghi dòng mới): người dùng giành lại quyền kiểm soát thiết bị khỏi đám mây/thuê bao; bài viết kỹ thuật chi tiết, đúng gu HN.\nPhản ánh tranh luận lớn hơn về quyền sở hữu thiết bị và rủi ro khi thiết bị gia đình phụ thuộc cloud của hãng; củng cố phong trào tự host IoT.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "b0ade0529af6534d8855d2f35d4190009a8fb9d1d6b8e14302588a1eec8d4c68"
+  },
+  {
+    "id": "fc5b62b1153507c10d4c061a51cb0845774f598244ae3d8932dd659025c84af6",
+    "title": "AI giúp giải mã sổ tay của Kurt Gödel — 'hàng trăm định lý đã chứng minh' còn ẩn giấu",
+    "summary": "AI đang giúp các nhà nghiên cứu đọc và giải mã sổ tay của nhà logic học Kurt Gödel, được cho là chứa hàng trăm định lý đã chứng minh nhưng chưa từng công bố. Cộng đồng bàn về khả năng AI mở khóa kho tri thức lịch sử và giới hạn của việc diễn giải ghi chép tay bằng model. Số liệu Hacker News (Algolia API, quan sát ~02:16 VN 14/11): 161 points, 28 comments. Like/Reactions: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 thread HN + bài Guardian. Thời điểm đăng: 13/11 17:30:10 UTC = 14/11 00:30 VN (TRONG cửa sổ đêm). Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu Shares/tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50486748",
+    "imageUrl": "https://i.guim.co.uk/img/media/6eeccf216579fe2181ae737d30f31abd7590125c/210_58_1759_1407/master/1759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=334efc63d7472a97d72be0ffd23af8bb",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2919,
+    "analysis": "Kết hợp hai chủ đề hút HN: AI và lịch sử toán học; Gödel là nhân vật huyền thoại, tin 'hàng trăm định lý ẩn' gây tò mò.\nNếu được xác nhận, AI mở khóa kho tri thức lịch sử có thể trở thành ứng dụng nghiên cứu quan trọng; đồng thời đặt câu hỏi về độ tin cậy của việc diễn giải ghi chép tay bằng model.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "653eea517a97f61fdc50181703fa6e5ac077d2f3bdd1b57fa4ebc284a953b618"
+  },
+  {
+    "id": "a017882fd18c068f3201f11bb264c15ff9b1cd13f10327be34e4ca13ab4c76e9",
+    "title": "Suno Bridge (beta) — đưa AI tạo nhạc Suno vào thẳng timeline Ableton Live",
+    "summary": "App độc lập chạy trên Mac, chạy song song với Ableton Live 12 trở lên; đọc ngữ cảnh nhạc của session (tone, tempo, hợp âm), tạo stem nhạc cụ và vocal bằng model Suno rồi thả thẳng clip lên timeline, đồng bộ theo loop đã chọn (Cmd-L). Phát triển độc lập với Ableton. Ra mắt 13/11/2026.",
+    "category": "Công nghệ & AI",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://suno.com/bridge",
+    "imageUrl": "https://cdn-o.suno.com/meta-preview.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2920,
+    "analysis": "Nhà sản xuất nhạc tạo nhanh phần nhạc/vocal mới khớp với bản phối đang làm, không cần xuất/nhập file qua lại.\nỨng dụng thực tế cho producer; hạn chế: beta chỉ hỗ trợ Mac + Ableton Live 12 trở lên; cần gói Suno Premier; mỗi lần tạo tốn credit như tạo trong Studio; chưa hỗ trợ DAW khác/hệ điều hành khác (hãng hứa mở rộng). Giá: app tải miễn phí, gói Suno Premier 24 USD/tháng (thanh toán theo năm).",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "5a2c329f33760aa258c842deb13d00c4e7f24803bc8cb0ae83371a08146eb8ba"
+  },
+  {
+    "id": "1463c3f3785fc0119fb333517fdf25c3a503c7c2c6f3d0e858334bc18d90b23b",
+    "title": "YouArt Desktop App — 'AI video agent' làm việc trực tiếp với file dự án trên máy",
+    "summary": "App desktop cho Mac và PC, hiểu dự án sáng tạo hiện có, vận hành phần mềm chỉnh sửa và thực hiện tác vụ sản xuất từ nghiên cứu đến xuất file cuối; làm việc trực tiếp với file local, ứng dụng chuyên nghiệp và feedback của nhóm. Tích hợp tạo video Seedance 2.5 ở 720p. Ra mắt 13/11/2026 (thông cáo YouArt, Y Combinator-backed).",
+    "category": "Công nghệ & AI",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://youart.ai/",
+    "imageUrl": "https://youart.ai/imgs/desktop-app-share-v1.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-13T20:27:57.071Z",
+    "sourceRow": 2921,
+    "analysis": "Creator, filmmaker, marketer giao việc sản xuất video cho agent ngay trên máy thay vì làm thủ công từng bước trong phần mềm chỉnh sửa.\nHạn chế: sản phẩm mới ra mắt, chưa có đánh giá độc lập; tạo video Seedance tính phí theo giây; chưa rõ mức độ tương thích với mọi phần mềm chỉnh sửa. Giá: Seedance 2.5 (720p) trả theo mức dùng 0,208 USD/giây (theo hãng, rẻ hơn ~56% so với fal và ~55% so với Higgsfield); chưa công bố gói thuê bao chi tiết.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "139ce55659ed3688d743295244f5ddc16f66e0e6a1d96e266617f4a589f254fe"
   }
 ]
