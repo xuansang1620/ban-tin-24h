@@ -29550,5 +29550,380 @@
     ],
     "language": "vi",
     "contentHash": "139ce55659ed3688d743295244f5ddc16f66e0e6a1d96e266617f4a589f254fe"
+  },
+  {
+    "id": "77b9a636407372d812b1897dc253463586e292a4c17f709d0d1552ed1c03b60a",
+    "title": "FAA ra lệnh dừng bay toàn quốc Mỹ lần đầu kể từ 11/9 vì sự cố viễn thông",
+    "summary": "Cục Hàng không Liên bang Mỹ (FAA) ra lệnh dừng toàn bộ chuyến bay khởi hành tại mọi sân bay Mỹ từ 15:54 giờ miền Đông ngày 13/11 (03:54 giờ VN 14/11), với khung hiệu lực tới 23:30 cùng ngày; gần 7.000 chuyến bay bị chậm hoặc hủy theo Reuters. Lệnh dừng áp dụng cho mọi chuyến bay nội địa khởi hành; máy bay đang bay được phép hạ cánh, chuyến bay quốc tế đến Mỹ xử lý theo từng trường hợp. Bộ trưởng An ninh Nội địa Markwayne Mullin khẳng định chưa có dấu hiệu tấn công mạng hay mối đe dọa, chỉ là sự cố viễn thông ảnh hưởng toàn bộ các Trung tâm Kiểm soát Không lưu (ARTCC).",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2922,
+    "analysis": "Bộ trưởng Giao thông Sean Duffy cho biết sự cố liên lạc ảnh hưởng tất cả các Trung tâm Kiểm soát Không lưu; FAA nói 'sự cố viễn thông tạm thời' và dừng bay 'vì thận trọng'. Đây là lần dừng bay toàn quốc thứ hai kể từ vụ 11/9/2001 (lần còn lại là sự cố hệ thống NOTAM tháng 1/2023). Đến tối 13/11 giờ Mỹ, FAA chưa đưa ra thời gian khôi phục hoạt động bình thường.\nHàng nghìn hành khách bị kẹt tại các sân bay Mỹ; chuỗi cung ứng hàng không và lịch trình cuối tuần bị xáo trộn. Sự cố làm dấy lên câu hỏi về độ tin cậy của hạ tầng viễn thông kiểm soát không lưu Mỹ, chỉ một ngày sau sự cố Microsoft 365 diện rộng. Cần theo dõi thời điểm dỡ lệnh và nguyên nhân kỹ thuật chính thức.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "0f32562b135905048e3f56fbcbac7c9fa468ba7c56779ab8e364cec7e743cba2"
+  },
+  {
+    "id": "35bc3e583f0b4875d92e74820fc39bbdbb0606b626a9aec51fbbf97ce770bb27",
+    "title": "Phố Wall đóng cửa phân hóa: Nasdaq -0,91%, Dow +0,10%; Nvidia mất mốc 4.000 tỷ USD vốn hóa",
+    "summary": "Phiên 13/11: S&P 500 -0,40% còn 7.561,67 điểm; Nasdaq -0,91% còn 25.136,27; Dow +0,10% lên 52.347,55. Nvidia -2,0% còn 162,85 USD, phiên giảm thứ hai liên tiếp sau khi CEO Jensen Huang từ chức, vốn hóa rơi xuống dưới 4.000 tỷ USD, cả tuần mất khoảng 12%. AMD -8,8% còn 534,06 USD, Broadcom -4,8%. Tính cả tuần: S&P +2,5%, Nasdaq +2,3% (tuần tốt nhất từ tháng 8), Dow +2,1%. Lợi suất trái phiếu 10 năm đóng cửa ở 5,15%.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "sourceUrl": "https://mlq.ai/news/wall-street-closes-mixed-as-nvidia-and-amd-sink-nasdaq-still-posts-its-best-week-since-august/",
+    "imageUrl": "https://mlq.ai/media/news_images/wall-street-closes-mixed-as-nvidia-and-amd-sink-nasdaq-still-posts-its-best-week.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2923,
+    "analysis": "Làn sóng bán tháo cổ phiếu AI tiếp diễn sau cú sốc lãnh đạo Nvidia, cộng với dữ liệu PPI tháng 10 tăng 6,5% so với cùng kỳ — cao nhất gần 4 năm — củng cố kỳ vọng Fed tăng lãi suất tháng 12. Thị trường định giá gần như chắc chắn Fed tăng lãi suất tại cuộc họp 9/12.\nCổ phiếu chip đối mặt áp lực chốt lời sau đợt tăng nóng; nhà đầu tư chờ KQKD quý 3 của Nvidia ngày 17/11 — báo cáo đầu tiên dưới thời CEO tạm quyền Colette Kress — và IPO Anthropic chốt giá 18/11. Rủi ro: lợi suất trên 5% tiếp tục đè nặng lên cổ phiếu tăng trưởng và vàng/Bitcoin.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "32d60b7e933bac2288aa4abed73de63cdc636af52ebc7381db47ba393ca36702"
+  },
+  {
+    "id": "2f816db3ea1e34e8650fd54617e6b7869b7b5760a26d0fb2db2d5b570e7215cb",
+    "title": "Trump rút Vance khỏi đàm phán Iran, chuyển sang chiến dịch chống gian lận trong nước",
+    "summary": "Tổng thống Donald Trump hôm thứ Năm (giờ Mỹ) chỉ thị Phó Tổng thống JD Vance dừng tập trung vào đàm phán Iran, chuyển sang 'chống tham nhũng và tội phạm' tại các thành phố/bang do đảng Dân chủ lãnh đạo. Trump viết trên mạng xã hội: 'Chúng ta không cần một thỏa thuận với Iran' và 'chiến tranh về mặt quân sự đã thực sự kết thúc'. Vance — người dẫn dắt đàm phán ngừng bắn ngắn với Iran — đã công khai đổ lỗi cuộc chiến 8 tháng và hệ quả kinh tế của nó cho thất bại nặng nề của đảng Cộng hòa trong bầu cử giữa kỳ 3/11.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.outlookindia.com/international/donald-trump-orders-jd-vance-iran-war-us-fraud-campaign-midterm-election-losses",
+    "imageUrl": "https://cf-images.assettype.com/outlookindia/2026-11-13/10mf48eh/HW7W41-XQAAzLkn.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2924,
+    "analysis": "Chỉ thị được đưa ra sau khi Wall Street Journal đưa tin Vance đang cân nhắc gặp trực tiếp quan chức an ninh cấp cao Iran (Mohsen Rezaei) tại Doha; Tehran đã phủ nhận có đàm phán đang diễn ra. Nhà Trắng xác nhận Trump không thấy cần đàm phán với Iran, nhưng vẫn để ngỏ khả năng hành động quân sự trở lại. Đảng Dân chủ chuẩn bị nắm quyền kiểm soát Quốc hội từ tháng 1/2027 và cam kết giám sát chặt chẽ.\nKênh ngoại giao Mỹ–Iran gần như đóng lại, làm tăng rủi ro leo thang trở lại sau bầu cử giữa kỳ; dầu Brent giữ quanh 95–96 USD. Diễn biến này diễn ra cùng lúc Thổ Nhĩ Kỳ–Qatar ký hiệp ước phòng thủ chung, cho thấy các đồng minh khu vực đang tự củng cố phòng thủ thay vì trông chờ thỏa thuận Mỹ–Iran.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "220fee6b830518fd9b407615d85ec03623713bd331e1c94ed672907882c8bb10"
+  },
+  {
+    "id": "e80de08ef593f54f8d4a0d7dba5210404a58175924e590ba78a35080f785ec27",
+    "title": "Thổ Nhĩ Kỳ–Qatar ký hiệp ước phòng thủ chung; Mỹ bắn hạ 2 drone Iran hướng tới Bahrain",
+    "summary": "Thổ Nhĩ Kỳ và Qatar ký hiệp ước phòng thủ chung hôm thứ Sáu tại Istanbul, sau cuộc gặp giữa Tổng thống Recep Tayyip Erdogan và Quốc vương Sheikh Tamim bin Hamad Al Thani, cam kết 'lập trường thống nhất trước bất kỳ cuộc tấn công vũ trang bên ngoài nào nhằm vào một trong hai bên', mở rộng tập trận chung, hợp tác công nghiệp quốc phòng và đào tạo nhân sự. Cùng ngày, IRGC tuyên bố đã 'nhắm và phá hủy' hệ thống radar cảnh báo sớm của Mỹ tại Bahrain; Bộ Tư lệnh Trung tâm Mỹ (CENTCOM) bác bỏ, cho biết đã bắn hạ 2 drone tấn công một chiều của Iran hướng tới Bahrain, không có thương vong hay thiệt hại.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
+    "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af72f8f-1794584463.jpg?resize=1920%2C1440",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2925,
+    "analysis": "Hiệp ước nối tiếp thỏa thuận phòng thủ chung Thổ Nhĩ Kỳ–Saudi Arabia–Pakistan ký tại Mecca hồi tháng 8, trong bối cảnh căng thẳng Mỹ–Israel–Iran chưa hạ nhiệt và vận tải qua eo biển Hormuz vẫn thấp hơn khoảng 65% so với trước chiến tranh. Tuyên bố phá radar của IRGC chưa được xác minh độc lập; Mỹ khẳng định radar vẫn hoạt động.\nCác đồng minh vùng Vịnh đang tự xây dựng lớp phòng thủ mới thay vì chờ thỏa thuận Mỹ–Iran; rủi ro va chạm quân sự trực tiếp Mỹ–Iran vẫn hiện hữu dù Trump tuyên bố chiến tranh 'về mặt quân sự đã kết thúc'. Theo dõi: phản ứng của Israel và Saudi Arabia, diễn biến Hormuz, và hội nghị APEC 18–19/11.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "0f680a3b4ed5dbe44218098dbc5406832c4cf6eb06340c90cb940dfb44183e9c"
+  },
+  {
+    "id": "aeb4fe62695e0ddf437851e007a51c98e295fb3cb7caac91f450698987f07305",
+    "title": "Eisenkot đặt mục tiêu trình chính phủ Israel vào 29–30/11 nhưng vẫn thiếu 5 ghế đa số",
+    "summary": "Gadi Eisenkot, lãnh đạo đảng Yashar được Tổng thống Isaac Herzog giao nhiệm vụ lập chính phủ, đặt mục tiêu trình chính phủ mới vào 29–30/11, một tuần trước hạn 28 ngày theo luật (hết hạn 6/12, có thể gia hạn 14 ngày). Phương án nhanh nhất: khối 'thay đổi' 48 ghế cộng 8 ghế của đảng Arab Ra'am (United Arab List) thành 56 ghế, so với 53 ghế của khối Netanyahu; 11 nghị sĩ Joint List sẽ bỏ phiếu trắng hoặc vắng mặt. Tuy nhiên, Chủ tịch Yisrael Beiteinu Avigdor Lieberman phản đối chính phủ thiểu số dựa vào đảng Arab, và lãnh đạo Together Naftali Bennett cũng chưa đồng thuận.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.haaretz.com/israel-news/israel-politics/2026-11-13/ty-article/.premium/caught-between-two-clocks-eisenkot-races-to-block-netanyahus-war/000001a1-d1a6-d1ce-a9a3-f1b7cbad0000",
+    "imageUrl": "https://img.haarets.co.il/bs/000001a1-d1a6-d1ce-a9a3-f1b7cbad0000/4c/36/c4cc364e4c15aac46848bae452b9/117361.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2926,
+    "analysis": "Kết quả bầu cử 27/10 không phe nào đủ 61/120 ghế: khối Netanyahu 53, khối đối lập 48, các đảng Arab tổng cộng 19 ghế (kỷ lục). Eisenkot ưu tiên chính phủ khẩn cấp quốc gia, mở điều tra nhà nước về vụ 7/10; Netanyahu vẫn vận động lập chính phủ đoàn kết và cảnh báo các đảng Haredi không gia nhập khối Eisenkot. Giáo sĩ UTJ trước đó đòi toàn bộ 48 nghị sĩ khối Eisenkot ký cam kết miễn nghĩa vụ quân sự cho người Haredi.\nNếu bế tắc kéo dài, Israel có thể đối mặt bầu cử lại hoặc chính phủ thiểu số mong manh; chính sách Gaza, Bờ Tây và quan hệ với Mỹ sẽ phụ thuộc vào liên minh cuối cùng. Mốc then chốt: 29–30/11 (mục tiêu trình chính phủ), 6/12 (hết hạn lập chính phủ).",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "1b2bd95ffebbf86a10d680a5c3edc73ab6b515392b8b760fd19a682f0dc8b08a"
+  },
+  {
+    "id": "a364af1d3e9a2fb32e24cf54b31f6447f019fb6863a24921857e3caddc0abc6e",
+    "title": "Vàng SJC sáng 14/11 niêm yết 135–138 triệu đồng/lượng, sát đáy năm",
+    "summary": "Bảng giá SJC cập nhật 04:00 ngày 14/11: vàng miếng SJC mua vào 135,0 triệu, bán ra 138,0 triệu đồng/lượng; vàng nhẫn SJC 99,99 mua 133,8 triệu, bán 137,8 triệu đồng/lượng. Giá vàng thế giới giao dịch trong đêm ở 3.883,20 USD/ounce. Mức bán ra 138 triệu chỉ còn cách đáy năm khoảng 2 triệu đồng.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.vietnam.vn/cap-nhat-gia-vang-sang-14-11-2026-sjc-nhan-9999-doji-btmc-pnj-phu-quy",
+    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794604856471_cap-nhat-gia-vang-sang-14-11-2026-sjc-nhan-9999-doji-btmc-pnj-phu-quy.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2927,
+    "analysis": "Giá vàng trong nước đi ngang so với chiều 13/11 (135–138 triệu), trong khi vàng thế giới tiếp tục chịu áp lực từ lợi suất trái phiếu Mỹ trên 5% và kỳ vọng Fed tăng lãi suất tháng 12. Cả tuần vàng thế giới giảm gần 4,5%.\nChênh lệch giá trong nước – thế giới vẫn khoảng 16–17 triệu đồng/lượng; người mua vàng vật chất đối mặt rủi ro giảm giá nếu vàng thế giới tiếp tục lao dốc. Theo dõi: diễn biến vàng thế giới sau KQKD Nvidia 17/11 và IPO Anthropic 18–19/11.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "5407e55e0f18382e4c772f54953be68fb38bd5f2a21f23cf95ffd88a725e0a0c"
+  },
+  {
+    "id": "3b74b6a09bc62c799c435f9be5e760617d2b80692a8c47e991784365b468a8c3",
+    "title": "VN-Index chốt phiên 13/11 ở 1.734,93 điểm, gần như đi ngang; thanh khoản thấp",
+    "summary": "VN-Index đóng cửa 1.734,93 điểm, tăng 0,18 điểm (+0,01%) sau khi có lúc lùi về 1.724 điểm trong phiên; VN30 tăng 5,48 điểm lên 1.844,91 (+0,30%); HNX-Index giảm 1,64 điểm xuống 254,98 (-0,64%). Tổng giá trị giao dịch 3 sàn khoảng 16.124 tỷ đồng, riêng HoSE khoảng 15.138 tỷ đồng; HoSE có 108 mã tăng, 192 mã giảm. STB tăng 3,3% lên 71.200 đồng/cp, đóng góp lớn nhất cho chỉ số. Khối ngoại mua ròng hơn 301 tỷ đồng trên 3 sàn (riêng HoSE hơn 320 tỷ, tập trung VIX khoảng 308 tỷ). Tính cả tuần 9–13/11, VN-Index tăng 9,57 điểm (+0,55%); giá trị giao dịch bình quân phiên giảm 11% so với tuần trước.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://znews.vn/znews-post1696197.html",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2928,
+    "analysis": "Thị trường giằng co trong bối cảnh chứng khoán toàn cầu phân hóa vì lo ngại chi phí AI và lạm phát Mỹ nóng; thanh khoản thấp cho thấy dòng tiền thận trọng trước thềm các sự kiện lớn tuần tới (KQKD Nvidia 17/11, IPO Anthropic, APEC 18–19/11).\nVN-Index giữ được mốc 1.730 điểm; nếu dòng tiền ngoại tiếp tục mua ròng, chỉ số có cơ hội hướng lên 1.800 điểm, nhưng rủi ro chốt lời quanh vùng 1.768–1.780 điểm vẫn hiện hữu theo cảnh báo của giới phân tích tuần trước.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "16c86d2ef6a92837ef4d847e30da7831712996910697026ae9c672a8a9fd22a3"
+  },
+  {
+    "id": "f1e643e3208ddf0749d7a65e6ba30aa93ec2c7acb89af1f59930c111a26fafda",
+    "title": "Tỷ giá USD sáng 14/11: Vietcombank bán ra 25.910 đồng, tăng 60 đồng",
+    "summary": "Vietcombank cập nhật 03:42 ngày 14/11: USD mua tiền mặt 25.500 đồng, mua chuyển khoản 25.530 đồng, bán ra 25.910 đồng — tăng khoảng 60 đồng so với mức bán 25.850 đồng ngày 13/11. Tỷ giá trung tâm ngày 13/11 do NHNN công bố là 25.637 đồng/USD, tăng 14 đồng so với 12/11; NHNN mua vào tham khảo 25.500 đồng/USD. USDT trên Binance P2P lúc 05:58 ngày 14/11 khoảng 26.070 đồng, cao hơn giá bán USD Vietcombank 160 đồng (0,62%).",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://dantocphattrien.vietnamnet.vn/ngan-hang/vietcombank/ty-gia",
+    "imageUrl": "https://dantocphattrien.vietnamnet.vn/assets/static/bank/bank-og.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2929,
+    "analysis": "Đồng USD mạnh lên sau dữ liệu PPI Mỹ nóng và lợi suất 10 năm vượt 5,15%; NHNN đang mua USD giao ngay 25.500 đồng/USD từ 11/11 để bơm thanh khoản. Chênh lệch giữa giá USD ngân hàng và thị trường tự do/P2P vẫn duy trì.\nTỷ giá tăng gây áp lực lên chi phí nhập khẩu và lạm phát; doanh nghiệp xuất khẩu được hưởng lợi. Theo dõi động thái điều hành tỷ giá của NHNN trong tuần tới.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "78cfbb1fee3321ec155469ea484c81c5c4922af281f689a54d697477841b0247"
+  },
+  {
+    "id": "6aefed4af19d83aa5050c10c80d55c27786b975a92edaeb3e89079a87a84fce7",
+    "title": "Bitcoin quanh 67.976 USD sau khi thủng đường trung bình 200 tuần; vàng, dầu cùng giảm trong tuần",
+    "summary": "Bitcoin giao dịch quanh 67.976 USDT lúc 06:15 giờ VN 14/11, giảm 4,89% trong ngày, thấp nhất trong ngày 67.568 USD; đã thủng đường trung bình động 200 tuần (khoảng 68.000 USD), giảm khoảng 16% trong một tháng. Vàng giao sau khoảng 3.875 USD/ounce cuối phiên 13/11, cả tuần giảm gần 4,5%. Dầu WTI khoảng 89,05 USD/thùng (+0,3%), Brent khoảng 95,59 USD/thùng; cả hai giảm hơn 2,5% trong tuần. Chứng khoán châu Á đóng cửa thứ Sáu 13/11 phân hóa: Nikkei +0,52% lên 61.128, Kospi -1,1%, Hang Seng -1,51%, Shanghai -0,78%; yên Nhật quanh 160 JPY/USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2930,
+    "analysis": "Lợi suất trái phiếu Mỹ tăng và kỳ vọng Fed tăng lãi suất tháng 12 (thị trường định giá gần 100%) đè nặng lên vàng và tiền mã hóa; giá dầu hạ nhiệt khi Trump hạ giọng về nguy cơ chiến tranh Iran tái bùng phát.\nBitcoin thủng ngưỡng kỹ thuật quan trọng có thể kích hoạt thêm áp lực bán; vàng mất vai trò trú ẩn ngắn hạn khi lợi suất thực tăng. Theo dõi: FOMC 8–9/12 và diễn biến Hormuz.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "a48c53176cdf2884b968686f9458e1a594afdc19921a91d4d3db081305a12a0a"
+  },
+  {
+    "id": "2be6eb02edf3c8d62a7d94b4cd54f2cae6af0c3bfa82fdc6d191e7f583a5d199",
+    "title": "IPO Anthropic 'cháy hàng' gấp 6 lần, huy động tới 64,4 tỷ USD, định giá khoảng 1.400 tỷ USD",
+    "summary": "IPO của Anthropic (mã ANT, sàn Nasdaq) đã nhận đơn đặt mua gấp khoảng 6 lần lượng cổ phiếu chào bán tính đến ngày thứ 3 của roadshow. Công ty chào bán 825 triệu cổ phiếu loại A giá dự kiến 70–78 USD/cổ phiếu, huy động tối đa 64,4 tỷ USD qua IPO cộng thêm 26 tỷ USD phát hành riêng lẻ; định giá pha loãng đầy đủ khoảng 1.400 tỷ USD — có thể là IPO lớn nhất lịch sử. Hồ sơ ngày 10/11 cho thấy doanh thu chạy (run rate) 81 tỷ USD tính đến 31/10, tăng 10 tỷ USD so với cuối tháng 9. Chốt giá dự kiến 18/11, giao dịch ngày đầu 19/11.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.thehindubusinessline.com/markets/anthropic-ipo-draws-sixfold-demand-targets-14-trillion-valuation/article71696359.ece/amp/",
+    "imageUrl": "https://bl-i.thgim.com/public/incoming/ia8pz8/article71696361.ece/alternates/FREE_1200/2026-11-10T214504Z_1736941348_RC29LOA2CHTZ_RTRMADP_3_ANTHROPIC-IPO.JPG",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2931,
+    "analysis": "Cơn sốt AI đẩy định giá các công ty AI lên mức kỷ lục dù thị trường đang hoài nghi về chi phí AI; cùng tuần, Anthropic ra mắt Claude Meetings/Sheets/Whiteboards/Data và thỏa thuận dùng toàn bộ năng lực trung tâm dữ liệu Colossus 1 của SpaceX (hơn 220.000 chip Nvidia, thêm 300 MW).\nNếu thành công, IPO Anthropic sẽ là phép thử lớn nhất cho định giá AI và có thể mở đường cho làn sóng IPO công nghệ; ngược lại, định giá 1.400 tỷ USD đặt ra câu hỏi về tính bền vững nếu tăng trưởng doanh thu chững lại.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "8e77f0d0aeaeaffa0521308fe474cdb66954aa551f0a3fbff58cedc48f3edaa6"
+  },
+  {
+    "id": "c1b2432a5905c06f5977985a1e91a27d59efe62871abd41734de2974b6e1a376",
+    "title": "Quảng Ngãi tiếp tục mưa to đêm 13 rạng sáng 14/11, cảnh báo lũ quét tại 16 xã, phường",
+    "summary": "Từ 20:20 ngày 13/11 đến 01:20 ngày 14/11, Quảng Ngãi tiếp tục mưa, lượng tích lũy phổ biến 20–40mm, có nơi trên 80mm. Trước đó, từ 07:00–19:00 ngày 13/11, trạm Hương Trà đo 117,4mm; riêng 17:00–19:00, Hương Trà 77,8mm, Trà Xinh 61mm. Trung tâm Dự báo Khí tượng Thủy văn Quốc gia cảnh báo nguy cơ lũ quét, sạt lở đất tại Quảng Ngãi, đặc biệt 16 xã, phường: Tây Trà, Tây Trà Bồng, Ba Vinh, Cà Đam, Măng Bút, Minh Long, Sơn Hà, Sơn Hạ, Sơn Kỳ, Sơn Linh, Sơn Tây, Sơn Tây Hạ, Sơn Tây Thượng, Sơn Thủy, Thanh Bồng, Trà Bồng; cấp độ rủi ro thiên tai cấp 1. Đêm 13/11, Đà Nẵng đến phía Đông Gia Lai và Nam Bộ mưa 10–30mm, cục bộ trên 70mm.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.vietnam.vn/mua-to-de-phong-lu-quet-sat-lo-dat-trong-dem-tai-trung-va-nam-bo",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2932,
+    "analysis": "Đất đá miền Trung đã gần bão hòa sau nhiều ngày mưa (độ bão hòa trên 85% tại một số khu vực theo cảnh báo trước đó), nên mưa thêm dù không lớn vẫn có nguy cơ gây sạt lở. Đây là diễn biến tiếp nối đợt mưa lũ miền Trung từ đầu tháng 11.\nNgười dân 16 xã, phường được cảnh báo cần theo dõi sát diễn biến mưa, sẵn sàng di dời khỏi khu vực ven sông, suối, sườn dốc; chính quyền địa phương cần rà soát các điểm sạt lở đã ghi nhận trước đó (như cửa sông Vệ, Trà Leng).",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "b452a0e490d4c5128eb03e45cffbbfb3fcb589c83a547ea7dffe2ccc79f52700"
+  },
+  {
+    "id": "59dcdfd92583b7332e5f76759055eec531ca6a9f664fbd2a224ed8aaf200d8b6",
+    "title": "Ngày 14/11: Bắc Bộ nắng, đêm rét 15–18°C; Trung Bộ mưa giảm; Nam Bộ chiều tối mưa dông",
+    "summary": "Bắc Bộ mưa vài nơi, trưa chiều giảm mây trời nắng; đêm và sáng sớm rét, thấp nhất 15–18°C. Hà Nội: thấp nhất 16–18°C, cao nhất 22–24°C. Trung Bộ mưa rào và dông vài nơi, mưa giảm rõ so với các ngày trước; lũ hạ lưu sông Ba (Đắk Lắk) dao động báo động 1 đến báo động 2. Nam Bộ và TP.HCM: thấp nhất 24–26°C, cao nhất 31–33°C, chiều và tối mưa rào và dông rải rác, đề phòng lốc, sét, mưa đá, gió giật mạnh. Trên biển: vùng biển từ Đắk Lắk đến Cà Mau và Nam Biển Đông mưa rào và dông rải rác; vùng biển Cà Mau–An Giang và vịnh Thái Lan dông mạnh, lốc xoáy, gió giật cấp 7–8, sóng cao trên 2m.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-ngay-mai-1411-tren-ca-nuoc-1799734.ldo",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2933,
+    "analysis": "Dự báo của Trung tâm Dự báo Khí tượng Thủy văn Quốc gia tối 13/11; mưa miền Trung đang giảm dần sau nhiều ngày mưa lớn, nhưng lũ các sông vẫn ở mức báo động.\nNgười dân miền Bắc cần giữ ấm vào đêm và sáng sớm; tàu thuyền trên vùng biển phía Nam cần theo dõi cảnh báo dông, lốc xoáy; người dân miền Trung tiếp tục cảnh giác lũ quét, sạt lở dù mưa giảm.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "98e3f94a79fb433154371295b9e7119e07227515afb97a84d81b36d91651d2f3"
+  },
+  {
+    "id": "9228b2e62fb8d76ff0afff482e791aa5311769ee6e24386033b2f0e4165e5045",
+    "title": "Hôm nay 14/11: Thủ tướng dự Hội nghị cấp cao ASEAN 49 tại Manila; Tổng Bí thư, Chủ tịch nước dự Hội nghị Pháp ngữ tại Phnom Penh",
+    "summary": "Thủ tướng Lê Minh Hưng dẫn đầu đoàn Việt Nam dự Hội nghị cấp cao ASEAN lần thứ 49 và các hội nghị liên quan tại Manila, Philippines, từ 14–17/11; dự phiên toàn thể và phiên họp hẹp, thảo luận xây dựng Cộng đồng ASEAN, an ninh năng lượng, an ninh lương thực; đồng chủ trì Hội nghị cấp cao Mekong–Nhật Bản. Tổng Bí thư, Chủ tịch nước Tô Lâm dẫn đầu đoàn Việt Nam dự Hội nghị cấp cao Pháp ngữ lần thứ XX tại Phnom Penh, Campuchia, từ 14–16/11, chủ đề 'Tái đầu tư cho hòa bình vì sự thịnh vượng chung và ổn định bền vững' — hội nghị Pháp ngữ cấp cao thứ hai tổ chức tại châu Á–Thái Bình Dương sau Hà Nội 1997.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.vietnam.vn/philippines-mong-doi-su-tham-gia-cua-thu-tuong-le-minh-hung-tai-doi-thoai-asean",
+    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794610228897_philippines-mong-doi-su-tham-gia-cua-thu-tuong-le-minh-hung-tai-doi-thoai-asean-3044.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2935,
+    "analysis": "Hai chuyến công tác diễn ra trong bối cảnh khu vực đối mặt căng thẳng thương mại, an ninh năng lượng và cạnh tranh nước lớn; ASEAN 49 là dịp Việt Nam thúc đẩy hợp tác Mekong–Nhật Bản và các sáng kiến an ninh lương thực, năng lượng.\nKết quả các hội nghị có thể tác động tới hợp tác thương mại, chuỗi cung ứng và vị thế ngoại giao của Việt Nam trong khu vực; theo dõi các tuyên bố chung và thỏa thuận cụ thể được công bố trong các ngày 14–17/11.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "58bf1693dd2e14d4f6205b291ae900746b92d1ceac57f33bd44a87284bff6975"
+  },
+  {
+    "id": "df0a0b5b9e5419b085ff3655c6bc50325dffd8e64bce25ad34ca81ee5364269d",
+    "title": "Microsoft 365 phục hồi diện rộng sau sự cố toàn cầu hơn 24 giờ — không phải tấn công mạng",
+    "summary": "Sự cố bắt đầu 12/11 (10:40 ET) làm gián đoạn Outlook, Teams, SharePoint, Copilot và Defender XDR tại 74 quốc gia; Downdetector ghi nhận đỉnh gần 130.000 báo cáo về Outlook, đến chiều 13/11 (giờ Mỹ) giảm còn khoảng 1.600. Microsoft xác nhận chiều 13/11: 'đây là sự cố kỹ thuật, không liên quan đến tấn công mạng hay AI/agent', bắt nguồn từ sự cố trong một đợt nâng cấp dung lượng mạng trước đó, bộc lộ sau một thay đổi mạng gần đây. Đến 15:00 ET 13/11 (03:00 VN 14/11), trang trạng thái ghi tất cả dịch vụ 'operational'; công ty 'đã xử lý nguyên nhân gốc' nhưng hàng đợi email vẫn đang xả dần. Bản cập nhật trực tiếp của The Hindu lúc 03:43 VN và USA Today khoảng 04:15 VN 14/11 xác nhận hầu hết dịch vụ đã ổn định sau hơn 24 giờ.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.usatoday.com/story/tech/2026/11/13/microsoft-outage-outlook-updates-friday/92752697007/",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2936,
+    "analysis": "Đây là sự cố Microsoft 365 lần thứ hai trong năm 2026 gây gián đoạn diện rộng, chỉ một ngày sau khi Claude của Anthropic cũng sập diện rộng — tạo thành 'ngày sập kép' của Big Tech mà cộng đồng công nghệ bàn luận sôi nổi.\nDoanh nghiệp phụ thuộc vào Microsoft 365 cần rà soát kế hoạch dự phòng và sao lưu; sự cố làm dấy lên tranh luận về rủi ro tập trung vào một nhà cung cấp đám mây duy nhất, đồng thời thúc đẩy xu hướng chuyển sang giải pháp mã nguồn mở tại một số cơ quan châu Âu.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "469ea7748ffeb85040fb68dbdc3db79b38cdabb5a5962e743701ed2f124bd7e8"
+  },
+  {
+    "id": "b2a93cb78f4a3cd304e71dd7dbc2d2cd19180cf43664fea74312132892482af1",
+    "title": "Trezor xác nhận chip cấy ghép trong 3 ví cứng Safe 5 bán qua đại lý CryptoBilis",
+    "summary": "Trezor xác nhận ngày 12/11: 3 ví Safe 5 mua từ đại lý CryptoBilis (Đông Nam Á) chứa mạch cấy ghép lén đặt giữa bo mạch chính và màn hình, sao chép cụm từ khôi phục (recovery phrase) hiển thị trên màn hình rồi gửi qua mạng di động tới máy chủ của kẻ tấn công; không thay đổi firmware hay Secure Element. Cả 3 ví mua trong khoảng 20/8–23/9/2026 qua CryptoBilis trực tiếp hoặc gian hàng Tokopedia/Shopee; 48 khách hàng đã liên hệ sau cảnh báo tháng 10; chưa có nạn nhân nào báo mất tiền. Firmware 2.13.1 (phát hành 11/11, cho Safe 7/5/3 và Model T) chặn các implant đã biết thu thập dữ liệu, nhưng không bảo vệ cụm từ đã bị sao chép trước đó — người mua từ CryptoBilis từ tháng 3/2026 được khuyên chuyển tiền sang ví mới với seed mới. Trezor đã cắt mạng lưới đại lý khoảng 80% và loại CryptoBilis khỏi danh sách chính thức từ 9/10.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDE4uIn_bV4GUrsw0LjzqBnnNaQM_0lzJhrSy89nrShmwNlFcsVucCFpzzZ2LMkkSMF-XMb8rp0e7_Maemyj5sypkVIf4s2Wx5pbJXkOwf0vMkG9ThBQAHhvJ_mKWHq78f_iJYhAM2l1Hp_Zk3VtB_bVvYFmZTX4WakIpC_Zib0rlFnDG-H674JSP5Mg/s1600/implant.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2937,
+    "analysis": "Vụ việc cho thấy chuỗi cung ứng phần cứng tiền mã hóa là điểm yếu: kẻ tấn công không cần phá firmware mà can thiệp vật lý vào thiết bị trước khi đến tay người dùng. Bài báo BleepingComputer đăng 02:42 VN 14/11, trong cửa sổ biên soạn.\nNgười dùng ví cứng cần mua từ kênh chính thức, kiểm tra tem niêm phong và cập nhật firmware 2.13.1; ai mua từ CryptoBilis từ tháng 3/2026 nên chuyển tài sản sang ví mới ngay. Rủi ro lan sang các đại lý không chính thức khác của thiết bị tiền mã hóa.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "918b5f232ea77500072bfe7ea3c781920958453b08c24c6b79edc44fd0c0c14d"
+  },
+  {
+    "id": "412d1e87351e377396ccc326ab0c442e3b308688b95502ad41e6a56154c793f6",
+    "title": "Europol triệt phá Gootloader, CastleRAT, StealC và bắt 354 nghi phạm dark web trong chiến dịch TorNado",
+    "summary": "Europol ngày 12/11 công bố Operation ENDGAME: cảnh sát 9 nước (Đức, Hà Lan, Mỹ, Anh, Canada, Đan Mạch, Ba Lan, Bulgaria, Moldova) xử lý 235 máy chủ và 257 tên miền của 3 họ mã độc Gootloader (14 máy chủ, 218 tên miền), CastleRAT (120 máy chủ, 39 tên miền) và StealC (102 máy chủ), thu giữ khoảng 6,4 triệu thông tin đăng nhập của hơn 40.000 nạn nhân; không công bố bắt giữ trong chiến dịch này. Riêng chiến dịch TorNado (5/2025–10/2026, 14 nước) bắt 354 nghi phạm trên 5 chợ dark web (Archetyp, Nemesis, Tor2Door, Bohemia, Kingdom), trong đó Mỹ 132, Anh 59, Hungary 45, Đức 41, Pháp 23; thu giữ hơn 234 triệu USD tiền mặt và tiền mã hóa cùng khoảng 5,7 tấn ma túy và 152 súng ở Mỹ.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+    "imageUrl": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Arrest.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2938,
+    "analysis": "Hai chiến dịch khác nhau nhưng cùng phản ánh chiến lược phối hợp đa quốc gia chống hạ tầng tội phạm mạng; một số bản tin tổng hợp đã gộp chung hai chiến dịch — cần tách rõ.\nNgười dùng cần đổi mật khẩu nếu từng bị lộ trong các vụ rò rỉ liên quan StealC/Gootloader; doanh nghiệp rà soát hệ thống trước các biến thể mã độc còn sót lại. Chiến dịch cho thấy tội phạm mạng xuyên biên giới chỉ có thể xử lý bằng hợp tác quốc tế.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "418af8a7e294279e6e7b301bc7585604aff0227052751850c1dec22c47d2d0fd"
+  },
+  {
+    "id": "3563e687554392590600bfbe8ad392f000b5ce52fe3b164bb8733cc136ba82f3",
+    "title": "FAA ra lệnh dừng bay toàn quốc Mỹ — lần đầu kể từ 11/9",
+    "summary": "Nền tảng: Hacker News. Nội dung đang thảo luận: FAA ra lệnh dừng toàn bộ chuyến bay khởi hành tại mọi sân bay Mỹ 'due to extraordinary circumstances and for reasons of safety' (hiệu lực từ 15:54 ET 13/11). Nguyên nhân: sự cố viễn thông ảnh hưởng toàn bộ các Trung tâm Kiểm soát Không lưu (ARTCC). Bộ trưởng An ninh Nội địa Markwayne Mullin khẳng định chưa có dấu hiệu tấn công mạng hay mối đe dọa. Đây là lần dừng bay toàn quốc thứ 2 kể từ 11/9/2001 (lần còn lại: sự cố NOTAM tháng 1/2023). Gần 7.000 chuyến bay bị delay/hủy theo Reuters. Like/Reactions: 943 points (Hacker News); Comments/Replies: 554; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 thread ghi nhận trực tiếp. Thời điểm ghi nhận: ~06:20 giờ VN 14/11/2026 (tăng từ 922/543 lúc ~06:17 — đang tăng nhanh). Điểm HOT: Chưa đủ dữ liệu (chỉ có points/comments HN; thiếu số liệu Share/Repost và tăng trưởng 24h có bằng chứng — không suy diễn).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2939,
+    "analysis": "Bài dẫn đầu front page Hacker News với khoảng cách lớn; tin breaking lớn nhất trong cửa sổ 02:15–06:15.\nSự cố làm dấy lên tranh luận về độ tin cậy hạ tầng viễn thông hàng không Mỹ và rủi ro hệ thống tập trung; tác động trực tiếp tới hàng nghìn hành khách và lịch bay cuối tuần. Theo dõi thời điểm dỡ lệnh và nguyên nhân kỹ thuật chính thức.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "d21000a592c4ea50a3ccab7a7923db25d566543fd8673a50dac1b450f0588ea8"
+  },
+  {
+    "id": "a05547f111237b417cd4808bea451ea076d0fa029f2372a765feff8eace55a6f",
+    "title": "'Big tech is here to let us down' — làn sóng chỉ trích Big Tech sau 2 ngày MS365 sập",
+    "summary": "Nền tảng: Hacker News. Nội dung đang thảo luận: Blog của James Sweeting phản ứng vụ Microsoft Outlook/Teams/Copilot sập 2 ngày liên tiếp: nhiều nhân viên coi như 'snow day for adults' vì không làm được việc; trường học, đại học, tòa án bị ảnh hưởng. Bài viết cho rằng Microsoft sa thải hàng chục nghìn nhân viên (gồm kỹ sư) khiến sự cố dễ xảy ra và khó khắc phục hơn, đồng thời cảnh báo mức độ phụ thuộc của xã hội vào Microsoft; nhắc các cơ quan nhà nước châu Âu đã chuyển sang open source. Đây là góc mới, khác với bài châm biếm LibreOffice đã đưa ở số 02:15. Like/Reactions: 166 points (Hacker News); Comments/Replies: 155; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 thread ghi nhận trực tiếp. Thời điểm ghi nhận: ~06:17 giờ VN 14/11/2026. Điểm HOT: Chưa đủ dữ liệu (thiếu Share/Repost, tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2940,
+    "analysis": "Tỉ lệ bình luận/points rất cao (~93%) — tranh luận sôi nổi; nối tiếp làn sóng châm biếm 'ngày sập kép' MS365 + Claude.\nTranh luận về rủi ro phụ thuộc vào Big Tech và xu hướng chuyển sang mã nguồn mở có thể lan rộng trong cộng đồng công nghệ và khu vực công châu Âu; cần theo dõi phản ứng chính thức của Microsoft về nguyên nhân gốc rễ.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "3e4eddb89b5ae5c81383f7b76f3d08247c8c89cf2d03fe118bdb8372d9d204ed"
+  },
+  {
+    "id": "6cbb4236b4baded433543b9549941c90289b4ef4d4f8359d1ffc2f96ab58e419",
+    "title": "'No AI Slop: A Manifesto' — tuyên ngôn chống nội dung AI rác",
+    "summary": "Nền tảng: Hacker News. Nội dung đang thảo luận: Tuyên ngôn do diễn giả và người tham dự AIE Code Summit 2026 soạn, mô phỏng Agile Manifesto (2001): 'Outcomes over output; Understanding over speed; Our own thinking over a model's first draft; Better work over easier work'. Nội dung: slop là khi bỏ ít công sức sản xuất hơn công sức người đọc phải bỏ ra để hiểu; chi phí tạo 1.000 dòng PR tiến về 0 trong khi chi phí review không đổi; slop tích lũy trong knowledge base sẽ bị agent đời sau đọc và sao chép. Ký tên: Swyx, Kent C. Dodds, Tejas Kumar, Philip Kiely và nhiều người khác; mở ký tên qua gist GitHub. Like/Reactions: 155 points (Hacker News); Comments/Replies: 90; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 thread ghi nhận trực tiếp. Thời điểm ghi nhận: ~06:17 giờ VN 14/11/2026. Điểm HOT: Chưa đủ dữ liệu (thiếu Share/Repost, tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.slopmanifesto.com/",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2941,
+    "analysis": "Tuyên ngôn ra đời trong bối cảnh AI tạo nội dung tràn lan làm loãng chất lượng tài liệu kỹ thuật và code review; cộng đồng lập trình viên đang tìm chuẩn mực mới cho kỷ nguyên AI agent viết code.\nNếu được cộng đồng đón nhận, tuyên ngôn có thể ảnh hưởng tới quy trình review code, chuẩn tài liệu kỹ thuật và cách các nhóm dùng AI agent; theo dõi số lượng chữ ký và phản hồi từ các công ty công nghệ lớn.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "fb1104c9e62376d4430c0bcf5c4e3be525c8425239d0c73353d50d6579ca2080"
+  },
+  {
+    "id": "f7701ebab1d2d9128f868e504a791921713888acdfa568605d2fbd01cdc641fb",
+    "title": "11,4 triệu USD phần cứng Nvidia 'bốc hơi' trong lúc vận chuyển từ California sang Texas",
+    "summary": "Nền tảng: Hacker News. Nội dung đang thảo luận: Lô phần cứng Nvidia trị giá 11,4 triệu USD biến mất trong quá trình vận chuyển từ California sang Texas. Cộng đồng HN thảo luận về chuỗi cung ứng GPU, bảo mật vận chuyển hàng công nghệ cao trong bối cảnh khan hiếm AI hardware. Like/Reactions: 249 points (Hacker News); Comments/Replies: 135; Shares/Reposts: N/A; Số bài đăng/cộng đồng độc lập: 1 thread ghi nhận trực tiếp. Thời điểm ghi nhận: ~06:17 giờ VN 14/11/2026. Điểm HOT: Chưa đủ dữ liệu (thiếu Share/Repost, tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+    "imageUrl": "https://www.freightwaves.com/wp-content/uploads/2026/11/09/NVIDIA-Endeavor-1200x628-1.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-14T01:26:00.887Z",
+    "sourceRow": 2942,
+    "analysis": "Bài đăng 01:40 giờ VN 14/11 (trước cửa sổ 02:15 nhưng chưa từng đưa ở các số trước); diễn ra giữa lúc Nvidia lao đao vì khủng hoảng lãnh đạo và khan hiếm chip AI toàn cầu.\nVụ việc làm nổi bật rủi ro an ninh chuỗi cung ứng phần cứng AI có giá trị cao; có thể thúc đẩy các biện pháp theo dõi, bảo hiểm vận chuyển chặt chẽ hơn đối với GPU.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "15507ad748c7545b2576c295334e585cb02bf17063772c6a26e0acb15a0427a1"
   }
 ]
