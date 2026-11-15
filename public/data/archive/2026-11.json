@@ -33569,7 +33569,7 @@
     "id": "cb41f2cc3d188100546c8bb2ba57edfa74664ead6c15ee4e0b4d74af21e8777c",
     "title": "Bitcoin thủng 62.112 USD — thấp nhất 4 tháng — rồi hồi về ~64.650 USD tối Chủ nhật; khoảng 2 tỷ USD vị thế đòn bẩy bị thanh lý",
     "summary": "Bitcoin giảm 5,7% trong phiên Mỹ thứ Bảy 14/11, rồi tiếp tục giảm 3,6–3,7% trong phiên châu Á Chủ nhật 15/11 xuống thấp nhất 62.112 USD, mức thấp nhất kể từ 14/7; Ether giảm mạnh hơn, xuống 1.711 USD, thấp nhất kể từ 8/7. Đến 22:13–22:16 giờ VN, BTC hồi về 64.646–64.672 USDT (Finnhub/Binance), biên độ trong ngày 62.006–66.190 USDT. Tính từ 21/10, Bitcoin đã mất khoảng 25%; đáy năm 2026 là 57.742 USD (1/7), chỉ còn cách đáy Chủ nhật ~7%. Khoảng 2 tỷ USD vị thế crypto dùng đòn bẩy bị thanh lý trong 24 giờ (CoinGlass), trong đó 774 triệu USD Bitcoin và 488 triệu USD Ether; ETF Bitcoin giao ngay tại Mỹ rút ròng gần 3 tỷ USD từ 30/10 đến 13/11, riêng tuần gần nhất ~1,07 tỷ USD.",
-    "category": "Kinh tế",
+    "category": "Kinh tế & Tài chính",
     "section": "A - Top 5",
     "region": "Quốc tế",
     "sourceUrl": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-leveraged-bets-face-mass-liquidations-126111500058_1.html",
@@ -33579,11 +33579,11 @@
     "sourceRow": 3140,
     "analysis": "Diễn biến mới nhất trong cửa sổ — crypto là tài sản duy nhất giao dịch liên tục cuối tuần (Bloomberg qua Business Standard 09:42 giờ VN; giá lúc 22:13–22:16 giờ VN theo Finnhub). Nguyên nhân: kỳ vọng Fed tăng lãi suất sau CPI tháng 10 tăng 0,4% vượt dự báo, dòng tiền rút khỏi ETF, tâm lý risk-off do cú sốc AI/Nvidia, dư âm vụ hack Binance 6 tỷ USD. Bitcoin đã thủng đường trung bình 200 ngày quanh 73.000 USD.\nÁp lực lên tài sản rủi ro chưa dứt; mốc 60.000 USD có thể bị thử thách trong 24–48 giờ tới, vùng 59.500–62.600 USD là cụm thanh lý lớn có thể kích hoạt bán tháo dây chuyền (Glassnode). Mốc theo dõi: KQKD Nvidia 17/11, biên bản Fed và chốt giá IPO Anthropic 18/11.",
     "tags": [
-      "Kinh tế",
+      "Kinh tế & Tài chính",
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "ea7d84372cfd2c82faab4eb06121bf684a0f19b891fe9e6c33aaf6b186b28b0a"
+    "contentHash": "3420694b4b805342a9bbaf814c59947acf50071299f245b5a27dcb333fb2386a"
   },
   {
     "id": "95e7690737fe21a76da9ae89e11652e6e8b7422aa4980bf8012ffd7f44ab977b",
@@ -33609,7 +33609,7 @@
     "id": "216e92ba867160fa9282d24219183dbf8583d8a81cddd24e9abc5161c06c9dfa",
     "title": "Tòa án Mỹ bác đơn xin hủy vụ kiện chống độc quyền DRAM: Samsung, SK hynix và Micron phải ra tòa",
     "summary": "Thẩm phán liên bang Noël Wise (Bắc California) ngày 14/11 đã bác toàn bộ đơn xin hủy vụ kiện tập thể cáo buộc Samsung, SK hynix và Micron thông đồng hạn chế nguồn cung DRAM truyền thống để đẩy giá, vi phạm Điều 1 Sherman Act. Đơn kiện do 17 người tiêu dùng và doanh nghiệp nhỏ tại 5 bang nộp ngày 25/6/2026; ba hãng nắm hơn 91% doanh thu DRAM toàn cầu tính đến Q3/2025. Tòa chấp nhận 5 trong 8 yếu tố cáo buộc là đủ để suy ra có thỏa thuận, gồm: từ chối hợp đồng dài hạn với khách mua DRAM truyền thống, trì hoãn/hủy nhà máy DRAM mới, đồng loạt rút khỏi DDR4 trong cùng một quý 2025, Micron đóng thương hiệu Crucial (3/12/2025), quy trình sàng lọc khách hàng gần như giống hệt nhau từ tháng 1/2026, và tiền lệ cartel định giá DRAM 1998–2002. Ba hãng phải nộp bản trả lời trước 7/12/2026; phiên quản lý vụ án đầu tiên ngày 12/1/2027.",
-    "category": "Công nghệ",
+    "category": "Công nghệ & AI",
     "section": "A - Top 5",
     "region": "Quốc tế",
     "sourceUrl": "https://wccftech.com/federal-judge-rejects-memory-makers-defense-samsung-micron-sk-hynix-dram-shortage-lawsuit/",
@@ -33617,17 +33617,17 @@
     "sourceRow": 3142,
     "analysis": "Diễn biến mới trong cửa sổ (WCCFTech 19:11 giờ VN; kiểm chứng chéo qua LitNews và Medium; Hacker News 337 points/139 comments lúc ~22:27 giờ VN). Đơn kiện cáo buộc giá DRAM tiêu dùng tăng 697% trong 18 tháng (tăng 171,8% trong một năm tính đến Q3/2025) trong khi các hãng cắt sản xuất từ cuối 2022 và chuyển công suất wafer sang HBM cho AI từ 2023 (HBM tốn gấp 3–4 lần diện tích wafer mỗi GB so với DDR5). Tòa nhấn mạnh đây mới là giai đoạn đầu — cáo buộc chưa được chứng minh, tòa chỉ chấp nhận cáo buộc là đúng ở giai đoạn này để vụ kiện đi tiếp tới discovery.\nNếu nguyên đơn thắng, có thể dẫn tới phạt tiền và áp lực tăng nguồn cung DRAM, giúp giá RAM/PC ổn định trở lại; ngược lại vụ kiện kéo dài nhiều năm cũng chưa chắc hạ giá ngay. Discovery có thể phơi bày tài liệu nội bộ của 3 hãng thống trị 91% thị trường.",
     "tags": [
-      "Công nghệ",
+      "Công nghệ & AI",
       "A - Top 5"
     ],
     "language": "vi",
-    "contentHash": "b4fb1160916968fe7e1d18cd759b899718dbcc3057da2deb29d870e6813a8702"
+    "contentHash": "5244c5093ca035b895f3fcfa4a58c7c9293163cbd1af4a0cd307ad3d2edaab8e"
   },
   {
     "id": "147a7d67205f3c28f98e0026ae8428380bcb12636d22f771c0435497af95fc63",
     "title": "Dầu Brent chốt tuần ở 95,84 USD/thùng, giảm tuần thứ hai liên tiếp; IEA dự báo thị trường trở lại thặng dư",
     "summary": "Giá dầu Brent giao tháng 1/2027 giảm 2,48 USD (2,52%) trong tuần, chốt phiên thứ Sáu 13/11 ở 95,84 USD/thùng trên sàn ICE; dầu WTI giảm 2,27 USD (2,5%) còn 88,56 USD/thùng — tuần giảm thứ hai liên tiếp của cả hai chuẩn, sau khi tuần trước Brent giảm 16% và WTI giảm 13%. Báo cáo Thị trường Dầu tháng 11 của IEA (13/11) dự báo thị trường dầu toàn cầu trở lại thặng dư trong quý 4/2026, khi nguồn cung thế giới tăng 2,3 triệu thùng/ngày trong tháng 10 lên 105,4 triệu thùng/ngày, vượt nhu cầu; OPEC+ tăng sản lượng gần 1,96 triệu thùng/ngày trong tháng 10, tồn kho dầu thô Mỹ tăng 4,66 triệu thùng. Chuyên gia Ajit Mishra (Religare Broking) dự báo Brent có thể thử ngưỡng 90–92 USD/thùng trong tuần tới.",
-    "category": "Tài chính",
+    "category": "Kinh tế & Tài chính",
     "section": "B - Kinh tế",
     "region": "Quốc tế",
     "sourceUrl": "https://www.ndtvprofit.com/markets/crude-oil-may-extend-losses-this-week-brent-seen-testing-usd-90-92-per-barrel-say-analysts-12330004/amp/1",
@@ -33635,17 +33635,17 @@
     "sourceRow": 3143,
     "analysis": "Tin dầu mới trong ngày (NDTV Profit dẫn PTI, 19:14 giờ VN; số liệu khớp hoàn toàn với CNBC-TV18). Lưu ý hiệu chỉnh: mức 91–93 USD được nhắc ở số 47 là số liệu chưa cập nhật — hai nguồn độc lập cùng xác nhận mức chốt phiên thứ Sáu là Brent 95,84 USD. Thị trường dầu không giao dịch thứ Bảy, nên tin Iran nói 3 tàu chở dầu vướng mìn ở Hormuz hôm thứ Bảy và tuyên bố drone ở Bahrain hôm Chủ nhật chưa được phản ánh vào giá; hợp đồng tương lai mở cửa lại tối Chủ nhật.\nYếu tố cung–cầu đang chi phối hơn phí rủi ro địa chính trị; với Việt Nam và các nước nhập khẩu dầu châu Á, Brent về 90–92 USD sẽ giảm áp lực lạm phát và giá xăng dầu — nhưng bất kỳ gián đoạn thực sự nào ở Hormuz cũng có thể đảo chiều nhanh. Giá bán lẻ trong nước hiện hành từ 15:00 ngày 12/11: xăng E5 RON92 không quá 19.399 đồng/lít, E10 RON95-III 19.845 đồng/lít, dầu diesel 0.05S 26.822 đồng/lít.",
     "tags": [
-      "Tài chính",
+      "Kinh tế & Tài chính",
       "B - Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "e44a5a2f959fdef75918340e484c268d6072f14a5cb8a3158783ef0417e6144f"
+    "contentHash": "303a08b08cbcef9071931bf962145174ec402749b92257ec6adc8261bf9eaeff"
   },
   {
     "id": "62b40114af55c227c9ae476a7e94df9201cb8c93212a89fb3568e954c97bcb8f",
     "title": "Vàng thế giới chốt tuần ở ~3.883 USD, thấp nhất hơn 1 năm; vàng SJC 134,5–137,5 triệu đồng/lượng",
     "summary": "Giá vàng giao ngay chốt tuần ở ~3.883–3.885 USD/ounce, giảm khoảng 184–190 USD (4,5–4,6%) trong tuần, mức giảm tuần mạnh nhất kể từ tháng 6. Trong tuần, vàng mở cửa ở 4.066,39 USD, lên đỉnh 4.148,95 USD ngày thứ Hai 9/11, rồi thủng 4.000 USD và 3.900 USD, có lúc xuống 3.852,10 USD — thấp nhất kể từ tháng 10/2025 — trước khi hồi nhẹ thứ Sáu 13/11 sau PPI tháng 10 tăng 0,3% (thấp hơn kỳ vọng 0,4%). Tính đến 17:15 ngày 15/11, vàng miếng SJC tại SJC, DOJI và Phú Quý đều niêm yết 134,5–137,5 triệu đồng/lượng (mua–bán), chênh lệch mua–bán 3 triệu đồng/lượng; vàng nhẫn SJC 133,3–137,3 triệu đồng/lượng. Người mua từ đầu tuần, bán cuối tuần lỗ kép tới 7,5 triệu đồng/lượng do giá giảm 4,5 triệu đồng cộng chênh lệch mua–bán.",
-    "category": "Tài chính",
+    "category": "Kinh tế & Tài chính",
     "section": "B - Kinh tế",
     "region": "Quốc tế",
     "sourceUrl": "https://stockbiz.vn/en/news/gold-prices-repeatedly-fall-below-key-levels-experts-warn-of-a-surprise/42781564",
@@ -33655,17 +33655,17 @@
     "sourceRow": 3144,
     "analysis": "Bài tổng kết đăng trong cửa sổ (Lao Động qua Stockbiz 20:27 giờ VN). Nguyên nhân giảm: lạm phát Mỹ cao hơn dự báo (CPI tháng 10 +0,4%) làm lợi suất trái phiếu kho bạc Mỹ tiến gần 5% và USD mạnh lên (DXY chốt tuần 103,41 điểm, +1,09%), khiến vàng — tài sản không sinh lãi — kém hấp dẫn. Khảo sát vàng tuần của Kitco (14/11): 10/13 chuyên gia Wall Street dự báo vàng tiếp tục giảm, chỉ 2 dự báo tăng. Tỷ giá trung tâm NHNN: 25.637 đồng/USD; Vietcombank niêm yết 25.500–25.910 đồng/USD.\nChuyên gia Daniel Pavilonis (StoneX) cảnh báo vàng có thể về 3.200 USD/ounce nếu thủng 3.750 USD; Marc Chandler (Bannockburn) cho rằng mốc 3.900 và 3.750 USD là ngưỡng kỹ thuật then chốt. Rủi ro giảm tiếp vẫn hiện hữu; người mua ở vùng giá cao đối mặt thua lỗ nếu bắt đáy sớm.",
     "tags": [
-      "Tài chính",
+      "Kinh tế & Tài chính",
       "B - Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "db57f1508c288be1f16eb20361a80aa0a205d27ac600812e3dc67c78ce0f76fd"
+    "contentHash": "f1f4c6453df1fe341eec96902c909851b67c3c51de6f5bbfea37895cc848852c"
   },
   {
     "id": "08d120179c34e53ba38867c125e29e40240870c38cfd03b201b376de0e4996c5",
     "title": "Fed: AI thành rủi ro ổn định tài chính được nhắc nhiều nhất (87%) — ngay trước KQKD Nvidia 17/11 và IPO Anthropic",
     "summary": "Báo cáo Ổn định Tài chính bán niên của Fed, công bố thứ Sáu 13/11, cho thấy 87% trong số 23 đầu mối thị trường được Fed New York khảo sát trong tháng 9–10 nêu AI là rủi ro nổi bật đối với hệ thống tài chính Mỹ, tăng từ 50% hồi mùa xuân và 30% một năm trước. Các rủi ro được nhắc tiếp theo: điều chỉnh giá tài sản rủi ro (52%), lãi suất dài hạn cao hơn (48%), tấn công mạng (43%), bền vững nợ công (43%). Fed cũng ghi nhận phát hành nợ liên quan đến hạ tầng tính toán tiên tiến đã vượt 680 tỷ USD tính đến tháng 10/2026, gấp hơn 5 lần mức 130 tỷ USD của cả năm 2023, chiếm ~31% phát hành trái phiếu doanh nghiệp đầu tư cấp.",
-    "category": "Tài chính",
+    "category": "Kinh tế & Tài chính",
     "section": "B - Kinh tế",
     "region": "Quốc tế",
     "sourceUrl": "https://mlq.ai/news/fed-financial-stability-report-finds-ai-is-now-the-top-worry-for-the-financial-system-cited-by-87-of-market-contacts/",
@@ -33675,17 +33675,17 @@
     "sourceRow": 3145,
     "analysis": "Số liệu được Reuters (Pete Schroeder) và CNBC xác nhận khớp nhau (đối chiếu qua tìm kiếm 15/11). Lưu ý: khảo sát chỉ có 23 đầu mối, thực hiện trước khi Huang từ chức và trước bầu cử giữa kỳ; Fed nhấn mạnh đây là quan điểm của người được hỏi, không phải đánh giá chính thức của Fed. Diễn biến mới cuối tuần: HĐQT Nvidia ngày 13/11 cho biết đang chọn công ty tìm kiếm CEO và 'chưa chính thức tiếp xúc ứng viên nào'; hai nhà đầu tư lớn (Brad Gerstner – Altimeter, Gavin Baker – Atreides) viết thư đề nghị HĐQT cân nhắc khả năng Jensen Huang trở lại.\nCảnh báo của Fed đến đúng 3 ngày trước KQKD Nvidia (thứ Ba 17/11, ~04:20 sáng thứ Tư 19/11 giờ VN; đồng thuận EPS 2,49 USD, doanh thu 108,99 tỷ USD) và 4 ngày trước IPO Anthropic (chốt giá 18/11, giao dịch 19/11, mã ANT). Đây là 'bài kiểm tra' của xu hướng AI: kết quả tốt có thể giúp đà bán tháo dịu lại; giọng điệu diều hâu từ Fed có thể chặn đà hồi phục.",
     "tags": [
-      "Tài chính",
+      "Kinh tế & Tài chính",
       "B - Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "d1750b2548be240d56639125dd61022b140aac00e178a33773771c5c30b2a729"
+    "contentHash": "8303ae32b44536df8a83660cfebcad67dc7382e6ecbff0e686e9c625ad2b40c3"
   },
   {
     "id": "516cb3423e7f7d8da844a315d763734d5586014e37252b66ade9a79d7487997a",
     "title": "Việt Nam: Quốc hội khóa mục tiêu GDP từ 10% năm 2027 — cần huy động 6–6,4 triệu tỷ đồng vốn đầu tư; IIP 10 tháng tăng 12,4%",
     "summary": "Quốc hội đã thông qua Nghị quyết Kế hoạch phát triển kinh tế – xã hội năm 2027 (ngày 7/11, đợt 1 Kỳ họp thứ 2, Quốc hội khóa XVI), đặt mục tiêu tăng trưởng GDP từ 10% trở lên, kiểm soát lạm phát khoảng 4,5%, với 45 chỉ tiêu phát triển; năm 2027 được xác định là năm 'tăng tốc, bứt phá, tạo đà, tạo thế, tạo lực'. Thủ tướng Lê Minh Hưng (trả lời chất vấn chiều 12/11, được đưa tin sáng 15/11) cho biết để đạt mục tiêu này cần huy động 6–6,4 triệu tỷ đồng vốn đầu tư toàn xã hội, tương đương 36–38% GDP, trong đó chi đầu tư phát triển từ ngân sách nhà nước khoảng 1,76 triệu tỷ đồng (riêng ngân sách trung ương 757.200 tỷ đồng, tăng 287.200 tỷ đồng so với dự toán 2026). GDP 9 tháng 2026 đạt 9,01%; để cán đích cả năm từ 10% trở lên, quý IV phải tăng trưởng 12,5%. Chỉ số sản xuất công nghiệp (IIP) 10 tháng 2026 tăng 12,4% so với cùng kỳ — mức cao nhất giai đoạn 2019–2026.",
-    "category": "Tài chính",
+    "category": "Kinh tế & Tài chính",
     "section": "B - Kinh tế",
     "region": "Việt Nam",
     "sourceUrl": "https://vov.vn/chinh-tri/bien-khat-vong-phat-trien-thanh-cac-quyet-sach-cu-the-kha-thi-post1350254.vov",
@@ -33695,11 +33695,11 @@
     "sourceRow": 3146,
     "analysis": "Bài phân tích đăng sáng 15/11 (VOV 06:00 giờ VN; số liệu vốn theo Pháp luật & Đời sống 10:07 giờ VN) — trong 24 giờ, góc mới so với tin Bộ Tài chính làm việc với đoàn Điều IV IMF đã đưa số 47. Các quyết sách đi kèm: cắt giảm tối thiểu 30% số dự án đầu tư công, vận hành hai trung tâm tài chính tại TP.HCM và Đà Nẵng, điều chuyển vốn từ nơi giải ngân chậm sang nơi thực hiện tốt. Quốc hội nghỉ giữa hai đợt (14–19/11), đợt 2 bắt đầu 20/11 để thông qua hơn 40 dự luật còn lại.\nMục tiêu 10% đòi hỏi quý IV tăng 12,5% và huy động vốn kỷ lục trong bối cảnh lãi suất toàn cầu còn cao và DXY ở 103,41 điểm gây sức ép lên tỷ giá — rủi ro thực thi lớn, cần theo dõi giải ngân đầu tư công và tăng trưởng quý IV.",
     "tags": [
-      "Tài chính",
+      "Kinh tế & Tài chính",
       "B - Kinh tế"
     ],
     "language": "vi",
-    "contentHash": "f9b5ac26b46978520d313d3f2f6819e2ab110bc3b9dfacceedbfeab0464284af"
+    "contentHash": "b6023f4b4b3f1cf10724f58d9db86058c39410da9fecc11a1b3e236cc35b6ea9"
   },
   {
     "id": "25e777358847bdbec5c68213e389f10b0896f01a09166380340a113366af4640",
@@ -33725,7 +33725,7 @@
     "id": "3565d27aeb42925ef96500c3bb70484612d1f1e09ff9289347833e5639398957",
     "title": "Triệt phá đường dây sản xuất 100 tấn khí cười, khởi tố 22 bị can",
     "summary": "Ngày 15/11, Cơ quan Cảnh sát điều tra Công an TP Hà Nội cho biết đã khởi tố 22 bị can trong đường dây sản xuất, mua bán trái phép khí N2O (khí cười): 11 bị can về tội 'Sản xuất hàng cấm', 11 bị can về tội 'Mua bán hàng cấm', tất cả đều bị tạm giam. Quá trình điều tra xác định ổ nhóm này đã đưa ra thị trường khoảng 100 tấn khí N2O phục vụ mục đích sử dụng qua đường hô hấp. Lực lượng công an thu giữ 1.311 bình kim loại chứa khí N2O, gần 20 tấn khí đang lưu trữ trong các bồn chứa tại xưởng và 16,5 tấn tiền chất dùng để sản xuất. Khoảng tháng 8/2026, Trần Văn Thịnh tổ chức lắp đặt hệ thống máy móc, thuê địa điểm tại Cụm công nghiệp Lăng Cao, xã Tân Yên, tỉnh Bắc Ninh để sản xuất khí N2O trái phép, rồi chiết nạp vào bình kim loại phân phối cho các đầu mối tiêu thụ.",
-    "category": "Pháp luật",
+    "category": "Chính trị & Xã hội",
     "section": "B - Xã hội",
     "region": "Việt Nam",
     "sourceUrl": "https://vietnamnet.vn/triet-pha-duong-day-san-xuat-100-tan-khi-cuoi-khoi-to-22-bi-can-2575139.html",
@@ -33735,11 +33735,11 @@
     "sourceRow": 3148,
     "analysis": "Tin công bố trưa 15/11 (VietNamNet 13:16 giờ VN; Lao Động 14:25, Hà Nội Mới 18:30 đăng lại) — trong 24 giờ nhưng số 47 chưa đưa, nay bổ sung sau khi kiểm chứng trực tiếp bài gốc. Phòng Cảnh sát hình sự Công an TP Hà Nội đang tiếp tục mở rộng điều tra, truy xét các đối tượng liên quan.\nVụ triệt phá quy mô lớn cho thấy thị trường khí cười trái phép vẫn hoạt động với quy mô công nghiệp; cơ quan chức năng tiếp tục mở rộng điều tra toàn bộ quy mô và phương thức hoạt động của đường dây.",
     "tags": [
-      "Pháp luật",
+      "Chính trị & Xã hội",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "17cbea09b78db11426ea669cc011043bffce435e49dfbd90623495395d1d8553"
+    "contentHash": "7677ac4b37edff5264331b8699863ebaa5b30396e714c2449251e70c243dcf67"
   },
   {
     "id": "747abd53a3b7b03757fa58c18bd799f16caf4a5225feff5365f1fb0b8ed29df2",
@@ -33765,7 +33765,7 @@
     "id": "de54d46734c0edbe43201a57ea6d347c1501aa8fab5a1b3613d76adb796da961",
     "title": "Nóng trên mạng tuần qua: giang hồ mạng bị xử lý, vé tàu Tết lên VNeID, ốc bươu vàng thành 'hàng hot'",
     "summary": "VTV tổng hợp các câu chuyện nóng trên mạng tuần 9–15/11. Ngày 13/11, Công an TP.HCM khởi tố, bắt tạm giam Phạm Tấn Phúc (Tấn Bo) và Nguyễn Lê Hoàng (Hoàng Mèo) về tội 'Đưa hoặc sử dụng trái phép thông tin mạng máy tính, mạng viễn thông'; Hoàng Mèo bị cáo buộc diễn xuất trong phim ca nhạc hành động cổ xúy bạo lực của giang hồ mạng 'Hiệp đen' (đã bị khởi tố trước đó). Chưa đầy một ngày sau, TikToker Nguyễn Tấn Phúc (SN 1987, tên gọi Tý, trú phường Biên Hòa, TP Đồng Nai) cũng bị khởi tố cùng điều luật vì tự quay, đăng nhiều video hướng dẫn mua bán, sử dụng trái phép chất ma túy, nhiều video thu hút hàng nghìn lượt xem. Bài cũng nhắc: từ 9/11 hành khách có thể mua vé tàu Tết trực tiếp trên VNeID; nông dân Cần Thơ bắt ốc bươu vàng mỗi đêm bán 130–160 kg, giá khoảng 2.500 đồng/kg, trong khi đây là loài ngoại lai xâm hại bị nghiêm cấm phát tán; trend 'Bicep Heart' và trào lưu công khai số đo cơ thể lan nhanh trên TikTok/Facebook.",
-    "category": "Mạng xã hội",
+    "category": "Chính trị & Xã hội",
     "section": "B - Xã hội",
     "sourceUrl": "https://vtv.vn/nong-tren-mang-tuan-qua-giang-ho-mang-bi-xu-ly-loat-trend-moi-gay-sot-1002611151834343.htm",
     "imageUrl": "https://cdn-images.vtv.vn/66349b6076cb4dee98746cf1/2026/11/15/3e04c428-ad77-4567-a6fc-f0be42e86543-15801919323158444339057.jpeg",
@@ -33774,11 +33774,11 @@
     "sourceRow": 3150,
     "analysis": "Bài tổng kết tuần đăng trong cửa sổ (VTV 20:05 giờ VN); các vụ khởi tố xảy ra ngày 13–14/11. Đây là tín hiệu cơ quan quản lý mạnh tay làm sạch môi trường số, xử lý nội dung độc hại và người có tầm ảnh hưởng vi phạm — nối tiếp xu hướng xử lý 'giang hồ mạng'.\nĐồng thời bài ghi nhận hai chuyển đổi số/đời sống đáng chú ý: vé tàu Tết lên VNeID (giảm xếp hàng ở ga) và nghịch lý kinh tế của ốc bươu vàng (loài xâm hại nhưng đang được thu mua rầm rộ, tiềm ẩn thủ đoạn làm giá của thương lái).",
     "tags": [
-      "Mạng xã hội",
+      "Chính trị & Xã hội",
       "B - Xã hội"
     ],
     "language": "vi",
-    "contentHash": "9c6fbaf11f92aff165a1ede3578465a86c49ebe1d8dc82bb968755d6e7521ef0"
+    "contentHash": "d6e4b32223f6e44a5e3c20bcb2b60eb083e091d93bd1bbb5caa723bd8d9abbed"
   },
   {
     "id": "230fdcd4f3d116dc291fa6dbc029c82680d2541646ec02026e4037b02fe61670",
@@ -33802,7 +33802,7 @@
     "id": "196f22880113f8965bb03990f9ffb36326319679b34025442ed73d3c2676340e",
     "title": "Cursor xác nhận bị xâm nhập: extension Claude Code giả cài backdoor SSH cho tới 5.000 lập trình viên",
     "summary": "Cursor công bố báo cáo sự cố ngày thứ Sáu 13/11: hacker lấy được access key lưu tại nhà cung cấp hạ tầng AI Fireworks AI, sao chép dữ liệu từ bucket lưu trữ dùng chung (gồm lịch sử trace của coding agent, một số chứa API credential chưa che), rồi ngày 29/10 dùng credential đánh cắp để phát hành các bản sao giả mạo extension Claude Code của Anthropic (phiên bản 2.1.312 và 2.1.313) lên marketplace của Cursor. Bản độc hại tồn tại khoảng 11 giờ trước khi bị gỡ; ước tính tới 5.000 người dùng có thể đã nhận bản độc. Mã độc thu thập thông tin máy, chèn SSH key của attacker (comment 'svc-telemetry'), bật SSH và mở reverse tunnel. Cursor khẳng định extension chính thức của Anthropic và Open VSX không bị ảnh hưởng; đã chuyển toàn bộ inference khỏi Fireworks, thu hồi/xoay credential, xây lại marketplace. Người dùng được khuyên cập nhật lên 2.1.314 và làm theo hướng dẫn khắc phục — chỉ gỡ extension là chưa đủ.",
-    "category": "An ninh mạng",
+    "category": "An ninh mạng & Bảo mật",
     "section": "B - Công nghệ",
     "sourceUrl": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
     "imageUrl": "https://www.bleepstatic.com/content/hl-images/2025/07/13/cursor-header.jpg",
@@ -33811,17 +33811,17 @@
     "sourceRow": 3152,
     "analysis": "Tin trong 24 giờ (BleepingComputer 15/11 00:27 giờ VN; kiểm chứng qua 2 nguồn độc lập: BleepingComputer + báo cáo sự cố của Cursor). Nằm trong làn sóng tấn công hạ tầng dev AI mà Wiz gọi là 'Black October' (Railway, Northflank, Lightning AI, OpenCode, Warp...); riêng Railway bị đánh cắp secret rồi phát sinh ~740.000 USD phí AI gian lận. Fireworks AI cũng tự tiết lộ nhiều vụ xâm nhập trong tháng 10.\nCảnh báo nghiêm trọng về chuỗi cung ứng extension/AI coding tool — marketplace đáng tin cũng có thể phát tán mã độc; rủi ro đặc biệt với dev không bật Privacy Mode (trace của họ nằm trong bucket bị lộ, dưới 0,05% người dùng bị lộ trace, dưới 0,01% bị lộ API credential theo Cursor).",
     "tags": [
-      "An ninh mạng",
+      "An ninh mạng & Bảo mật",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "001f7028e684300675694704c8a0c119d3f66ec25e5647ea54967eadce1fc897"
+    "contentHash": "ae1cdc8c8309aefd3b1d215a7af8f7b6061352adac91acd4b6975440e834f01b"
   },
   {
     "id": "465a8c6c1a5ccdf0a0d404f12b15c5027cd85aa37392e338c130492e0563f950",
     "title": "Nvidia trước thềm KQKD 17/11: JPMorgan ước thị phần chip AI tương lai chỉ còn 39%; Mỹ xem xét siết chip AI qua Đông Nam Á",
     "summary": "JPMorgan ước tính Nvidia chỉ còn nắm 39% các thỏa thuận compute tương lai của các frontier AI lab, so với trên 80% giai đoạn 2023–2025; phần còn lại chia cho chip tùy chỉnh Broadcom 24%, Google TPU 16%, AMD 15%, Amazon Trainium 6%. Một lab cho biết chuyển mô hình sang chip AMD nay chỉ mất 3 ngày, thay vì 6–12 tháng như trước. Cùng lúc, Wall Street Journal (qua TipRanks) đưa tin Mỹ đang xem xét siết xuất khẩu chip AI tiên tiến sang Malaysia, Singapore, Indonesia để chặn doanh nghiệp Trung Quốc truy cập từ xa — sau vụ Megaspeed bị cáo buộc sắp xếp gần 12 tỷ USD đơn chip Nvidia cho công ty Trung Quốc (3/2024–6/2025). Doanh thu trực tiếp từ Trung Quốc của Nvidia là 12,4 tỷ USD trong 6 tháng kết thúc 26/7/2026 (~7% doanh thu toàn cầu); ước tính của short-seller Culper Research cho rằng nhu cầu liên quan Trung Quốc chiếm hơn 20% doanh thu năm tài chính trước (gồm cả bán gián tiếp). Nvidia báo cáo KQKD quý 3 tài chính vào thứ Ba 17/11.",
-    "category": "AI",
+    "category": "Công nghệ & AI",
     "section": "B - Công nghệ",
     "region": "Quốc tế",
     "sourceUrl": "https://www.tipranks.com/news/nvidia-nvda-faces-china-revenue-risk-as-u-s-eyes-crackdown-on-overseas-ai-chips",
@@ -33829,17 +33829,17 @@
     "sourceRow": 3153,
     "analysis": "Diễn biến nối tiếp vụ CEO Jensen Huang từ chức ngày 12/11 (CFO Colette Kress làm CEO tạm quyền) và kiến nghị 'Stand with Jensen' đã đưa số trước (Hokanews 15/11 dẫn JPMorgan qua Coin Bureau; TipRanks 15/11 12:29 UTC dẫn WSJ). CAVEAT: con số 39% hiện chỉ có một nguồn thứ cấp (Hokanews/Coin Bureau), chưa thấy bản tin JPMorgan gốc hay hãng lớn xác nhận — chỉ dùng làm diễn biến, không coi là số liệu chính thức.\nNếu quy định mới được ban hành, rủi ro doanh thu Trung Quốc gián tiếp của Nvidia tăng mạnh; đồng thời xác nhận xu hướng đa dạng hóa nhà cung cấp chip AI của các lab lớn. KQKD 17/11 là phép thử lớn cho cổ phiếu AI.",
     "tags": [
-      "AI",
+      "Công nghệ & AI",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "1b633e2e50889382a10eeab7e0ffe2adc1cfec31ee49afd041f3fe69266c4262"
+    "contentHash": "4bac019d2e12877f383ba0f35cc7dde3da41fd3fb2a26dd9adcbe285dacd01ae"
   },
   {
     "id": "cd197f8dcf6714e67162c6705ea6966aa2334db1aa28c097d124f155ca0b85b9",
     "title": "llama.cpp và ggml đạt 1.0: cam kết API ổn định cho AI chạy local",
     "summary": "Ngày 13/11, ggml-org phát hành llama.cpp v1.0.0 và ggml v1.0.0 (sau ~3,5 năm phát triển). Điểm chính không phải tốc độ mà là cam kết semver: từ nay mọi thay đổi phá vỡ public C API sẽ chỉ đi kèm major-version bump. Bản 1.0 gỡ 35 hàm deprecated, bổ sung FP8 KV cache (giảm một nửa bộ nhớ cache hội thoại — ví dụ KV payload 32k token của Qwen2.5-7B từ 1.792 MiB xuống 896 MiB), host-memory cache cho MoE expert, hỗ trợ kiến trúc mới (gồm Kimi-K3.1), endpoint text-to-speech '/v1/audio/speech', giao diện web mới, và tăng cường bảo mật llama-server chống SSRF/DNS rebinding.",
-    "category": "AI",
+    "category": "Công nghệ & AI",
     "section": "B - Công nghệ",
     "sourceUrl": "https://mlq.ai/news/llamacpp-reaches-version-10-and-promises-a-stable-api-for-local-ai-apps/",
     "imageUrl": "https://mlq.ai/media/news_images/llamacpp-reaches-version-10-and-promises-a-stable-api-for-local-ai-apps.jpg",
@@ -33848,34 +33848,34 @@
     "sourceRow": 3154,
     "analysis": "Tin trong 24 giờ (Hugging Face thông báo chính thức 13/11 qua mlq.ai; release notes GitHub ggml-org/llama.cpp). llama.cpp là nền tảng cho ứng dụng AI local (chạy trên laptop/điện thoại/server, đa backend CUDA/Metal/Vulkan/SYCL/WebGPU).\nBản 1.0 giúp ứng dụng AI local ổn định hơn về API; nhưng đây là breaking change với code còn dùng API cũ đã gỡ — các dự án phụ thuộc cần cập nhật.",
     "tags": [
-      "AI",
+      "Công nghệ & AI",
       "B - Công nghệ"
     ],
     "language": "vi",
-    "contentHash": "2f7338ed469ae123078f77dd92c3c1e60db1970ba32e17bb83f9e376601ee0db"
+    "contentHash": "e59f0d10650a66d459044e18d606b1aab55f86177d1e97e59d198c6b9607d745"
   },
   {
     "id": "f17d8f0f6224d076f9e93a246d261f9bb33c0921140200e2f76e478faead9a0b",
     "title": "Vụ kiện chống độc quyền DRAM được tòa cho đi tiếp (Hacker News)",
     "summary": "Bài WCCFTech về phán quyết bác đơn hủy kiện DRAM (xem tin Top 5). Hacker News item 50502988: 337 points, 139 comments (ghi nhận ~22:27 giờ VN 15/11 qua API chính thức của Hacker News). Like/Reactions: N/A (HN không có). Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 bài HN + nhiều báo đưa cùng phán quyết (WCCFTech, LitNews, Medium). Điểm HOT: Chưa đủ dữ liệu (thiếu shares, tăng trưởng 24h, dữ liệu đa nền tảng).",
-    "category": "Hot Trends",
+    "category": "Hot Trends & Tiêu điểm",
     "section": "B - Hot Trends",
     "sourceUrl": "https://news.ycombinator.com/item?id=50502988",
     "collectedAt": "2026-11-15T16:18:12.810Z",
     "sourceRow": 3155,
     "analysis": "Bài đăng 15/11 08:18 giờ VN; điểm tăng từ 329/136 lúc ~22:17 lên 337/139 lúc ~22:27 giờ VN. Giá RAM tăng gần 700% chạm trực tiếp túi tiền người dùng PC/AI; phán quyết mở đường cho discovery có thể phơi bày tài liệu nội bộ của 3 hãng thống trị 91% thị trường.\nTranh luận sôi nổi trong cộng đồng công nghệ về giá RAM và độc quyền chip; tác động trực tiếp tới người dùng PC và các công ty AI nếu vụ kiện dẫn tới tăng nguồn cung. Điểm HOT: Chưa đủ dữ liệu — chỉ chấm tiêu chí có bằng chứng.",
     "tags": [
-      "Hot Trends",
+      "Hot Trends & Tiêu điểm",
       "B - Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "d5552bedb661d0e7b0adbec3900a92b081f1c83b4bca390edce6f316afef6486"
+    "contentHash": "3a8c309be588cede2d4d0c317fc5aa140d028b09fa901674c0e6355a91047c26"
   },
   {
     "id": "287e2e58694da2c9e90ab5171ece8ad043919a66f5ad92c6079db8452ab96bd4",
     "title": "Bộ trưởng Thương mại Mỹ Lutnick bị tố thúc nới lỏng quy định chip vì lợi ích kinh doanh gia đình (Hacker News)",
     "summary": "Bài điều tra của New York Times: Bộ trưởng Thương mại Howard Lutnick thúc đẩy nới lỏng các quy định về chip mà gia đình ông có lợi ích kinh doanh liên quan — xung đột lợi ích trong bối cảnh chính quyền đang siết xuất khẩu chip AI. Hacker News item 50506180: 126 points, 40 comments (ghi nhận ~22:27 giờ VN 15/11 qua API chính thức của Hacker News). Like/Reactions: N/A (HN không có). Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 (HN) — nguồn gốc NYT (có paywall, chưa đọc được toàn văn). Điểm HOT: Chưa đủ dữ liệu.",
-    "category": "Hot Trends",
+    "category": "Hot Trends & Tiêu điểm",
     "section": "B - Hot Trends",
     "region": "Quốc tế",
     "sourceUrl": "https://news.ycombinator.com/item?id=50506180",
@@ -33883,34 +33883,34 @@
     "sourceRow": 3156,
     "analysis": "Bài đăng 15/11 18:40 giờ VN (trong cửa sổ). Nối tiếp mạch tin 'chip war' và vụ Nvidia/Megaspeed; đặt câu hỏi về tính công bằng của chính sách kiểm soát xuất khẩu chip AI. Caveat: chỉ xác minh được tiêu đề + sự tồn tại của bài qua HN, chưa đọc toàn văn NYT.\nTranh luận về xung đột lợi ích trong chính sách chip của chính quyền Mỹ; có thể ảnh hưởng tới tính nhất quán của các biện pháp kiểm soát xuất khẩu chip AI. Điểm HOT: Chưa đủ dữ liệu — chỉ chấm tiêu chí có bằng chứng.",
     "tags": [
-      "Hot Trends",
+      "Hot Trends & Tiêu điểm",
       "B - Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "0a7f601f9cc5ceecdb76d149ecce4e57301be78334113f5284e9db98286aff0d"
+    "contentHash": "61cece919e3655f537e154d841d25be68e942f3535f9aeaec19f8b4961b6680b"
   },
   {
     "id": "4e42510c29f591b5f4d9fcafa0c0f90a587cfcf5d55d6324a98cc33d57d36428",
     "title": "'Vấn đề PWM của màn OLED MacBook Pro: màn hình tốt hơn lại khó dùng hơn' (Hacker News)",
     "summary": "Bài phân tích trên macanorak.com về hiện tượng nhấp nháy PWM (pulse-width modulation) trên màn OLED của MacBook Pro gây mỏi mắt/khó chịu cho một bộ phận người dùng nhạy cảm, dù OLED cho chất lượng hiển thị cao hơn. Hacker News item 50506719: 120 points, 64 comments (ghi nhận ~22:27 giờ VN 15/11 qua API chính thức của Hacker News) — tỷ lệ bình luận/points cao, tranh luận sôi nổi về trải nghiệm thực tế, độ nhạy cảm cá nhân và giải pháp. Like/Reactions: N/A (HN không có). Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 (HN). Điểm HOT: Chưa đủ dữ liệu.",
-    "category": "Hot Trends",
+    "category": "Hot Trends & Tiêu điểm",
     "section": "B - Hot Trends",
     "sourceUrl": "https://news.ycombinator.com/item?id=50506719",
     "collectedAt": "2026-11-15T16:18:12.810Z",
     "sourceRow": 3157,
     "analysis": "Bài đăng 15/11 20:15 giờ VN (trong cửa sổ). Chủ đề sức khỏe mắt + phần cứng Apple luôn gây tranh luận; nhiều người dùng chia sẻ trải nghiệm cá nhân trái chiều.\nTác động chủ yếu về mặt văn hóa–cộng đồng và quyết định mua sắm của người dùng nhạy cảm với PWM; Apple có thể phải cân nhắc giải pháp giảm nhấp nháy trên các mẫu OLED tiếp theo. Điểm HOT: Chưa đủ dữ liệu — chỉ chấm tiêu chí có bằng chứng.",
     "tags": [
-      "Hot Trends",
+      "Hot Trends & Tiêu điểm",
       "B - Hot Trends"
     ],
     "language": "vi",
-    "contentHash": "775b11354dcc1e611ffa9a2527c948e1ccdb9b53d1ecf3da9d3c8b72ba1c63da"
+    "contentHash": "bcb09dd536d8fd99c643d3ca64330d36d2f1d9a13d777067df0437b55f3c5395"
   },
   {
     "id": "43742d4d012e3c80d0e964f4e064624e8d0634418234d1707815abf5435fc10e",
     "title": "Univer — bộ SDK xây 'văn phòng AI' của riêng bạn, mã nguồn mở",
     "summary": "Univer (dream-num/univer) là Office SDK để xây ứng dụng văn phòng trong sản phẩm của riêng bạn: chỉnh sửa, tính toán, cộng tác và xử lý file cho cả người dùng và AI agent. Bộ sản phẩm bao phủ bảng tính, tài liệu, thuyết trình, bảng quan hệ, canvas và PDF. Repo cung cấp lõi Web SDK theo Apache-2.0: content model, plugin, hệ thống lệnh, engine công thức và render, Facade API, giao diện Sheets và Docs. Đứng #1 GitHub Trending ngày 15/11 với +1.000 sao/ngày, tổng ~25.326 sao (tính đến tối 15/11 giờ VN); 2.315 fork.",
-    "category": "Công cụ AI",
+    "category": "Công nghệ & AI",
     "section": "D - Đáng thử",
     "sourceUrl": "https://github.com/dream-num/univer",
     "imageUrl": "https://opengraph.githubassets.com/1/dream-num/univer",
@@ -33919,10 +33919,373 @@
     "sourceRow": 3158,
     "analysis": "Làn sóng 'Agent Skills' và công cụ cho coding agent tiếp tục dẫn đầu GitHub Trending; Univer cho thấy xu hướng đưa khả năng văn phòng vào agent và ứng dụng. Khởi động nhanh: pnpm add @univerjs/presets @univerjs/preset-sheets-core, tạo bảng tính chỉ với vài dòng code, không cần license thương mại cho bản open-source.\nỨng dụng thực tế: nhúng Sheets/Docs có thể chỉnh sửa vào ứng dụng hoặc sản phẩm agent; xử lý nội dung headless bằng Node.js; agent dùng cùng API mở để chỉnh sửa, tính toán và lưu file. Hạn chế: Server SDK (cộng tác thời gian thực, import/export file) và AI SDK thương mại được phân phối riêng theo license thương mại; tính năng demo rộng hơn bản open-source mặc định. Giá: lõi open-source miễn phí (Apache-2.0); các SDK thương mại tính phí riêng.",
     "tags": [
-      "Công cụ AI",
+      "Công nghệ & AI",
       "D - Đáng thử"
     ],
     "language": "vi",
-    "contentHash": "19e8300b7f0dc5bde07e18829de67833d34fde0c372c1f2ce83c55f74103fbc6"
+    "contentHash": "36d41601022c12e78671a938c7e559ee25d931f6b9c22f604f8ac92112f70768"
+  },
+  {
+    "id": "c246d7ba99f14be94f81eda6807febb5ef0fc4f50dbe8b85c68766db3c62e750",
+    "title": "Vùng Vịnh leo thang: Iran tấn công Bahrain, Houthi dội tên lửa vào Saudi, Mỹ điều tàu sân bay thứ ba",
+    "summary": "Liên quân do Saudi Arabia dẫn đầu đánh chặn 6 drone và 2 tên lửa đạn đạo nhắm vào Mecca, Medina, Riyadh và tỉnh Eastern lúc 00:12 ngày 16/11 giờ VN. Lực lượng Vệ binh Cách mạng Iran (IRGC) tuyên bố 6 drone đã tấn công radar phòng không của Mỹ tại căn cứ trực thăng Al-Riffa, Bahrain — vụ thứ hai trong ba ngày. Tàu sân bay USS Theodore Roosevelt đến Trung Đông, nâng tổng số tàu sân bay Mỹ trong khu vực lên 3. UAE lên án vụ tấn công Bahrain.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://economictimes.indiatimes.com/news/defence/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province/articleshow/135846184.cms",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3159,
+    "analysis": "Đàm phán Mỹ–Iran bế tắc: Chủ tịch Quốc hội Iran Qalibaf nói Tehran 'không quan tâm Mỹ chọn đàm phán hay chiến tranh', chỉ thỏa thuận nếu Mỹ chấp nhận 7 điều kiện gồm dỡ phong tỏa hải quân, dỡ trừng phạt, trả tài sản bị đóng băng và chấm dứt thù địch. Tình báo Mỹ ước Iran còn 1.500–2.500 tên lửa; các nước vùng Vịnh đã hứng hơn 7.000 tên lửa và drone Iran kể từ 28/2. Lưu ý: tuyên bố của IRGC về việc đánh trúng radar Mỹ chưa được xác minh độc lập.\nNguy cơ xung đột trực tiếp Mỹ–Iran tăng cao; giá dầu và thị trường khu vực nhạy cảm trước mọi diễn biến mới. Mốc theo dõi: gặp ba bên dự kiến 19/11, APEC 18–19/11, FOMC 8–9/12.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "b213db2c4cc5d1a45b5f338413bec89c72dd957d05bc58e21aac6cd76be62f6b"
+  },
+  {
+    "id": "856dec06a73b2540c05a97ba5565d742d691f65b6896db4be25721158118be3a",
+    "title": "CEO Nvidia Jensen Huang từ chức sau 33 năm; cổ phiếu lao dốc, chứng khoán Mỹ trái chiều phiên thứ Sáu",
+    "summary": "CEO Nvidia Jensen Huang từ chức ngày 12/11/2026 sau 33 năm lãnh đạo, sau cáo buộc hai quan hệ ngoài hôn nhân, trong đó một người bị tình báo Mỹ nghi là gián điệp Trung Quốc; CFO Colette Kress làm CEO tạm quyền. Nvidia không nêu lý do từ chức. Cổ phiếu Nvidia có lúc giảm 13–14% trong phiên 12/11; phiên thứ Sáu 13/11 giảm 2%, tuần giảm thứ sáu liên tiếp — dài nhất từ tháng 10/2012. Phiên thứ Sáu: S&P 500 -0,40% về 7.561,67; Nasdaq -0,91% về 25.136,27; Dow +0,10% lên 52.347,55; cả ba chỉ số vẫn tăng hơn 2% trong tuần. PPI Mỹ tháng 10 +0,3% so với tháng trước, +6,5% so với cùng kỳ (cao nhất từ 11/2022); CPI +0,4%.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-nasdaq-end-lower-nvidia-uncertainty-weighs-tech-shares",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3160,
+    "analysis": "Huang là biểu tượng của cơn sốt AI toàn cầu; việc từ chức đột ngột đặt dấu hỏi về quản trị và chiến lược của Nvidia. Thông tin đã được xác minh độc lập qua Al Jazeera, USA Today, The Hindu, The Register và Haaretz.\nKết quả kinh doanh quý 3 của Nvidia ngày 17/11 là phép thử lớn cho toàn bộ chuỗi giá trị AI; quyền chọn định giá biến động cổ phiếu ±10,6% quanh ngày báo cáo. Rủi ro: bất ổn lãnh đạo có thể kéo dài đà bán tháo cổ phiếu công nghệ.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "bf4078c3e5df39a64ac4402181c3eb83f8980063c35a4e2cad9e0eec31e51e17"
+  },
+  {
+    "id": "54deae9c91ad1c9c53705f01cb3226e349ced329b54c482f00840a3303bf6a5e",
+    "title": "Bitcoin chạm đáy 4 tháng ~61.970 USD rồi hồi trên 65.000 USD; thanh lý gần 2 tỷ USD",
+    "summary": "Bitcoin chạm đáy 4 tháng khoảng 61.970 USD trên sàn Kraken tối thứ Bảy (giờ miền Trung Mỹ), thấp nhất từ 13/7/2026; sau đó bật lại hơn 6% lên khoảng 66.090 USD trong khoảng 8 giờ. Lúc 02:13 VN 16/11, giá BTC/USDT trên Binance là 65.018,87 USD (-0,93% trong ngày; thấp trong ngày 62.006 USD, cao 66.132,01 USD). Khoảng 1,96 tỷ USD vị thế đòn bẩy bị thanh lý trong 24 giờ, trong đó 750 triệu USD là vị thế Bitcoin và khoảng 600,5 triệu USD là vị thế mua. Ether rơi về khoảng 1.710 USD rồi hồi lên khoảng 1.820 USD; Solana về khoảng 67,37 USD rồi hồi lên khoảng 72 USD. ETF Bitcoin spot Mỹ ghi nhận 7 phiên rút ròng liên tiếp, tổng khoảng 1,91 tỷ USD; chỉ số Fear & Greed ở mức 10/100. Bitcoin giảm 14% trong 7 ngày và 25% từ 21/10.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://plainbtc.com/articles/bitcoin-four-month-low-62000-liquidations-nov-2026",
+    "imageUrl": "https://plainbtc.com/assets/og/bitcoin-four-month-low-62000-liquidations-nov-2026.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3161,
+    "analysis": "Thị trường risk-off lan rộng: Fed chuyển giọng diều hâu, thị trường trên Kalshi đặt 97% khả năng tăng lãi suất tháng 12 (lúc 23:00 VN 15/11); cổ phiếu AI bán tháo sau vụ CEO Nvidia từ chức.\nMốc 60.000 USD là hỗ trợ tâm lý tiếp theo; biến động mạnh có thể kéo dài tới kết quả kinh doanh Nvidia ngày 17/11 và ngày chốt giá IPO Anthropic 18/11. Rủi ro: đòn bẩy cao khiến các đợt giảm bị khuếch đại.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "69207c3b2e4ed5ca6ecd1c91fb79ed7053699a75500ffd59363c2ef5b00eea15"
+  },
+  {
+    "id": "0b33b3f5547db1cce64ca1d03760af2590e58be4a53ed86adb2d23ad02bf40ed",
+    "title": "Trump lần đầu lên tiếng về vụ dừng bay toàn quốc, kêu gọi Quốc hội cấp tiền nâng cấp kiểm soát không lưu",
+    "summary": "Tổng thống Trump lần đầu lên tiếng sau khoảng hai ngày im lặng về vụ dừng bay toàn quốc, kêu gọi Quốc hội cấp thêm tiền nâng cấp hệ thống kiểm soát không lưu. Lệnh dừng bay kéo dài 15:45–20:15 ET ngày 13/11 sau sự cố router của Cục Hàng không Liên bang (FAA); 12.000 chuyến bay bị hủy trong ngày thứ Sáu, 4.000–5.000 trong tổng số 41.000 chuyến ngày thứ Bảy có nguy cơ bị hủy. Quốc hội đã phê duyệt 12,5 tỷ USD cho FAA năm 2025; phe Dân chủ phản bác rằng mới chỉ giải ngân 1 tỷ trong 4,3 tỷ USD cam kết. Đây là lần dừng bay toàn quốc thứ hai kể từ 11/9/2001.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.usatoday.com/story/news/politics/2026/11/15/trump-ground-stop-faa-air-traffic-control-congress-funding/92794990007/",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3162,
+    "analysis": "Hệ thống kiểm soát không lưu Mỹ lạc hậu và thiếu nhân lực; sự cố kỹ thuật ngày 13/11 phơi bày điểm yếu hạ tầng hàng không.\nRủi ro gián đoạn hàng không kéo dài nếu Quốc hội không thống nhất ngân sách nâng cấp; ngành hàng không và du lịch Mỹ chịu áp lực. Lưu ý: các nguồn mâu thuẫn về số tiền Bộ trưởng Giao thông Duffy yêu cầu thêm (USA Today ghi 50 triệu USD, AFP qua Philstar ghi 50 tỷ USD) nên bản tin không sử dụng con số này.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "cdcc419d5ece3e69154bd4e35b940dbd3bc804ebd6dbb67896d1d2f3428e6b8f"
+  },
+  {
+    "id": "036ec6119d6f509a0020c478312ca59cdb0fb05e09e0dc72b71065646f99a120",
+    "title": "Israel: điều tra N12 tố người thân cận Netanyahu liên quan vụ bắt giữ ngày bầu cử; Shin Bet từng xin nghe lén 5 nghị sĩ Ả Rập",
+    "summary": "Điều tra của N12/Uvda đăng 02:08 VN 16/11: người thân cận Thủ tướng Netanyahu bị nghi liên quan vụ bắt 3 nhà hoạt động đảng Ra'am trong ngày bầu cử 27/10; Chánh văn phòng Ido Norden đã gọi cho văn phòng cảnh sát trưởng; 14 cảnh sát khám xét nhà không có lệnh; bác sĩ Sayaf Abu Riyash bị giam 6 ngày và không được bỏ phiếu. Giám đốc Shin Bet David Zini từng xin nghe lén 5 nghị sĩ Ả Rập, bị Tổng chưởng lý bác bỏ; không có bằng chứng về can thiệp nước ngoài thực chất.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914987",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3163,
+    "analysis": "Cuộc bầu cử ngày 27/10 diễn ra trong bối cảnh chính trị Israel căng thẳng; cáo buộc can thiệp bầu cử là vấn đề đặc biệt nhạy cảm.\nCó thể làm leo thang khủng hoảng chính trị nội bộ Israel; cần chờ kết luận của cơ quan chức năng. Lưu ý: hiện chỉ có một chuỗi nguồn (JPost tường thuật N12); các cáo buộc chưa được cơ quan chức năng kết luận.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "0f2c21c2180e70a4ed56767096525f3306b25fb613e0638f3a8975a9b2c98fca"
+  },
+  {
+    "id": "93e11710a5fa5849bc70930011c8ce5bb40703352bf601110a847f7bfaefac16",
+    "title": "Dragon Capital: chứng khoán Việt Nam chưa phản ánh đầy đủ triển vọng đảo chiều lãi suất",
+    "summary": "Dragon Capital: áp lực huy động vốn của ngân hàng gần chạm đỉnh sau chỉ đạo của Ngân hàng Nhà nước ngày 19/10 (giảm ít nhất 0,5 điểm % lãi suất huy động, 1,5–2 điểm % lãi suất cho vay); tháng 10 lãi suất huy động mới giảm 0,4 điểm %, lãi suất cho vay giảm 0,2–0,5 điểm %. Xuất khẩu tháng 10 lập kỷ lục 64,7 tỷ USD (+51,4% so với cùng kỳ), thặng dư thương mại 7,3 tỷ USD. Ngân hàng Nhà nước hoán đổi ngoại tệ kỳ hạn 6 tháng trị giá 2 tỷ USD ngày 3/11 (khoảng 49.000 tỷ đồng); từ 11/11 mua USD giao ngay 2 lần/tuần với giá 25.500 đồng/USD. Lợi nhuận doanh nghiệp VN-Index quý 3 tăng 51,5% so với cùng kỳ (loại Vingroup: +22,3%); VN-Index tháng 10 giảm 0,9% tính theo USD; P/E trượt 11,8 lần. CPI cơ bản tháng 10 giảm 0,05% so với tháng trước — lần giảm đầu tiên từ 2021; CPI bình quân 10 tháng 4,57% (mục tiêu 4,5%). Giải ngân đầu tư công đến hết tháng 10 đạt 74,1%; hơn 300.000 tỷ đồng cần giải ngân trong hai tháng cuối năm.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://kinhtedautuvn.net/dragon-capital-chung-khoan-viet-nam-chua-phan-anh-day-du-trien-vong-dao-chieu-lai-suat-63197.html",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3164,
+    "analysis": "Ngân hàng Nhà nước đang nới lỏng có kiểm soát để hỗ trợ tăng trưởng; theo Dragon Capital, thị trường chứng khoán chưa phản ánh đầy đủ triển vọng đảo chiều lãi suất.\nCơ hội cho cổ phiếu ngân hàng và bất động sản nếu lãi suất tiếp tục giảm; rủi ro tỷ giá nếu đồng USD mạnh lên và áp lực huy động vốn kéo dài.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "5c5454bbad8fc2c65b95737b1955c62d5070ff43211d5e0ef891e060715c641d"
+  },
+  {
+    "id": "eb12b41234d7f3d6fd955355c2a418cdf26e6375371d441df6947ca729c502d5",
+    "title": "Fed chuyển giọng diều hâu: thị trường đặt 97% khả năng tăng lãi suất tháng 12",
+    "summary": "Chủ tịch Fed San Francisco Mary Daly ngày 13/11 nói 'rất có thể cần tăng lãi suất'; Chủ tịch Fed Boston Susan Collins cùng ngày cho rằng lạm phát vẫn quá cao và cần thắt chặt thêm. Lãi suất liên bang hiện ở mức 3,75–4,00% (giữ nguyên ngày 28/10, bỏ phiếu 10–2). Lúc 23:00 VN 15/11, thị trường trên Kalshi đặt xác suất tăng lãi suất tháng 12 ở mức 97% (tăng 25 điểm cơ bản: 87%; tăng 50 điểm cơ bản: 10%). Cuộc họp FOMC tiếp theo diễn ra 8–9/12/2026, quyết định công bố ngày 9/12.",
+    "category": "Chính sách tiền tệ",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.coingabbar.com/en/fed-rate-hike-daly-december-2026-bitcoin-market-impact",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3165,
+    "analysis": "Lạm phát Mỹ vẫn nóng: PPI tháng 10 tăng 6,5% so với cùng kỳ, CPI tăng 0,4% so với tháng trước; Fed chuyển giọng diều hâu sau nhiều tháng thị trường kỳ vọng cắt giảm lãi suất.\nXác suất trên Kalshi chỉ là dự đoán của thị trường, không phải quyết định của Fed. Nếu Fed tăng lãi suất tháng 12, tài sản rủi ro như cổ phiếu công nghệ và tiền mã hóa chịu thêm áp lực. Lưu ý: nguồn thứ cấp (Coingabbar dẫn phát biểu của Fed).",
+    "tags": [
+      "Chính sách tiền tệ",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "e0e423e73b1d8529406ff4c0c9546f50d759dc3aefccd13edeb4f0a1bedd3b7b"
+  },
+  {
+    "id": "2b0d7b07e578e18d37672802fa49693b8d3c38a3731c1a125646cb3c871c2960",
+    "title": "Dầu giảm tuần thứ hai liên tiếp; IEA dự báo thặng dư 1,7 triệu thùng/ngày quý 4/2026",
+    "summary": "Dầu Brent đóng cửa tuần quanh 95,84–96,28 USD/thùng (tùy nguồn), WTI ở mức 88,56 USD/thùng; giá dầu giảm tuần thứ hai liên tiếp. IEA: nguồn cung dầu toàn cầu tăng 2,3 triệu thùng/ngày lên 105,4 triệu thùng/ngày trong quý 4/2026; nhu cầu giảm 2,7 triệu thùng/ngày xuống 102,3 triệu thùng/ngày; thặng dư quý 4 khoảng 1,7 triệu thùng/ngày.",
+    "category": "Năng lượng",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://stockbiz.vn/en/news/markets-this-past-week-november-9-14-oil-prices-plunge-gold-posts-biggest-drop-in-about-four-months-silver-faces-even-greater-pressure/42780529",
+    "imageUrl": "https://static.fireant.vn/Upload/20261115/images/06cd99155d6547c3a1546039ad887a8c20261115113131.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3166,
+    "analysis": "OPEC+ và các nước ngoài OPEC tăng sản lượng trong khi nhu cầu chững lại; căng thẳng Vùng Vịnh chưa đẩy giá lên do thị trường tập trung vào thặng dư nguồn cung.\nGiá xăng dầu trong nước có thể tiếp tục hạ nhiệt; rủi ro tăng giá nếu xung đột Vùng Vịnh leo thang thành gián đoạn nguồn cung thực tế. Lưu ý: hai nguồn đưa mức đóng cửa Brent khác nhau (95,84 so với 96,28 USD/thùng); WTI khớp nhau ở 88,56 USD/thùng.",
+    "tags": [
+      "Năng lượng",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "592d723b25ee7bca9d5f9d9213aa26acf7d1d68071c72dcfd7a3eb8e479ebf17"
+  },
+  {
+    "id": "62bf003f636ea759bae27f4a27e538517f82f32bb8a257add090ed1ecf492595",
+    "title": "Bộ Công an tập huấn truy vết, thu hồi tài sản mã hóa cho hơn 27.300 cán bộ",
+    "summary": "Bộ Công an tổ chức tập huấn phân tích blockchain, truy dòng tiền và thu hồi tài sản mã hóa cho hơn 27.300 cán bộ trong chương trình cuối tuần qua tại Hà Nội, trực tiếp kết hợp trực tuyến tới cấp xã (VnExpress đăng 22:21 VN 15/11, cập nhật 00:00 VN 16/11). Nội dung: phân tích on-chain, theo dấu qua nhiều ví và mạng, nhận diện giao dịch đáng ngờ và xáo trộn dòng tiền, giám định blockchain, phong tỏa và thu hồi tài sản xuyên biên giới; chuyên gia quốc tế chia sẻ kinh nghiệm. Chainalysis: Việt Nam có khoảng 17 triệu người sở hữu tài sản mã hóa, dòng vốn 6/2024–6/2025 khoảng 200 tỷ USD.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vnexpress.net/bo-cong-an-huan-luyen-truy-vet-thu-hoi-tai-san-ma-hoa-5144972.html",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3167,
+    "analysis": "Luật Công nghiệp Công nghệ số có hiệu lực từ 1/1, trong đó tài sản số được công nhận là tài sản theo pháp luật dân sự; Đà Nẵng đang thí điểm trao đổi bằng tài sản mã hóa.\nNâng cao năng lực đấu tranh với tội phạm sử dụng tiền mã hóa; tín hiệu khung pháp lý tài sản số đang được hoàn thiện. Lưu ý: chỉ một nguồn; số liệu Chainalysis chưa được kiểm chứng độc lập.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "d0bdfa0873fdba22ef8c579837fc35856fe5f7d26add0f1c046a676c78062fd8"
+  },
+  {
+    "id": "c197c24740b1a6346cfcb1ff297a000779a9d870ee4ea87b46ee00dd581304ee",
+    "title": "TP.HCM: Ngày hội Đại đoàn kết phường Tây Thạnh biểu dương 20 gương 'Người tốt, việc tốt'",
+    "summary": "Phường Tây Thạnh, TP.HCM tổ chức Ngày hội Đại đoàn kết toàn dân tộc, biểu dương 20 gương 'Người tốt, việc tốt' năm 2026; Phó bí thư Thành ủy Văn Thị Bạch Tuyết dự và phát biểu (Tuổi Trẻ, 22:50 VN 15/11). Liên khu phố 13–15 có 2.232 hộ, 6.637 nhân khẩu; tỷ lệ lao động có việc làm trên 95%; tỷ lệ 'Gia đình văn hóa' đạt 98%.",
+    "category": "Đời sống",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tphcm-van-thi-bach-tuyet-viec-lam-binh-di-nghia-tinh-gop-phan-to-tham-truyen-thong-doan-ket-100261115222843559.htm",
+    "imageUrl": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/15/edit-edit-hinh-15-11-17947557148631346758525.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3168,
+    "analysis": "Ngày hội Đại đoàn kết là hoạt động thường niên của Mặt trận Tổ quốc các cấp, tôn vinh các điển hình ở khu dân cư.\nTin địa phương, giá trị vừa — ghi nhận không khí đoàn kết khu dân cư và các mô hình việc làm, an sinh tại cơ sở.",
+    "tags": [
+      "Đời sống",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "a24a487d7de8f6b56da5666eeb8b94de90aff5331956189f73577759a5f2d31b"
+  },
+  {
+    "id": "ae613f61348181abbd3e5466c8f2c293c34010a255079ebfb945292dfa25a8d3",
+    "title": "Ukraine đánh sâu nhà máy hóa dầu Nizhnekamsk, cách hơn 800 km; Zelenskyy tố giới hạn Starshield giúp Nga",
+    "summary": "Ukraine tuyên bố đánh trúng nhà máy hóa dầu Nizhnekamskneftekhim và một nhà máy lọc dầu ở Nizhnekamsk, Tatarstan (cách hơn 800 km), khiến 6 người bị thương; đồng thời tấn công sân bay quân sự Akhtubinsk (cách khoảng 650 km) và một điểm phóng drone ở Oryol. Tổng thống Zelenskyy: Nga đã dùng hơn 2.300 drone, 1.590 bom lượn và 15 tên lửa trong tuần qua; đồng thời cáo buộc giới hạn tốc độ Starshield của SpaceX khiến nhiều đòn tấn công của Nga lọt qua hệ thống phòng không Ukraine.",
+    "category": "Quân sự",
+    "section": "B - Quốc tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://english.alarabiya.net/News/world/2026/11/15/ukrainian-strikes-hit-major-russian-industrial-city-authorities",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3169,
+    "analysis": "Ukraine chuyển sang chiến lược đánh sâu trả đũa vào hạ tầng năng lượng Nga; đợt Nga không kích 132 drone và 41.000 hộ dân Odesa mất điện đã được đưa ở bản tin số 48.\nLeo thang 'đánh sâu đổi đánh sâu' có thể kéo dài xung đột năng lượng qua mùa đông; tranh cãi về Starshield đặt SpaceX vào tâm điểm chính trị. Lưu ý: cáo buộc về Starshield là phát biểu một phía của Zelenskyy.",
+    "tags": [
+      "Quân sự",
+      "B - Quốc tế"
+    ],
+    "language": "vi",
+    "contentHash": "dd269ed29e36e8221eb6647ad6f629ee00c062ec0752b4d5d8fca1cfdc87fc2d"
+  },
+  {
+    "id": "6d3b2cf3320f3925d924e972be886db95b2f86c10c8c756423c6264f9fca75f6",
+    "title": "18 nước Ả Rập/Hồi giáo lên án Israel không kích bệnh viện Nasser ở Gaza; Israel tiêu diệt chỉ huy Lữ đoàn Rafah",
+    "summary": "Ngoại trưởng Saudi Arabia cùng 17 nước Ả Rập và Hồi giáo lên án Israel không kích bệnh viện Nasser ở Khan Younis, khiến 6 người thiệt mạng, trong đó có một bác sĩ phẫu thuật và một bệnh nhân tuổi teen; hơn 1.600 người Palestine đã thiệt mạng kể từ khi lệnh ngừng bắn có hiệu lực. Israel tiêu diệt Samir Mahmoud Hassan Abu Younis, chỉ huy Lữ đoàn Rafah của Hamas; Hamas xác nhận.",
+    "category": "Trung Đông",
+    "section": "B - Quốc tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.arabnews.jp/en/saudi-arabia/saudi-arabia-and-17-other-nations-jointly-condemn-israels-bombing-of-gaza-hospital-3001442",
+    "imageUrl": "https://assets.maestronewsroom.com/media/c4aa1a27-6688-419d-801f-352634a88afc/proxies/e3ed36ac-c192-4971-8fdc-c940133dc2b0.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3170,
+    "analysis": "Lệnh ngừng bắn tại Gaza vẫn mong manh; các vụ không kích vào cơ sở y tế gây phản ứng mạnh trong khu vực.\nNguy cơ lệnh ngừng bắn sụp đổ nếu các vụ tấn công tiếp diễn; áp lực ngoại giao lên Israel gia tăng từ khối Ả Rập/Hồi giáo.",
+    "tags": [
+      "Trung Đông",
+      "B - Quốc tế"
+    ],
+    "language": "vi",
+    "contentHash": "73c2a1dc498d584ac4007149cc733c3afca72bc65c6c4e7dbdf9c6fddfd89d7a"
+  },
+  {
+    "id": "9b14a7ff2c3b1da23d60f19ef18beca8f1b8e000169c5566cd55f85f46752287",
+    "title": "ASEAN–Trung Quốc đạt thỏa thuận tạm thời ~80% văn bản COC Biển Đông",
+    "summary": "Ngoại trưởng Philippines Theresa Lazaro cho biết ASEAN và Trung Quốc đã đạt thỏa thuận tạm thời khoảng 80% văn bản Bộ Quy tắc ứng xử ở Biển Đông (COC), tăng từ khoảng 50% trước đó; cần thêm 5–6 tháng để hoàn tất. Philippines đặt mục tiêu kết thúc đàm phán cuối 2026 nhưng không đạt; Singapore sẽ làm chủ tịch ASEAN năm 2027. Tuyên bố DOC 2002 là nền tảng của đàm phán.",
+    "category": "Ngoại giao",
+    "section": "B - Quốc tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.channelnewsasia.com/asia/asean-philippines-south-china-sea-myanmar-haze-6553056",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3171,
+    "analysis": "COC được đàm phán từ lâu nhằm quản lý tranh chấp Biển Đông; tiến độ tăng tốc sau các căng thẳng gần đây trong khu vực.\nNếu hoàn tất, COC có thể giảm rủi ro va chạm trên biển; nhưng các điều khoản ràng buộc vẫn là điểm khó. Lưu ý: chỉ một nguồn chính (CNA), chưa có xác nhận độc lập từ Trung Quốc hay tuyên bố chung ASEAN.",
+    "tags": [
+      "Ngoại giao",
+      "B - Quốc tế"
+    ],
+    "language": "vi",
+    "contentHash": "8af4c708d2d1edddb23a02e6047031b87b5cd1c05fdca9d5db9f8e11471ba279"
+  },
+  {
+    "id": "83d5ee403618cd05622cb4d365558e2357749fa664261275a1fe38b2c2713979",
+    "title": "Thủ tướng Việt Nam nêu 3 đề xuất tại phiên họp hẹp ASEAN lần thứ 49 ở Manila",
+    "summary": "Thủ tướng Lê Minh Hưng tham dự phiên họp hẹp Hội nghị Cấp cao ASEAN lần thứ 49 tại Manila, nêu 3 đề xuất để ASEAN tiên phong định hình môi trường chiến lược khu vực: củng cố lòng tin và xử lý khác biệt qua đối thoại; chủ động phòng ngừa, quản lý khủng hoảng và ứng phó thách thức chung; chủ động dẫn dắt hợp tác với các đối tác. Về Biển Đông, Thủ tướng đề nghị ASEAN phối hợp chặt chẽ, cùng Trung Quốc nỗ lực đàm phán COC hiệu lực, thực chất, phù hợp với luật pháp quốc tế, nhất là UNCLOS 1982. Về Myanmar, đề nghị ASEAN tiếp tục mở rộng hỗ trợ nhân đạo và nghiên cứu điều chỉnh cách tiếp cận. Bên lề, Thủ tướng gặp song phương Thủ tướng Australia Anthony Albanese, đề nghị hai bên hướng tới kim ngạch thương mại song phương 20 tỷ USD và tăng gấp đôi đầu tư hai chiều.",
+    "category": "Ngoại giao",
+    "section": "B - Quốc tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vnexpress.net/thu-tuong-neu-3-de-xuat-de-asean-tien-phong-dinh-hinh-moi-truong-chien-luoc-5144971.html",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3172,
+    "analysis": "Hội nghị Cấp cao ASEAN lần thứ 49 diễn ra tại Manila, Philippines, trong bối cảnh khu vực đối mặt nhiều biến động địa chính trị và kinh tế.\nViệt Nam đẩy mạnh vai trò kiến tạo trong ASEAN; các đề xuất về COC và hợp tác đối tác có thể định hình chương trình nghị sự khu vực năm 2027.",
+    "tags": [
+      "Ngoại giao",
+      "B - Quốc tế"
+    ],
+    "language": "vi",
+    "contentHash": "776503dd0452638541943742f3484ceb7de3920094fcb4b74918ba205c7d5cd8"
+  },
+  {
+    "id": "011f633a9f6fa15656e662058279c800a0011bb762bf656ee32e04ca7da29085",
+    "title": "Nvidia báo cáo kết quả kinh doanh quý 3 ngày 17/11 — phép thử lớn cho cơn sốt AI",
+    "summary": "Nvidia báo cáo kết quả kinh doanh quý 3 vào khoảng 16:20 ET ngày 17/11 (04:20 VN 18/11), cuộc gọi với nhà đầu tư lúc 17:00 ET (05:00 VN 18/11). Đồng thuận thị trường: doanh thu khoảng 108,84–109,2 tỷ USD (+khoảng 91% so với cùng kỳ), EPS điều chỉnh 2,47–2,48 USD (+khoảng 90%); hướng dẫn doanh thu khoảng 108 tỷ USD (±2%), biên lợi nhuận gộp khoảng 74%, giả định không có doanh thu trung tâm dữ liệu từ Trung Quốc. Quyền chọn định giá biến động cổ phiếu ±10,6% quanh ngày báo cáo (trung bình 10 năm ±7,8%). Cổ phiếu đóng cửa 186,64 USD ngày 6/11, thấp hơn khoảng 22% so với đỉnh 239,24 USD ngày 6/10. Dòng chip Vera Rubin bắt đầu giao hàng từ tháng 8/2026, dự kiến đóng góp khoảng 20% doanh thu trung tâm dữ liệu quý 3.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.oanda.com/eu-en/newsfeed/nvidia-nvda-q3-earnings-preview-ai-spending-risks-and-governance-concerns-threaten-major-uptrend",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3173,
+    "analysis": "Đây là báo cáo đầu tiên sau khi CEO Jensen Huang từ chức ngày 12/11; thị trường chờ xem ban lãnh đạo tạm quyền xử lý ra sao trước lo ngại về chi tiêu AI và quản trị.\nPhép thử lớn cho toàn bộ chuỗi giá trị AI: kết quả tốt có thể ổn định thị trường sau đợt bán tháo; kết quả yếu có thể kích hoạt thêm một đợt giảm sâu. Góc phân tích khác với tin CEO từ chức ở Phần A.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "c0017210b9168fd39a34d8c52a20e782e477b1b1ac1490f056fedfb01e90d2d5"
+  },
+  {
+    "id": "696b450f215bc0659e1632206b9bd53c08c40f2f93d02b4a93cc81f3eac84442",
+    "title": "IPO Anthropic: sổ lệnh vượt 6 lần, định giá tới 1,4 nghìn tỷ USD; nhà đầu tư Trung Quốc, Hồng Kông bị từ chối",
+    "summary": "Anthropic chào bán 825 triệu cổ phiếu loại A với giá 70–78 USD, huy động tối đa khoảng 64,4 tỷ USD, định giá pha loãng đầy đủ tới khoảng 1,4 nghìn tỷ USD; chốt giá ngày 18/11, giao dịch trên Nasdaq với mã ANT từ 19/11. Sổ lệnh đến cuối ngày 12/11 đạt khoảng 6 lần số cổ phiếu chào bán (từ khoảng 2 lần ngày đầu roadshow 10/11). Phát hành riêng 26 tỷ USD cho 7 đối tác chiến lược (Google, Nvidia, AMD, Broadcom, Micron, Microsoft, TSMC), trong đó Nvidia góp khoảng 10 tỷ USD. Diễn biến mới ngày 13/11: theo Bloomberg, các ngân hàng từ chối hoặc gần như không phân bổ cho nhà đầu tư tổ chức Trung Quốc đại lục và Hồng Kông, một phần do quy định xuất khẩu quốc phòng ITAR của Mỹ. Doanh thu 9 tháng đầu 2026 đạt 33,2 tỷ USD; run-rate khoảng 81 tỷ USD tính đến 31/10.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.trading212.com/learn/investing-101/anthropic-ipo",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3174,
+    "analysis": "IPO Anthropic là thương vụ IPO công nghệ lớn nhất lịch sử nếu thành công; nhu cầu vượt cung cho thấy nhà đầu tư vẫn đặt cược lớn vào AI dù thị trường vừa bán tháo.\nViệc loại nhà đầu tư Trung Quốc/Hồng Kông cho thấy ranh giới địa chính trị đang định hình thị trường vốn AI; kết quả chốt giá 18/11 sẽ là chỉ báo quan trọng cho định giá toàn ngành. Lưu ý: chi tiết qua nguồn thứ cấp (Trading212, Harava) dẫn Reuters/Bloomberg.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "2a2425a042b3a5a08e62f333b6c14650b375fad547311d279861c741aec194b7"
+  },
+  {
+    "id": "f4329ef2be77b8031bebf75896137e23750744dc1ff30bd5fb7c6ea4d8b6001f",
+    "title": "Xe tự lái Trung Quốc chuyển sang 'Plan B' chip nội địa; United hạn chế AI agent đặt vé",
+    "summary": "Pony.ai: CFO Leo Wang cho biết nhu cầu chip vượt xa nguồn cung; công ty dùng tài nguyên tính toán tầm trung và chuyển sang chip sản xuất trong nước; 'Plan B' chip nội địa đã chuẩn bị vài năm, 'trưởng thành hơn vài năm trước' dù hiệu quả chi phí chưa bằng chip nước ngoài. May Mobility dùng xe điện VW ID. Buzz cho dịch vụ ride-hailing toàn cầu, mục tiêu hơn 10.000 xe tự lái đến 2031. Startup robotaxi Nhật Bản Newmo huy động 20,8 tỷ yên (khoảng 135 triệu USD) do KDDI dẫn đầu. United Airlines sẽ hạn chế AI agent đặt vé và quản lý đặt chỗ thay người dùng. Tesla mở rộng robotaxi sang San Antonio, Texas. Cơ quan an toàn giao thông Mỹ (NHTSA) điều tra vụ thu hồi phần mềm Waymo liên quan xe buýt trường học.",
+    "category": "Xe tự lái",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3175,
+    "analysis": "Bản tin TechCrunch Mobility đăng 00:05 VN 16/11 (trong cửa sổ); Web Summit 2026 tại Lisbon vừa kết thúc, tin CEO Nvidia từ chức lan khắp hội nghị.\nChuỗi cung ứng chip AI cho xe tự lái đang tách dần theo địa chính trị; các hãng hàng không bắt đầu đặt giới hạn cho AI agent tự động giao dịch thay người dùng.",
+    "tags": [
+      "Xe tự lái",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "24ebe4034867826c7f3458963627676cc0fabb948d93fa2dcc374662dc59ecad"
+  },
+  {
+    "id": "4c62b2301e5958f27058e0cfa87ff8944d0c44ce34d9c2f357afd03b0898d587",
+    "title": "'All AI-generated code should be Open Source' dẫn đầu Hacker News",
+    "summary": "Bài viết 'All AI-generated code should be Open Source' dẫn đầu Hacker News với 785 điểm và 411 bình luận (ghi nhận khoảng 02:31 VN 16/11 qua API chính thức của Hacker News; bài đăng 21:46 VN 15/11). Tác giả lập luận: mã do AI tạo ra nên được mở nguồn để cộng đồng kiểm chứng, sửa lỗi và tránh lệ thuộc vào mô hình đóng.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50507303",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3176,
+    "analysis": "Tranh luận nổ ra khi AI viết ngày càng nhiều mã sản xuất nhưng chất lượng và bản quyền vẫn gây tranh cãi; cộng đồng mã nguồn mở quan tâm đến tính minh bạch của mã do máy tạo ra.\nĐiểm HOT: Chưa đủ dữ liệu (chỉ có điểm và bình luận trên một nền tảng; thiếu số lượt chia sẻ, tăng trưởng 24h và lan truyền đa nền tảng). Tác động: nếu quan điểm này lan rộng, các công ty dùng AI viết mã có thể phải xem lại chính sách cấp phép và kiểm soát mã nguồn.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "c97a51c2ca4d8f03f977b5ca2ebdc8cd95ac97e97635318b45a5af27f15365e9"
+  },
+  {
+    "id": "d39e49f6f2106952e904d161f6e1287d53c05cfd890bf766720c4e61ed019ac8",
+    "title": "'Emacs Is My Browser': trình duyệt từ trình soạn thảo 50 tuổi gây chú ý",
+    "summary": "Bài viết 'Emacs Is My Browser' đạt 102 điểm và 56 bình luận trên Hacker News (ghi nhận khoảng 02:31 VN 16/11 qua API chính thức; bài đăng 22:21 VN 15/11, trong cửa sổ). Tác giả mô tả cách dùng trình soạn thảo Emacs làm trình duyệt web hằng ngày.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50507553",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3177,
+    "analysis": "Emacs tròn 50 tuổi vào cuối tháng 10/2026; cộng đồng vẫn duy trì các luồng sử dụng phi truyền thống cho công cụ lâu đời này.\nĐiểm HOT: Chưa đủ dữ liệu (chỉ có điểm và bình luận trên một nền tảng; quy mô nhỏ). Tác động: xu hướng nhỏ, mang tính cộng đồng, phản ánh sự quan tâm đến công cụ tối giản và tự chủ thay vì trình duyệt nặng nề.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "71277d18e4bf3ed004099ae63229ebc65ec9b6e48888c9c4cdaef0056c5885c3"
+  },
+  {
+    "id": "8e599975eaa432a11ae5b8973a8b63f95d7f20c329f0559b0bbf2b3df3e6ad8f",
+    "title": "GitHub Trending: công cụ cho AI agent dẫn đầu, chrome-devtools-mcp tăng 718 sao/ngày",
+    "summary": "GitHub Trending ngày 15–16/11 tiếp tục do công cụ phục vụ AI agent dẫn đầu: ChromeDevTools/chrome-devtools-mcp tăng 718 sao trong ngày; Tencent/LoopForge tăng 484 sao; ggml-org/ggml tăng 53 sao. Các repo khác trong top: backnotprop/plannotator (+860 sao) và alibaba/open-code-review (+688 sao) — cả hai đã được ghi ở các bản tin trước nên không ghi dòng riêng.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "collectedAt": "2026-11-15T21:44:04.106Z",
+    "sourceRow": 3178,
+    "analysis": "Xu hướng phản ánh nhu cầu hạ tầng cho AI agent: máy chủ MCP cho phép agent điều khiển trình duyệt và công cụ lập trình; ggml/llama.cpp v1.0.0 (phát hành 13/11) vẫn được bàn luận sôi nổi.\nĐiểm HOT: Chưa đủ dữ liệu (chỉ có số sao tăng trong ngày trên một nền tảng; thiếu số lượt chia sẻ, tăng trưởng 24h và lan truyền đa nền tảng). Tác động: hạ tầng agent đang là mặt trận cạnh tranh chính của các hãng lớn; nhà phát triển nên theo dõi chuẩn MCP và các công cụ kiểm thử agent.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "fcdaeaed32da9a2ab4ddf04ab607c31438c8f248f745eca7792a1328b7bcdef7"
   }
 ]
