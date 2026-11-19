@@ -43940,5 +43940,797 @@
     ],
     "language": "vi",
     "contentHash": "7b3edbfca90bacac78de576730092cd58c8d03e9169be90bf23e6868f86e25c8"
+  },
+  {
+    "id": "c9ff03fb5255196e28281807c2e3c3016d4c185c967e2c24b01314064fadce8b",
+    "title": "PHP phát hành bản vá CRITICAL: 7 lỗi CVSS 9.2 có thể dẫn tới RCE, vá cả PHP 8.6.0 mới",
+    "summary": "Đúng khung dự kiến 21:00-21:30 VN 19/11, PHP Foundation phát hành bản vá cho mọi nhánh được hỗ trợ: 8.2.36, 8.3.37, 8.4.28, 8.5.13 và 8.6.0. The Hacker News liệt kê 8 CVE, trong đó 7 CVE đạt CVSS 9.2 và 1 CVE đạt 8.8. CVE-2026-115560 (9.2): lỗi kiểm tra đầu vào trong session, có thể RCE. CVE-2026-129289 (9.2): diễn giải HTTP không nhất quán trong PHP-FPM, cho phép chạy mã PHP của kẻ tấn công mà không cần cấu hình không mặc định. CVE-2026-126714 'phpAfterShell': lỗi TOCTOU trong session file. Chưa có bằng chứng khai thác thực tế cho các CVE mới; chưa vào danh sách KEV của CISA.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "A - Top 5",
+    "sourceUrl": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3697,
+    "analysis": "Đợt vá theo chu kỳ 4 tuần nhưng ở mức CRITICAL; PHP chạy trên khoảng 70% website. Khác PHP2Shell tháng 10 (CVE-2026-109618/109619), phần lớn lỗi lần này cần cấu hình không mặc định - trừ CVE-2026-129289 trong PHP-FPM. PHP 8.1 trở về trước đã hết hỗ trợ, không được vá.\nƯu tiên vá ngay, đặc biệt máy chủ dùng PHP-FPM với nginx fastcgi_keep_conn hoặc Apache mod_proxy_fcgi enablereuse. Biện pháp tạm thời: tắt session upload progress. Rủi ro: PoC có thể xuất hiện sau khi chi tiết kỹ thuật được công bố rộng rãi; các site chưa vá đối mặt RCE/DoS.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "8660104df28520ed03660d4cc4c25536719859f6763b6c31b8cecf1fb9d60304"
+  },
+  {
+    "id": "4c699b42038f142379907b18d5a5b5996c6ea103bfde17d7ef3b2af1ac627bcf",
+    "title": "Anthropic (ANT) sắp giao dịch đầu tiên: giá mở cửa dự kiến ~99,82 USD, cao hơn ~20% so với giá IPO 83 USD",
+    "summary": "Cổ phiếu Anthropic dự kiến mở cửa ở 99,82 USD lúc 9:50 ET (21:50 VN), cao hơn ~20% so với giá IPO 83 USD, tương ứng định giá khoảng 1,8 nghìn tỷ USD. Tính đến 22:15 VN chưa có giá giao dịch đầu tiên được xác nhận - CNA (cập nhật 22:11 VN) vẫn dùng từ 'set to open'. IPO bán 980 triệu cổ phiếu giá 83 USD, huy động 81,34 tỷ USD (có thể lên 93,5 tỷ USD nếu thực hiện toàn bộ quyền mua thêm), cộng 26 tỷ USD phát hành riêng lẻ, tổng giá trị giao dịch hơn 107 tỷ USD. Nhà đầu tư phát hành riêng lẻ: AMD, Broadcom, Alphabet, Micron, Microsoft, Nvidia, TSMC. CEO Dario Amodei và 6 đồng sáng lập (nắm ~10%) có cổ phần trị giá gần 150 tỷ USD theo giá IPO. Cam kết chi phí điện toán gần 900 tỷ USD với Amazon và Alphabet.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.channelnewsasia.com/business/anthropic-set-secure-18-trillion-valuation-in-strong-nasdaq-debut-6565741",
+    "imageUrl": "https://dam.mediacorp.sg/image/upload/s--eJFIf7fz--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-19T151133Z_1_LYNXNPEMAI1S0_RTROPTP_3_ANTHROPIC-IPO-DEBUT.JPG?itok=8hR1Sisa",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3698,
+    "analysis": "IPO lớn nhất lịch sử, vượt kỷ lục SpaceX; công ty AI biên giới đầu tiên niêm yết, được xem là phép thử khẩu vị nhà đầu tư với thế hệ công ty AI mới sau KQKD Nvidia đầu tuần. Nhu cầu vượt cung khoảng 6-10 lần (Bloomberg/CNBC).\nCổ phiếu ANT có thể thành chỉ báo (proxy) cho toàn bộ xu hướng AI; biến động phiên đầu sẽ định hướng tâm lý thị trường công nghệ. Rủi ro: tranh luận bong bóng AI vẫn gay gắt do các thỏa thuận tài chính vòng tròn trong ngành; định giá 1,8 nghìn tỷ USD đặt áp lực lớn lên tăng trưởng doanh thu (run rate 81 tỷ USD tính đến 31/10).",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "ccf81d0ceaa972e631022b166ed4afc209d9a3f21c4581d8fbb273090a6c3833"
+  },
+  {
+    "id": "f25a89cf739e1e7bf6973305ed87707241288c39e5c805bdb91e6a875ae617ab",
+    "title": "Hậu thượng đỉnh Thâm Quyến: châu Âu phản ứng lạnh nhạt, Putin nói 'chỉ Chúa mới biết' liệu có hòa bình",
+    "summary": "Sau Tuyên bố Hòa bình tại Thâm Quyến (kết thúc ~17:09 VN), phản ứng quốc tế tối nay chủ yếu hoài nghi. Thủ tướng Ba Lan Donald Tusk đăng video trên X: 'Putin không phải và sẽ không bao giờ là bạn của chúng ta'. Phát ngôn viên Chủ tịch Ủy ban châu Âu Ursula von der Leyen đáp lạnh nhạt khi được hỏi về việc Trump gọi Putin là 'bạn tôi'. Lãnh đạo đối lập Anh Kemi Badenoch gọi cuộc gặp 'đáng lo ngại'. Putin họp báo: 'chỉ có Chúa mới biết' liệu có hòa bình; bảo vệ hội nghị Yalta 1945; đe dọa đáp trả 'đau đớn hơn nhiều' với các vụ tấn công của Ukraine vào cầu Kerch. Ba nước cam kết cải cách Liên Hợp Quốc, tăng nguồn cung dầu toàn cầu, hạn chế thẩm quyền ICC (Putin hiện bị ICC truy nã). Học giả William Hurst (Cambridge): 'rất ít nội dung thực chất đạt được'.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.thetimes.com/world/asia/article/trump-xi-putin-summit-shenzhen-latest-news-ddskr7pcx",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3699,
+    "analysis": "Tuyên bố không đặt giới hạn kho vũ khí hạt nhân nào (New START đã hết hạn từ tháng 2/2026), không có thời hạn hay thỏa thuận cụ thể về Ukraine hay Iran. Putin nói sẽ cân nhắc dự G20 tại Miami tháng 12 sau khi thảo luận với Trump.\nCam kết tăng cung dầu có tác động trực tiếp tới thị trường năng lượng; sự chia rẽ với đồng minh châu Âu làm rõ giới hạn ngoại giao của hội nghị. Rủi ro: kỳ vọng hòa bình Ukraine hạ nhiệt; theo dõi phản ứng của Kyiv và các nước châu Âu trong những ngày tới.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "aa94a2aa6e523a11e1064315ecda66b0bfbd912da26857c64144e10bc198e91b"
+  },
+  {
+    "id": "913dc20a6d8527c8f99df17b3363b069d76a4da74248800b69f31a1798948156",
+    "title": "Vụ nổ gas Tân Thuận: thêm 1 người tử vong, nghi sang chiết gas trái phép, xem xét khởi tố",
+    "summary": "Vụ nổ khoảng 11h ngày 13/11 tại cửa hàng gas số 81 đường Bùi Văn Ba, phường Tân Thuận, TP.HCM. Tính đến 13h ngày 19/11: 3 người tử vong, 9 người bị thương (2 người còn điều trị, 7 người đã xuất viện); nạn nhân thứ ba tử vong tại Bệnh viện Chợ Rẫy lúc khoảng 7h22 ngày 19/11. Vụ nổ làm 2 căn nhà sập hoàn toàn, 2 căn sập một phần, nhiều nhà lân cận tốc mái, nứt tường, vỡ kính. Tại họp báo chiều 19/11, Trung tá Lê Tấn Châu (Phó Trưởng phòng PC07, Công an TP.HCM) cho biết vụ nổ có dấu hiệu liên quan hoạt động sang chiết gas trái phép, sai phép; cơ quan chức năng đang điều tra và có thể khởi tố hình sự các cá nhân liên quan. Công an TP.HCM tham mưu tổng rà soát các cửa hàng gas, kho chứa, trạm nạp trên địa bàn. Phường Tân Thuận hỗ trợ tổng cộng 266 triệu đồng cho các gia đình nạn nhân và hộ có nhà bị sập.",
+    "category": "Chính trị & Xã hội",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.vietnamplus.vn/vu-no-gas-lam-3-nguoi-tu-vong-xem-xet-khoi-to-cac-ca-nhan-lien-quan-post1149483.vnp",
+    "imageUrl": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/19/t62a2794-17950801243011086053646-134-253-1028-1960-crop-1795085031502279795325.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3700,
+    "analysis": "Diễn biến mới trong ngày của vụ tai nạn xảy ra 6 ngày trước: số người chết tăng từ 2 lên 3 và lần đầu cơ quan chức năng công khai hướng nguyên nhân là sang chiết gas trái phép, kèm động thái rà soát toàn thành phố. Đa nguồn: VietnamPlus 20:09, Tuổi Trẻ 17:37, Dân trí 17:35.\nTác động trực tiếp tới an toàn của hàng nghìn cửa hàng gas trong khu dân cư; đợt tổng rà soát có thể siết chặt quản lý kinh doanh gas. Rủi ro pháp lý với các cơ sở sang chiết trái phép tăng cao.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "28248bfbaf2fd340cfc88044d9b4c3d522f2ec3537d7f7175142a2f36863e61c"
+  },
+  {
+    "id": "cd141a2dbb6f5d2e5910df47c10fe430450cc07169df794b54b828f10c43c413",
+    "title": "Phố Wall hồi phục mạnh giữa phiên sau 5 phiên giảm liên tiếp của S&P 500 - chưa đóng cửa",
+    "summary": "Tính đến 9:31 ET (21:31 VN): S&P 500 tăng 1,0% lên 7.397,35; Nasdaq Composite tăng 1,55% lên 24.809,76; Dow Jones tăng 0,47% lên 50.433,9. Hợp đồng tương lai trước giờ mở cửa đã tăng mạnh: Nasdaq-100 futures +2,06%, S&P 500 futures +1,19%, Dow futures +0,62% (lúc 8:23 ET). Động lực: kỳ vọng vào IPO Anthropic và Walmart nâng triển vọng. PHIÊN CHƯA ĐÓNG CỬA - số đóng cửa thực tế chỉ có vào ~04:00 VN ngày 20/11. Bối cảnh phiên trước (18/11): Dow giảm 561,25 điểm (-1,11%) xuống 50.198,17; S&P 500 giảm 0,23% xuống 7.323,63 (phiên giảm thứ 5 liên tiếp, dài nhất từ tháng 6); Nasdaq tăng 0,42% lên 24.429,89. Nguyên nhân: biên bản họp tháng 10 của Fed cho thấy việc giữ nguyên lãi suất 3,75-4,00% chỉ thông qua với tỷ lệ 10-2; Thống đốc Christopher Waller kêu gọi tăng 0,5 điểm % trong tháng 12; thị trường định giá gần như chắc chắn Fed tăng 0,25 điểm % tại cuộc họp 8-9/12. UnitedHealth lao dốc 10,31% sau đề xuất quy định CRUSH của cơ quan Medicare/Medicaid.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "sourceUrl": "https://beststocks.com/market-today",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3701,
+    "analysis": "Đà hồi phục diễn ra sau chuỗi bán tháo vì lo chi phí AI và lập trường diều hâu của Fed; IPO Anthropic và KQKD Walmart là chất xúc tác tâm lý trong phiên.\nNếu đóng cửa tăng, S&P 500 chấm dứt chuỗi 5 phiên giảm; ngược lại, áp lực bán có thể quay lại. Theo dõi số đóng cửa ~04:00 VN và diễn biến ANT trong phiên đầu tiên.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "a40441fb235195cffed4e26865782defc6f4c29017570b4318e9a03e424d616d"
+  },
+  {
+    "id": "fd3e2613fb7fbae054b2b046dfe63a4308fa8ec068776ef2523523dae260d6ed",
+    "title": "Dầu Brent ~92,7 USD, WTI ~84,1 USD; vàng ~3.720 USD/ounce ở đáy 14 tháng; Bitcoin ~63.590 USD",
+    "summary": "Tối nay (ghi nhận khoảng 20:04-22:13 VN): dầu Brent khoảng 92,7 USD/thùng (+0,8%), WTI khoảng 84,1 USD/thùng (+1%), hồi nhẹ sau khi giảm mạnh phiên trước (WTI chốt phiên 18/11 ở 83,26 USD, thấp nhất từ 26/8; Brent 91,45 USD) do tồn kho dầu thô Mỹ tăng 3,4 triệu thùng lên 417,8 triệu thùng (EIA). Vàng giao ngay khoảng 3.720-3.739 USD/ounce, quanh mức thấp nhất 14 tháng sau khi giảm 3,58% trong phiên 18/11 vì kỳ vọng Fed tăng lãi suất và USD lên đỉnh 19 tháng (DXY ~103,8-103,9). Bitcoin khoảng 63.590 USDT lúc 22:13 VN, gần như đi ngang trong ngày, giảm ~2% trong 24 giờ trước đó và giảm 21,97% trong 1 tháng; ngưỡng hỗ trợ quan trọng quanh 62.000 USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.investopedia.com/5-things-to-know-stock-market-november-19-2026-12260143",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3702,
+    "analysis": "Dầu giằng co giữa tồn kho Mỹ tăng + lo ngại thặng dư cung toàn cầu kéo giá xuống và căng thẳng Mỹ-Iran/Hormuz hạn chế đà giảm. Vàng chịu áp lực từ lợi suất trái phiếu Mỹ 10 năm quanh 5,07% và USD mạnh; đà hồi phục nhẹ trong ngày nhờ lực mua bắt đáy.\nDầu giữ giá cao hỗ trợ ngân sách các nước xuất khẩu nhưng gây áp lực lạm phát nhập khẩu; vàng ở đáy 14 tháng phản ánh kỳ vọng Fed diều hâu; Bitcoin thủng 62.000 USD có thể kích hoạt bán tháo kỹ thuật.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "fbb067eb8c5c6e847328d5d3c92e3586ab031c8104077d9991185837da117c3a"
+  },
+  {
+    "id": "16ea6d75ece29ab7efd283d67850539ea522257acf569ba4fa9d899446faa9f5",
+    "title": "Đơn xin trợ cấp thất nghiệp Mỹ tăng lên 203.000, chỉ số Philly Fed rơi xuống 6,3 - Fed vẫn được kỳ vọng tăng lãi suất",
+    "summary": "Số đơn xin trợ cấp thất nghiệp lần đầu tuần kết thúc 14/11 tăng 1.000 lên 203.000, cao hơn dự báo 197.000-198.000 (Reuters); số đơn tiếp tục nhận trợ cấp tăng 70.000 lên 1,763 triệu, cho thấy tuyển dụng chậm lại. Chỉ số sản xuất Philly Fed tháng 11 lao dốc từ 20,9 xuống 6,3 - thấp nhất kể từ tháng 5, thấp hơn nhiều so với dự báo ~20,6 - đơn hàng mới chuyển sang âm (-0,4 từ +4,3); chỉ số giá phải trả vọt lên 58,2 (từ 43,2). Cả hai số liệu công bố lúc 8:30 ET (20:30 VN). JPMorgan được dẫn lời cho rằng Fed sẽ tăng lãi suất trong 3 cuộc họp tới. Lợi suất trái phiếu 10 năm Mỹ quanh 5,085% sau khi số liệu công bố. (Số liệu Philly Fed: 1 nguồn The Apex Wire; số liệu thất nghiệp: Reuters.)",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/world/us/us-weekly-jobless-claims-increase-slightly-2026-11-19/",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3703,
+    "analysis": "Bức tranh 'tăng trưởng yếu + lạm phát dai dẳng' (stagflation nhẹ): thị trường lao động và sản xuất suy yếu nhưng áp lực giá đầu vào vẫn cao.\nCủng cố khả năng Fed tăng 0,25 điểm % tại cuộc họp 8-9/12 bất chấp dữ liệu yếu - mâu thuẫn này là tâm điểm chi phối thị trường toàn cầu tối nay và lý giải đà giảm của vàng, USD mạnh.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "162fee66404631c23cdacbc96b2d9c7b39aa8b8f85f018f534eb6a5ac3a517bc"
+  },
+  {
+    "id": "edc5514f3bf0af967e8797ac3f0d818624d8f264d2c6744ebd7baf3d9fa5f4b9",
+    "title": "Walmart vượt dự báo quý 3 và nâng triển vọng cả năm trước mùa mua sắm lễ hội",
+    "summary": "Walmart công bố sáng 19/11 (trước giờ mở cửa Mỹ): doanh thu quý 3 tài khóa 2027 (kết thúc 31/10) đạt 188,8 tỷ USD, tăng 5,2% so với cùng kỳ, vượt dự báo 187,27 tỷ USD; lợi nhuận điều chỉnh 0,65 USD/cổ phiếu, vượt dự báo 0,64 USD (tăng 4,8% so với 0,62 USD cùng kỳ). Doanh số so sánh tại Mỹ tăng 2,9% (không tính nhiên liệu); thương mại điện tử toàn cầu tăng 17% (tại Mỹ tăng 23%). Nâng triển vọng cả năm: tăng trưởng doanh thu thuần 4,9-5,2% (trước 4-5%), lợi nhuận điều chỉnh 2,84-2,89 USD/cổ phiếu (trước 2,80-2,87 USD). Tuy nhiên mức tăng trưởng doanh thu mới vẫn thấp hơn kỳ vọng của giới phân tích là 5,5%; cổ phiếu WMT giảm ~1,1% xuống 126,00 USD sau báo cáo. Lợi nhuận ròng giảm 19,5% xuống 4,9 tỷ USD.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.morningstar.com/news/dow-jones/202611194370/walmart-raises-fiscal-year-guidance-amid-3q-earnings-beat",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3704,
+    "analysis": "Walmart là nhà bán lẻ lớn nhất thế giới và là phong vũ biểu tiêu dùng Mỹ trước mùa lễ hội quan trọng nhất năm.\nSức mua vẫn vững nhờ hàng tạp hóa giá thấp và giao hàng, nhưng người tiêu dùng vẫn thận trọng - tín hiệu trái chiều cho mùa mua sắm cuối năm.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "2da8c123797c39a3acc4be42297e2ffaa6cd37a57e48e482c7914b940fe5abde"
+  },
+  {
+    "id": "314db3b14eacdacea921f14057613495a6aaa6981f230e9ae79c55a07f5961a6",
+    "title": "Sạt lở 4 vị trí, dài ~190 m, chia cắt đường vào Trung tâm hành chính xã Phú Hữu (An Giang)",
+    "summary": "Tối 18/11, tuyến đường từ cầu Phú Thạnh đến UBND xã Phú Hữu xảy ra sạt lở, sụp lún tại 4 vị trí, tổng chiều dài khoảng 190 m. Ba vị trí đầu dài lần lượt khoảng 40 m, 50 m, 40 m, lấn vào mặt đường nhựa 0,5-1,5 m; vị trí thứ tư dài khoảng 60 m, rộng 3-7 m, làm hư hỏng toàn bộ mặt đường nhựa, gây chia cắt giao thông. Đến thời điểm kiểm tra, chưa ghi nhận thiệt hại về người. Địa phương đã giăng dây, cấm người và phương tiện qua khu vực, vận động 9 hộ dân gần khu vực nguy hiểm di dời người và tài sản. Trước mắt sẽ làm đường tạm dài ~300 m, rộng 1,5 m bằng cấp phối đá dăm cho xe hai bánh; lâu dài cần gia cố đồng bộ toàn tuyến với kinh phí dự kiến ~38 tỷ đồng, xã đã kiến nghị tỉnh hỗ trợ bổ sung 32,7 tỷ đồng.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://baotintuc.vn/khan-truong-khac-phuc-sat-lo-duong-tai-xa-phu-huu-an-giang-post1404391.html",
+    "imageUrl": "https://media3.baotintuc.vn/images/SM4190uVayVE8wEiQsE9bJsR_M71WFtHaVkLmelT3GH74y2hHauWFXMD8I6QuwII/sat-lo-duong.jpg.avif",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3705,
+    "analysis": "Nguyên nhân bước đầu: dòng nước lũ thời gian qua gây xói mòn, làm mất ổn định mái bờ kênh, cộng nền đất yếu và mưa lớn kéo dài; tuyến đường vừa là đường vào trung tâm hành chính xã, vừa là đê bao bảo vệ vùng sản xuất nông nghiệp. Đa nguồn: Báo Tin Tức 19:15, SGGP 18:56, VietnamPlus 20:14.\nSạt lở đe dọa đi lại, quản lý hành chính và sản xuất của dân; cần theo dõi diễn biến mưa lũ miền Trung đêm 19-21/11 có thể làm tình hình xấu thêm.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "50ebac77d743d3fbd7c27c92fef8daf8dc398ebaea5bbd6661f6c560b31ebe20"
+  },
+  {
+    "id": "9526d74be05bc091d1af261d9a8da033d89612b292f1d721bd5e67414e9d8e8d",
+    "title": "Bắt tạm giam tài xế xe ben gây tai nạn khiến hai chị em ruột tử vong ở TP.HCM",
+    "summary": "Ngày 19/11, Cơ quan CSĐT Công an TP.HCM đã khởi tố vụ án, khởi tố bị can, bắt tạm giam Đinh Xuân Sơn (27 tuổi, ngụ Quảng Trị) về tội 'Vi phạm quy định về tham gia giao thông đường bộ'. Khoảng 14h11 ngày 15/11, Sơn lái xe ben trên đường Thủ Khoa Huân (hướng chợ Búng đi ngã tư Hòa Lân); đến giao lộ với đường 22 Tháng 12, phường Thuận Giao (TP.HCM), tài xế rẽ phải va chạm xe đạp điện do em Đ.T.M.T. (15 tuổi) điều khiển, chở chị gái Đ.T.M.D. (17 tuổi) đi cùng chiều. Người chị tử vong tại chỗ, em gái tử vong tại bệnh viện; xe đạp điện bị cuốn vào gầm xe ben, hư hỏng nặng. Kết quả điều tra xác định Sơn chuyển hướng không bảo đảm an toàn là nguyên nhân trực tiếp.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://vnexpress.net/xe-tai-re-au-lam-2-chi-em-tu-vong-tai-xe-bi-bat-5146754.html",
+    "imageUrl": "https://i2-vnexpress.vnecdn.net/2026/11/19/179508474557121486803112921729-9653-6789-1795084879.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=vdfJFzCLk25Ur9MNrcOR-Q",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3706,
+    "analysis": "Vụ tai nạn gây bức xúc vì nạn nhân là hai chị em ruột còn là học sinh, va chạm xảy ra ở điểm mù khi xe tải rẽ phải - dạng tai nạn lặp lại nhiều lần với xe ben/xe tải và xe đạp điện. Đa nguồn: VnExpress 17:51, Tuổi Trẻ 14:49, Dân trí 11:43.\nViệc khởi tố, bắt giam trong 4 ngày cho thấy xử lý nhanh, có tính răn đe; đặt lại yêu cầu siết quản lý xe ben và giáo dục an toàn giao thông cho học sinh đi xe đạp điện.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "fcc020e2441d8f025279039d40b26ae6ed43a2f1075330b18904579e805eaae3"
+  },
+  {
+    "id": "e7363719617c3eac33370608fe096497f12c03787cf9415d79e11605b4c11f5a",
+    "title": "Mưa lớn miền Trung từ đêm 19-21/11, cục bộ trên 250 mm; miền Bắc rét hơn",
+    "summary": "Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, không khí lạnh tăng cường, mở rộng xuống Trung và Nam Trung Bộ. Từ đêm 19/11 đến hết ngày 21/11, Quảng Trị, Huế, Đà Nẵng, Đông Quảng Ngãi và Đông Gia Lai có mưa vừa, mưa to và dông, lượng mưa phổ biến 90-180 mm, cục bộ trên 250 mm, nguy cơ mưa cường độ lớn trên 80 mm/3 giờ, ngập úng vùng trũng thấp, lũ quét và sạt lở đất. Miền Bắc từ đêm 19/11 rét hơn, nhiệt độ thấp nhất phổ biến 14-17 độ, vùng núi 11-14 độ, vùng núi cao có nơi dưới 9 độ; Hà Nội thấp nhất 16-18 độ. Trên biển, vịnh Bắc Bộ và Bắc Biển Đông gió Đông Bắc cấp 6-7, giật cấp 8-9, sóng 2-4 m, riêng phía Đông Bắc Bắc Biển Đông 3-5 m. Khoảng 23-24/11 không khí lạnh mạnh tiếp tục tràn xuống, mưa lớn có thể xuất hiện diện rộng ở miền Trung.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baomoi.com/nhieu-tinh-mien-bac-mien-trung-sap-mua-to-c56554477.epi",
+    "imageUrl": "https://baomoi-photo-fbcrawler.bmcdn.me/w1200_r16x9/2026_11_19_20_56554477/b8024ae9d6a23ffc66b3.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3707,
+    "analysis": "Đây là cập nhật dự báo trong cửa sổ tối nay; bản tin cảnh báo lũ (đỉnh lũ sông Huế báo động 1-2) đã đăng 17:19 và đã đưa ở số trước. Rà soát tối nay chưa tìm thấy báo cáo thiệt hại, ngập lụt hay thương vong thực tế nào ở miền Trung trong khung 18:15-22:15; mưa lớn thực tế mới bắt đầu từ đêm 19/11.\nCần theo dõi sát ở số sau: nguy cơ ngập úng, lũ quét, sạt lở tại các tỉnh miền Trung trong 2-3 ngày tới.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "3761b3fc4251e8815b2288eddefe50eff91f6d973cfb6e4d02ee0a96134149c0"
+  },
+  {
+    "id": "9a1fffa4d740aee066cbf237c94907cb0cdb3de272d6acd3630820cc523e87c8",
+    "title": "PHP 8.6.0 ra mắt: API polling native, kiểu Duration, partial application và session mặc định an toàn hơn",
+    "summary": "PHP 8.6.0 đã phát hành ngày 19/11/2026, cùng ngày với đợt vá critical. Ba tính năng nổi bật: API polling native qua namespace Io\\Poll (dùng epoll trên Linux, kqueue trên BSD/macOS, WSAPoll trên Windows), kiểu Time\\Duration chuyên dụng với độ chính xác nanosecond, và partial function application với placeholder ? và ... Bổ sung nhỏ: hàm clamp(), readonly property có thể có giá trị mặc định, DocComments trên tham số, enum có __debugInfo(), mô hình lỗi thống nhất cho stream, URI builder, enum SortDirection. Ba mặc định php.ini đổi sang an toàn hơn: session.use_strict_mode và session.cookie_httponly mặc định 1, session.cookie_samesite mặc định Lax. PHP 8.2 ngừng nhận bản vá bảo mật sau 31/12/2026.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://les-tilleuls.coop/en/blog/whats-new-in-php-8-6",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3708,
+    "analysis": "Bản minor cuối trước PHP 9 (27 RFC được chấp nhận). Điểm đáng chú ý với developer dùng Laravel/Symfony: Io\\Poll là building block low-level cho WebSocket/worker hiệu năng cao mà không cần PECL extension; session mặc định an toàn hơn giảm rủi ro cho app dùng session native.\nCơ hội nâng cấp cho các dự án PHP 8.4/8.5 không cần viết lại; các hệ thống còn PHP 8.2 cần lên kế hoạch nâng cấp trước 31/12/2026. Lưu ý: 8.6.0 đã chứa bản vá critical - nâng cấp lên 8.6.0 đồng thời vá luôn các CVE mới.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "529c7bf100096bfe55fc80910058d549142d5885ffa7457f701b0f80f30c3464"
+  },
+  {
+    "id": "88a777a751fc62307aa750eb537bfa29a7c0eb8001950709471bceefc0f15e56",
+    "title": "Ruby2Shell có CVE chính thức CVE-2026-132825 (CVSS 7.4); Mastodon và OpenProject đã vá",
+    "summary": "Trang disclosure của Veria Labs được cập nhật lúc 14:59 UTC = 21:59 giờ VN ngày 19/11/2026. Thay đổi so với bản chiều: Mastodon 4.7.6 (Ruby 4.0.10) đã chuyển sang 'Fixed' (trước đó 4.7.5 còn dính) và OpenProject 17.9.8 (Ruby 4.0.10) đã 'Fixed' (trước đó 17.9.7 còn dính); Discourse base image 2.0.20261119-0203 cũng đã fixed. Vẫn còn dính: GitLab 19.6.0 (Ruby 3.3.13), GitHub Enterprise Server 3.22.5 (Ruby 4.0.9) và Chatwoot 4.20.0 (Ruby 3.4.4). Lỗi đã được cấp CVE-2026-132825 (MITRE cấp lúc 06:34 UTC ngày 19/11, NVD nhận lúc 07:17 UTC), CVSS 3.1 là 7.4 (High) - thấp hơn nhãn 'Critical' mà Ruby/Veria Labs tự gắn. 6 advisory còn lại trong đợt vá Ruby 18/11 vẫn đang chờ cấp CVE. Bản chất lỗi không đổi: tràn heap 1 byte khi upcase ký tự ß trong các encoding single-byte legacy (ISO-8859, Windows-125x); lỗi tồn tại từ Ruby 2.4.0; ảnh hưởng Ruby 4.0.0-4.0.9, 3.4.0-3.4.12, 3.3.0-3.3.13; đã vá ở 4.0.10, 3.4.13, 3.3.14. Chưa có khai thác thực tế được báo cáo; PoC vẫn dự kiến công bố sau khoảng 1 tuần. OX Security lưu ý 5 trong 7 lỗi có PoC RCE nội bộ (chưa công khai).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://corgea.com/research/cve-2026-132825-ruby2shell-ruby-regexp-string-case-conversion-heap-overflow-november-2026",
+    "imageUrl": "https://corgea.com/cms/research/cve-2026-132825-ruby2shell-ruby-regexp-string-case-conversion-heap-overflow-november-2026/cover.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3709,
+    "analysis": "Diễn biến mới rõ rệt sau bài Veria Labs buổi chiều (15:30 VN): vừa có CVE chính thức, vừa có 2 sản phẩm tự host lớn đã vá xong trong ngày. Nhưng GitLab/GHES/Chatwoot tự host vẫn là điểm nóng - cập nhật gem/Rails không giúp vì lỗi nằm trong interpreter Ruby. URL Veria Labs đã có trong Sheets từ số 18:15 nên dùng URL Corgea (bài phân tích CVE, đã xác minh HTTP 200).\nCác đội vận hành GitLab/GHES/Chatwoot tự host cần nâng cấp Ruby lên 4.0.10/3.4.13/3.3.14 ngay; Ruby 3.2 trở về trước hết hỗ trợ, không được vá - cần lên kế hoạch di dời.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "ba2062bc8e37851af2301fe8fddc78d49a34c30c106a463766f133513db7886b"
+  },
+  {
+    "id": "02d1f1c2cfeead3154c19a9d3c0201a1eb80070e763c5b4520624dc35a221498",
+    "title": "Google ra Gemini 4 Neon: nhanh gấp 3 lần Carbon, rẻ hơn khoảng 60%, thay thế Argon và khai tử Gemini 3.1 Pro",
+    "summary": "Bài Times Now cập nhật 19/11/2026 lúc 17:03 IST = 18:33 giờ VN, với góc mới so với tin ra mắt gốc: Neon thay thế Gemini 4 Argon trong ứng dụng Gemini và Gemini 3.1 Pro bị khai tử. Theo Google, Neon nhanh gấp khoảng 3 lần Carbon trong khi giảm chi phí khoảng 60%; hỗ trợ đầu vào text, audio, hình ảnh, video, với 4 chế độ suy luận Low / Medium / High / Extra High. Điểm Artificial Analysis Intelligence Index: Neon 61 ở chế độ Extra High, đứng thứ 3 sau Claude Fable 5.2 (65) và GPT-6.2 Astra (62), trên Gemini 4 Carbon (60). Điểm an ninh: 90,5% trên SEC-bench Pro (phát hiện lỗi phần mềm) và tỷ lệ tấn công thành công 0% trong bài kiểm tra prompt injection của Gray Swan. Giá: 3 USD/triệu token input, 15 USD/triệu token output; input cache 0,15 USD/triệu token. Người dùng Google AI Pro/Ultra dùng qua Gemini app (tùy chọn Deeper Analysis); developer dùng qua Google AI Studio, Android Studio, Gemini for Business và Google Antigravity.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.timesnownews.com/technology-science/after-carbon-and-hydrogen-google-launches-gemini-4-neon-to-take-on-gpt-6-2-and-claude-article-156537294/amp",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3710,
+    "analysis": "Neon lấp khoảng trống giữa Carbon (mạnh nhưng đắt/chậm) và Hydrogen (nhanh nhưng yếu hơn) - Google định vị đây là model 'vừa đủ mạnh, vừa rẻ' cho coding, nghiên cứu và phân tích dữ liệu, đồng thời dọn dẹp dòng Gemini 4. Cuộc đua trực tiếp là với GPT-6.2 Astra (AA 62) - Neon rẻ hơn đáng kể nhưng vẫn xếp sau về điểm số.\nCơ hội cho developer và doanh nghiệp cần model suy luận mạnh với chi phí thấp; cần kiểm chứng độc lập các tuyên bố hiệu năng của Google (điểm AA là benchmark độc lập, đã trích).",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "4ca3ecfef90d1c19e2dbbf4046915748030fda624e60b055568f4d5a6ac8dbb6"
+  },
+  {
+    "id": "c6d15640193091b5d595862aebe176da2b7ace3ad912dbe209747eb88a48640f",
+    "title": "Tin tặc dùng công cụ AI ARTEX tấn công Ủy ban châu Âu, hệ thống nhân sự tê liệt hơn 10 ngày",
+    "summary": "POLITICO đưa tin ngày 19/11/2026 (Cyber Security News đăng lại cùng ngày): CERT-EU phát hiện tin tặc dùng công cụ AI ARTEX - công cụ công khai dùng AI để tìm điểm yếu trong hệ thống IT - trong vụ tấn công Ủy ban châu Âu. Vụ tấn công làm gián đoạn dịch vụ nhân sự hơn 10 ngày: nhân viên không nộp được bảng chấm công, xin nghỉ phép, hay nhập thông tin lương. Hai hệ thống bị ảnh hưởng là Sysper (xem phiếu lương, chấm công, xin nghỉ) và MyPMO (hoàn tiền y tế); cả hai đã hoạt động trở lại trong tuần, dù Sysper lại sập briefly ngày 18/11; dịch vụ dịch thuật cũng gián đoạn ngày 17/11. Chưa xác nhận có truy cập hay đánh cắp dữ liệu nhân viên hay không; Ủy ban đã thông báo cho những người liên quan, đưa một số ứng dụng offline để phòng ngừa, và Ủy viên công nghệ Henna Virkkunen đã báo cáo các ủy viên khác ngày 18/11. Chưa rõ danh tính kẻ tấn công, lỗ hổng cụ thể hay cách xâm nhập, và chưa rõ ARTEX được dùng để đột nhập hay chỉ để trinh sát tìm điểm yếu.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://cybersecuritynews.com/european-commission-cyberattack/",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3711,
+    "analysis": "Nối tiếp chuỗi cảnh báo về ARTEX trong tuần (FBI cảnh báo về công cụ hack AI này). Cho thấy AI đang được dùng ở cả hai phía: vừa là công cụ tấn công, vừa là lý do các tổ chức lớn phải siết kiểm tra an ninh.\nCảnh báo cho các tổ chức lớn về rủi ro từ công cụ pentest AI công khai rơi vào tay kẻ xấu; cần theo dõi kết luận điều tra của CERT-EU về mức độ rò rỉ dữ liệu. Hạn chế: toàn bộ thông tin dựa trên nguồn ẩn danh nói với POLITICO (1 nguồn chính).",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "9296cb33343c2f344c0a8f49d6e10bf2daf519a7bf203039f196db69e9685844"
+  },
+  {
+    "id": "01e24781a7fe85c9e3c7ed1139e0f8201b91b999d8eb1fa5bcbfc3eadd5a9c68",
+    "title": "Ủy ban châu Âu triển khai Matrix cho hơn 40.000 nhân viên",
+    "summary": "Ủy ban châu Âu (EC) triển khai Element (client của giao thức mở Matrix) lên toàn bộ laptop nhân viên - từ PoC tháng 12/2025 đến hoàn tất desktop tháng 9/2026, phục vụ hơn 40.000 người dùng, tự vận hành, tích hợp EU Login; chưa liên bang hóa (federation) với các cơ quan khác, chưa thay thế Teams mà chỉ là kênh dự phòng/bổ sung nhằm chủ quyền số và duy trì hoạt động liên tục.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+    "imageUrl": "https://element.io/blog/content/images/size/w1200/2026/11/euc-conf__blog.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3712,
+    "analysis": "Chủ quyền số của EU, triển khai Matrix quy mô lớn nhất trong khối công quyền; tranh luận HN sôi nổi về việc có thực sự thoát khỏi Teams/Microsoft hay không. Ít nhất 3 nguồn độc lập (Element blog, Computerworld 23/10, HN thread) + bài phân tích WindowsForum.\nĐiểm HOT: Chưa đủ dữ liệu. Hacker News: 390 points / 192 comments (ghi nhận ~22:24 VN 19/11 qua Algolia API). Vì sao HOT: triển khai Matrix quy mô lớn nhất khối công quyền; tranh luận về chủ quyền số. Tác động: có thể thúc đẩy các cơ quan công quyền khác ở EU chuyển sang giải pháp nhắn tin mở, tự chủ.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "d0943f150551e6f7b4f1c45c55fb127329e3724ae88f8a320e1d68f0b8c48c65"
+  },
+  {
+    "id": "dbcc5f99034d46c9caddd31ce4376a866d02951f6a6fdb187e4468afe8f5b2d9",
+    "title": "Java4Shell: bắt đầu xuất hiện các đợt quét khai thác",
+    "summary": "Lỗ hổng tràn bộ nhớ trong bộ giải mã Base64 tối ưu của OpenJDK (Java 17/21/25/27 trên CPU x86-64 có AVX-512 VBMI), Oracle CVSS 3.1: 8.1, Calif CVSS 4.0: 9.2; Calif chứng minh RCE không cần đăng nhập trên Keycloak, Jira, Confluence, Jenkins, Artifactory, PingFederate. Diễn biến mới trong cửa sổ: các hãng ghi nhận đợt quét đầu tiên; một bài HN mới trong cửa sổ tiết lộ lỗi này đã được báo cáo lên OpenJDK từ tháng 9/2026. SecurityWeek (đăng 09:10 UTC 19/11): GreyNoise ghi nhận >150 request dạng tấn công Java4Shell từ 5 IP tính đến đầu ngày 19/11; Previdian ghi nhận 9 lần thử từ 6 IP trong 18-19/11; chưa có xâm nhập thành công được xác nhận. Cisco xác nhận hơn một chục sản phẩm bị ảnh hưởng; Keycloak phát hành image vá 26.8.2-3 ngày 19/11.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+    "imageUrl": "https://www.securityweek.com/wp-content/uploads/2026/11/Java4Shell.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3713,
+    "analysis": "Lỗ hổng 'Shell' thứ ba trong tuần sau Ruby2Shell/PHP2Shell, nhưng đây là Java - phạm vi ảnh hưởng doanh nghiệp rất lớn; chuyển từ 'đã vá' sang 'đang bị quét' trong ngày 19/11. Ít nhất 4 bài HN + SecurityWeek, eSecurity Planet, DecryptionDigest.\nĐiểm HOT: Chưa đủ dữ liệu. Hacker News bài chính: 1.173 points / 327 comments (ghi nhận ~22:25 VN qua Firebase API; đăng 17/11). Bài HN góc mới trong cửa sổ: 77 points / 12 comments (đăng 18:47 VN, ghi nhận ~22:24 VN qua Algolia API). Vì sao HOT: Java là hạ tầng doanh nghiệp phổ biến; quét khai thác đã bắt đầu. Tác động: các đội vận hành Java cần vá khẩn OpenJDK/Keycloak/Jira/Confluence/Jenkins.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "532f1f4402e29679e4d542447066efca21c23c1138dc439dc085ad7e0b22da85"
+  },
+  {
+    "id": "1b955444967b49ca529b2766e7bbb7f9247220bb5c117f7e755c826a327cd50a",
+    "title": "ARTEX - hệ thống pentest tự động bằng AI, tự host",
+    "summary": "ARTEX là hệ pentest tự động (autonomous penetration testing) tự host: planner chia mục tiêu thành intent, worker chạy công cụ thật, mọi phát hiện đều giữ request/response làm bằng chứng. Đây là bản dịch tiếng Anh của repo gốc Autumn-27/ARTEX (AGPL-3.0). GitHub API lúc ~22:25 VN: 11.035 sao, 4.485 forks, tạo 08/10/2026. Tốc độ: +2.516 sao trong cửa sổ 18/11 UTC - hạng 1 về star velocity ngày 19/11 (ghtrends.dev); GitDiscover ghi '+2.658 sao/24h'.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://github.com/BaaRai/ARTEX",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3714,
+    "analysis": "Dẫn đầu GitHub Trending về tốc độ tăng sao trong ngày; nối tiếp làn sóng công cụ agent tự động. Lưu ý: cùng công cụ ARTEX được cho là đã dùng trong vụ tấn công Ủy ban châu Âu (xem B-Công nghệ) - pentest là ứng dụng agent gây tranh cãi, cần lưu ý rủi ro lạm dụng.\nĐiểm HOT: Chưa đủ dữ liệu. Số bài đăng/cộng đồng độc lập: ghtrends.dev, GitDiscover, findarepo cùng xếp hạng cao; bài HN về ARTEX chỉ 1 point / 0 comment - HN không phải nguồn nóng của trend này. Tác động: công cụ pentest AI mã nguồn mở hạ thấp rào cản kiểm thử xâm nhập - cả cho phòng thủ lẫn tấn công.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "39666a7c4c8310c381eccf8420170185f39a9a8938b16a0e886f5d358f6b0982"
+  },
+  {
+    "id": "15fa0c04361629d52f93b036e30d2b76cf88748c362388c4f5fc8e1995ae8da4",
+    "title": "Wireless-Device-Battery-Monitor - xem pin chuột/tai nghe/bàn phím trên taskbar Windows",
+    "summary": "Ứng dụng tray nhẹ cho Windows 10/11, hiển thị mức pin của chuột, tai nghe, bàn phím, tay cầm không dây - không cần phần mềm hãng. Hỗ trợ Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, DualSense PS4/PS5, Xbox, Bluetooth. GitHub API lúc ~22:25 VN: 4.433 sao, 377 forks, tạo 16/11/2026. Tốc độ: +831 sao/ngày (Trendar, cập nhật 12:00 UTC 19/11).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3715,
+    "analysis": "Tiện ích nhỏ, giải quyết đúng 'nỗi đau' thường gặp, tăng sao rất nhanh dù mới 3 ngày tuổi; khác hẳn các trend agent/AI còn lại.\nĐiểm HOT: Chưa đủ dữ liệu. Số bài đăng/cộng đồng độc lập: Trendar hạng 3 repo mới tăng nhanh, GitDiscover, Trendoday cùng liệt kê; chưa đếm được bài đăng HN/Reddit độc lập. Tác động: tiện ích mã nguồn mở cho người dùng Windows có nhiều thiết bị không dây.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "fe2b1c2ca77f3c670e8043450838340ae36907720cc297092c659a2a09905b08"
+  },
+  {
+    "id": "b9d75df4b085c9febc1db090db6f2358f6fc87b54f6d2f2d15ea9b5e1edd6864",
+    "title": "rust-anything - viết lại app bằng Rust từng phần, kiểm chứng bằng bản ghi hành vi",
+    "summary": "CLI/MCP server giúp port app (TypeScript, Python, C, Go, Ruby, Java) sang Rust từng mảnh: ghi lại hành vi của code gốc, agent viết Rust, replay bản ghi để đối chiếu - chỉ đi tiếp khi kết quả giống hệt. Tác giả công bố benchmark nhanh hơn 3-20 lần (chưa xác minh độc lập). GitHub API lúc ~22:25 VN: 4.598 sao, 384 forks, tạo 16/11/2026. Tốc độ: +1.841 sao/ngày (Trendar, cập nhật 12:00 UTC 19/11), +1.910 sao trong cửa sổ 18/11 UTC (ghtrends.dev, hạng 3). Trendar xếp hạng 1 trong repo mới tăng nhanh.",
+    "category": "Đáng thử",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://github.com/erkamyaman/rust-anything",
+    "imageUrl": "https://repository-images.githubusercontent.com/1459971684/97e0e4fa-ec5b-4f17-9a9b-dca5a153426d",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3716,
+    "analysis": "Repo mới 3 ngày đã ~4,6k sao, dẫn đầu GitHub Trending; đúng làn sóng 'agent viết code + kiểm chứng hành vi' sau REA. Xuất hiện đồng thời trên Trendar, ghtrends.dev, GitDiscover, OSS Radar, Trendoday.\nỨng dụng thực tế: di dời từng phần nóng của hệ thống sang Rust mà vẫn giữ hành vi gốc được kiểm chứng bằng replay. Hạn chế: benchmark 3-20 lần là tuyên bố của tác giả, chưa kiểm chứng độc lập; dự án mới 3 ngày, cần đánh giá độ ổn định trước khi dùng cho hệ thống quan trọng. Miễn phí, mã nguồn mở.",
+    "tags": [
+      "Đáng thử",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "ab0b26d3be555b86509b96210ab2ac7d809ea58724cc6236a05bef9318163a5c"
+  },
+  {
+    "id": "3f23db774f311c02955b0990af5e3525613b45fb634348c4e4652e0c7a98f849",
+    "title": "Anthropic lên sàn Nasdaq: mở cửa 111,50 USD (+34% so với giá IPO 83 USD), vốn hóa chạm ~2.000 tỷ USD rồi hạ nhiệt về ~95-98 USD",
+    "summary": "Cổ phiếu Anthropic (mã ANT) giao dịch đầu tiên lúc ~23:48-23:50 VN 19/11 ở 111,50 USD (+34,3% so với giá IPO 83 USD, xác nhận bởi Reuters và AP); đỉnh phiên 114,99 USD, đưa vốn hóa pha loãng đầy đủ lên gần 2.000 tỷ USD. Sau đó hạ nhiệt mạnh: 98,62 USD lúc 00:42 VN, có lúc 93,10 USD lúc 01:20 VN, còn 97,10 USD (+16,99%) lúc 01:42 VN 20/11. IPO bán 980 triệu cổ phiếu, huy động 81,3 tỷ USD - lớn nhất lịch sử, vượt SpaceX; cộng đợt phát hành riêng 26 tỷ USD, tổng quy mô vượt 107 tỷ USD, để lại ~220 tỷ USD tiền mặt.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.channelnewsasia.com/business/anthropic-ipo-nasdaq-stocks-nvidia-amodei-6565741",
+    "imageUrl": "https://dam.mediacorp.sg/image/upload/s--jUL9l5i_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-19T161327Z_2_LYNXNPEMAI1VP_RTROPTP_3_ANTHROPIC-IPO-DEBUT.JPG?itok=1LAvqIrt",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3717,
+    "analysis": "Công ty AI biên giới đầu tiên niêm yết đại chúng; giá IPO 83 USD đã cao hơn khoảng chào bán ban đầu 70-78 USD. Amazon (đầu tư 18 tỷ USD, nắm 14,7%) và Google (13,7%) có cổ phần trị giá tổng cộng ~307,9 tỷ USD ở giá IPO. CEO Dario Amodei tái khẳng định cam kết an toàn AI trước giờ mở cửa.\nPhép thử định giá cho toàn bộ hệ sinh thái AI sau khi Nvidia báo cáo doanh thu kỷ lục nhưng cổ phiếu vẫn giảm; đà hạ nhiệt trong phiên cho thấy định giá gây tranh cãi (Anthropic vẫn đang lỗ, cam kết chi tiêu điện toán ~900 tỷ USD). TechCrunch đăng 02:10 VN 20/11: IPO có thể chuyển tới ~156 tỷ USD cho từ thiện qua Quỹ Lợi ích Công cộng. LƯU Ý: chưa có giá đóng cửa phiên đầu tiên (phiên đóng ~04:00 VN 20/11).",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "47d8e56e84f75e06a15c0c0b5ec48804b4e4bcdea1429aea762e23462ecc5bab"
+  },
+  {
+    "id": "1bf46a31b67f230591e3dbf1902e6d43cd21d423c924a9f31d43224510807f15",
+    "title": "Phố Wall giằng co: Dow rơi dưới mốc 50.000 điểm, đà tăng đầu phiên nhờ IPO Anthropic nhanh chóng suy yếu",
+    "summary": "Mở cửa phiên 19/11 giờ Mỹ: S&P 500 +0,9% lên 7.389,26 điểm, Nasdaq +1,55% lên 24.809,05 điểm, Dow +0,47% lên 50.432,32 điểm. Đến 23:35 VN 19/11 (Reuters): Dow giảm 0,97% xuống 49.710,33 điểm, S&P 500 giảm 0,41% xuống 7.293,42 điểm, Nasdaq gần như đi ngang (+0,01%, 24.431,04 điểm). Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm nhích lên 5,09-5,10%; VIX hạ 6,7% xuống 22,91 điểm nhưng vẫn ở mức cao.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://leprivatebanker.com/2026/11/19/wall-streets-anthropic-debut-rally-fades-as-dow-slips-below-50000-and-the-10-year-yield-edges-to-5-1/",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3718,
+    "analysis": "S&P 500 vừa trải qua 5 phiên giảm liên tiếp (phiên 18/11 giờ Mỹ: -0,23% xuống 7.323,63 điểm) - chuỗi giảm dài nhất kể từ tháng 6; Dow phiên 18/11 giảm 1,11% xuống 50.198,17 điểm.\nDiễn biến 'tăng rồi trả lại hết' cho thấy tâm lý nhà đầu tư vẫn mong manh dù có cú hích IPO lớn. LƯU Ý: phiên chưa đóng cửa lúc biên soạn (đóng cửa ~04:00 VN 20/11); nếu đóng cửa dưới 7.323,63 điểm, S&P 500 nối dài chuỗi giảm sang phiên thứ 6; ngược lại, một phiên xanh sẽ là tín hiệu ổn định ngắn hạn cho thị trường toàn cầu, trong đó có chứng khoán Việt Nam phiên sáng 20/11.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "b3d29dad08dfd132aaee990b56f6e84099d6f05dcee5bd241c436067924f6bf1"
+  },
+  {
+    "id": "f7faea69105ed503677c423cf652de707964c4fd562a03da6d50939749530710",
+    "title": "Rò rỉ dữ liệu TfL: ~265.000 người dùng thẻ Oyster photocard bị lộ thông tin cá nhân",
+    "summary": "Transport for London (TfL) xác nhận dữ liệu cá nhân của khoảng 265.000 hành khách xe buýt, tàu điện và tàu điện ngầm London đã bị lộ, ảnh hưởng người dùng thẻ Oyster photocard (cấp cho trẻ em, học sinh, người trên 60 tuổi, cựu quân nhân, học nghề...). Dữ liệu gồm tên, email, địa chỉ nhà, số điện thoại, ngày sinh và đáp án câu hỏi bảo mật - không gồm ảnh, mật khẩu, thông tin tài chính hay lịch sử di chuyển. Vụ việc bị phát hiện ngày 16/11 khi người dùng nhận email lạ yêu cầu xác thực tài khoản. TfL đã ngừng toàn bộ hệ thống photocard, báo cáo với ICO (cơ quan bảo vệ dữ liệu Anh) và liên hệ người bị ảnh hưởng.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.computerweekly.com/news/366654973/Over-250000-Londoners-affected-by-latest-TfL-breach",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3719,
+    "analysis": "Đây là vụ thứ hai nhắm vào TfL sau vụ tấn công Scattered Spider năm 2024 (ảnh hưởng ~10 triệu người, tốn hơn 30 triệu bảng; hai đối tượng đã bị bỏ tù trong năm nay). Hệ thống photocard từng được kiểm thử an ninh trong 12 tháng qua.\nNgười dùng Oyster photocard được khuyến cáo đổi ngay thông tin đăng nhập và câu hỏi bảo mật, kể cả ở các dịch vụ khác dùng chung thông tin; cảnh giác lừa đảo mạo danh TfL trong những ngày tới. Dữ liệu câu hỏi bảo mật đặc biệt nhạy cảm vì thường được tái sử dụng ở nhiều dịch vụ khác; ICO sẽ xem xét liệu bài học từ vụ 2024 có được chuyển thành biện pháp kiểm soát hay không.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "8a50fa1632725abe05c1608ee91462fec537846cd792a5ef98f9a078bcc56b1f"
+  },
+  {
+    "id": "cd1feb09b7ebb899629e98e4a5b47109b11b2784533e026a5e7643fb67aa01d5",
+    "title": "NGINX2Root: 5 lỗi RCE nghiêm trọng, PoC công khai, ~9 triệu dịch vụ có HTTP/2 đang chạy bản dễ bị tấn công",
+    "summary": "F5 ngày 18/11 đã vá 22 lỗ hổng, trong đó có 5 lỗi nghiêm trọng trong NGINX gọi chung là NGINX2Root (CVE-2026-113425, CVE-2026-121810, CVE-2026-123007, CVE-2026-123633, CVE-2026-123634; CVSS 9.2), cho phép RCE không cần xác thực với quyền của worker NGINX. Hai lỗi chính cần HTTP/2 bật: CVE-2026-123007 (integer underflow trong flow-control, tồn tại từ bản 1.9.5 năm 2015) và CVE-2026-123633 (use-after-free khi proxy). Wiz chứng minh RCE chỉ với file tĩnh, không cần backend; Xint chuỗi lỗi này với lỗi kernel Linux để thoát Docker và chiếm quyền root host. Rapid7 và Censys đã công khai PoC (PoC của Rapid7 cần ~128 GB dữ liệu HTTP/2, mất 2 phút-1 giờ). Censys đếm khoảng 9 triệu dịch vụ NGINX đang chạy bản bị ảnh hưởng có bật HTTP/2, cộng thêm 103 triệu dịch vụ không lộ phiên bản. Bản vá: NGINX Open Source 1.30.7 / 1.31.9, NGINX Plus 37.0.8.1 / 37.3.0.1.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3720,
+    "analysis": "NGINX phục vụ khoảng 225 triệu website toàn cầu; 5 nhóm nghiên cứu độc lập (Wiz, Rapid7, Ikotas Labs, Metnir, Xint) cùng phát hiện - mức độ nghiêm trọng hiếm gặp. MS-ISAC ra cảnh báo ngày 19/11 yêu cầu xử lý ngay.\nQuản trị viên cần nâng cấp ngay hoặc tắt HTTP/2 làm biện pháp tạm thời (chỉ chặn được 2 trong 5 lỗi); PoC công khai làm tăng mạnh nguy cơ quét/khai thác đại trà trong những ngày tới. F5 cho biết chưa có bằng chứng khai thác thực tế; cần theo dõi xem có bị đưa vào CISA KEV hay không.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "0124fa91d02446734116aff71065528a62f27a05fe14e1d4d0f0d05283da50df"
+  },
+  {
+    "id": "91004233557db917bd3079048446651bd81a6b1e2f106568d7bf92bd176cca0a",
+    "title": "Bangladesh: bạo lực trong ngày phong tỏa toàn quốc, 4 người chết, đồn cảnh sát bị đốt, 3.000 lính biên phòng triển khai",
+    "summary": "Ngày 19/11, Bangladesh xảy ra bạo lực diện rộng trong ngày phong tỏa toàn quốc do đảng Awami League (bị cấm, do cựu Thủ tướng Sheikh Hasina lãnh đạo) kêu gọi. Các vụ đốt phá, nổ bom thô và tấn công nhà lãnh đạo chính trị được ghi nhận tại nhiều tỉnh, trong đó có Dhaka, Gopalganj, Narayanganj, Chattogram và Faridpur. Một đồn cảnh sát ở Gopalganj bị đốt, xe cộ bị thiêu; một thiết bị nổ tự chế phát nổ dưới ga metro ở khu vực Agargaon, Dhaka. Chính phủ triển khai khoảng 3.000 nhân viên Lực lượng Biên phòng Bangladesh (BGB) tại 7 tỉnh nhạy cảm; 4 người thiệt mạng trong các vụ bạo lực; cảnh sát Dhaka đã bắt 565 người trong chiến dịch 24 giờ trước phong tỏa. Các sân bay được đặt trong tình trạng cảnh giác cao.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.oneindia.com/international/bangladesh-lockdown-police-station-torched-3-000-security-personnel-deployed-arson-bomb-blasts-a-8264581.html",
+    "imageUrl": "https://imagesvs.oneindia.com/img/2026/11/bangladeshlock-79301795103745.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3721,
+    "analysis": "Đây là ngày phong tỏa do phe đối lập bị cấm phát động, trong bối cảnh chính phủ do BNP lãnh đạo siết an ninh. Gopalganj - quê nhà của bà Hasina - là một trong những địa phương chịu ảnh hưởng nặng nhất.\nNguy cơ bất ổn kéo dài, ảnh hưởng an ninh khu vực Nam Á và cộng đồng người Bangladesh ở nước ngoài; cần theo dõi diễn biến ngày 20/11. CAVEAT: chỉ 1 nguồn (Oneindia) tìm được trong cửa sổ; các con số 4 người chết, 565 người bị bắt cần đối chiếu thêm khi có nguồn thứ hai.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "9757a7d982e779ec0b9af68014dde6bb88ce2024f18f052c64e4a71c9add2120"
+  },
+  {
+    "id": "78461141ce4b096807a0e6d634f04d5bcfa201f38dc55da62277b3e687ba146c",
+    "title": "Biên bản Fed: gần như toàn bộ quan chức ủng hộ tăng lãi suất tháng 12, thị trường đặt cược ~95%",
+    "summary": "Biên bản cuộc họp FOMC ngày 27-28/10 (công bố chiều 19/11 giờ Mỹ) cho thấy gần như tất cả quan chức Fed cho rằng cần tăng lãi suất thêm trong những tháng tới; hai quan chức nêu khả năng tăng hơn 25 điểm cơ bản vào tháng 12 nếu lạm phát xấu đi. Fed đã giữ nguyên lãi suất ở 3,75-4,00% trong tháng 10 với tỷ lệ phiếu 10-2 (Cook và Hammack muốn tăng ngay), và một số người ủng hộ giữ nguyên cũng coi đó là 'quyết định sát nút'. Thống đốc Christopher Waller ngày 19/11 nói Fed nên tăng 50 điểm cơ bản trong tháng 12 hoặc phát tín hiệu rõ ràng về đợt tăng tiếp theo vào tháng 1. CME FedWatch đặt xác suất tăng 25 điểm cơ bản ngày 9/12 ở ~90-95% (khoảng 5-10% cho mức 50 điểm cơ bản).",
+    "category": "Chính sách tiền tệ",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://asiatoday.id/read/fed-minutes-signal-december-hike-as-almost-all-back-more-rises",
+    "imageUrl": "https://asiatoday.id/wp-content/uploads/2026/11/fomc-minutes-december-hike.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3722,
+    "analysis": "Đây là bước ngoặt so với kỳ vọng cắt giảm trước đây: thị trường giờ định giá một chuỗi tăng lãi suất kéo dài sang 2027, kéo đồng USD lên cao nhất 19 tháng. Cuộc họp tiếp theo của Fed là 8-9/12; đáng chú ý, báo cáo CPI tháng 11 chỉ công bố ngày 10/12, tức sau khi Fed quyết định.\nLãi suất USD cao hơn kéo dài đồng nghĩa chi phí vốn toàn cầu cao, áp lực lên tỷ giá VND/USD và dòng vốn ngoại tại Việt Nam; đồng thời kìm hãm đà phục hồi của vàng và tiền mã hóa.",
+    "tags": [
+      "Chính sách tiền tệ",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "11990adfeafd5dd74c863daeec29885cc37c89dccbd655b29d8af29ae68c137a"
+  },
+  {
+    "id": "fcbfc6dd2e80913b7cff838027392040c5450847e918fc49d460bf09db1bcdf1",
+    "title": "Dầu Brent ~92,5 USD, vàng rơi về ~3.676 USD/ounce - thấp nhất 14 tháng",
+    "summary": "Theo Reuters lúc 23:35 VN 19/11: dầu Brent tăng 0,64% lên 92,54 USD/thùng, dầu WTI tăng 1,25% lên 84,30 USD/thùng, nhờ lo ngại tấn công tàu ở Hormuz lấn át tồn kho dầu thô Mỹ tăng 3,4 triệu thùng. Vàng giao ngay giảm 1,25% xuống 3.675,99 USD/ounce; bạc giảm 1,13% xuống 44,51 USD/ounce. Trước đó trong ngày, vàng có lúc xuống 3.693 USD - thấp nhất kể từ tháng 9/2025 - sau khi giảm 3,2-3,4% trong phiên thứ Tư do biên bản Fed diều hâu. Chỉ số USD (DXY) đi ngang quanh 103,81-103,86 điểm, gần đỉnh 19 tháng. Trong nước (sáng 19/11): vàng miếng SJC 133,7-136,7 triệu đồng/lượng (giảm 500.000 đồng), chênh thế giới ~19,7 triệu đồng/lượng.",
+    "category": "Hàng hóa",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.lse.co.uk/news/global-markets-stocks-wobble-with-focus-on-anthropic-debut-oil-prices-rise-mylfdwcn1lfs50m.html",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3723,
+    "analysis": "Vàng và dầu đang đi ngược nhau: kỳ vọng Fed tăng lãi suất kéo USD lên và dìm vàng, trong khi rủi ro địa chính trị Hormuz đỡ giá dầu - một 'thế giằng co' hiếm gặp.\nVàng SJC vẫn đắt hơn thế giới gần 20 triệu đồng/lượng dù giá thế giới lao dốc; giá dầu cao kéo dài gây áp lực lên lạm phát và giá xăng trong nước ở kỳ điều hành tới.",
+    "tags": [
+      "Hàng hóa",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "801875b7617caf47b8867e9d7b6ae9d046a1c255ef3ffe6c8fb4d963ca004331"
+  },
+  {
+    "id": "3ebe3ea457ad0297a46b50efec82aac7901ef00afa7a8c6892eb63725d9fd8d8",
+    "title": "Bitcoin lùi về ~62.700 USD, ETF Bitcoin bị rút ròng hơn 300 triệu USD trong một ngày",
+    "summary": "Bitcoin giao dịch quanh 62.727,9 USD lúc 02:16 VN 20/11 (dữ liệu Finnhub/Binance), dao động trong ngày 62.063-64.081 USD; giảm ~11-12% trong 7 ngày và ~22% trong 1 tháng. CoinDesk ghi nhận Bitcoin hồi lên ~63.750 USD trong sáng 19/11 giờ Mỹ nhưng vẫn chịu áp lực từ triển vọng Fed tăng lãi suất. Các quỹ ETF Bitcoin giao ngay ghi nhận rút ròng hơn 300 triệu USD trong phiên thứ Tư. Ethereum quanh 1.777-1.800 USD; chỉ số Fear & Greed ở mức 10 (cực kỳ sợ hãi). Ngưỡng hỗ trợ quan trọng được giới phân tích nhắc tới là 62.000 USD, tiếp theo 60.000 USD.",
+    "category": "Tiền mã hóa",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3724,
+    "analysis": "Bitcoin đã giảm 6 phiên liên tiếp dưới đường trung bình 200 tuần (~68.000 USD) - tín hiệu kỹ thuật tiêu cực dài hạn - trong bối cảnh USD mạnh lên và dòng tiền rút khỏi tài sản rủi ro.\nÁp lực bán lan sang toàn thị trường tiền mã hóa; nếu thủng 62.000 USD, đà giảm có thể tăng tốc; ngược lại, giữ được vùng này sẽ là điểm tựa cho nhịp hồi ngắn hạn.",
+    "tags": [
+      "Tiền mã hóa",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "9a907a9671b6c610709dda6cbe4f6f3f6052b7715d99f65c2157be62811c450e"
+  },
+  {
+    "id": "4088e9c2dd3bbced41f597769f9b21c74389d7cf99c82d932e2532938507e0b5",
+    "title": "Nvidia hồi phục ~4% trong phiên sau cú giảm dù báo cáo doanh thu kỷ lục",
+    "summary": "Sau khi giảm 2,9% phiên thứ Tư 18/11 giờ Mỹ dù báo cáo doanh thu kỷ lục 115,84 tỷ USD (+103%) và dự báo quý 4 đạt 130 tỷ USD, cổ phiếu Nvidia tăng ~2% lên 153,83 USD trước giờ mở cửa và tăng khoảng 4% trong đầu phiên thứ Năm 19/11; cổ phiếu vẫn giảm hơn 13% trong 5 ngày và thấp hơn hơn 1/3 so với đỉnh đầu tháng 10.",
+    "category": "Doanh nghiệp",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://coincentral.com/nvidia-nvda-stock-bounces-from-oversold-levels-as-anthropic-ipo-day-arrives/",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3725,
+    "analysis": "Bối cảnh: CEO Jensen Huang từ chức và Moody's hạ triển vọng (theo nguồn thứ cấp CoinCentral - chưa xác nhận độc lập). Nvidia là cổ phiếu trụ cột của làn sóng AI, mọi biến động đều được soi kỹ sau chuỗi bán tháo vì lo chi phí AI.\nCổ phiếu AI/chip vẫn biến động mạnh dù kết quả kinh doanh tốt, cho thấy tâm lý thị trường mong manh; diễn biến Nvidia cùng phiên IPO Anthropic là hai 'phép thử' song song của niềm tin vào AI.",
+    "tags": [
+      "Doanh nghiệp",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "47f13a46a84b36c99f1fe80ea384a66c4ee7d7a27d03e07b750ae439671ae123"
+  },
+  {
+    "id": "0b6a12a8de529279757e33029b7c9ffe6fa0c754b17fb94641720440b1d348b8",
+    "title": "Xét xử vụ sản phụ kiện Bệnh viện Phụ sản Hà Nội: VKS đề nghị bác toàn bộ yêu cầu bồi thường hơn 520 triệu đồng",
+    "summary": "Ngày 19/11, TAND khu vực 2 - Hà Nội mở phiên tòa dân sự sơ thẩm vụ chị Lê Thị L. (SN 1995, phường Long Biên) khởi kiện Bệnh viện Phụ sản Hà Nội, cho rằng bệnh viện có sai sót khiến 2 trong 3 con sinh ba của chị tử vong sau sinh. Chị L. yêu cầu bồi thường hơn 520 triệu đồng (15 triệu chi phí khám chữa bệnh, 34 triệu mai táng phí, 3,6 triệu thiệt hại sức khỏe, 468 triệu tổn thất tinh thần). Hội đồng chuyên môn Bộ Y tế họp ngày 30/1/2026 kết luận không phát hiện dấu hiệu vi phạm trách nhiệm của nhân viên y tế; nguyên nhân tử vong là suy chức năng đa cơ quan, sốc nhiễm khuẩn, nhiễm khuẩn huyết sơ sinh muộn, xuất huyết não độ IV trên nền trẻ rất non tháng (sinh ở tuần 30, sinh ba bằng IVF). Đại diện VKS đề nghị bác toàn bộ yêu cầu khởi kiện. Dự kiến chiều 23/11 tuyên án.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://baotintuc.vn/xet-xu-vu-san-phu-khoi-kien-yeu-cau-benh-vien-phu-san-ha-noi-boi-thuong-post1404438.html",
+    "imageUrl": "https://media3.baotintuc.vn/images/JQoPFRNPPTA1Y0eS_o1V760S3Lg3sS8P4eICx4cL1SFnhLqYWqyr03OQmfPqsgIW/truy-to.jpg.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3726,
+    "analysis": "Chị L. sinh mổ ngày 20/11/2024, ba bé gái được chăm sóc tại Khoa sơ sinh; ngày 29/11/2024 chị phát hiện 2 bé nằm ghép chung một lồng ấp dù gia đình đã đóng tiền mỗi cháu một lồng; hai bé lần lượt tử vong ngày 4 và 17/12/2024. Đây là phiên xử lại sau khi phiên 25/9 bị tạm ngừng để thu thập chứng cứ về vi khuẩn Cronobacter Sakazakii và lồng ấp. Bệnh viện khẳng định làm đúng quy trình.\nVụ việc là tiền lệ đáng chú ý về trách nhiệm bệnh viện trong chăm sóc trẻ sinh non và giá trị pháp lý của kết luận hội đồng chuyên môn Bộ Y tế; phán quyết ngày 23/11 sẽ được theo dõi. LƯU Ý: đây mới là quan điểm của VKS, chưa phải bản án. Bài đăng 22:24 VN 19/11, trong cửa sổ 4 giờ.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "aea61cb23e05f34bad6d385b352c22f81f8d0c7cce0aa6416f87e54a942fdbd4"
+  },
+  {
+    "id": "354b35cc220e92653c39a1f33261859c009e2148e8e1e7fed0d2864c62ad7d58",
+    "title": "Không khí lạnh tăng cường: miền Bắc rét đậm, vùng núi cao dưới 9°C; miền Trung mưa lớn đêm 19-21/11, cục bộ trên 250mm",
+    "summary": "Tối 19/11, Trung tâm Dự báo KTTV quốc gia cho biết không khí lạnh tăng cường ảnh hưởng đến Trung Trung Bộ và một số nơi ở Nam Trung Bộ trong đêm 19/11 và ngày 20/11. Từ ngày 20/11, nhiệt độ thấp nhất ở Bắc Bộ phổ biến 14-17°C, vùng núi 11-14°C, vùng núi cao có nơi dưới 9°C (rét đậm); Bắc Trung Bộ 16-18°C; Hà Nội đêm 16-18°C, ngày 19-21°C. Từ đêm 19/11 đến hết 21/11, khu vực Quảng Trị-Đà Nẵng và phía Đông Quảng Ngãi-Gia Lai mưa vừa, mưa to và dông, lượng mưa phổ biến 90-180mm, cục bộ trên 250mm; cảnh báo mưa cường độ lớn trên 80mm/3 giờ. Từ đêm 19/11 đến 22/11, các sông từ Nam Quảng Trị đến Quảng Ngãi có thể xuất hiện 1 đợt lũ, đỉnh lũ sông Huế lên báo động 1-2, các sông khác dao động trên dưới báo động 1; rủi ro thiên tai do lũ cấp 1. Vịnh Bắc Bộ và Bắc Biển Đông gió Đông Bắc cấp 6-7, giật 8-9, sóng 2-4m (phía Đông Bắc Biển Đông 3-5m).",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://tuoitre.vn/gio-ret-tang-cuong-mien-bac-co-noi-xuong-duoi-9-do-c-trung-bo-mua-lon-tu-dem-nay-100261119180339131.htm",
+    "imageUrl": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/19/ha-noi-mua-dong2-1794347521678725214990-58-0-1398-2560-crop-1795086055180382259156.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3727,
+    "analysis": "Bắc Bộ đã chuyển rét từ 19/11, nhiệt độ phổ biến 19-22°C, thấp hơn chiều hôm trước khoảng 10°C tùy nơi. Không khí lạnh dự báo suy yếu từ 22/11, nhưng khoảng 24/11 có thể có thêm đợt mới.\nNguy cơ ngập úng vùng trũng thấp, khu đô thị, khu công nghiệp; lũ quét trên sông suối nhỏ và sạt lở đất ở miền Trung; tàu thuyền trên biển đối mặt gió mạnh, sóng lớn đến 21/11. Chưa ghi nhận thiệt hại/thương vong mới trong đêm tính đến 02:15 VN 20/11. Bài đăng 20:18 VN 19/11 (trước cửa sổ 4 giờ nhưng là dự báo cho chính đêm nay).",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "8e4096240985d9b004bc2d3373c53d34b17ce9f46e05c48089bf4ba5c7bdb4a7"
+  },
+  {
+    "id": "57b468b5042f41129a562e4d530e88be5339ed2da04c5635fae4b9a91204738e",
+    "title": "Cháy kho nhựa ~1.000m² ở Tây Ninh, khói đen cuồn cuộn, nhiều tiếng nổ",
+    "summary": "Khoảng 15h15 ngày 19/11, hỏa hoạn bùng phát tại nhà kho của một công ty sản xuất đồ nhựa trong con hẻm trên đường Nguyễn Văn Dương, xã Mỹ Hạnh, tỉnh Tây Ninh. Phát hiện cháy, lực lượng bảo vệ công ty sử dụng thiết bị chữa cháy tại chỗ để dập lửa nhưng bất thành. Đám cháy nhanh chóng bùng phát mạnh, kèm theo nhiều tiếng nổ lớn. Khoảng 10 phút sau, lực lượng Cảnh sát PCCC và CNCH Công an tỉnh Tây Ninh cùng lực lượng chữa cháy tại các khu công nghiệp lân cận đến hiện trường triển khai dập lửa. Nhà kho có diện tích khoảng 1.000m². Đến hơn 17h30 cùng ngày, khói vẫn bốc lên ngùn ngụt từ bên trong nhà kho.",
+    "category": "An toàn",
+    "section": "B - Xã hội",
+    "region": "Quốc tế",
+    "sourceUrl": "https://vov.vn/xa-hoi/chay-nha-kho-cong-ty-san-xuat-do-nhua-o-tay-ninh-post1351675.vov",
+    "imageUrl": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/img_20261119_185737.jpg?v=1795111991",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3728,
+    "analysis": "Vụ cháy trong ngày 19/11, chưa từng đưa ở các số trước; nhiều công nhân làm việc tại công ty đã chạy ra ngoài khi cháy bùng phát.\nChưa có thông tin thương vong hay thiệt hại; Công an tỉnh Tây Ninh đang phối hợp với Công an xã Mỹ Hạnh và các đơn vị liên quan thống kê thiệt hại, điều tra nguyên nhân vụ cháy. Cần theo dõi cập nhật thiệt hại/thương vong. Bài VOV đăng 20:47 VN 19/11 (trước cửa sổ 4 giờ, trong 24h, chưa từng đưa).",
+    "tags": [
+      "An toàn",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "c04f502044a02600811e08a698637a716227ce26c1556dcbd2eb6e5c1a2647ba"
+  },
+  {
+    "id": "50597f34fb27e7aec64a34080985599825b3b1bbf9d49567b61210d0e1afed31",
+    "title": "Java4Shell: quét tăng lên 192 request từ 6 IP, vẫn chưa có xâm nhập thành công",
+    "summary": "GreyNoise ghi nhận 192 request dạng tấn công Java4Shell từ 6 địa chỉ IP tính đến 21:48 VN 19/11, tăng so với mức '>150 request từ 5 IP' ở số trước; không có xâm nhập thành công nào trên cảm biến của GreyNoise, cả 6 IP đều bị phân loại độc hại. Các địa chỉ này nhắm vào endpoint Atlassian Jira và Spring Actuator. Cloudflare ghi nhận một máy quét quay lại sau ~17 giờ với đúng trigger khai thác nhưng giả mạo Chrome để giấu công cụ; WatchTowr thấy các attempt 'mù' vào honeypot; Previdian ghi 9 attempt từ 6 IP trong 18-19/11 nhưng không xác định được có mục tiêu nào bị xâm nhập. VulnCheck đã có exploit RCE hoàn chỉnh cho khách hàng; một nhà nghiên cứu của Immersive cũng đã dựng được exploit.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.abijita.com/java4shell-probes-no-intrusions/",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3729,
+    "analysis": "Java4Shell (CVE-2026-114938) là lỗi tràn bộ nhớ heap trong bộ giải mã Base64 của OpenJDK (từ 17.0.6, chỉ trên CPU x86-64 có AVX-512 VBMI), do Calif tìm ra trong ~1 giờ nhờ AI Codex với chi phí token dưới 200 USD; Oracle/OpenJDK đã vá ngày 17/11 (JDK 17.0.21.1, 21.0.13.1, 25.0.5.1). Về phía nhà cung cấp: Siemens liệt kê toàn bộ Industrial Edge Management Pro V1/V2 chưa có bản vá; Cisco liệt kê 13 sản phẩm bị ảnh hưởng, chưa có bản vá/workaround; Red Hat đánh giá Critical cho RHEL 8/9/10; Keycloak đã cập nhật image 26.8.2-3 với Java đã vá.\nĐây là giai đoạn chuyển từ quét thăm dò sang khai thác thực tế - cần theo dõi sát. Tổ chức dùng Java cần vá ngay các hệ thống đối diện Internet (Jira, Jenkins, Elasticsearch 7.17.3+, Logstash 8.6.2+ trong cấu hình nhất định); quét đang tăng nhưng chưa có bằng chứng xâm nhập thành công, chưa vào CISA KEV.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "50fc96436a9f0a084b91047aa989cef139cdb7b8b2e158e0bf485678736ebbeb"
+  },
+  {
+    "id": "0d556d0f1947ff6fe1255a86ec40bb2785de6d4e897f1b3d512fa4111140a44f",
+    "title": "phpAfterShell: chưa có bằng chứng khai thác mới trong đêm, nhưng các bản phân phối Linux vẫn chưa có gói vá",
+    "summary": "Tính đến tối 19/11, không có báo cáo nào về tấn công dùng phpAfterShell (CVE-2026-126714, CVSS 9.2); lỗ hổng chưa vào CISA KEV và chưa có exploit vũ khí hóa công khai - Depthfirst chỉ công bố PoC lành tính (cấy đối tượng stdClass vào $_SESSION) và video chuỗi khai thác đầy đủ. Bản vá chính thức đã có trong PHP 8.5.13, 8.4.28, 8.3.37, 8.2.36 và image Docker chính thức, đồng thời PHP 8.6.0 đã chính thức GA ngày 19/11 với partial function application, clamp(), lớp Time\\Duration, API Io\\Poll và session mặc định an toàn hơn. Điểm mới đáng chú ý: Ubuntu, Debian, Red Hat, SUSE và Amazon Linux chưa phát hành gói vá tính đến tối 19/11; và bản vá lần này tắt mặc định session.upload_progress.enabled trong 4 bản vá - nhưng cấu hình bật tường minh trong php.ini/FPM sẽ mở lại đường tấn công. Đợt phát hành 19/11 vá tổng cộng 17 lỗi (7 lỗi critical CVSS 9.2), gồm cả PHP-FPM request smuggling (CVE-2026-129289) và lỗi serializer mismatch CVE-2026-115560.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3730,
+    "analysis": "phpAfterShell khai thác ghi file session không nguyên tử khi theo dõi tiến độ upload - vượt qua cả bản vá PHP2Shell tháng 10 vì bản vá đó chỉ hạn chế class được resolve trong callback mà không sửa hành vi ghi file.\nMáy chủ đã vá PHP2Shell tháng 10 vẫn phải vá lại ngay; máy chủ dùng gói distro (Ubuntu/Debian/RHEL) cần theo dõi advisory của distro hoặc chuyển sang build chính thức/Docker; biện pháp tạm thời: đặt session.upload_progress.enabled = 0 và restart worker; kiểm tra không có cấu hình nào bật lại tính năng này. CAVEAT: chỉ 1 nguồn (Cyber Kendra, dẫn Depthfirst, Precursor Security, PHP ChangeLog).",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "b16c30989d1dee4893f0299d1ae56826e86aaad1c3416756a8cb80064f08cdd5"
+  },
+  {
+    "id": "cc2828b779056fba43a011f294ed124be59bf55725de3efe3fb14114882c76c0",
+    "title": "JPMorgan Chase xác nhận tấn công mạng vào nhà cung cấp bên thứ ba, có thể lộ tên và email khách hàng",
+    "summary": "JPMorgan Chase xác nhận ngày 19/11 rằng các công ty bên thứ ba cung cấp dịch vụ cho ngân hàng đã bị tấn công mạng; kẻ tấn công được cho là đã truy cập dữ liệu marketing do các nhà cung cấp này nắm giữ, có thể gồm tên và địa chỉ email của một số khách hàng. Ngân hàng không công bố số lượng khách hàng bị ảnh hưởng, không nêu tên nhà cung cấp, không cho biết phương thức xâm nhập hay đã xác nhận dữ liệu bị sao chép chưa; khẳng định dịch vụ ngân hàng không bị gián đoạn và sẽ liên hệ trực tiếp khách hàng bị ảnh hưởng, hỗ trợ giám sát tín dụng miễn phí. Ngân hàng nhấn mạnh vụ này không liên quan đến sự cố gián đoạn dịch vụ ngày 16/11 (do lỗi phần mềm trên hệ thống của chính ngân hàng). Dữ liệu bị lộ không gồm mật khẩu, số thẻ hay giao dịch theo tuyên bố hiện tại.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://cybersecuritynews.com/jpmorgan-third-party-data-breach/",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3731,
+    "analysis": "Đây là mô hình rủi ro chuỗi cung ứng điển hình - dữ liệu khách hàng nằm ngoài ngân hàng; tên + email là nguyên liệu cho lừa đảo mạo danh thông báo rò rỉ, đúng lúc khách hàng đang chờ thông báo chính thức.\nKhách hàng Chase cần cảnh giác email/SMS mạo danh, xác minh qua số điện thoại mặt sau thẻ, không bấm link trong thông báo bất ngờ; giới an ninh chờ JPMorgan công bố nhà cung cấp nào và quy mô thực tế. CAVEAT: chỉ 1 nguồn biên soạn (Cyber Security News, dựa trên tuyên bố chính thức của JPMorgan trên X).",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "9d1484dd8a60645e54ae3d65b569f5673ab62e879633b350a9718d159509b0fa"
+  },
+  {
+    "id": "c6058083631e2428f62b748f5c4a2c0949d1818395218fc791fa3b11a3a7a411",
+    "title": "Ruby2Shell: thêm GitLab, GitHub Enterprise Server, Discourse, Chatwoot vẫn đóng gói Ruby bị ảnh hưởng",
+    "summary": "Aikido liệt kê tính đến 19/11: GitLab 19.6.0, GitHub Enterprise Server 3.22.5, Mastodon 4.7.5, OpenProject 17.9.7, Discourse 2026.10.1, Chatwoot 4.20.0 vẫn đang đóng gói Ruby bị ảnh hưởng (Mastodon/OpenProject đã có trong số 72; GitLab, GHES, Discourse, Chatwoot là bổ sung mới). Ruby2Shell (CVE-2026-132825, CVSS 7.4) là lỗi RCE pre-auth trên Rails/Sinatra; Ruby đã vá khẩn 4.0.10/3.4.13/3.3.14 (7 lỗi, 5 PoC RCE); PoC công khai sau ~1 tuần. Không có khai thác thực tế hay PoC công khai mới trong đêm.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.aikido.dev/blog/ruby2shell",
+    "imageUrl": "https://cdn.prod.website-files.com/642adcaf364024654c71df23/6afec745f23776e65916b631_Ruby_OG.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3732,
+    "analysis": "Danh sách ảnh hưởng mở rộng cho thấy phạm vi của Ruby2Shell vượt xa các ứng dụng Rails tự viết, lan sang cả các nền tảng SaaS tự host phổ biến.\nCác tổ chức dùng các nền tảng trên cần kiểm tra phiên bản Ruby đi kèm và cập nhật; theo dõi PoC công khai dự kiến sau ~1 tuần kể từ 19/11.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "b47c0ebac42fbe84620c4a88e17e700b43a1d4404637d9f1f7fdf0b00221c7a6"
+  },
+  {
+    "id": "4231c1475c6ffb773c54cdd7ddb515c6240f248db9b83f57bea6ca82becdf840",
+    "title": "Anthropic IPO: vốn hóa chạm ~2.000 tỷ USD ngay phiên chào sàn Nasdaq (HN 360 điểm/528 comments)",
+    "summary": "Nội dung đang thảo luận: Anthropic - công ty AI frontier đầu tiên lên sàn - IPO huy động kỷ lục 81 tỷ USD (bán 980 triệu cổ phiếu giá 83 USD, định giá IPO 1.500 tỷ USD; cộng thêm 26 tỷ USD phát hành riêng lẻ, tổng huy động hơn 107 tỷ USD). Cổ phiếu tăng mạnh trong phiên chào sàn ngày 19/11, nhiều nguồn đưa vốn hóa đạt ~2.000 tỷ USD (theo giá trị pha loãng đầy đủ - HN ghi nhận tranh luận về cách tính này so với số liệu Nasdaq). Reuters gọi đây là 'phép thử' cho cả hứa hẹn và rủi ro của ngành AI, diễn ra cùng tuần Nvidia công bố kết quả kinh doanh. Nền tảng: Hacker News + Google Trends Việt Nam + Reuters. Like/Reactions: 360 điểm HN (upvote). Comments/Replies: 528 comments HN - cao nhất front page tại thời điểm quan sát. Shares/Reposts: N/A (HN không có số share). Số bài đăng/cộng đồng độc lập: ít nhất 3 kênh độc lập (HN, Reuters, Google Trends VN - từ khóa 'anthropic ipo' lọt top tìm kiếm tăng mạnh tại VN). Thời điểm ghi nhận: 02:25 VN 20/11/2026 (Algolia API, parent tự kiểm chứng). Bài HN đăng 00:02 VN 20/11.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3733,
+    "analysis": "Các quan điểm nổi bật (đọc trực tiếp top comments HN): 'You are their exit liquidity' (nghi ngờ nhà đầu tư nhỏ là thanh khoản thoát hàng); 'I'm honestly worried about the irrational exuberance... feels like 2007 or 1999' (lo ngại bong bóng); một bên chỉ ra con số 2.000 tỷ USD là giá trị pha loãng đầy đủ, khác cách tính của Nasdaq; 'aaaand it's back to 1.5T' (biến động mạnh trong phiên).\nĐiểm HOT: Chưa đủ dữ liệu (thiếu tăng trưởng 24h, Shares/Reposts - chỉ chấm tiêu chí có bằng chứng). Tác động: Anthropic trở thành chỉ số benchmark cho ngành AI; OpenAI được cho là nhắm IPO 2027; nhu cầu thụ động từ quỹ chỉ số ước ~28% lượng cổ phiếu chào bán (~19 tỷ USD); nhà đầu tư bán lẻ tham gia có thể khuếch đại biến động. Rủi ro: định giá cao trong bối cảnh hoài nghi về chi tiêu hạ tầng AI, nợ và 'tài trợ vòng tròn' giữa các công ty AI.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "123312ebf9426aeb8ccda65309fd31d2b616e3d7ad1ae7c914efeef9795f3eb5"
+  },
+  {
+    "id": "dae373fe143a56b5c1250ade3deb1305926db2838846164fe7ab58dd9ef11ba0",
+    "title": "Chính phủ Anh bị buộc thừa nhận đã ra lệnh mã hóa bí mật với Apple (HN 225 điểm/103 comments)",
+    "summary": "Nội dung đang thảo luận: Chính phủ Anh bị buộc phải thừa nhận đã ban hành một lệnh bí mật yêu cầu Apple làm suy yếu mã hóa (lệnh liên quan đến quyền truy cập dữ liệu mã hóa đầu-cuối, chủ đề 'backdoor mã hóa' gây tranh cãi nhiều năm giữa London và các hãng công nghệ). Nền tảng: Hacker News. Like/Reactions: 225 điểm HN. Comments/Replies: 103 comments HN. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 (chỉ quan sát thấy trên HN trong cửa sổ; chưa thấy lan sang cộng đồng khác). Thời điểm ghi nhận: 02:25 VN 20/11/2026 (Algolia API, parent tự kiểm chứng). Bài HN đăng 23:21 VN 19/11.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Việt Nam",
+    "sourceUrl": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+    "imageUrl": "https://macanorak.com/content/images/2026/11/Apple.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3734,
+    "analysis": "Nguồn là blog chuyên về Apple (MacAnorak), chưa có xác minh độc lập thứ hai trong cửa sổ; chưa đọc nội dung comments nên không suy diễn quan điểm.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu tăng trưởng 24h, Shares, lan truyền đa cộng đồng). Tác động: có thể làm leo thang đối đầu Anh - Big Tech về mã hóa; ảnh hưởng tới niềm tin người dùng vào iCloud/mã hóa đầu-cuối; tiền lệ cho các chính phủ khác đòi quyền truy cập tương tự. Cần theo dõi phản hồi chính thức từ Apple và diễn biến pháp lý.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "b8773b55ab3286fa8b364c000b9eb3f9c7b667bfc8ecbf35f333b54eb00a037e"
+  },
+  {
+    "id": "9cdf9fc2725582e2de8cf1941c03a2931b242f7ea091d67b96c8961160104ff4",
+    "title": "Claude Fable 5.2 giải hai bài toán mở về vật lý lỗ đen (HN 160 điểm/42 comments)",
+    "summary": "Nội dung đang thảo luận: Anthropic công bố Claude (mô hình mang tên mới 'Fable 5.2') đã giải hai bài toán mở trong vật lý lý thuyết về lỗ đen và hấp dẫn lượng tử: (1) hoàn thành phép tính về chuyển pha Hawking-Page mà các nhà vật lý đặt ra từ 2003 nhưng chưa từng giải xong - chứng minh chuyển pha là đột ngột; (2) tìm ra giới hạn chính xác của phiên bản đơn giản nhất của phương pháp 'bootstrap' để kiểm tra lý thuyết hấp dẫn lượng tử. Các agent Claude chạy nền ~6 tuần, tự tổ chức thành nhóm nghiên cứu; kết quả được kiểm chứng bằng Lean (trình kiểm tra chứng minh) vào tháng 9 và có preprint đối chiếu độc lập. Nền tảng: Hacker News + blog nghiên cứu chính thức của Anthropic. Like/Reactions: 160 điểm HN. Comments/Replies: 42 comments HN. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 2 (HN + blog Anthropic). Thời điểm ghi nhận: 02:25 VN 20/11/2026 (Algolia API, parent tự kiểm chứng). Bài HN đăng 00:30 VN 20/11.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "imageUrl": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3735,
+    "analysis": "'AI giải bài toán mở 20+ năm' là câu chuyện AI-for-Science mạnh; đồng thời lộ tên mô hình mới 'Claude Fable 5.2' chưa từng được nhắc trước đây - tín hiệu về thế hệ model mới của Anthropic đúng ngày IPO.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu tăng trưởng 24h, Shares, lan truyền đa cộng đồng). Tác động: củng cố hướng AI tác tử tự nghiên cứu khoa học (multi-agent chạy 6 tuần, tự kiểm chứng chéo); đặt câu hỏi về vai trò của AI trong phát hiện khoa học và quy trình bình duyệt. LƯU Ý: Anthropic tự nêu rõ hai kết quả không mô tả trực tiếp vũ trụ của chúng ta và không có ứng dụng thực tiễn - đây là dữ kiện, không phải đột phá ứng dụng.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "7714f9deafc370b334413f41c1fb127ecb4546c1c09453d76ab06cfe13b6126c"
+  },
+  {
+    "id": "bad016161c4242cc8f3e8a6b0cfbba55f6d8fae0ff838bdafcb5d7e385975769",
+    "title": "'Fuck Your AI Safeguards': kỹ sư phản đối rào chắn an toàn của Claude khi vá lỗ hổng bảo mật (HN 201 điểm/70 comments)",
+    "summary": "Nội dung đang thảo luận: Một kỹ sư sản phẩm kể chuyện nhờ Claude Code rà soát bảo mật sản phẩm của chính mình: Claude tìm ra một lỗi dễ vá, nhưng sau đó từ chối hỗ trợ khắc phục vì 'AI safeguards'. Muốn xin miễn trừ phải chờ nhiều ngày làm việc, từ bỏ quyền miễn trừ lưu trữ dữ liệu và nộp giấy tờ tùy thân/hộ chiếu - trong khi kẻ xấu dùng model open-weights không rào chắn thoải mái. Tác giả cuối cùng dùng model open-weights host tại EU (GLM 5.3) để chứng minh, vá và kiểm chứng lỗi. Bài viết kết luận các rào chắn khiến 'thế giới kém an toàn hơn'. Nền tảng: Hacker News (bài blog cá nhân, Estonia). Like/Reactions: 201 điểm HN. Comments/Replies: 70 comments HN. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 1 (HN). Thời điểm ghi nhận: 02:25 VN 20/11/2026 (Algolia API, parent tự kiểm chứng). Bài HN đăng 23:30 VN 19/11. Đã đọc trực tiếp toàn văn bài gốc.",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "region": "Quốc tế",
+    "sourceUrl": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+    "imageUrl": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/media/cover_hu_5a6285e4518135fc.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3736,
+    "analysis": "Từ bài gốc: 'Criminals... just go and use the models that don't have safeguards'; so sánh 'mua dao không cần nộp hộ chiếu'; cáo buộc các lab lớn dùng công cụ không giới hạn để tạo ra mối đe dọa rồi cấm người khác dùng cùng công cụ để tự vệ. (Comments HN chưa đọc - không suy diễn thêm.)\nĐiểm HOT: Chưa đủ dữ liệu (thiếu tăng trưởng 24h, Shares, lan truyền đa cộng đồng). Tác động: góp vào tranh luận chính sách - thiết kế quy trình miễn trừ cho nghiên cứu bảo mật phòng thủ; lợi thế cạnh tranh của model open-weights (GLM 5.3 được nêu tên); rủi ro uy tín cho Anthropic đúng ngày IPO. Đây là quan điểm cá nhân, không phải kết luận điều tra.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "cad6161890be2d34bdaca55933b1d95a080abc7f1564bd01caf4bc62cf603556"
+  },
+  {
+    "id": "bc7bb94737982f836b74c0893ddfe30d3558c0ba8449bcbfac852a27ac31dae2",
+    "title": "neonclipping: công cụ cắt clip AI mã nguồn mở, chạy local, 278 sao sau chưa đầy một ngày",
+    "summary": "Nội dung: 'Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM)' - công cụ cắt clip ngắn dọc từ link, chạy local. Nền tảng: GitHub. Like/Reactions: 278 sao GitHub (13 fork) lúc ~02:18 VN 20/11 (GitHub Search API, theo subagent; parent kiểm tra lại gặp rate limit 403 nên chưa xác minh lại được). Comments/Replies: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: N/A. Repo tạo 17:00 VN 19/11.",
+    "category": "GitHub",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://github.com/iamajmeena/neonclipping",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3737,
+    "analysis": "Hai repo mới nhất đạt ~260-280 sao trong chưa đầy một ngày - tốc độ đáng kể; công cụ AI tạo nội dung đúng nhu cầu clip ngắn.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu tăng trưởng 24h, comments, shares - API không trả số tăng sao 24h, không suy diễn). Tác động: cho thấy xu hướng công cụ AI chạy local, mã nguồn mở thay cho dịch vụ đám mây.",
+    "tags": [
+      "GitHub",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "d3d993309df7bf8b37456cb5e9c57dcfb13925dba507983d3b0011665d3eca03"
+  },
+  {
+    "id": "d4cc975b75c76a3cbf36e29e1dd65b93fe48d516f15a5c6698733a66e6ae4952",
+    "title": "FastUnlock: 0day bypass màn hình khóa Windows qua Narrator, 264 sao trong ~7 giờ",
+    "summary": "Nội dung: 'Windows Narrator LockScreen Bypass 0day Vulnerability' - công cụ khai thác lỗ hổng bypass màn hình khóa Windows qua Narrator. Nền tảng: GitHub. Like/Reactions: 264 sao GitHub, 34 fork lúc ~02:30 VN 20/11 (GitHub API, parent tự kiểm chứng). Comments/Replies: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: N/A. Repo tạo 19:37 VN 19/11.",
+    "category": "GitHub",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://github.com/MSNightmare/FastUnlock",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3738,
+    "analysis": "0day bảo mật Windows luôn thu hút cộng đồng security; repo mới đạt 264 sao trong ~7 giờ.\nĐiểm HOT: Chưa đủ dữ liệu (thiếu tăng trưởng 24h, comments, shares). Tác động: rủi ro thực tế cho người dùng Windows nếu chưa vá, cần theo dõi phản hồi của Microsoft. Cảnh báo: không tải/chạy FastUnlock khi chưa hiểu rõ - đây là công cụ khai thác.",
+    "tags": [
+      "GitHub",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "c5f6cb3d7a5ca59dd4acb83f7f8a8123fc7f7b739dabcdf198bfe1800219ba9c"
+  },
+  {
+    "id": "af519fff7461f435fd75b8444fbd69d9103292d8be047d533e370bfeaeb45aab",
+    "title": "ChatGPT for Accounting: plugin kế toán mới của OpenAI, nối QuickBooks, Xero, NetSuite",
+    "summary": "OpenAI ra mắt ChatGPT for Accounting ngày 19/11/2026: một plugin Accounting do OpenAI xây dựng kết hợp các plugin đối tác kết nối ChatGPT với Intuit QuickBooks, Xero, Oracle NetSuite, BILL, FreshBooks, Rillet và Campfire. Công cụ giúp lập hóa đơn, đối chiếu ngân hàng, lập báo cáo cuối tháng, hỗ trợ kiểm toán: soạn thảo bút toán từ hóa đơn/chứng từ, gợi ý phân loại tài khoản, đối chiếu sao kê với sổ cái để tìm giao dịch chưa khớp, rà soát workbook cuối tháng (công thức lỗi, tổng không khớp), gắn cờ trùng lặp/khác biệt chưa giải thích. Kết nối FreshBooks là chỉ đọc (không sửa được sổ sách); dữ liệu ChatGPT Business/Enterprise không dùng để huấn luyện mô hình theo mặc định. Khả dụng tùy gói: thành viên Business cài đặt không cần phê duyệt trước của quản trị viên; Enterprise cần quản trị viên phê duyệt.",
+    "category": "Công nghệ & AI",
+    "section": "D - Đáng thử",
+    "sourceUrl": "https://www.techbooky.com/openai-launches-chatgpt-for-accounting-with-quickbooks-and-xero-plugins/",
+    "imageUrl": "https://d1s6vdzy36jczj.cloudfront.net/wp-content/uploads/2026/11/19092657/chatgpt-for-accounting.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T23:31:58.533Z",
+    "sourceRow": 3739,
+    "analysis": "Tính năng mới / điểm khác biệt: lần đầu ChatGPT có một 'điểm đến' chuyên biệt cho nghiệp vụ kế toán với dữ liệu sổ sách thật, thay vì trò chuyện chung; tách rõ plugin hướng dẫn (Accounting) và plugin kết nối dữ liệu (đối tác).\nỨng dụng thực tế: đội tài chính/doanh nghiệp nhỏ đối chiếu ngân hàng, khóa sổ tháng, chuẩn bị tài liệu kiểm toán; chủ doanh nghiệp nhỏ hỏi bằng ngôn ngữ thường về hóa đơn quá hạn, thuế đã thu/nộp. Hạn chế: không phải hệ thống kế toán mới - cài plugin chính không tự cho quyền truy cập sổ sách; mỗi kết nối đối tác có quyền và cách xử lý dữ liệu riêng cần đánh giá; bút toán sai có thể lan sang báo cáo quản trị/thuế/kiểm toán nên vẫn cần con người soát và ký duyệt; hiệu quả phụ thuộc chất lượng dữ liệu đầu vào. Giá: không có giá riêng được công bố; dùng theo gói ChatGPT (Business/Enterprise). Link chính thức được dẫn trong bài TechBooky (trang sản phẩm OpenAI).",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "7fb0da9aaa7e1d5e7edf59ea1b0114100e71447cf72f58a6c99e5364cff25f28"
   }
 ]
