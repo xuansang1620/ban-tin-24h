@@ -65310,5 +65310,912 @@
     ],
     "language": "vi",
     "contentHash": "357931e69d3335bd7831eeb07823837c3abb0bdc5a40f2bcddfb58a33c9a6dc3"
+  },
+  {
+    "id": "aa6f3b1be611f2500ab3107d4d3b07525cb1b4a91b19eb633218e40e20bee28e",
+    "title": "Biên bản FOMC: 'gần như tất cả' thành viên Fed thấy cần tăng thêm lãi suất",
+    "summary": "Biên bản họp FOMC 27–28/10 công bố 14:00 ET 18/11 (02:00 VN 19/11): 'gần như tất cả' thành viên nhận định cần tăng thêm lãi suất mục tiêu trong những tháng tới; một số ủng hộ tăng 25 điểm ngay trong tháng 10, coi quyết định giữ nguyên là 'sát nút'; một vài thành viên lưu ý có thể cân nhắc tăng hơn 25 điểm tại kỳ họp tới nếu lạm phát xấu đi. Lãi suất hiện 3,75–4,00%; quyết định tiếp theo ngày 9/12/2026. Thị trường định giá ~92–96,5% tăng 25 điểm tháng 12, ~8–11% tăng 50 điểm.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3577,
+    "analysis": "Cuộc họp 27–28/10 kết thúc với phiếu 10–2 giữ nguyên (Cook, Hammack muốn tăng ngay). Biên bản cho thấy phe diều hâu đông hơn nhiều so với tỷ lệ phiếu; Fed cũng lo ngại hơn 3.000 tỷ USD cam kết ngoài bảng cân đối liên quan AI và kịch bản lợi nhuận đầu tư AI gây thất vọng. Lưu ý: biên bản ghi lại cuộc họp trước dữ liệu CPI tháng 10 nóng (+0,4% toàn phần, +0,3% lõi).\nCủng cố kỳ vọng Fed tăng lãi suất tháng 12, gây áp lực lên cổ phiếu công nghệ định giá cao, vàng và Bitcoin; đồng USD mạnh lên. Rủi ro: nếu dữ liệu việc làm ngày 4/12 nóng, khả năng tăng 50 điểm sẽ tăng mạnh.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "7a20161ad4ac86e3ea4400cfb6edacb8ec405533cf91d64e3f61f665057a4364"
+  },
+  {
+    "id": "78d75e01e8a73527956da8d8534c967882a8be385707ec0ebe1751aff31b4d12",
+    "title": "Giám đốc Mossad vận động Mỹ tấn công chung Iran; CENTCOM thăm Israel",
+    "summary": "Reuters 18/11 dẫn 2 nguồn thạo tin: Giám đốc Mossad Roman Gofman đã vận động quan chức Mỹ ủng hộ các cuộc không kích chung Mỹ–Israel nhằm vào Iran trong chuyến thăm Washington tuần trước, gặp Giám đốc CIA John Ratcliffe và đặc phái viên Steve Witkoff tại Miami, đồng thời chia sẻ tình báo về chương trình hạt nhân Iran. Chưa có quyết định tấn công chung mới. Tư lệnh CENTCOM, Đô đốc Brad Cooper, thăm Israel cùng ngày. Thực địa đêm 18/11: Bahrain tiếp tục đánh chặn; Kuwait đối phó drone nhắm căn cứ Ali Al Salem; liên quân Saudi nói phá hủy tên lửa hành trình Houthi nhắm Riyadh, người dân nghe tiếng nổ. Ngoại giao: quan chức Qatar và Iran gặp nhau 18/11; Pakistan chờ phản hồi của Washington về đề xuất mở lại Hormuz.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/world/middle-east/israeli-spy-chief-lobbied-joint-iran-strikes-us-visit-sources-say-2026-11-18/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3578,
+    "analysis": "Diễn biến mới nối tiếp chuỗi leo thang: tàu ADNOC bị tấn công ở Hormuz, Iran tấn công căn cứ ở Bahrain/Kuwait. Một quan chức Nhà Trắng nói sức ép kinh tế với Iran đang hiệu quả, không cần chiến dịch quân sự lớn, dù Trump vẫn giữ mọi lựa chọn. Giờ đăng chính xác của bài Reuters chưa xác minh (bài xuất hiện tối 18/11 giờ Mỹ).\nRủi ro leo thang quân sự vẫn cao, là yếu tố hỗ trợ giá dầu; ngược lại kênh ngoại giao Qatar–Iran và vận động của các lãnh đạo vùng Vịnh cho thấy vẫn còn cửa hạ nhiệt. Mốc then chốt: thượng đỉnh ba bên 19/11 và bầu cử giữa kỳ Mỹ 3/11.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "f656a430deee8387038b58932be4e16a61f05e85a60f4b9941df82733c48e960"
+  },
+  {
+    "id": "55c0b4e4d95cba46b1a1c2111bbb2333bedb07bfbaa7d3f1386a1987b2c23b0f",
+    "title": "Thượng đỉnh ba bên Trump–Tập–Putin ngày 19/11 tại Thâm Quyến: Trump đã tới, bắt tay Putin",
+    "summary": "Trump đã đến Thâm Quyến ngày 18/11, được Chủ tịch Tập Cận Bình đích thân đón tại sân bay. Trump và Putin đã bắt tay, trao đổi ngắn bên lề sự kiện APEC; theo trợ lý Điện Kremlin Yuri Ushakov, hai người dự kiến gặp song phương sau phiên toàn thể APEC ngày 19/11. Cuộc gặp ba bên diễn ra 14:30 giờ địa phương ngày 19/11 tại Kylin Villa (Thâm Quyến), sau cuộc gặp song phương Trump–Tập và bữa trưa làm việc. Chương trình dự kiến: cắt giảm vũ khí hạt nhân (sau khi New START hết hạn tháng 2/2026) và xung đột Iran; quan chức Mỹ nói Ukraine nhiều khả năng không nằm trong chương trình ba bên, không kỳ vọng thỏa thuận cụ thể. Zelenskyy lo ngại thỏa thuận về Ukraine có thể bị bàn sau lưng Kyiv.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.kyivpost.com/post/90482",
+    "imageUrl": "https://static.kyivpost.com/storage/2026/11/18/be0d7c5bc3996500093d3154bef80c2b.jpg?w=1200&q=90&f=jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3579,
+    "analysis": "Cuộc gặp ba bên đầu tiên trong lịch sử giữa lãnh đạo ba cường quốc hạt nhân lớn nhất, bên lề APEC lần thứ 33 (18–19/11) do Trung Quốc chủ trì. Tập phát biểu tại APEC kêu gọi chấm dứt chủ nghĩa bảo hộ; Putin chỉ trích trừng phạt phương Tây.\nBất kỳ tín hiệu nào về kiểm soát vũ khí hạt nhân hoặc hạ nhiệt Iran ngày 19/11 đều có thể tác động mạnh tới dầu, vàng và tâm lý rủi ro toàn cầu; rủi ro là kỳ vọng quá cao rồi thất vọng, hoặc Ukraine bị gạt ra ngoài gây căng thẳng với Kyiv và châu Âu.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "5174897b8f5fa00fc287d75de66636f658aa96479a5f65a2f5f15dace3e1619b"
+  },
+  {
+    "id": "5d0257c82d23dd22a28278be2119fd2019bbc7d957bcb7d2711ccc681eeeacc8",
+    "title": "Anthropic IPO: chưa chốt giá lúc 02:15 VN, báo chí nói 'cao hơn nhiều so với 80 USD'",
+    "summary": "Tính đến 02:15 VN 19/11, Anthropic chưa công bố giá IPO chính thức; giá chốt dự kiến sau khi Phố Wall đóng cửa tối 18/11 (khoảng 04:00 VN 19/11), cổ phiếu giao dịch trên Nasdaq mã ANT từ 19/11. Hồ sơ SEC (sửa đổi 17/11) giữ khoảng giá 70–78 USD/cổ phiếu cho 825 triệu cổ phiếu loại A, tương đương huy động tối đa ~64,35 tỷ USD ở mức 78 USD, định giá pha loãng đầy đủ ~1,4 nghìn tỷ USD. WSJ (17/11) và CNBC (18/11): công ty cân nhắc định giá 'cao hơn nhiều so với 80 USD', tăng quy mô đợt chào bán; sổ lệnh đóng 17/11 với nhu cầu rất lớn — CNBC: ~400 tỷ USD chỉ dẫn quan tâm từ tổ chức và gần 100 tỷ USD từ nhà đầu tư nhỏ lẻ (không ràng buộc), gấp ~6–8 lần lượng chào bán; Bloomberg: gần gấp 7 lần. Ở mức 80 USD, huy động 66 tỷ USD, định giá có thể 1,5–1,6 nghìn tỷ USD. Ngoài ra có đợt phát hành riêng 26 tỷ USD cổ phiếu loại N cho 7 công ty công nghệ gồm Google, Nvidia, AMD, Microsoft. Hồ sơ 17/11 lần đầu tiết lộ Amazon nắm 14,7%, Google 13,7% cổ phần.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "sourceUrl": "https://www.koreatimes.co.kr/world/20261119/anthropic-prices-blockbuster-ipo-as-nvidia-scandal-rattles-ai-stocks",
+    "imageUrl": "https://newsimg.koreatimes.co.kr/2026/11/19/4ebbc501-f77f-4f51-b5e0-3d2b2c0619ff.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3580,
+    "analysis": "IPO lớn nhất của một phòng thí nghiệm AI độc lập, phép thử cho cơn sốt chi tiêu AI sau khi Nvidia công bố KQKD quý 3 mạnh nhưng cổ phiếu vẫn giảm vì lo ngại định giá và khủng hoảng lãnh đạo (CEO Jensen Huang từ chức). Bài Korea Times đăng 23:15 VN 18/11 — ĐÚNG CỬA SỔ.\nGiá chốt trên 80 USD khẳng định nhu cầu AI vẫn rất mạnh, hỗ trợ tâm lý cổ phiếu công nghệ; ngược lại, nếu giá mở cửa 19/11 thấp hơn kỳ vọng của hợp đồng tiền IPO (từng giao dịch quanh 99–104 USD), có thể gây thất vọng lan sang nhóm AI. Lưu ý: mọi con số trên 80 USD chỉ là tin báo chí dẫn nguồn thạo tin, chưa phải hồ sơ SEC; số 400 tỷ + 100 tỷ USD là chỉ dẫn quan tâm không ràng buộc.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "d9b182fa961ab7d4a5d47af9a71f99ab6121fe3ea43677a5bb694c4dcf6bc4d0"
+  },
+  {
+    "id": "d292756d01c183af35282d751797fbea1fec1b306bb002f941f38ed5405eb54f",
+    "title": "Ba Lan nói đã phá âm mưu 'cờ giả' của Nga gần biên giới Kaliningrad, định đổ tội cho Ukraine",
+    "summary": "Báo Rzeczpospolita ngày 18/11 dẫn các quan chức an ninh cấp cao Ba Lan: tình báo Nga bị cho là đã lên kế hoạch tấn công phá hoại gây thương vong hàng loạt gần biên giới với vùng lãnh thổ Kaliningrad của Nga vào cuối tháng 10 hoặc đầu tháng 11, rồi đổ tội cho Ukraine nhằm buộc Warsaw ngừng viện trợ quân sự cho Kyiv; kịch bản được ví với vụ Gleiwitz năm 1939. Ba Lan đã tăng cường an ninh biên giới đông bắc: khoảng 180 cảnh sát bổ sung cùng đơn vị chống khủng bố, biên phòng, an ninh nội địa và đặc nhiệm quân sự GROM, NIL, AGAT. Bộ trưởng điều phối tình báo Tomasz Siemoniak xác nhận đã áp dụng biện pháp an ninh bổ sung trong những tuần gần đây, nhưng không xác nhận chi tiết về kế hoạch tấn công; ông nhấn mạnh đánh giá tình báo chưa công bố không nên được coi là sự thật đã xác lập.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://hromadske.ua/en/europa/274576-poland-thwarted-suspected-russian-false-flag-plot-to-blame-ukraine-for-deadly-attack-report-says",
+    "imageUrl": "https://hromadske.ua/static/content/thumbs/1200x630/d/c9/mcgfev---c1200x630x50px50p--2812a9a942062855a3d9868c8c08dc9d.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3581,
+    "analysis": "Thông tin dựa trên nguồn tin an ninh của Rzeczpospolita, chưa có bằng chứng công khai nào từ chính quyền Ba Lan xác định Nga là bên tổ chức vụ tấn công cụ thể. Trước đó ngày 3/11, Thủ tướng Donald Tusk đã báo cáo 'di chuyển đáng lo ngại' gần biên giới Kaliningrad; ngày 11/11, FSB Nga tuyên bố phá 'mạng lưới tình báo Ba Lan' ở Kaliningrad.\nNếu được xác nhận, đây là leo thang nghiêm trọng trong chiến tranh hỗn hợp Nga–NATO, có thể làm gia tăng căng thẳng trước thềm thượng đỉnh ba bên 19/11; ngược lại, việc thông tin chỉ dựa trên nguồn giấu tên đòi hỏi thận trọng — cần chờ xác nhận chính thức từ Warsaw hoặc đồng minh NATO.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "2306d46f9e73487027aab89a95f2ecdc41db59341502120f9d5fcc83879a24ad"
+  },
+  {
+    "id": "f22b225ffe1c15c137f4161c3b4dc50e1784fe7d763ca3ca38910b797700e3e6",
+    "title": "Phố Wall phiên 18/11 (số trong phiên): Dow thủng sâu, sát mốc 50.000; Nvidia giảm dù KQKD tốt",
+    "summary": "Tính đến 11:32 ET 18/11 (23:32 VN): S&P 500 -0,48% còn 7.305 điểm; Nasdaq -0,08% còn 24.308 điểm; Dow Jones -1,17% còn 50.167 điểm, tiến sát mốc tâm lý 50.000. Nvidia -2,38% trong phiên dù doanh thu quý 3 tăng gấp đôi và dự báo quý 4 khoảng 130 tỷ USD — thị trường vẫn lo ngại định giá AI và khủng hoảng lãnh đạo sau khi CEO Jensen Huang từ chức. Điểm sáng: TJX +10,67% và Target +7,36% sau KQKD tốt và nâng triển vọng. Vàng trong phiên -3,10% còn 3.744,30 USD/ounce. Phiên trước (17/11) đóng cửa giảm mạnh: Dow -1,64% còn 50.759,42 điểm (Zacks; Economic Times ghi 50.748,46 — chênh lệch nhỏ giữa các nguồn), S&P 500 -1,03%, Nasdaq -0,74%, VIX +11,13% lên 25,46.",
+    "category": "Thị trường",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-midday-nov-18-nvidia-doubles-revenue-but-wall-street-s-sell-off-continues/",
+    "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4b94d60af61ec105db116c55530575df69073d91-2120x1414.jpg&w=1200&op=resize",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3582,
+    "analysis": "Phố Wall giảm phiên thứ 4–5 liên tiếp trong bối cảnh lo ngại Fed tăng lãi suất (biên bản FOMC diều hâu công bố 02:00 VN 19/11) và định giá AI, ngay trước giờ chốt IPO Anthropic. Bài Motley Fool đăng 00:10 VN 19/11 — ĐÚNG CỬA SỔ.\nNếu phiên 18/11 đóng cửa dưới 50.000 điểm, tâm lý rủi ro có thể xấu thêm sang phiên châu Á sáng 19/11; ngược lại, biên bản FOMC diều hâu đã được thị trường phần lớn định giá trước nên phản ứng có thể hạn chế. Lưu ý: đây là số trong phiên, chưa phải số đóng cửa (đóng cửa ~04:00 VN 19/11).",
+    "tags": [
+      "Thị trường",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "275ec66614741ff17b08838f25837484a38fa7891c18ff9b290dd1c4a457ca36"
+  },
+  {
+    "id": "64cd14b7661e191e9c3735a11ca33de766aec819aae7f372b4b6d2c00d86c30c",
+    "title": "Dầu, vàng, Bitcoin đồng loạt giảm: Brent về ~91,5 USD, vàng thủng 3.800 USD",
+    "summary": "Theo Dow Jones Newswires qua Morningstar (18/11): hợp đồng dầu Brent giảm 1,85% còn khoảng 91,50 USD/thùng; giá vàng tương lai giảm khoảng 2,4% xuống dưới 3.800 USD/ounce. Theo Bloomberg Markets Wrap buổi sáng 18/11 (giờ London): Brent -1,5% còn 91,77 USD, vàng giao ngay -2% còn 3.770,82 USD — lần đầu trong năm xuống dưới 3.800 USD; Bitcoin buổi sáng +0,7% lên 64.707,84 USD. Cập nhật tối 18/11: đến 23:35 VN, Brent còn 91,39 USD (-1,14%), WTI 83,64 USD (-2,43%), vàng còn 3.752,95 USD; Bitcoin đảo chiều giảm về 62.814 USDT lúc 02:26 VN 19/11 (Finnhub), thấp nhất trong ngày 62.279 USDT, -1,51% trong ngày.",
+    "category": "Hàng hóa",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.morningstar.com/news/dow-jones/202611181791/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3583,
+    "analysis": "Nguyên nhân dầu giảm: dấu hiệu nguồn cung phục hồi và tồn kho dầu thô Mỹ tăng (API ước tính +5,28 triệu thùng trong tuần kết thúc 13/11, sau mức +9 triệu thùng tuần trước), lấn át rủi ro Hormuz; vàng giảm do đồng USD mạnh lên trước kỳ vọng Fed tăng lãi suất. Brent ~91–92 USD thấp hơn nhiều so với đỉnh gần 118 USD cuối tháng 10.\nDầu hạ nhiệt giúp giảm áp lực lạm phát toàn cầu; nhưng nếu xung đột vùng Vịnh leo thang trở lại, giá có thể bật nhanh. Bitcoin thủng 63.000 USD cho thấy tâm lý rủi ro tiền mã hóa vẫn yếu sau biên bản FOMC diều hâu.",
+    "tags": [
+      "Hàng hóa",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "e98a3f9899c73bc76bbb3e9d76f6c6487295d66e6addd2f55076fb1db94b34dc"
+  },
+  {
+    "id": "bb5c90c68ccdc2557f9d2ef26f6b4a5a0ea0f60d52417c778e661d7f2d11f5dc",
+    "title": "Lạm phát Anh lên 3,6%, cao nhất một năm; BoE cảnh báo có thể gần 5% vào quý 2/2027",
+    "summary": "Lạm phát tiêu dùng (CPI) của Anh tăng lên 3,6% trong tháng 10/2026, từ 3,5% tháng 9 — mức cao nhất trong một năm, đúng dự báo trung vị của Reuters. Động lực chính là giá xăng dầu và năng lượng tăng mạnh (nhiên liệu và dầu bôi trơn +33,2% so với cùng kỳ). Lạm phát lõi giữ nguyên 2,8%, lạm phát dịch vụ giữ 3,7%. Ngân hàng Trung ương Anh (BoE) — vừa tăng lãi suất lần đầu sau ba năm hồi đầu tháng 11 — đưa ra tuyên bố bất thường sau số liệu, cảnh báo xung đột Trung Đông đã đẩy giá năng lượng lên và lạm phát dự kiến còn tăng tiếp, có thể lên gần 5% trong quý 2/2027. Đồng bảng giảm 0,4% xuống 1,314 USD, thấp nhất một tháng. Thị trường đặt xác suất BoE tăng thêm 25 điểm trong tháng 12 ở khoảng 80%, giảm từ 92% đầu tuần.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.freemalaysiatoday.com/category/business/2026/11/18/uk-inflation-rises-to-one-year-high-of-3-6",
+    "imageUrl": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2025/10/eb76c09a-bank-of-england-08102025.webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3584,
+    "analysis": "Anh là ví dụ rõ nhất về cách chiến tranh Iran truyền dẫn thành lạm phát ở các nền kinh tế lớn qua kênh năng lượng, trong khi lạm phát lõi ổn định khiến BoE khó quyết định có tăng tiếp hay không. Bài Free Malaysia Today (tổng hợp từ Reuters) đăng 14:44 VN 18/11.\nNếu giá dầu không hạ nhiệt, các ngân hàng trung ương lớn (Fed, BoE) sẽ cùng nghiêng về thắt chặt, gây áp lực lên tăng trưởng toàn cầu; ngược lại, lạm phát lõi ổn định cho thấy BoE có thể chỉ tăng thêm một lần rồi dừng.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "5f215700efc98125d9e65138e359e49e8e5c609da0b698a150649f1642cb70bf"
+  },
+  {
+    "id": "34e02f6ae1a664bc06d385daf08372a1f2f782295a5ce877e24a42a5905dba79",
+    "title": "Việt Nam – Trung Quốc: 4 đề tài nghiên cứu chung, 16 biên bản ghi nhớ về AI, bán dẫn, 5G",
+    "summary": "Chiều 17/11 tại Thâm Quyến, Tổng Bí thư, Chủ tịch nước Tô Lâm dự và phát biểu tại Diễn đàn Kết nối công nghệ và Đổi mới sáng tạo Việt Nam – Vùng Vịnh Lớn Trung Quốc, bên lề Tuần lễ Cấp cao APEC lần thứ 33. Diễn đàn thu hút khoảng 500 đại biểu. Quỹ Nafosted (Bộ Khoa học và Công nghệ Việt Nam) và Bộ Khoa học và Công nghệ Trung Quốc công bố đồng tài trợ 4 nhiệm vụ nghiên cứu chung: AI trong dược liệu và y học cổ truyền; cảnh báo sớm rủi ro an ninh nguồn nước; giám sát, cảnh báo đa thiên tai cho hạ tầng giao thông miền núi; robot dịch vụ trong bệnh viện thông minh. Hai bên trao 16 biên bản ghi nhớ về AI, bán dẫn, thiết kế vi mạch, 5G, UAV và kinh tế tầm thấp, hạ tầng số, đô thị thông minh, năng lượng và tài chính số.",
+    "category": "Hợp tác đầu tư",
+    "section": "B - Kinh tế",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-du-dien-dan-ket-noi-cong-nghe-viet-nam-voi-vung-vinh-lon-trung-quoc-5146289.html",
+    "imageUrl": "https://i2-vnexpress.vnecdn.net/2026/11/18/tong-bi-thu-chu-tich-nuoc-du-dien-dan-ket-noi-cong-nghe-va-doi-moi-sang-tao-giua-viet-nam-voi-vung-v-1795009553.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=w4Pn4Bgiu6lRIyePBMdhkg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3585,
+    "analysis": "Diễn biến khác với bài phát biểu tại Hội nghị Thượng đỉnh Doanh nghiệp APEC đã đưa ở số 22:15 — đây là hoạt động song phương Việt–Trung cụ thể về công nghệ, gắn với chuẩn bị cho APEC 2027 do Việt Nam đăng cai. Ông Tô Lâm mong muốn hợp tác KHCN và đào tạo nhân lực trở thành điểm sáng trong quan hệ hai nước, hoan nghênh doanh nghiệp Vùng Vịnh Lớn đầu tư lâu dài, lập cơ sở nghiên cứu, sản xuất công nghệ cao tại Việt Nam. Bài VnExpress đăng 21:50 VN 18/11.\nMở cơ hội chuyển giao công nghệ, đào tạo nhân lực AI/bán dẫn và dự án đầu tư công nghệ cao; đồng thời đặt ra yêu cầu về năng lực làm chủ công nghệ và quản trị rủi ro khi hợp tác sâu với Trung Quốc.",
+    "tags": [
+      "Hợp tác đầu tư",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "c3a492069f160e52334ea39159f8de543faefafd582e42e8e6f324813553c4b2"
+  },
+  {
+    "id": "05697828498fe1efe02e957b3fc77bd02bd9ac1aa9f634881aece5ad1ac12a00",
+    "title": "Miền Bắc mưa rét, vùng núi có nơi dưới 10 độ; miền Trung mưa rất to từ chiều 19/11",
+    "summary": "Tối 18/11, không khí lạnh đã ảnh hưởng đến hầu hết Đông Bắc Bộ, một số nơi ở Tây Bắc Bộ và Bắc Trung Bộ; Bắc Bộ và Thanh Hóa có mưa, mưa rào, có nơi có dông, cục bộ mưa to. Bắc Bộ những ngày tới trời rét, vùng núi có nơi rét đậm; từ 19/11 Bắc Trung Bộ chuyển rét, Quảng Trị đến Huế chuyển lạnh. Nhiệt độ thấp nhất đợt này ở vùng núi và trung du Bắc Bộ phổ biến 12–15 độ C, vùng núi cao có nơi dưới 10 độ C; đồng bằng Bắc Bộ và Bắc Trung Bộ 15–18 độ C. Hà Nội đêm 18/11 mưa, mưa rào, có nơi có dông, trời rét; ngày 19/11 thấp nhất 16–18 độ C, cao nhất 20–22 độ C. Từ chiều 19 đến đêm 21/11, Quảng Trị đến Đà Nẵng và phía đông Quảng Ngãi mưa 100–200 mm, cục bộ trên 250 mm; đêm 19 và ngày 20/11 không khí lạnh tăng cường xuống Nam Trung Bộ; biển động, gió đông bắc cấp 6, giật cấp 7–8, sóng 2–4 m. Bài Dân trí đăng 22:07 VN 18/11 — sát cửa sổ đêm (trước 22:15 chỉ 8 phút).",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://dantri.com.vn/thoi-tiet/mien-bac-mua-ret-20261118215256915.htm",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3586,
+    "analysis": "Đây là đợt không khí lạnh mạnh đầu tiên gây rét diện rộng kèm mưa lớn kéo dài 3 ngày ở miền Trung, đúng thời điểm người dân đi lại, sản xuất và các địa phương miền Trung vẫn đang khắc phục mưa lũ trước đó. Đêm 18–19/11, Bắc Trung Bộ mưa vừa, mưa to đến rất to trên 100 mm cục bộ.\nNguy cơ lốc, sét, mưa đá, gió giật mạnh; lũ quét, sạt lở đất và ngập úng vùng trũng thấp ở miền Trung; tàu thuyền trên vịnh Bắc Bộ và vùng biển từ nam Quảng Trị đến Quảng Ngãi cần tránh biển động mạnh.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "15be9920c8aac7aa477a52123dad2b4ab4c4d6f0973b29d700ec241e6da79bb2"
+  },
+  {
+    "id": "f6840c5199fd5b20576b714430022a9596bbdfc7c600810449e741b03cba2fb1",
+    "title": "AIPA-47: Chủ tịch Quốc hội nhấn mạnh lấy người dân làm trung tâm trong mọi quyết sách nghị viện",
+    "summary": "Chiều 18/11 tại Manila, Phiên toàn thể thứ nhất AIPA-47 diễn ra do Chủ tịch Hạ viện Philippines Faustino 'Bojie' G. Dy III chủ trì. Mở đầu phiên, Đại hội đồng tổ chức lễ kết nạp Nghị viện Quốc gia Timor-Leste làm thành viên chính thức của AIPA. Chủ tịch Quốc hội Trần Thanh Mẫn phát biểu, nhấn mạnh nhân dân phải luôn được đặt ở vị trí trung tâm — vừa là mục tiêu, vừa là chủ thể và động lực cao nhất của mọi chính sách; đề xuất 3 định hướng: củng cố hòa bình, ổn định và thượng tôn pháp luật (sớm đạt COC ở Biển Đông hiệu lực, thực chất); kiến tạo hành lang pháp lý cho ASEAN tự cường, thịnh vượng, ưu tiên khung pháp lý cho kinh tế xanh, kinh tế số, quản trị AI, chuyển đổi năng lượng; tăng cường giám sát thực thi cam kết và thúc đẩy phụ nữ, thanh niên tham gia đời sống chính trị. Các trưởng đoàn khẳng định ASEAN tiếp tục là 'điểm sáng' về ổn định và tăng trưởng, nhất trí sớm đạt COC trên cơ sở luật pháp quốc tế, nhất là UNCLOS 1982.",
+    "category": "Chính sách",
+    "section": "B - Xã hội",
+    "region": "Quốc tế",
+    "sourceUrl": "https://vov.vn/chinh-tri/chu-tich-quoc-hoi-lay-nguoi-dan-lam-trung-tam-trong-moi-quyet-sach-nghi-vien-post1351260.vov",
+    "imageUrl": "https://media.vov.vn/sites/default/files/styles/large_watermark/public/2026-11/chu-tich-qh-tran-thanh-man.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3587,
+    "analysis": "Diễn biến mới sau lễ khai mạc và việc kết nạp Timor-Leste đã đưa ở số 14:15 — là nội dung phát biểu chính thức của đoàn Việt Nam tại phiên toàn thể đầu tiên, định hướng lập pháp của AIPA-47 (18–20/11). Bài VOV đăng 16:33, cập nhật 22:17 giờ VN 18/11 (bản cập nhật nằm trong cửa sổ đêm).\nGóp phần định hình nghị quyết và Thông cáo chung AIPA-47 (dự kiến ký ngày cuối); củng cố lập trường chung ASEAN về Biển Đông và hợp tác nghị viện Việt Nam–Philippines.",
+    "tags": [
+      "Chính sách",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "d0ebba0f1670bb084fd10c592217727c74818dc1fbec4d9a639443d197e71040"
+  },
+  {
+    "id": "e0ad46c9a6bc4520ce06b89243d58e62e90927fcc79f32b77d0042508b371b24",
+    "title": "Đề xuất làm việc công ích thay nộp phạt với mức phạt đến 5 triệu đồng",
+    "summary": "Chính phủ đề xuất cho phép cá nhân vi phạm hành chính bị phạt tiền từ 5 triệu đồng trở xuống được thực hiện công việc phục vụ cộng đồng thay nộp phạt, nếu đã nhận lỗi và tự nguyện đề nghị. Đề xuất do Thứ trưởng Bộ Công an Lê Quốc Hùng trình bày khi báo cáo tiếp thu, giải trình, chỉnh lý dự án Luật Xử lý vi phạm hành chính (sửa đổi) tại phiên họp Ủy ban Thường vụ Quốc hội sáng 18/11. Dự thảo cũng đề xuất chỉ quy định thời hiệu xử phạt 3 năm; mức phạt tối đa 1,5 tỷ đồng đối với cá nhân và 3 tỷ đồng đối với tổ chức trong một số lĩnh vực; bỏ quy định mức phạt cao hơn tối đa không quá 2 lần mức chung tại các thành phố; không coi tạm hoãn xuất cảnh là biện pháp cưỡng chế mà là biện pháp bảo đảm thi hành quyết định; chuyển thẩm quyền quyết định cai nghiện bắt buộc, đưa vào cơ sở giáo dục bắt buộc từ Tòa án nhân dân khu vực sang Chủ tịch UBND cấp xã (Bộ Chính trị đã đồng ý định hướng theo Văn bản 5841). Phó Chủ tịch Quốc hội Nguyễn Khắc Định cho biết UBTVQH cơ bản tán thành đa số nội dung đã thống nhất tiếp thu, chỉnh lý.",
+    "category": "Chính sách",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://znews.vn/znews-post1696675.html",
+    "imageUrl": "https://photo.znews.vn/Uploaded/wohuhuo/2026_11_18/thu_truong_bo_cong_an_11360238.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3588,
+    "analysis": "Thay đổi lớn trong cách xử lý vi phạm hành chính, ảnh hưởng trực tiếp đến hàng triệu người dân và doanh nghiệp nhỏ nếu được Quốc hội thông qua tại Kỳ họp thứ 2. Bài Znews (theo VTC News) đăng 14:36 VN 18/11.\nGiảm gánh nặng tài chính cho người vi phạm nhẹ, tăng tính giáo dục và phục vụ cộng đồng; đồng thời cần quy định chặt về điều kiện, thẩm quyền và thủ tục để tránh lạm dụng, bảo đảm phù hợp Công ước về lao động cưỡng bức 1930.",
+    "tags": [
+      "Chính sách",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "767c8118cceb50d8ff89bced436743b24292a40d31358bc86f5344770e2ae951"
+  },
+  {
+    "id": "9b0755daef5b6cb00aefc8f8f18fae6bd947676cbfbac162592e828b0f4572fa",
+    "title": "Bắt đôi nam nữ chở hơn 13 kg ma túy qua biên giới Tây Ninh",
+    "summary": "Ngày 18/11, Bộ đội Biên phòng tỉnh Tây Ninh cho biết đã đấu tranh thành công chuyên án, triệt phá đường dây vận chuyển ma túy từ Campuchia vào Việt Nam tiêu thụ. Lúc 12h45 ngày 11/11, lực lượng biên phòng chủ trì phối hợp Đoàn Đặc nhiệm phòng chống ma túy và tội phạm miền Nam và Công an tỉnh Tây Ninh bắt quả tang Nguyễn Văn Quân (30 tuổi) và Tống Linh Chi (26 tuổi, cùng ngụ TP.HCM) đang lái ô tô chở 10 kg ma túy tổng hợp dạng đá và 2 bánh heroin trên trục lộ Bắc Chiêng – Cả Bản, ấp Rạch Đình, xã Tuyên Bình, tỉnh Tây Ninh. Khám xét nơi ở của hai người tại TP.HCM, lực lượng thu thêm 2 kg ma túy đá. Tổng tang vật hơn 13 kg ma túy đá, 2 bánh heroin, hơn 100 triệu đồng, ô tô, điện thoại và tang vật liên quan. Bộ đội Biên phòng tỉnh Tây Ninh đã khởi tố vụ án, tiếp tục điều tra mở rộng. Bài Tuổi Trẻ đăng 17:58 VN 18/11 (cập nhật 18:23).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://tuoitre.vn/bat-doi-nam-nu-cho-hon-13kg-ma-tuy-qua-bien-gioi-tay-ninh-1002611181719459.htm",
+    "imageUrl": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/18/quan-va-linh-edit-1794999820902637557909.jpeg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3589,
+    "analysis": "Vụ bắt giữ quy mô lớn trên tuyến biên giới Campuchia – Tây Ninh, một trong những tuyến ma túy trọng điểm vào TP.HCM và phía Nam.\nCắt đứt một đường dây vận chuyển xuyên biên giới; cảnh báo về thủ đoạn dùng ô tô cá nhân vận chuyển số lượng lớn ma túy đá và heroin.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "b3aebad3aab2f93c7a41f1a469a45970ea0ecd9da2f49e793fa100acc0b1cb23"
+  },
+  {
+    "id": "ea46b5f8bbe54cec281ed92991f4762af52c92f756b3ddcacb594f2f66a6cf19",
+    "title": "GAO: cả 4 chatbot lớn đều tạo được kế hoạch tấn công khủng bố khả thi trong 12 giờ",
+    "summary": "Báo cáo kiểm toán của Văn phòng Trách nhiệm Giải trình Chính phủ Mỹ (GAO), công bố ngày 18/11/2026, cho thấy các điều tra viên đã vượt qua hàng rào an toàn của ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google) và Grok (xAI) và trong vòng chưa đầy 12 giờ mỗi nền tảng đều tạo ra kế hoạch tấn công khả thi tại Mỹ. Hai nền tảng đưa ra kế hoạch chế tạo và kích nổ thiết bị nổ tự tạo (IED) gây thương vong hàng loạt tại các thành phố; hai nền tảng còn lại đưa ra kế hoạch tấn công trạm biến áp điện bằng drone hoặc súng trường. GAO đã xác minh tính khả thi của hướng dẫn chế tạo IED với nghiên cứu giám sát và một chỉ huy đội rà phá bom, theo AP. GAO không nêu nền tảng nào tạo ra kế hoạch nào và đã biên tập chi tiết để tránh bị sao chép.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Việt Nam",
+    "sourceUrl": "https://www.fastcompany.com/91644823/we-need-act-now-senator-plans-ai-hearings-after-tests-discover-alarming-national-security-risks",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3590,
+    "analysis": "Lần đầu GAO kiểm tra bí mật các nền tảng AI, theo yêu cầu của Thượng nghị sĩ Maggie Hassan (Dân chủ, New Hampshire), người sẽ chủ trì Ủy ban An ninh Nội địa Thượng viện và dự kiến tổ chức phiên điều trần về an toàn AI vào tháng 1/2027. Kiểm tra diễn ra mùa xuân 2026, trong khuôn khổ cuộc kiểm toán từ tháng 12/2025 đến tháng 10/2026. Bài AP đăng lại trên Fast Company lúc 22:29 VN 18/11 — ĐÚNG CỬA SỔ.\nGây sức ép lập pháp mới lên các hãng AI về kiểm soát an toàn; cả 4 hãng đều nói đã cải thiện hàng rào an toàn sau thời điểm kiểm tra và đặt câu hỏi về phương pháp luận (OpenAI nói báo cáo không phải lúc nào cũng tách bạch đầu ra của mô hình với thông tin do điều tra viên cung cấp; Anthropic nói không xác minh được kết quả). Lưu ý: đây là ảnh chụp tại một thời điểm với phiên bản cũ, không phải bài kiểm tra xuyên thủng hiện tại — không nên suy ra mức độ an toàn của các phiên bản đang chạy hôm nay.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "e32633e930e529664244e3948af07d2003aa25dbf71d3e04b60d626af3c7156f"
+  },
+  {
+    "id": "e5ae3f8debc254f87d41861f7e422592dc9f6913252c1b3b5d0431b8ca0ffd4a",
+    "title": "Lỗ hổng RCE chưa xác thực trong Nginx qua HTTP/2 (CVE-2026-123633, CVE-2026-123007)",
+    "summary": "Wiz Research cùng Ikotas Labs, Metnir, Rapid7 và Xint độc lập phát hiện hai lỗ hổng RCE nghiêm trọng trong Nginx, đều CVSS 4.0 là 9,2, yêu cầu bật HTTP/2. CVE-2026-123633 là use-after-free; CVE-2026-123007 là integer underflow trong flow-control, ảnh hưởng cả máy chủ chỉ phục vụ file tĩnh, tồn tại từ Nginx 1.9.5 (2015). F5 phát hành bản vá 1.30.7 (stable) và 1.31.9 (mainline) ngày 18/11/2026, PoC không công bố. Cộng đồng Hacker News tranh luận về phạm vi ảnh hưởng thực tế (hơn 225 triệu website dùng Nginx nhưng chỉ những máy bật HTTP/2 và đúng phiên bản mới lộ diện).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "imageUrl": "https://www.datocms-assets.com/75231/1794936719-img_7875.png?fm=webp",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3591,
+    "analysis": "Lỗ hổng RCE chưa xác thực trên phần mềm hạ tầng phổ biến nhất web, công bố phối hợp ngày 18/11; việc 5 nhóm độc lập cùng tìm ra cho thấy đây là lớp lỗi hệ thống trong code HTTP/2 cũ. Bài Wiz đứng #1 front page Hacker News với 561 points/199 bình luận (ghi nhận ~02:35 VN 19/11).\nQuản trị hệ thống toàn cầu phải rà soát phiên bản Nginx và cấu hình HTTP/2 trong ngày; rủi ro khai thác thực tế tăng sau khi chi tiết kỹ thuật công bố dù PoC chưa phát hành; các nhà cung cấp cloud/CDN phải vá diện rộng. Khuyến nghị: vá ngay hoặc tắt HTTP/2 tạm thời nếu chưa vá được.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "6c2644e3b5f3d7818efd9c463de4ae2583da63a1641640016f5f196afac4620c"
+  },
+  {
+    "id": "b381b736c82b1a86f30819cdcb9df13b72143f3c0f09476b4a17f1e08714e1f7",
+    "title": "Google ra mắt 'temporary threads' cho AI Mode trong Search — chế độ ẩn danh của tìm kiếm AI",
+    "summary": "Google triển khai toàn cầu tính năng 'temporary threads' (phiên trò chuyện tạm thời) cho AI Mode trong Search, trên cả desktop và mobile, mọi ngôn ngữ được hỗ trợ. Người dùng bấm biểu tượng ở góc trên bên phải AI Mode để mở một phiên tách khỏi tài khoản: cuộc trò chuyện không xuất hiện trong lịch sử tìm kiếm hay đề xuất, không dùng sở thích trước đây để cá nhân hóa câu trả lời và không ảnh hưởng tới cá nhân hóa trong tương lai. Khi đóng phiên, người dùng trở lại tìm kiếm bình thường. Không cần chỉnh sửa cài đặt. Bài TechCrunch đăng 01:04 VN 19/11 — ĐÚNG CỬA SỔ; nguồn gốc là blog chính thức của Google.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "region": "Quốc tế",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3592,
+    "analysis": "Tính năng riêng tư mới của AI Mode, tương tự chế độ ẩn danh của Search truyền thống và trò chuyện tạm thời của các chatbot. Cần phân biệt với tin đã đưa ở số 06:15 — Google giữ chat tạm thời của Gemini tới khoảng 2 tháng thay vì 72 giờ; tin này là về AI Mode trong Search, sản phẩm khác, và Google nói phiên tạm thời không được dùng để huấn luyện mô hình (theo ảnh chụp màn hình 9to5Google đăng).\nCơ hội cho người dùng tra cứu nhạy cảm (quà tặng bất ngờ, sức khỏe...) mà không để lại dấu vết cá nhân hóa; rủi ro là Google chưa nói rõ họ lưu giữ gì từ các phiên này ở phía máy chủ — các báo cáo thứ cấp lưu ý điểm này chưa được làm rõ.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "d3418272e1a1c51290ae3c327e65c41e0ad9e00b1f4a1fe0ab3411860d719215"
+  },
+  {
+    "id": "c7122f5164521e579d92429689ed354074ef0a92327c18ee0a26b647ee4fef2b",
+    "title": "Tấn công 'Hello Again': vượt khóa TPM để dò PIN Windows Hello và BitLocker trong vài ngày thay vì nhiều năm",
+    "summary": "Nhóm nghiên cứu tại Đại học Kỹ thuật Berlin (TU Berlin) đã chứng minh tấn công vật lý vượt qua cơ chế khóa (lockout) của firmware TPM, khiến PIN ngắn có thể bị dò đoán nhanh hơn nhiều. Trên laptop HP OmniBook 3 (AMD Ryzen AI 5 330), PIN Windows Hello 4 chữ số '1235' bị tìm ra sau 236 lần thử trong 57 phút; trên Framework Laptop 13 (Intel Core Ultra 5 125H), PIN khởi động BitLocker 6 chữ số '123457' bị tìm ra sau 236 lần thử trong 6 phút 55 giây. Theo tính toán ngoại suy của nhóm, thời gian xấu nhất để dò PIN Hello 4 chữ số giảm từ khoảng 69 ngày xuống khoảng 40 giờ; PIN BitLocker 6 chữ số mặc định giảm từ khoảng 19 năm xuống khoảng 20–26 ngày (bài báo ACM ghi 26 ngày; một số bản tin ghi 20 ngày). AMD đã xác nhận một lỗi firmware và gán mã CVE-2026-43613 (CVSS 4.0: 5.1), với bản vá firmware dự kiến từ tháng 11/2026 đến tháng 2/2027 tùy dòng chip.",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3593,
+    "analysis": "Firmware TPM không có bộ nhớ riêng an toàn mà lưu trạng thái (gồm số lần nhập sai) đã mã hóa trên chip flash của bo mạch; kẻ tấn công mở máy và gắn phần cứng vào chip flash để khôi phục lại trạng thái cũ, đặt lại bộ đếm khóa. Đây là tấn công vật lý, không phải khai thác từ xa. Nhóm đã công bố bài báo, firmware tấn công, thiết kế mạch và script; báo cáo cho AMD từ tháng 2/2026 và Microsoft từ tháng 4/2026. Bài Cyber Security News ghi 21:16 VN 18/11.\nRủi ro chủ yếu với máy bị mất/trộm và kẻ tấn công có thời gian, dụng cụ — PIN ngắn (4–6 chữ số) không còn đủ an toàn trong kịch bản này. Khuyến nghị ngay của nhóm nghiên cứu: tăng thêm ít nhất 2 chữ số cho PIN Hello và BitLocker. Hạn chế: cần mở máy, gắn bo mạch interposer tùy chỉnh, không phải tấn công 'cắm là chạy'.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "edeabde0b4b80c76db9ce7ddbc801860a34a8e01027585f88df8232d97a9a387"
+  },
+  {
+    "id": "ff5106bc958b909fb60b6ae1d174dd6d94608223a0224aa05313a339f117ff10",
+    "title": "Isomorphic Labs huy động 5 tỷ USD Series C để đưa thuốc thiết kế bằng AI vào thử nghiệm lâm sàng",
+    "summary": "Isomorphic Labs — công ty spin-out từ Google DeepMind, do Demis Hassabis sáng lập và làm CEO — công bố vòng Series C trị giá 5 tỷ USD ngày 17/11/2026, do Greenoaks và Sequoia Capital đồng dẫn dắt, cùng a16z và các nhà đầu tư mới, với Alphabet tiếp tục đầu tư lớn; tất cả nhà đầu tư hiện hữu đều tham gia (Thrive Capital, MGX, GV, CapitalG, Temasek, UK Sovereign AI Fund). Vốn sẽ dùng để mở rộng engine thiết kế thuốc độc quyền IsoDDE, phát triển mô hình mô phỏng sinh học mới và xây hạ tầng đưa các ứng viên thuốc đầu tiên vào thử nghiệm lâm sàng. Công ty không công bố định giá; Bloomberg trước đó đưa tin công ty tìm mức định giá khoảng 50 tỷ USD — con số này chưa được xác nhận trong thông báo. Vòng này nối tiếp Series B 2,1 tỷ USD tháng 5/2026, nâng tổng vốn huy động bên ngoài lên khoảng 7,7 tỷ USD. Bài MobiHealthNews đăng 00:25 VN 19/11 — ĐÚNG CỬA SỔ.",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.mobihealthnews.com/news/isomorphic-labs-raises-5b-ai-drug-discovery",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3594,
+    "analysis": "Một trong những vòng gọi vốn công nghệ sinh học lớn nhất từ trước đến nay, đặt cược rằng AI thiết kế thuốc (nền tảng từ AlphaFold, giải Nobel Hóa học 2024) có thể rút ngắn quá trình phát hiện thuốc. Tháng 1/2026 Hassabis từng nói Isomorphic kỳ vọng thử nghiệm lâm sàng đầu tiên vào cuối 2026, nhưng thông báo lần này không nêu mốc thời gian mới hay ứng viên cụ thể nào.\nCơ hội: xác nhận dòng vốn lớn vẫn chảy vào AI cho khoa học, không chỉ chatbot. Rủi ro: công ty vẫn ở giai đoạn tiền lâm sàng, chưa có bệnh nhân nào được dùng thuốc và chưa công bố dữ liệu ứng viên trong thông báo — 5 tỷ USD là niềm tin của nhà đầu tư, chưa phải bằng chứng hiệu quả lâm sàng.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "a199d2588f5ad31814630bb22d4dce80be7b5ce020a3ef76e8bc879a82c2edc2"
+  },
+  {
+    "id": "ff8abf6fe908c27d10171b734a29725294c16e81a33247bfcaeacb6043d62eba",
+    "title": "Microsoft ra mắt 7 mô hình MAI tại Ignite 2026 — đánh vào bài toán chi phí AI",
+    "summary": "Nền tảng: Hacker News + blog Microsoft AI + Reuters/News18/Verdict. Nội dung: tại Ignite 2026 (17–20/11, San Francisco), Microsoft công bố 7 mô hình chuyên biệt: MAI Code 2, MAI Code 2 Flash, MAI Cyber 2 Flash, MAI Image 2.7 (+ bản Flash), MAI Realtime 1, MAI Transcribe 2 và Decision 1.1. Thông điệp chính là hiệu năng trên chi phí: MAI Code 2 đạt 98% hiệu năng GPT-6.1 Sol với ~40% giá, 96% so với Claude Opus 5.5 với ~5% giá (theo benchmark do Microsoft chọn); MAI Cyber 2 Flash chi phí dưới 2%/task so với GPT-6 Astra; Decision 1.1 nhanh gấp 50 lần, rẻ gấp 79 lần GPT-Sol 6.1. Like/Reactions: 261 points (HN, ghi nhận ~02:35 VN 19/11, Algolia API). Comments/Replies: 169 bình luận. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: ít nhất 4 nguồn — thread HN (link blog Microsoft AI), News18, Verdict, Gadgets Now/kingy.ai (dẫn Reuters); bài đăng 23:08 VN 18/11. Điểm HOT: Chưa đủ dữ liệu (thiếu Shares/Reposts và dữ liệu tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50548021",
+    "imageUrl": "https://microsoft.ai/wp-content/uploads/2026/11/All-Up-Blog.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3596,
+    "analysis": "Vì sao đang HOT: đòn trực diện vào mô hình kinh doanh của OpenAI/Anthropic bằng 'AI rẻ hơn cho doanh nghiệp'; các con số so sánh giá gây sốc (5%, 2%) kích thích tranh luận về benchmark. Các quan điểm nổi bật: (1) Ủng hộ: mô hình chuyên biệt, rẻ là hướng đi đúng cho doanh nghiệp; (2) Hoài nghi: số liệu do Microsoft tự chọn benchmark, hiệu năng thực tế có thể khác; (3) Chiến lược: Microsoft đang xây 'stack AI riêng' (kèm chip Maia 200) để bớt lệ thuộc đối tác.\nTác động: gây áp lực giá lên thị trường mô hình AI doanh nghiệp; doanh nghiệp có thêm lựa chọn thay thế GPT/Claude cho tác vụ coding, bảo mật, thoại; GitHub Copilot đã tích hợp MAI Code 2 Flash cho cả người dùng Free. (Góc tin tức ra mắt đã đưa ở số 06:15 với URL microsoft.ai; đây là góc thảo luận cộng đồng với URL bài HN.)",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "02dcf85b1c49587a5d535f9591d22a02bb6d511c77e25548037710cb0bb14334"
+  },
+  {
+    "id": "0678b6ae83ddcc6eeafd4ad24cfe98f2d43fb5dfa8aba7dd25a99874995ee2aa",
+    "title": "'Human' là Từ của năm 2026 của Từ điển Cambridge",
+    "summary": "Nền tảng: Hacker News + Cambridge Dictionary. Nội dung: Cambridge Dictionary chọn 'human' làm Word of the Year 2026, phản ánh năm mà ranh giới người–máy trở thành câu hỏi trung tâm: AI viết văn, làm nhạc, trò chuyện như người, trong khi xã hội tranh luận thế nào là 'con người' trong lao động, sáng tạo và quan hệ. Like/Reactions: 171 points (HN, ghi nhận ~02:35 VN 19/11, Algolia API). Comments/Replies: 123 bình luận. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 2 nguồn chính — thread HN + thông báo chính thức của Đại học Cambridge; bài đăng 21:43 VN 18/11. Điểm HOT: Chưa đủ dữ liệu (chỉ 2 nguồn độc lập, thiếu Shares/Reposts và dữ liệu tăng trưởng).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3597,
+    "analysis": "Vì sao đang HOT: từ 'human' thắng giải trong năm AI bùng nổ tạo nghịch lý thú vị, dễ lan truyền; cộng đồng HN dùng nó làm cái cớ tranh luận triết lý về AI thay thế con người. Các quan điểm nổi bật: (1) Đồng tình: năm 2026 đúng là năm xã hội phải định nghĩa lại 'con người' trước AI; (2) Châm biếm: chọn từ này chẳng khác nào thừa nhận AI đã thắng trong việc bắt chước con người; (3) Hoài nghi: các 'từ của năm' ngày càng mang tính PR.\nTác động: chủ yếu văn hóa–truyền thông: củng cố khung tranh luận 'con người vs AI' trong giáo dục, lao động và chính sách; ít tác động kinh tế trực tiếp nhưng là chỉ dấu tâm lý xã hội đáng theo dõi dịp cuối năm.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "87461d5d6000af18bdf234143f65b414d60e58b2d513f42e9c60ccbf3900542d"
+  },
+  {
+    "id": "0622dab086c0d60c6fb7dcda5273e4e267baf9b9ce19789962a9c58612b0c1c9",
+    "title": "Làn sóng 'agent skills' tiếp tục trên GitHub Trending: CLI-Anything và last30days-skill",
+    "summary": "Nền tảng: GitHub Trending (daily) + GitHub API. Nội dung: hai repo thuộc làn sóng agent skills/framework leo top trending ngày: HKUDS/CLI-Anything — biến mọi CLI thành 'agent-native' qua CLI-Hub; và mvanhorn/last30days-skill — skill cho agent nghiên cứu mọi chủ đề qua Reddit, X, YouTube, HN, Polymarket rồi tổng hợp có căn cứ. Cùng ngày còn có NVIDIA/SkillEvaluator (+323 sao/ngày, khung đánh giá skill/plugin cho agent) và cursor/plugins (+315 sao/ngày, spec plugin chính thức của Cursor). Số sao tăng trong ngày (ghi nhận ~02:25 VN 19/11, GitHub Trending + GitHub API): CLI-Anything +384 sao/ngày (tổng 59.571 sao, 5.409 fork — kiểm chứng lại qua GitHub API lúc ~02:40 VN); last30days-skill +1.062 sao/ngày (tổng ~69.845 sao, 6.235 fork — GitHub API lúc ~02:25 VN, kiểm chứng lại sau đó chạm rate-limit nên ghi theo số đã xác minh trước). NVIDIA/SkillEvaluator +323 sao/ngày (tổng 3.620 sao); cursor/plugins +315 sao/ngày (tổng 17.135 sao — kiểm chứng lại qua API). Comments/Replies: N/A. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: 4 repo độc lập cùng chủ đề trong top trending ngày. Điểm HOT: Chưa đủ dữ liệu (thiếu Comments, Shares/Reposts và dữ liệu tăng trưởng lịch sử nhiều ngày).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://github.com/HKUDS/CLI-Anything",
+    "imageUrl": "https://opengraph.githubassets.com/c9d5ba09b257a154cd4c8be25de956e605ede698ddf361e363db2633b3e1452d/HKUDS/CLI-Anything",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3598,
+    "analysis": "Vì sao đang HOT: 'agent skills' đã thành chuẩn mới của coding agent (Claude Code, Cursor, Gemini CLI...): thay vì prompt lẻ, dev chia sẻ bộ skill đóng gói; các repo tăng hàng trăm–hơn 1.000 sao/ngày cho thấy nhu cầu thực, không chỉ hype. Các quan điểm nổi bật: (1) Skills giúp agent làm việc nhất quán, có thể tái dùng — giá trị thực; (2) Rủi ro: skill độc hại có thể là vector tấn công mới; (3) Cần chuẩn đánh giá — NVIDIA ra SkillEvaluator là dấu hiệu thị trường đang 'trưởng thành'.\nTác động: dev VN dùng Claude Code/Cursor nên thử CLI-Anything và last30days-skill (miễn phí, mã nguồn mở); doanh nghiệp cần quy trình kiểm duyệt skill trước khi cho agent dùng; xu hướng này nhiều khả năng còn kéo dài sang tuần tới. (Khác với các repo agent skills đã đưa ở số trước — obra/superpowers, paper-orchestra, Claude-BugHunter — đây là các repo khác.)",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "cd1bf9ab1fe0052e9b6a5af49c186c6ca306d1b3f4e117f67c8a6f5aba672c31"
+  },
+  {
+    "id": "834dc2bdfc2141067f255fba29867ba1d8a0a3bad7a8e2f6391aa0e79639342e",
+    "title": "'Energy-Based Reasoners': suy luận hiệu quả hơn 385 lần",
+    "summary": "Nền tảng: Hacker News + trang dự án. Nội dung: nhóm nghiên cứu công bố 'Energy-Based Reasoners' — phương pháp suy luận được cho là hiệu quả hơn 385 lần so với cách tiếp cận hiện tại (con số do tác giả tuyên bố, chưa kiểm chứng độc lập). Like/Reactions: 267 points (HN, ghi nhận ~02:35 VN 19/11, Algolia API). Comments/Replies: 41 bình luận. Shares/Reposts: N/A. Số bài đăng/cộng đồng độc lập: thread HN + trang dự án chính thức (energy-based-reasoners.github.io). Điểm HOT: Chưa đủ dữ liệu (đơn nền tảng HN, thiếu Shares/Reposts và dữ liệu tăng trưởng 24h; hiệu quả 385 lần là tuyên bố của tác giả).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://energy-based-reasoners.github.io/",
+    "imageUrl": "https://energy-based-reasoners.github.io/static/images/ebr_landscape_abc_v1.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3599,
+    "analysis": "Vì sao đang HOT: tuyên bố hiệu quả suy luận gấp 385 lần chạm đúng mối quan tâm lớn nhất hiện nay — chi phí suy luận AI — trong bối cảnh Microsoft MAI và các mô hình giá rẻ đang làm nóng cuộc tranh luận về 'AI rẻ hơn'; cộng đồng HN đang mổ xẻ phương pháp và tính khả thi.\nTác động: nếu được kiểm chứng độc lập, phương pháp suy luận hiệu quả hơn hàng trăm lần có thể làm thay đổi cán cân chi phí AI; trước mắt cần chờ đánh giá độc lập và mã nguồn/bài báo đầy đủ — chưa nên coi 385 lần là con số đã xác lập.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "3f98fa0723e8a7f51dc0eaeda5699830716ffbbb4f5ab2a393deefc57d52c2bc"
+  },
+  {
+    "id": "4623efedb2e49c083dcd2e12847a5a41b41b0b41245207f848b8ef09f4b24ea2",
+    "title": "Google AI Studio: xây app Android full-stack bằng một prompt",
+    "summary": "Build agent chạy trên Gemini 4 Carbon và Hydrogen nay tự phát hiện khi app cần backend rồi tự dựng Cloud Firestore (kèm Security Rules), Firebase Authentication với Google Sign-In, và gọi Gemini qua Firebase AI Logic kèm App Check để API key không nằm trong APK; xuất code Kotlin/Jetpack Compose, xem trước bằng emulator HD 1200p có âm thanh trong trình duyệt, rồi build/sign và đưa app vào thư viện Play cá nhân (hiện chỉ tại Mỹ) mà không cần cáp USB hay tài khoản Play Console đầy đủ. Công bố trên blog Google Developers ngày 17/11 giờ Mỹ (18/11 giờ VN) — ghi rõ mốc, không phải ra mắt trong cửa sổ 4 giờ.",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "region": "Quốc tế",
+    "sourceUrl": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3600,
+    "analysis": "Điểm mới: lần đầu AI Studio tự lo toàn bộ backend (Firestore + Auth + Gemini qua Firebase AI Logic) thay vì chỉ sinh code giao diện; biến ý tưởng thành app cài được trên điện thoại qua một prompt.\nỨng dụng thực tế: lập trình viên và người làm sản phẩm thử nghiệm ý tưởng app Android nhanh, không cần dựng backend thủ công. Hạn chế: khóa chặt vào Firebase (chuyển sang Postgres/Supabase sau này phải viết lại lớp dữ liệu); chưa có kiểm thử tự động/CI-CD; chỉ Android, chưa có iOS; chưa có báo cáo độc lập về tỷ lệ build thành công. Giá: Google không công bố giá riêng cho tính năng này (AI Studio có bậc miễn phí; chi phí Firebase/Gemini theo mức dùng).",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "5501542788ccffe78b3bcd39eb579426c384e3d8436dcf86b1f11e18854e795a"
+  },
+  {
+    "id": "8fed4e4d340199e39ceeaa1430a12b9a42dffd87cd9d347fd102047c7325e076",
+    "title": "Genie 4 trong Project Genie: world model tương tác thời gian thực có âm thanh",
+    "summary": "Google DeepMind ngày 18/11/2026 mở Project Genie bản mới cho người dùng Google AI Ultra đủ điều kiện, lần đầu cho dùng Genie 4 — world model tương tác thời gian thực, cho phép ra lệnh giữa phiên để đổi thời tiết, thêm nhân vật, đổi góc máy, kèm âm thanh native (nhạc nền, thoại nhân vật) và agent hỗ trợ xây thế giới + gallery cộng đồng để khám phá/remix. Genie 3 được nâng cấp (phiên tới 3 phút). Bài HN đăng 01:49 VN 19/11 — ĐÚNG CỬA SỔ; tương tác HN còn thấp (29 points/6 bình luận lúc ~02:35 VN).",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "region": "Quốc tế",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3601,
+    "analysis": "Điểm mới: world model đầu tiên có âm thanh native + chỉnh sửa thời gian thực, mở ra hướng game/simulation/robotics training; Google thừa nhận hạn chế: độ trễ camera, vật lý phức tạp, tính bền vững cảnh dài hạn.\nỨng dụng thực tế: làm game/simulation, huấn luyện robot/agent trong thế giới mô phỏng; người dùng VN muốn thử phải có gói AI Ultra hoặc chờ waitlist Pro. Hạn chế: giới hạn ở gói AI Ultra trả phí cao nhất, Pro chỉ được chờ đợi (waitlist); chưa có API công khai hay giá riêng; tương tác cộng đồng còn thấp nên chưa phải xu hướng đã bùng nổ. Giá: trong gói Google AI Ultra (không có giá riêng cho Genie 4).",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "bf6f06797c6def2f3c134f08ecf355aa7f14e11333c85b51f4954512a505e869"
+  },
+  {
+    "id": "55b8e4108d6568484cd556dfeca34af373bf48c2df2a2dc02f83d627145e72df",
+    "title": "Anthropic chốt giá IPO 83 USD/cổ phiếu, vượt trần khoảng giá — giao dịch mã ANT từ hôm nay 19/11",
+    "summary": "Anthropic chốt giá IPO ở 83 USD/cổ phiếu, cao hơn khoảng giá dự kiến 70–78 USD; với 825 triệu cổ phiếu chào bán, riêng đợt IPO huy động khoảng 68,5 tỷ USD, cộng đợt phát hành riêng lẻ 26 tỷ USD cho 7 đối tác (AMD, Broadcom, Google, Micron, Microsoft, Nvidia, TSMC) tổng huy động vượt 92 tỷ USD — kỷ lục IPO, vượt SpaceX (75 tỷ USD, tháng 6). Định giá pha loãng đầy đủ khoảng 1,5 nghìn tỷ USD. Doanh thu chạy (run rate) hàng năm đạt 81 tỷ USD tính đến 31/10, tăng 10 tỷ USD chỉ trong tháng 10; doanh thu quý 3 tăng 47% lên khoảng 17 tỷ USD. Cổ phiếu giao dịch trên Nasdaq với mã ANT từ 19/11. Nguồn: Reuters (Bloomberg đưa tin đầu tiên), bài đăng tối 18/11 giờ Mỹ, crawl 04:41 VN 19/11; đối chiếu Crunchbase News 05:15 VN 19/11.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3602,
+    "analysis": "IPO AI lớn nhất lịch sử và là IPO đầu tiên của một nhà phát triển mô hình AI biên (frontier). Nhu cầu đặt mua vượt xa nguồn cung (sổ lệnh gấp khoảng 6 lần; CNBC: nhu cầu tổ chức ~400 tỷ USD, bán lẻ gần 100 tỷ USD). Công ty đã cam kết gần 900 tỷ USD chi tiêu cho điện toán (với Amazon, Google) và chi gần 9 tỷ USD cho hạ tầng trong nửa đầu 2026. Lưu ý: đến lúc chốt giá, Anthropic chưa tự công bố chính thức và chưa có hồ sơ 424B4 trên EDGAR; quy mô tăng thêm chưa được xác nhận.\nGiá chốt vượt trần là tín hiệu cầu rất mạnh với AI bất chấp đợt bán tháo cổ phiếu công nghệ, có thể tạo hiệu ứng lan tỏa tích cực cho nhóm AI trong phiên 19/11. Rủi ro: định giá ~40 lần doanh thu 12 tháng và gánh nặng cam kết chi tiêu gần 900 tỷ USD; Vanda Research ước tính nhà đầu tư cá nhân có thể mua ròng ~250 triệu USD ngay ngày đầu giao dịch.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "bf9e7e0d5b7c1b1dc7819dc175ac8949bd67dff31a3179521eec17ee37301441"
+  },
+  {
+    "id": "10360afca5039f175c8f84c9d45b20063497bdb812f45d58b2851aece1605de4",
+    "title": "Phố Wall đóng cửa phân hóa phiên 18/11: Dow rơi 1,12%, Nasdaq tăng 0,39%",
+    "summary": "Phiên Mỹ 18/11 đóng cửa lúc ~04:00 VN 19/11: Dow Jones giảm 566,39 điểm (-1,12%) còn 50.193,03 — phiên giảm thứ ba liên tiếp, chỉ còn cách mốc 50.000 chưa đầy 200 điểm; S&P 500 giảm 18 điểm (-0,24%) còn 7.322,53; Nasdaq tăng 101,50 điểm (+0,39%) lên 24.429,89. Nvidia báo cáo quý 3 tài khóa 2027 doanh thu 115,84 tỷ USD (+103% so với cùng kỳ, vượt dự báo 109,1 tỷ USD), EPS điều chỉnh 2,68 USD (vượt dự báo 2,48 USD), lợi nhuận ròng 65,3 tỷ USD, nhưng cổ phiếu vẫn đóng cửa ở 150,96 USD, giảm 2,89%. Đồng USD tăng 0,3% lên đỉnh 19 tháng, euro thủng 1,10 USD; lợi suất trái phiếu 10 năm Mỹ ở 5,12%. Nhóm năng lượng giảm 3,5% trong S&P 500; UnitedHealth -10%, Humana -12%. Nguồn: Reuters qua SRN News, đối chiếu TradingKey 04:11 VN và Longbridge 04:48 VN 19/11.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://srnnews.com/nasdaq-poised-for-higher-open-as-nvidia-forecast-eases-ai-concerns/",
+    "imageUrl": "https://www.srnnews.com/media/2026/11/1795010711371497rQyK7qPyyj.jpg?x54510",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3603,
+    "analysis": "Thị trường giằng co giữa KQKD kỷ lục của Nvidia và tín hiệu diều hâu từ Fed: biên bản FOMC tháng 10 cho thấy 'gần như tất cả' quan chức ủng hộ tăng lãi suất thêm, một vài người để ngỏ tăng 50 điểm cơ bản trong tháng 12; Thống đốc Christopher Waller ngày 18/11 công khai ủng hộ tăng 50 điểm. Đây là báo cáo quý đầu tiên của Nvidia kể từ khi Jensen Huang từ chức CEO (12/11). S&P 500 đảo chiều từ tăng sang giảm sau khi biên bản FOMC công bố.\nXác nhận tâm lý phòng thủ vẫn chiếm ưu thế dù Nvidia báo cáo tốt; kỳ vọng tăng lãi suất tháng 12 gần như chắc chắn (CME FedWatch ~100%) tiếp tục gây áp lực lên cổ phiếu tăng trưởng và thị trường mới nổi; mốc tâm lý 50.000 của Dow bị đe dọa. Dòng tiền luân chuyển trong nhóm chip: AMD tăng ~5% cùng phiên thay vì rời bỏ hoàn toàn nhóm bán dẫn.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "9f4064431112aa506527afbde2429025dc5e61d1758a1757d58aa4eb6bf66600"
+  },
+  {
+    "id": "6f66ff524fb08f4e779020f83b0340725b446c574290cdb2e3cd8821de768b07",
+    "title": "Iran mở rộng tấn công sang Kuwait và Bahrain; Mỹ đánh đảo Qeshm ở eo Hormuz",
+    "summary": "Đêm 18 rạng sáng 19/11, Iran mở rộng tấn công sang các nước vùng Vịnh: quân đội Iran cho biết drone nhắm vào hệ thống phòng không Patriot và bệ phóng drone/tên lửa tại căn cứ không quân Ali Al-Salem ở Kuwait — lần đầu Iran tấn công Kuwait kể từ tháng 9; Bahrain cho biết đã đánh chặn nhiều đợt tấn công của Iran, lần thứ ba trong một tuần (4 đợt trong 6 ngày). Trước đó tối 18/11 giờ Mỹ, chiến đấu cơ Mỹ đánh trúng một bệ phóng tên lửa của IRGC trên đảo Qeshm ở eo biển Hormuz bằng 'đạn chính xác', mà một quan chức quân sự Mỹ mô tả là tự vệ sau khi Iran tấn công radar Mỹ tại căn cứ Isa ở Bahrain. Chưa có báo cáo thiệt hại hay thương vong từ Kuwait/Bahrain; quân đội Mỹ khẳng định không có quân nhân Mỹ nào bị thương trong các vụ tấn công tuần này. Nguồn: AP qua Military.com 22:22 VN 18/11; đối chiếu Reuters qua GMA, Dawn live 02:28 VN và Free Malaysia Today 04:38 VN 19/11.",
+    "category": "Quốc tế",
+    "section": "A - Top 5",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.military.com/iran-widens-gulf-attacks-by-targeting-a-us-air-base-in-kuwait-and-sites-in-bahrain",
+    "imageUrl": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/10/ap26279373261131.jpg?w=1600&h=900&fit=crop",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3604,
+    "analysis": "Vòng xoáy trả đũa mới nhất trong cuộc chiến bắt đầu 28/2/2026, sau vài tuần tạm lắng; diễn ra đúng lúc Trump sắp họp ba bên với Tập và Putin (14:30 hôm nay) và trong bối cảnh Giám đốc Mossad vận động Mỹ tấn công chung Iran (đã đưa số 67). Saudi Arabia cũng cho biết đã đánh chặn tên lửa hành trình và drone của Houthi; Mỹ ra cảnh báo an ninh mới cho công dân ở Saudi Arabia và Bahrain; CENTCOM coi tàu nhận hàng trên biển từ tàu chở hàng Iran là lách phong tỏa và có thể hành động.\nNguy cơ xung đột toàn diện tái bùng phát tăng rõ rệt; eo biển Hormuz (trước chiến tranh vận chuyển ~1/4 lượng dầu toàn cầu) tiếp tục là điểm nóng. Dù vậy giá dầu vẫn giảm do tồn kho Mỹ tăng (xem B–Kinh tế), cho thấy thị trường đang cân giữa rủi ro địa chính trị và dư cung — rủi ro đảo chiều nhanh nếu Hormuz bị phong tỏa hoặc tấn công leo thang thêm.",
+    "tags": [
+      "Quốc tế",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "44492e38947aad591d5be1da7b64584def5b36c1939f3d64ac48903b5482b954"
+  },
+  {
+    "id": "52ddf683d4b56340250337448a4719680392ebedc37acfb107b5d1579fe2ada9",
+    "title": "VN-Index giảm 23,71 điểm xuống 1.703,01, có lúc thủng mốc 1.700 — sát ngưỡng hỗ trợ tâm lý",
+    "summary": "Kết phiên 18/11, VN-Index giảm 23,71 điểm (-1,37%) xuống 1.703,01 điểm; có thời điểm trong phiên chiều chỉ số rơi hơn 50 điểm, thủng mốc 1.700 điểm. HNX-Index giảm 5,87 điểm (-2,36%) xuống 242,73 điểm; VN30 giảm 30,59 điểm (-1,67%) xuống 1.806,54 điểm. Khối lượng khớp lệnh HoSE khoảng 755 triệu cổ phiếu, giá trị gần 17.188 tỉ đồng; khối ngoại bán ròng gần 1.153 tỉ đồng, mạnh nhất FPT (~226 tỉ), VIC (~186 tỉ), MBB (~88 tỉ). VIC giảm 1,6% lấy đi ~4,81 điểm của VN-Index, VCB (-2,5%) lấy đi 2,24 điểm; FPT giảm về 46.950 đồng, thấp nhất kể từ tháng 1/2023. Nguồn: VnEconomy 22:02 ngày 18/11 (nhận định công ty chứng khoán cho phiên 19/11), đối chiếu Tuổi Trẻ 16:10 (cập nhật 22:39) và Stockbiz; lưu ý URL bài Tuổi Trẻ đã có trong Sheets nên dùng bài VnEconomy.",
+    "category": "Kinh tế & Tài chính",
+    "section": "A - Top 5",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vneconomy.vn/vn-index-giam-manh-kiem-dinh-vung-ho-tro-1680-1700-diem.htm",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3605,
+    "analysis": "Áp lực bán tập trung ở cổ phiếu vốn hóa lớn, đặc biệt ngân hàng và nhóm Vingroup. Chuyên gia ACBS (Trương Quang Vĩnh) cho rằng nhịp rơi hơn 50 điểm đầu phiên chiều chủ yếu do lệnh bán dồn vào khi chưa có lệnh mua đối ứng, chưa phản ánh đầy đủ giao dịch khớp lệnh; tâm lý còn chịu ảnh hưởng từ các vụ tấn công mạng toàn cầu và chứng khoán thế giới giảm (Dow -1,64%, S&P -1,03% phiên 17/11 tại Mỹ).\nVN-Index tiến sát ngưỡng tâm lý 1.700 điểm; BVSC nhận định nếu mất mốc 1.700, chỉ số có thể lùi về kiểm định vùng 1.680–1.690 điểm trong phiên 19/11 (một số công ty chứng khoán nêu vùng hỗ trợ 1.690–1.695, kháng cự 1.710–1.720). Nhà đầu tư cần thận trọng; thị trường mở cửa 09:00 sáng 19/11.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "f06f84c5f6be76fb2bca022091810a4f9a682db7bd2987a4865df6b73072f33c"
+  },
+  {
+    "id": "a52522df6dec3754bf677b42966f7aebdb8d2d8ffa8291f2dd8b11e219490f85",
+    "title": "Google ra mắt Gemini 4 Neon: 'chất lượng Carbon, tốc độ Flash', model thứ 4 của dòng Gemini 4 trong 4 tuần",
+    "summary": "Google ra mắt Gemini 4 Neon ngày 18/11/2026 — model thứ 4 của dòng Gemini 4 trong 4 tuần. Định vị giữa Hydrogen (nhẹ, nhanh) và Carbon (mạnh nhất): trí tuệ gần Carbon nhưng tốc độ và chi phí thấp hơn. Điểm Artificial Analysis Intelligence Index 61 (xhigh), xếp #3 toàn thị trường; #1 Coding Agent Index (58,6). Giá 3 USD/1 triệu token input, 15 USD/1 triệu token output, context 1 triệu token. Có mặt trên Gemini API, AI Studio, Gemini app (Pro/Ultra), Antigravity; bản 'Neon for cyber' cho chương trình Fairwind. Trong app Gemini, Neon thay thế Argon và Gemini 3.1 Pro bị khai tử. Bài HN đăng 04:34 VN 19/11, đạt 295 điểm/286 comments lúc 06:20 VN. Nguồn: blog Google; đối chiếu 9to5Google, TestingCatalog, LLM Report.",
+    "category": "Công nghệ & AI",
+    "section": "A - Top 5",
+    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3606,
+    "analysis": "Google đang 'ship' model với tốc độ chưa từng có — 4 model Gemini 4 trong 4 tuần — cạnh tranh trực tiếp Claude Opus 5.5 và GPT-6.2. Cộng đồng tranh luận sôi nổi về chiến lược đặt tên/phân tầng gây rối (Argon/Carbon/Hydrogen/Neon) và về benchmark do chính Google công bố. Lưu ý về giá: Neon đắt hơn Carbon tới 30/11 (do Carbon đang giá khuyến mãi 2/10 USD, từ 1/12 tăng lên 4/20 USD thì Neon lại rẻ hơn 25%).\nLựa chọn mới cho dev dùng Gemini API/Agent, đặc biệt coding agent và workflow tần suất cao; áp lực cạnh tranh giá lên OpenAI/Anthropic; người dùng Pro/Ultra được nâng cấp miễn phí từ 3.1 Pro/Argon. Rủi ro: ra model quá nhanh khiến hệ sinh thái khó theo dõi, và các con số benchmark chưa có đánh giá độc lập.",
+    "tags": [
+      "Công nghệ & AI",
+      "A - Top 5"
+    ],
+    "language": "vi",
+    "contentHash": "2a08a1e404619d718182b1603c083fa6a6450c1805f38ffe1718ed7fa921a764"
+  },
+  {
+    "id": "2a62d3c6e747207d1a919b89ff0f211a317c2eb686c0221e6b8704fd0d13a08e",
+    "title": "Dầu – vàng – Bitcoin sáng 19/11: dầu và vàng tiếp tục giảm, Bitcoin thủng 63.000 USD",
+    "summary": "Dầu thô giảm trong phiên 18/11 và duy trì quanh mức thấp sáng 19/11: WTI đóng cửa phiên 18/11 ở 83,26 USD/thùng (-3,2%) sau khi tồn kho dầu và nhiên liệu Mỹ tăng mạnh hơn dự kiến; Brent quanh 91,6–91,8 USD/thùng (giá tham chiếu 91,64 USD lúc 03:19 VN 19/11). Vàng giao ngay quanh 3.726 USD/ounce (03:11 VN 19/11), vẫn dưới mốc 3.800 USD — mức thấp nhất kể từ tháng 9/2025 — do USD mạnh và kỳ vọng Fed tăng lãi suất. Bitcoin trượt dưới 63.000 USD, giao dịch quanh 62.622 USDT lúc 06:10 VN 19/11, giảm 3,81% so với phiên trước, giảm ~21,7% trong 1 tháng. Nguồn: price-chart.com (vàng/Brent, trong cửa sổ), Finnhub/Binance qua TradingView (Bitcoin, 06:10 VN), MT Newswires (WTI); mỗi mặt hàng chỉ 1 nguồn giá tại thời điểm ghi nhận.",
+    "category": "Thị trường hàng hóa",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.tradingview.com/news/bloomingbit:d238e46e3094b:0-bitcoin-briefly-slips-below-63-000/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3607,
+    "analysis": "Dầu giảm bất chấp leo thang Mỹ–Iran vì tồn kho Mỹ tăng 5,28 triệu thùng (API, tuần kết thúc 13/11) và IEA dự báo thị trường dầu dư cung trong quý 4; Goldman Sachs dự báo Brent trung bình ~88 USD năm 2027. Vàng mất vai trò trú ẩn trong ngắn hạn khi lợi suất thực tăng theo kỳ vọng Fed thắt chặt.\nGiá năng lượng hạ nhiệt giúp giảm áp lực lạm phát toàn cầu, nhưng rủi ro Hormuz có thể đảo chiều nhanh. Vàng và Bitcoin cùng giảm cho thấy nhà đầu tư đang rút khỏi cả tài sản trú ẩn lẫn tài sản rủi ro — tâm lý 'de-risking' lan rộng; cần theo dõi phiên châu Á và thượng đỉnh ba bên chiều nay.",
+    "tags": [
+      "Thị trường hàng hóa",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "798de8fb11ee63e3762c675cc1199ceeb305974a8eeea36e417a5b3464e49b2d"
+  },
+  {
+    "id": "46d8ac63a5078b9e1483923a64950109b470dde9d6bd653c0ef3458203f61784",
+    "title": "ECB chuẩn bị thảo luận nâng dự trữ bắt buộc của ngân hàng từ 1% lên 2%",
+    "summary": "Các nhà hoạch định chính sách ECB sẽ thảo luận vào tuần tới (cuộc họp Hội đồng Thống đốc ngày 25/11) về việc nâng tỷ lệ dự trữ bắt buộc tối thiểu của ngân hàng khu vực euro từ 1% lên 2% tiền gửi và nợ ngắn hạn, theo 4 nguồn thạo tin nói với Reuters. Động thái này sẽ giúp ECB và 21 ngân hàng trung ương quốc gia tiết kiệm khoảng 4,4 tỷ euro/năm tiền lãi phải trả cho ngân hàng (tính theo lãi suất hiện tại), đồng thời rút bớt thanh khoản dư thừa khỏi hệ thống. Quyết định có thể lùi sang cuộc họp chính sách ngày 17/12; đa số thống đốc hiện ủng hộ, kể cả Phó Chủ tịch Boris Vujcic và kinh tế trưởng Philip Lane. Người phát ngôn ECB từ chối bình luận. Nguồn: Reuters độc quyền (4 nguồn giấu tên), crawl 19:45 VN 18/11 — ngoài cửa sổ 4 giờ nhưng chưa có ở số 67; CHỈ 1 NGUỒN.",
+    "category": "Chính sách tiền tệ",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://www.reuters.com/business/finance/ecb-discuss-raising-reserve-requirement-next-week-sources-say-2026-11-18/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3608,
+    "analysis": "ECB đang phải trả 52,2 tỷ euro/năm tiền lãi cho hơn 2.000 tỷ euro thanh khoản dư thừa, trong khi nhiều ngân hàng trung ương quốc gia (như Bundesbank) lỗ vì nắm trái phiếu lợi suất thấp mua thời kích thích. ECB cũng đang trong chu kỳ tăng lãi suất (lãi suất tiền gửi dự kiến từ 2,5% lên 3–3,25% năm sau).\nNếu thông qua, lợi nhuận ngân hàng thương mại khu vực euro giảm nhẹ (phần dự trữ không được trả lãi tăng), thanh khoản hệ thống thu hẹp; tín hiệu cho thấy các ngân hàng trung ương lớn đang đồng loạt thắt chặt (Fed tăng lãi suất, ECB rút thanh khoản) — áp lực lên tăng trưởng tín dụng châu Âu.",
+    "tags": [
+      "Chính sách tiền tệ",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "22f702c7a6957ce5ff89098b1d6d39354842392a891a8680c2fa1f634e8ff664"
+  },
+  {
+    "id": "83b2a9980be1001baf78fff4c1ce601fbdb622450e32ec7ecd564290f5a5b4cd",
+    "title": "Giá vàng SJC đầu ngày 19/11 đứng yên ở 134,2–137,2 triệu đồng/lượng; Vietcombank bán USD 25.900 đồng",
+    "summary": "Lúc 06:15 ngày 19/11, NDH tổng hợp giá bán ra tại 7 thương hiệu: vàng miếng SJC 136–137,2 triệu đồng/lượng (SJC niêm yết mua vào 134,2 triệu, bán ra 137,2 triệu đồng/lượng — không đổi so với cuối ngày 18/11; chốt phiên 18/11 giảm 500.000 đồng/lượng ở cả hai chiều); vàng nhẫn tròn trơn 999.9 bán ra 135–137 triệu; vàng nữ trang 24K 133,8–136 triệu. Chênh lệch mua–bán phổ biến: SJC 3 triệu, nhẫn 9999 4 triệu đồng/lượng. Giá vàng thế giới quy đổi theo tỷ giá Vietcombank khoảng 116,7 triệu đồng/lượng (chưa gồm thuế, phí), thấp hơn giá bán SJC khoảng 20,5 triệu đồng/lượng. Tỷ giá Vietcombank sáng sớm 19/11 (cập nhật 03:42–04:42): USD mua tiền mặt 25.490 đồng, mua chuyển khoản 25.520 đồng, bán ra 25.900 đồng — không đổi so với chiều 18/11; tỷ giá trung tâm NHNN sáng 18/11 là 25.656 đồng/USD (tăng 4 đồng). Nguồn: NDH cập nhật 06:15 ngày 19/11 (khớp 24h.com.vn 05:32); tỷ giá VietnamNet/Banker.vn 03:26–04:42 ngày 19/11.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "region": "Quốc tế",
+    "sourceUrl": "http://ndh.vn/gia-vang-hom-nay/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3609,
+    "analysis": "Số liệu NDH ghi rõ 'số liệu đổi lần cuối 16:55 18/11/2026' — tức đây là giá tham chiếu đầu ngày 19/11 trước phiên giao dịch 08:30, chưa phải giá giao dịch mới trong sáng 19/11. Vàng thế giới đêm qua giao dịch quanh 3.726–3.744,85 USD/oz.\nGiá trong nước đi ngang sau phiên giảm 500.000 đồng ngày 18/11; chênh lệch với thế giới vẫn rất lớn (~20,5 triệu/lượng) và chênh lệch mua–bán 3–4 triệu/lượng khiến mua ngắn hạn rủi ro cao. Người mua cần xác nhận giá tại quầy trước giao dịch.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "acc3ffc8b34abe65b9b0db711479a76f4195b96d3ad961b5603467da58067f65"
+  },
+  {
+    "id": "3acd94153929ab4dc37820f817537adf0b973516bcff261e5c369c6dc16ff6e7",
+    "title": "Chứng khoán châu Á sáng 19/11 dự kiến mở cửa giảm sau phiên phân hóa 18/11",
+    "summary": "Tính đến 06:15 VN, các thị trường châu Á lớn chưa mở cửa (Tokyo mở 07:00 VN; Hồng Kông 08:30 VN; Seoul lùi 1 giờ vì kỳ thi CSAT, mở 08:00 VN). Dự báo mở cửa lúc 06:00 giờ Hồng Kông (~05:00 VN): Hang Seng dự kiến 22.901 điểm (-393 điểm, -1,7%); Nikkei 225 dự kiến 58.740 (-284 điểm, -0,5%). Phiên 18/11 đóng cửa phân hóa: Nikkei +0,28% lên 59.024,28; KOSPI +1,99% lên 5.067,44 (nhờ Nvidia, vượt lại mốc 5.000); Shanghai +0,09% lên 3.587,83; Hang Seng -0,91% còn 23.294,75. Nguồn: CHỈ 1 NGUỒN cho số liệu dự báo mở cửa (bản tin Substack Peter Lewis, 05:00 VN, trong cửa sổ); số liệu đóng cửa 18/11 đối chiếu thêm qua trang tổng hợp thị trường.",
+    "category": "Kinh tế & Tài chính",
+    "section": "B - Kinh tế",
+    "sourceUrl": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-fe4",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3610,
+    "analysis": "Châu Á giằng co giữa tin tốt từ Nvidia (nâng đỡ chip Hàn Quốc, Đài Loan) và sức ép từ Fed diều hâu + Phố Wall giảm. Thị trường Hàn Quốc mở muộn 1 giờ ngày 19/11 do kỳ thi tuyển sinh đại học CSAT.\nNếu mở cửa giảm như dự báo, đà hồi phục nhờ Nvidia ở châu Á sẽ bị chặn lại; diễn biến thực tế sau 07:00–08:00 VN và kết quả thượng đỉnh ba bên buổi chiều sẽ quyết định hướng phiên.",
+    "tags": [
+      "Kinh tế & Tài chính",
+      "B - Kinh tế"
+    ],
+    "language": "vi",
+    "contentHash": "786d234fb660c27c361195615a4ee2740e955c47187ac133a77b56c2fc2925ef"
+  },
+  {
+    "id": "2461ccba76048f24bb260ecff52fe61388b7e24097c18d07ad52f9236bd47d63",
+    "title": "Thời tiết hôm nay 19/11: miền Bắc rét, miền Trung mưa lớn — cập nhật sáng sớm có số liệu mưa thực đo",
+    "summary": "Bài cập nhật lúc 06:07 ngày 19/11 của VOV (Trung tâm Dự báo Khí tượng Thủy văn Quốc gia) là diễn biến mới trong cửa sổ, khác với bản dự báo tối 18/11 đã đưa ở số 67. Đêm qua và sáng sớm nay, Bắc Trung Bộ đã có mưa, mưa vừa và dông, cục bộ mưa to; lượng mưa từ 19h ngày 18/11 đến 03h ngày 19/11 có nơi trên 50mm, như Lương Sơn (Thanh Hóa) 64,8mm, Châu Bính (Nghệ An) 62,8mm, Chợ Tràng (Hà Tĩnh) 56,8mm. Ngày 19/11, Hà Nội thấp nhất 16–18°C, cao nhất 20–22°C, trời rét; vùng núi Bắc Bộ 12–15°C, vùng núi cao có nơi dưới 12°C, có nơi rét đậm. Từ chiều 19/11 đến đêm 20/11, Quảng Trị đến Đà Nẵng và phía Đông Quảng Ngãi mưa vừa, mưa to, lượng mưa 70–130mm, cục bộ trên 150mm, cảnh báo mưa cường độ lớn trên 80mm/3 giờ; tổng lượng mưa từ chiều 19/11 đến đêm 21/11 phổ biến 100–200mm, cục bộ trên 250mm. Nguồn: VOV 06:07 (cập nhật 06:08) ngày 19/11; khớp với Dân trí 22:07 ngày 18/11 và VTC News về cùng đợt không khí lạnh.",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vov.vn/xa-hoi/thoi-tiet-ngay-1911-mien-bac-chuyen-ret-mien-trung-mua-lon-post1351262.vov",
+    "imageUrl": "https://media.vov.vn/sites/default/files/styles/og_image/public/2026-11/mien-bac-ret.jpg?v=1795044075",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3611,
+    "analysis": "Không khí lạnh đã ảnh hưởng đến hầu hết Đông Bắc Bộ từ tối 18/11 và tiếp tục tăng cường đêm 19–20/11; đây là đợt mưa lớn mới ở Trung Trung Bộ sau đợt mưa trước đó.\nNguy cơ ngập úng vùng trũng thấp, khu đô thị; lũ quét trên sông suối nhỏ, sạt lở đất ở sườn dốc; kèm lốc, sét, mưa đá, gió giật mạnh trong mưa dông. Người dân miền Trung cần theo dõi bản tin lũ quét, sạt lở thời gian thực; Bắc Bộ cần giữ ấm, nhất là vùng núi.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "951548656a5fae08a2bcd55fcadf253ef2edb9dfd30e6f8b023fd7d8e1a8811b"
+  },
+  {
+    "id": "60fb1bdabdb1287a9abfc35b18aaa97645134a87f97d43f2e2752eccacc0156a",
+    "title": "AIPA-47: Timor-Leste chính thức trở thành thành viên thứ 11; Chủ tịch Quốc hội Trần Thanh Mẫn nêu 3 ưu tiên",
+    "summary": "Tại phiên toàn thể thứ nhất AIPA-47 chiều 18/11 tại Manila, Đại hội đồng đã tổ chức lễ kết nạp Nghị viện Quốc gia Timor-Leste làm thành viên chính thức của AIPA — dấu mốc lịch sử khi AIPA có đủ tiếng nói của 11 thành viên đại diện cho nhân dân các quốc gia Đông Nam Á. Chủ tịch Quốc hội Trần Thanh Mẫn phát biểu, đề nghị AIPA tập trung vào 3 ưu tiên: củng cố nền tảng hòa bình, ổn định và thượng tôn pháp luật (kiên trì giải quyết tranh chấp bằng biện pháp hòa bình, sớm hoàn tất Bộ Quy tắc ứng xử ở Biển Đông — COC — hiệu lực, thực chất); kiến tạo hành lang pháp lý cho một ASEAN tự cường, thịnh vượng (hài hòa hóa pháp luật, tháo gỡ rào cản thương mại, khung pháp lý cho kinh tế xanh, kinh tế số, quản trị AI, chuyển đổi năng lượng công bằng, an ninh lương thực); và lấy người dân làm trung tâm trong mọi quyết sách nghị viện. Ông cũng chia sẻ định hướng Quốc hội Việt Nam khóa XVI: hoàn thiện thể chế để hiện thực hóa tầm nhìn đến 2045 Việt Nam trở thành nước phát triển, thu nhập cao. Nguồn: VnExpress 19:20 ngày 18/11, cập nhật 00:01 ngày 19/11 (trong cửa sổ); việc kết nạp khớp với Tribune (Philippines) 18/11.",
+    "category": "Đối ngoại / Nghị viện",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://vnexpress.net/chu-tich-quoc-hoi-tran-thanh-man-neu-3-uu-tien-tai-aipa-47-5146272.html",
+    "imageUrl": "https://i2-vnexpress.vnecdn.net/2026/11/18/1811-chu-tich-quoc-hoi-phien-t-6193-5888-1795003482.jpg?w=1200&h=675&q=100&dpr=1&fit=crop&s=ZWEvN4E1tX8sVHkn7JR0JQ",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3612,
+    "analysis": "Diễn biến mới so với số 67 (chỉ đưa phát biểu): việc kết nạp Timor-Leste và nội dung đầy đủ 3 ưu tiên. AIPA-47 diễn ra tại Manila 17–21/11 với chủ đề 'Nghị viện bảo đảm một ASEAN hòa bình, thịnh vượng và lấy người dân làm trung tâm'; Timor-Leste trở thành thành viên chính thức của ASEAN ngày 26/10/2025. Sáng 18/11, Chủ tịch Quốc hội Trần Thanh Mẫn còn có buổi ăn sáng làm việc với Chủ tịch Quốc hội Lào và Campuchia, nhất trí nghiên cứu thiết lập đường dây nóng giữa ba quốc hội.\nViệc AIPA đủ 11 thành viên tăng tính đại diện và sức nặng của kênh nghị viện ASEAN trong triển khai Tầm nhìn Cộng đồng ASEAN 2045; các nghị quyết do đoàn Việt Nam đề xuất/đồng bảo trợ (phòng ngừa và quản trị rủi ro, đổi mới mô hình phát triển, vai trò phụ nữ trong quản trị AI) sẽ được thảo luận tại các ủy ban trong các ngày 19–20/11, trước khi ký Tuyên bố chung ngày cuối.",
+    "tags": [
+      "Đối ngoại / Nghị viện",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "d510021d64fdaa508fb6aab5d1dddac81e453bc080e562b8b8e92b9a3a3db671"
+  },
+  {
+    "id": "a9f40960fed13aa6b7a9f3724667ac83c09faec5f2643e92a76d674b6b068e64",
+    "title": "Festival Nhân ái 2026: sáng nay 19/11 đi bộ đồng hành tại Công viên Bãi Sau, Vũng Tàu, dự kiến 10.000 người",
+    "summary": "Festival Nhân ái 2026 với chủ đề 'Vì mọi người, ở mọi nơi' diễn ra tại phường Vũng Tàu (TP.HCM) từ 17 đến 19/11, do Hội Chữ thập đỏ TP.HCM tổ chức. Điểm nhấn là chương trình đi bộ đồng hành 'Mỗi bước chân, một tấm lòng nhân ái' diễn ra sáng 19/11 tại khu vực Công viên Bãi Sau, phường Vũng Tàu, dự kiến thu hút khoảng 10.000 người tham gia (học sinh, sinh viên, cán bộ, hội viên, tình nguyện viên, doanh nghiệp và người dân), hướng đến vận động ít nhất 10.000 suất quà Tết, mỗi suất trị giá 1 triệu đồng, tặng người có hoàn cảnh khó khăn dịp Tết Nguyên đán 2027. Trong hai ngày 17 và 18/11, Hội đã tổ chức 29 lớp tập huấn sơ cấp cứu dựa vào cộng đồng tại 29 xã, phường với khoảng 870 học viên; chương trình 'Chuyến xe nghĩa tình – Phiên chợ 0 đồng' trao 600 phần quà (mỗi phần 850.000 đồng, tổng kinh phí 510 triệu đồng); ngày hội hiến máu tiếp nhận khoảng 500 đơn vị máu. Nguồn: Tuổi Trẻ, ngày 18/11/2026 (bản in; sự kiện chính diễn ra sáng 19/11). CHỈ 1 NGUỒN CHÍNH.",
+    "category": "Đời sống",
+    "section": "B - Xã hội",
+    "sourceUrl": "https://tuoitre.vn/print/festival-nhan-ai-2026-moi-buoc-chan-mot-tam-long-se-chia-100261118183344871.htm",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3613,
+    "analysis": "Đây là lần đầu tiên Hội tổ chức một festival chuyên biệt về nhân ái, hướng đến kỷ niệm 80 năm Ngày thành lập Hội Chữ thập đỏ Việt Nam và 50 năm xây dựng, phát triển Hội Chữ thập đỏ TP.HCM.\nLan tỏa kỹ năng sơ cấp cứu cộng đồng và huy động nguồn lực an sinh trước Tết; 30 đội tình nguyện viên sơ cấp cứu ra mắt và 150 bộ dụng cụ sơ cấp cứu được vận động cho ứng phó thiên tai, thảm họa tại cộng đồng.",
+    "tags": [
+      "Đời sống",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "a0a69061c54b2082d5752d6ed62b38fe74e95d79770e03d8f3e5a4a67a2d50d8"
+  },
+  {
+    "id": "c6d43e997ea97bfa7e7fa5ecefaccf425c3a98e8afa613c6e633c7a437ceb26e",
+    "title": "Hà Nội: sáng 19/11 Chủ tịch UBND TP đối thoại với thanh niên Thủ đô; tối 18/11 vinh danh 99 thủ khoa xuất sắc",
+    "summary": "Sáng 19/11, tại trụ sở UBND TP Hà Nội, Chủ tịch UBND TP Hà Nội Vũ Đại Thắng chủ trì Hội nghị đối thoại với thanh niên Thủ đô năm 2026, chủ đề 'Thanh niên Thủ đô – Khát vọng cống hiến, chung tay kiến tạo tương lai Hà Nội', tổ chức trực tiếp tại điểm cầu thành phố và trực tuyến đến các xã, phường. Nội dung trọng tâm: khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số, AI, giáo dục đào tạo, nguồn nhân lực chất lượng cao, việc làm, khởi nghiệp, hội nhập quốc tế và bảo tồn văn hóa. Tối 18/11, tại Văn Miếu – Quốc Tử Giám, Hà Nội đã tổ chức Lễ tuyên dương 99 thủ khoa xuất sắc tốt nghiệp các trường đại học, học viện năm 2026 (52 nữ, 47 nam; 92 trường công lập, 7 trường ngoài công lập); mỗi thủ khoa nhận Bằng khen của UBND TP và tiền thưởng 11.385.000 đồng (tương đương 4,5 lần mức lương cơ bản). Sau 24 năm tổ chức, thành phố đã tuyên dương 2.450 thủ khoa. Riêng hôm nay 19/11, Bộ GD&ĐT cũng tổ chức tại Hà Nội lễ kỷ niệm Ngày Nhà giáo Việt Nam và vinh danh 335 nhà giáo tiêu biểu toàn quốc (207 nữ, 128 nam). Nguồn: Hà Nội Mới 15:23 ngày 18/11 (đối thoại sáng 19/11); Hà Nội Mới/Báo Mới 23:21–23:43 ngày 18/11 (lễ tuyên dương).",
+    "category": "Chính trị & Xã hội",
+    "section": "B - Xã hội",
+    "region": "Việt Nam",
+    "sourceUrl": "https://hanoimoi.vn/sang-19-11-chu-tich-ubnd-tp-ha-noi-doi-thoai-voi-thanh-nien-thu-do-1766532.html",
+    "imageUrl": "https://hnm.1cdn.vn/thumbs/600x315/2026/11/18/2912e40f58/chu-tich-doi-thoai.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3614,
+    "analysis": "Hoạt động hướng tới kỷ niệm 44 năm Ngày Nhà giáo Việt Nam (20/11/1982 – 20/11/2026) và 950 năm thành lập Quốc Tử Giám (1076–2026). Sở Nội vụ chủ trì tiếp nhận, phân loại ý kiến thanh niên qua nền tảng số trước hội nghị đối thoại.\nĐối thoại là kênh chính thống để thanh niên hiến kế về chính sách và được giải đáp trực tiếp các vấn đề về quyền, lợi ích hợp pháp; việc vinh danh thủ khoa lan tỏa truyền thống hiếu học và trọng dụng nhân tài của Thủ đô.",
+    "tags": [
+      "Chính trị & Xã hội",
+      "B - Xã hội"
+    ],
+    "language": "vi",
+    "contentHash": "087fd3c58fedc2c35983bd83dd913c099353edb96a2d613d04415383a5282619"
+  },
+  {
+    "id": "d31b0f629f17103a118a5750f2e611cf2ac338276473c49f2a55b3aee6318896",
+    "title": "CEO Microsoft Satya Nadella: AI agent sẽ 'xáo trộn' kinh tế của web, doanh nghiệp chặn agent sẽ thua",
+    "summary": "Phát biểu tại Hội nghị DealBook của NYT ngày 18/11, CEO Microsoft Satya Nadella dự báo làn sóng AI agent sẽ định hình lại kinh tế Internet, tương tự cú chuyển từ cổng web (Yahoo) sang công cụ tìm kiếm (Google). Các đơn vị tổng hợp nội dung sống bằng quảng cáo/lượt xem của 'human web' sẽ bị xáo trộn; mô hình kiếm tiền có thể chuyển sang CPC/giao dịch. Ông cảnh báo doanh nghiệp chặn agent (như Amazon chặn agent mua sắm) có thể thua đối thủ chấp nhận agent, ví dụ Shopify. Nguồn: TechCrunch, 2:58 PM PST 18/11 = 05:58 ngày 19/11 (trong cửa sổ). CHỈ 1 NGUỒN CHÍNH (TechCrunch).",
+    "category": "Công nghệ & AI",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3615,
+    "analysis": "Diễn ra cùng tuần Microsoft công bố 7 mô hình MAI tại Ignite và Amazon chặn agent truy cập trang bán lẻ. Nối tiếp làn sóng 'agent skills' và chuẩn hóa AI agent đang nóng trên GitHub và Hacker News.\nTín hiệu chiến lược cho nhà phát hành, thương mại điện tử và quảng cáo: mở cửa cho agent có thể thành lợi thế cạnh tranh; đồng thời làm nóng tranh luận về quyền truy cập dữ liệu và chia sẻ doanh thu giữa nền tảng AI và nhà xuất bản.",
+    "tags": [
+      "Công nghệ & AI",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "e00c129590e3511c5f96f2636413f3ad93ff6085aab8f6b25e76eb98d0f8c79e"
+  },
+  {
+    "id": "56784a6ccfc6e105ba315721c0f052b5e19aba838a6711818fd9d396f757c6a0",
+    "title": "F5 cảnh báo 6 lỗ hổng nghiêm trọng BIG-IP (CVSS 9.8): có thể sập TMM, nguy cơ RCE, chỉ có hotfix",
+    "summary": "F5 công bố 6 lỗ hổng nghiêm trọng trên BIG-IP, tất cả CVSS 3.1: 9.8 / CVSS 4.0: 9.3, dạng tràn bộ đệm stack ở data plane: kẻ tấn công không cần đăng nhập có thể làm sập Traffic Management Microkernel (TMM), gián đoạn lưu lượng cho đến khi TMM khởi động lại, và có thể dẫn tới thực thi mã từ xa (RCE). Mỗi lỗ hổng chỉ kích hoạt với cấu hình cụ thể trên virtual server (iRule dùng lệnh PEM::subscriber, MR::message route, PSC::ip_address, GENERICMESSAGE::route, DNS::scrape, hoặc chính sách APM gồm cả Client Information và Endpoint Security agents). Các CVE: CVE-2026-123637, CVE-2026-121805, CVE-2026-120292, CVE-2026-120285, CVE-2026-116953, CVE-2026-120722. Chỉ có engineering hotfix (không có bản phát hành thường kỳ, không có workaround); F5 cảnh báo hotfix không qua QA đầy đủ như bản chính thức. Chưa có báo cáo khai thác thực tế; 4 lỗi do nhà nghiên cứu Sina Kheirkhah (WatchTowr) phát hiện. Nguồn: The Hacker News, ngày 18/11 (bản tin thứ cấp Hacks.gr ghi ~03:41 ngày 19/11). CHỈ 1 NGUỒN TIN CHÍNH (THN, dựa trên khuyến nghị F5).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3616,
+    "analysis": "Cùng ngày F5 công bố 22 khuyến nghị, trong đó 10 liên quan NGINX (đã đưa ở số 67). Lỗi khác biệt với CVE-2026-94127 (APM, tháng 9, đã bị khai thác). Nối tiếp chuỗi lỗ hổng hạ tầng trong tuần: PHP2Shell, Nginx RCE, KVM escape.\nQuản trị BIG-IP cần đối chiếu iRule/chính sách APM và xin hotfix từ F5 ngay; rủi ro gián đoạn dịch vụ diện rộng nếu bị khai thác. Đây là tuần lễ hạ tầng số bị tấn công dồn dập — xem Phần C.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "840ffe626f37a1dc4123ec74a2104ca4f611c904ddf038f4058f30228496a08b"
+  },
+  {
+    "id": "699e1b3ca459d9b73be2f70671ea0afd4b50dbd9717b7919b6e5077efef00037",
+    "title": "Gói Python agent-framework của Microsoft trên PyPI bị cài mã đánh cắp credential Azure/CI — Wiz: chỉ 3 vụ rò rỉ nạn nhân thực sự thành công",
+    "summary": "Hai phiên bản độc hại 1.26.1 (20:35 UTC 17/11) và 1.26.2 (21:08 UTC 17/11) của gói 'agent-framework' (Microsoft Agent Framework) trên PyPI đã bị gỡ trong vòng ~1 giờ. Mã độc dùng file '.pth' để chạy mỗi khi Python khởi động — kể cả khi không import gói — và đánh cắp biến môi trường chứa secret, file credential (Azure CLI, .npmrc, .git-credentials, token Hugging Face...), token Azure managed-identity và token OIDC của Azure DevOps/GitHub Actions, gửi về webhook.site. Gói có ~41.000 lượt tải/tuần (~190.000/tháng). Wiz cập nhật ngày 18/11: kẻ tấn công dường như đã chiếm chứng chỉ/khóa riêng của Microsoft ESRP; công cụ tự nhận là 'Cairn' (framework kiểm thử xâm nhập AI mã nguồn mở). Phân tích 50 request bị webhook.site (gói miễn phí, tối đa 100 request) ghi lại: 4 từ máy kẻ tấn công, 29 từ sandbox/quét thử, chỉ 17 request tương ứng 3 trường hợp rò rỉ dữ liệu nạn nhân thực sự. Phiên bản an toàn gần nhất: 1.26.0; cần ghim phiên bản, kiểm tra file '.pth' và xoay toàn bộ secret nếu đã cài 1.26.1/1.26.2. Nguồn: Wiz Research, cập nhật phân tích 21:00 ngày 18/11 (trước cửa sổ; chưa có ở số 67 nên đưa bổ sung). Đa nguồn (Wiz + JFrog + Aikido).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3617,
+    "analysis": "Trước đó trong năm 2026, gói 'durabletask' của Microsoft cũng bị xâm phạm sau khi token PyPI bị đánh cắp; JFrog cho rằng kẻ tấn công đóng gói lại wheel cục bộ thay vì xâm nhập pipeline build của Microsoft (mâu thuẫn với giả thuyết ESRP của Wiz — chưa có kết luận thống nhất).\nCảnh báo chuỗi cung ứng phần mềm nghiêm trọng cho team dùng AI agent framework trong CI/CD; thiệt hại thực tế có vẻ hạn chế nhờ giới hạn của webhook miễn phí, nhưng mọi môi trường đã cài bản độc hại phải coi như bị lộ credential và xoay secret ngay.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "02c9bde57aef81c73c506cac6da72f274ca3b217d486530639c04ab13a7d4cb3"
+  },
+  {
+    "id": "a2f48a15ffc351267d95fe6fd22070fda8da3c6a92427370f20670f861b74720",
+    "title": "GTA VI ra mắt hôm nay 19/11 sau khi đạt 99/100 Metacritic — điểm cao nhất lịch sử, ngang Ocarina of Time",
+    "summary": "Grand Theft Auto VI của Rockstar chính thức phát hành ngày 19/11 trên PS5, Xbox Series X|S và Xbox Cloud Gaming, mở khóa lúc 0h giờ địa phương từng khu vực. Lệnh cấm đánh giá (embargo) gỡ ngày 18/11 (11:00 UTC = 18:00 VN): bản PS5 đạt Metascore 99/100 trên Metacritic với ~146 bài đánh giá của giới phê bình (toàn tích cực), ngang kỷ lục của The Legend of Zelda: Ocarina of Time (1998); OpenCritic đạt trung bình 99 với ~99% giới phê bình khuyên chơi. IGN, GameSpot, Forbes, Game Informer chấm 10/10; nhiều trang 5/5. Cốt truyện ~60 giờ (khoảng 80 giờ kèm nội dung phụ), dung lượng cài đặt tới 212 GB, giá bản Standard 79,99 USD. Điểm trừ phổ biến: chỉ nhắm 30fps trên console, không có chế độ 60fps ngay cả trên PS5 Pro; nửa sau cốt truyện bị chê chậm. Nguồn: Radio Times (đánh giá 10/10); tổng hợp điểm số qua Talkesport (Metacritic/OpenCritic).",
+    "category": "Game",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://www.radiotimes.com/technology/gaming/gta-6-review/",
+    "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/GTA-6-review-65811b9.jpg?resize=1200%2C630",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3618,
+    "analysis": "Sau hơn 13 năm kể từ GTA V; từng là game được đề cử Game of the Year tại The Game Awards trước cả khi có đánh giá. Ra mắt đúng ngày 19/11 nên là diễn biến mới của ngày, dù bài đánh giá gỡ embargo từ 18:00 ngày 18/11.\nSự kiện giải trí/công nghệ lớn nhất năm, dự báo doanh thu kỷ lục và áp lực lên hạ tầng máy chủ, bán lẻ game; tâm điểm tranh luận về chuẩn 30fps trên console thế hệ hiện tại.",
+    "tags": [
+      "Game",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "f74c04ef24bd9f2f6eb665ae097817a0405ea6e2887ca51694417edac8bbb6f4"
+  },
+  {
+    "id": "327610cee1c3cccb83115be6e483ab52f11ba0496a13d1e72af603aab5bf012b",
+    "title": "Apache Roller bị khai thác thực tế: RCE không cần đăng nhập (CVE-2026-129448, CVSS 9.8) — nâng cấp lên 6.1.6",
+    "summary": "Apache Software Foundation xác nhận lỗ hổng CVE-2026-129448 (CVSS 9.8) trong Apache Roller (nền tảng blog Java mã nguồn mở) đang bị khai thác tích cực ngoài thực tế. Lỗi do deserialization dữ liệu không tin cậy ở endpoint XML-RPC, cho phép kẻ tấn công từ xa không cần đăng nhập thực thi mã tùy ý. Ảnh hưởng Roller 4.0.0–6.1.4 (cùng lỗi với CVE-2026-82384 vốn chỉ liệt kê 6.1.5). Khuyến nghị nâng cấp lên 6.1.6 trở lên (bản mới nhất 6.1.7); nếu chưa vá được, đặt 'enabledForExtensions=false' trong WEB-INF/web.xml hoặc gỡ mapping servlet '/roller-services/xmlrpc' rồi khởi động lại — tắt XML-RPC trong giao diện quản trị là KHÔNG đủ. Apache không tiết lộ tác nhân hay quy mô nạn nhân. Nguồn: The Hacker News / BleepingComputer — BleepingComputer 05:35 EST 18/11 = 17:35 ngày 18/11 (trước cửa sổ; chưa có ở số 67 nên đưa bổ sung). Đa nguồn (THN + BleepingComputer + SecurityAffairs).",
+    "category": "An ninh mạng & Bảo mật",
+    "section": "B - Công nghệ",
+    "sourceUrl": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html?m=1",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3619,
+    "analysis": "Nhà nghiên cứu n0mi1k phát hiện, Matt Raible báo cáo; PoC đã công khai trên GitHub từ 28/9. Nối tiếp chuỗi lỗ hổng hạ tầng trong tuần: PHP2Shell, Nginx RCE, F5 BIG-IP, KVM escape.\nMáy chủ Roller lộ Internet cần vá khẩn; rủi ro chiếm quyền máy chủ và làm bàn đạp tấn công tiếp. Quản trị viên cần kiểm tra ngay phiên bản đang chạy và áp dụng workaround nếu chưa nâng cấp được.",
+    "tags": [
+      "An ninh mạng & Bảo mật",
+      "B - Công nghệ"
+    ],
+    "language": "vi",
+    "contentHash": "63d682ffa2900493d2616bf232509db18c31488acf6bc72a9fee94c6598145c6"
+  },
+  {
+    "id": "855a6d778ca886820bd687da618d9fb3b8c1b25afa4bb1d972f2ea807becbd96",
+    "title": "Gemini 4 Neon — Google ra mắt model AI mới, 'chất lượng Carbon, tốc độ Flash'",
+    "summary": "Nền tảng: Hacker News (#6 front page) + blog Google. Nội dung: Google ra mắt Gemini 4 Neon ngày 18/11 — model thứ 4 của dòng Gemini 4 trong 4 tuần; trí tuệ gần Carbon nhưng tốc độ và chi phí thấp hơn; Intelligence Index 61, #3 toàn thị trường, #1 Coding Agent Index (58,6); giá 3/15 USD/1M token, context 1M token. Like/Reactions: 295 điểm (upvote HN) | Comments/Replies: 286 | Shares/Reposts: N/A | Số bài đăng/cộng đồng độc lập: 1 bài HN + nhiều bài báo độc lập cùng ngày (9to5Google, TestingCatalog, LLM Report, Android Headlines). Thời điểm ghi nhận: 06:20 VN 19/11/2026 (tự xác minh qua Algolia API); bài HN đăng 04:34 VN 19/11 — mới hoàn toàn trong cửa sổ. Điểm HOT: Chưa đủ dữ liệu (thiếu shares/tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50552424",
+    "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3620,
+    "analysis": "Ra mắt bất ngờ lúc rạng sáng giờ VN, 286 comments chỉ sau ~2 giờ — cộng đồng tranh luận sôi nổi về tốc độ Google 'ship' 4 model/tháng và về chiến lược đặt tên/phân tầng gây rối (Argon/Carbon/Hydrogen/Neon). Đây là model mới nhất của Google, cạnh tranh trực tiếp Claude Opus 5.5 và GPT-6.2.\nVì sao đang HOT: tốc độ ra mắt dày đặc của Google + tranh luận về giá (Neon đắt hơn Carbon tới 30/11 do Carbon đang khuyến mãi, từ 1/12 Neon rẻ hơn 25%). Các quan điểm nổi bật: ủng hộ — Neon lấp khoảng trống 'mạnh mà rẻ' cho coding agent; hoài nghi — ra model quá nhanh, khó theo dõi, benchmark do chính Google công bố. Tác động: lựa chọn mới cho dev dùng Gemini API/Agent; áp lực cạnh tranh giá lên OpenAI/Anthropic; người dùng Pro/Ultra được nâng cấp miễn phí.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "50e6a23b355efd86a98441f85f32bb840fa99d6808f8c1ccbf59a0f57337fbf6"
+  },
+  {
+    "id": "85221012e9f4bd344597d584b07e479272b6d3d661fe4b1d36e6d73133160204",
+    "title": "Quad9 rời Pháp — tranh luận DNS có phải nơi chống vi phạm bản quyền?",
+    "summary": "Nền tảng: Hacker News (#2 front page). Nội dung: bài 'DNS resolvers are the wrong place to fight piracy' về việc Quad9 rời Pháp sau khi tòa án Pháp yêu cầu các DNS resolver chặn truy cập trang vi phạm bản quyền. Cộng đồng tranh luận: ép DNS chặn là biện pháp sai chỗ, kém hiệu quả (người dùng đổi DNS dễ dàng), gây tiền lệ nguy hiểm cho hạ tầng internet trung lập. Like/Reactions: 551 điểm (upvote HN) | Comments/Replies: 204 | Shares/Reposts: N/A | Số bài đăng/cộng đồng độc lập: 1 bài HN (đang #2). Thời điểm ghi nhận: 06:20 VN 19/11/2026 (tự xác minh qua Algolia API); bài HN đăng 20:18 VN 18/11. Điểm HOT: Chưa đủ dữ liệu (thiếu shares/tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50545958",
+    "imageUrl": "https://techstackups.com/img/articles/quad9-leaves-france/cover.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3621,
+    "analysis": "Cập nhật so với số 67: trend này đã rời top 30 lúc 02:20 nhưng quay lại mạnh mẽ, leo lên #2 với 551 điểm/204 comments lúc 06:20 — diễn biến mới đáng kể trong cửa sổ. Chủ đề chạm tới tự do internet, vai trò của DNS công cộng và giới hạn của biện pháp chặn ở tầng hạ tầng. (Số 67 đã loại Quad9 vì 'không diễn biến mới' — nay có diễn biến mới nên đưa lại.)\nVì sao đang HOT: tiền lệ pháp lý cho các DNS resolver công cộng tại EU. Các quan điểm nổi bật: đa số ủng hộ Quad9 — chặn DNS không ngăn được vi phạm, chỉ đẩy người dùng sang resolver khác; một số cho rằng nhà cung cấp DNS lớn vẫn phải tuân thủ pháp luật địa phương. Tác động: người dùng Pháp có thể phải đổi DNS; củng cố lập trường 'hạ tầng trung lập' của Quad9.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "acab11e46d56a50a092694e3e9a44afef2acd8fb6904f3913d4e6800d06f261c"
+  },
+  {
+    "id": "64b69732bd482e014229060e6c7e6993d457f3523c86182a6db147b05405d8da",
+    "title": "AI agent đặt câu hỏi kiểm toán tốt hơn kế toán viên KPMG trong thử nghiệm",
+    "summary": "Nền tảng: Hacker News (#5 front page). Nội dung: trong một thử nghiệm kiểm toán (audit trial), các AI agent đặt câu hỏi tốt hơn kế toán viên của KPMG — cộng đồng HN bàn luận sôi nổi về việc AI đang lấn sân vào các nghề chuyên môn 'cổ cồn trắng' vốn được coi là an toàn trước tự động hóa. Like/Reactions: 302 điểm (upvote HN) | Comments/Replies: 138 | Shares/Reposts: N/A | Số bài đăng/cộng đồng độc lập: 1 bài HN. Thời điểm ghi nhận: 06:20 VN 19/11/2026 (tự xác minh qua Algolia API); bài HN đăng 22:49 VN 18/11. Điểm HOT: Chưa đủ dữ liệu (thiếu shares/tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50547777",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3622,
+    "analysis": "Chủ đề 'AI thay thế nghề chuyên môn' luôn gây tranh luận mạnh; kết quả thử nghiệm cụ thể (không chỉ dự đoán) khiến cả phe lạc quan lẫn hoài nghi đều vào tranh luận. Lưu ý: bài gốc là European Business Magazine — tạp chí thương mại, không phải nghiên cứu học thuật; phương pháp thử nghiệm, quy mô mẫu và tiêu chí đánh giá chưa được trình bày đầy đủ trong bản tin.\nVì sao đang HOT: 302 điểm/138 comments. Các quan điểm nổi bật: phe ủng hộ — kiểm toán là công việc có cấu trúc, truy vấn theo quy tắc, AI agent phù hợp tự nhiên; phe hoài nghi — 'đặt câu hỏi hay' chưa đồng nghĩa 'kết luận kiểm toán đúng', cần xem phương pháp và quy mô mẫu; nhiều ý kiến cho rằng vai trò con người sẽ chuyển sang giám sát/xác minh thay vì biến mất. Tác động: áp lực chuyển đổi số lên Big Four và ngành kiểm toán/kế toán; nhu cầu về chuẩn đánh giá AI trong nghề chuyên môn.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "d76c5378edd87e05dae305d40b02d0cecb745af734881b65334a734ebf7c409e"
+  },
+  {
+    "id": "8a8e0a46c7721c48adf7d32032896512556e92709d1635aa7a33b8bf03dc9b3a",
+    "title": "CVE-2026-99312 — Lỗ hổng KVM guest-to-host escape trên AMD, demo trên DigitalOcean",
+    "summary": "Nền tảng: Hacker News (#9 front page) + CVE.org. Nội dung: lỗi KVM x86 — khi giả lập INIT, MMU context không được reset vô điều kiện, khiến guest VM trong môi trường nested virtualization (AMD SVM) có thể đọc/ghi bộ nhớ vật lý của host — tức thoát khỏi máy ảo (guest-to-host escape). Lỗi đã được vá trong Linux 7.4-rc2 (patch của Paolo Bonzini, 2/11/2026). Theo LowEndTalk, nhóm nghiên cứu đã demo khai thác trên DigitalOcean droplet. Các cloud không bật nested virtualization trên AMD không bị ảnh hưởng. Like/Reactions: 164 điểm (upvote HN) | Comments/Replies: 113 | Shares/Reposts: N/A | Số bài đăng/cộng đồng độc lập: 1 bài HN + thảo luận LowEndTalk + bài phân tích The CyberSec Guru. Thời điểm ghi nhận: 06:20 VN 19/11/2026 (tự xác minh qua Algolia API); bài HN đăng 23:06 VN 18/11. Điểm HOT: Chưa đủ dữ liệu (thiếu shares/tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50548004",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3623,
+    "analysis": "Guest-to-host escape là loại lỗ hổng hiếm và nghiêm trọng nhất với cloud; việc demo thành công trên nhà cung cấp cloud thật khiến cộng đồng DevOps/bảo mật đặc biệt chú ý; xuất hiện đúng lúc Nginx RCE cũng đang thống trị HN — 'đêm của các lỗ hổng hạ tầng'. Lưu ý: Nginx RCE đã đưa ở số 67 — cập nhật: lúc 06:20 VN đã lên 1.008 điểm/464 comments (từ 561/199 lúc 02:35), vẫn #1 front page.\nVì sao đang HOT: mức độ nghiêm trọng hiếm gặp + demo thực tế trên cloud. Các quan điểm nổi bật: kêu gọi cập nhật kernel ngay với host KVM trên AMD; nếu chưa vá được thì tắt nested virtualization (kvm_amd nested=0) để đóng hoàn toàn đường tấn công; tranh luận về phạm vi ảnh hưởng thực tế — nhiều cloud lớn không bật nested trên AMD nên thoát nạn. Tác động: các nhà vận hành cloud/VPS dùng AMD cần rà soát và vá kernel; nhắc lại rủi ro của nested virtualization.",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "9fc8d4c6cff494e7c720ab02166eb650ace08f4fb4dfa685a23c76030d50e5ce"
+  },
+  {
+    "id": "5d11580cf69c05e264964eae2b0a1d56d19d0710c94641510260ffcb985be1fd",
+    "title": "OpenAI dùng model của mình để thiết kế chip",
+    "summary": "Nền tảng: Hacker News + blog OpenAI. Nội dung: OpenAI công bố dùng chính model của mình để thiết kế chip — bước tiến trong việc AI tham gia thiết kế phần cứng. Like/Reactions: 137 điểm (upvote HN) | Comments/Replies: 76 | Shares/Reposts: N/A | Số bài đăng/cộng đồng độc lập: 1 bài HN. Thời điểm ghi nhận: 06:20 VN 19/11/2026 (tự xác minh qua Algolia API); bài HN đăng 00:45 VN 19/11 (trước cửa sổ 02:15 nhưng chưa có ở số 67, mới xuất hiện trong bản tin). Điểm HOT: Chưa đủ dữ liệu (thiếu shares/tăng trưởng 24h).",
+    "category": "Hot Trends & Tiêu điểm",
+    "section": "B - Hot Trends",
+    "sourceUrl": "https://news.ycombinator.com/item?id=50548991",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3624,
+    "analysis": "OpenAI vốn là khách hàng chip lớn (đơn hàng với Nvidia/AMD/Broadcom) nay công bố tự dùng AI để thiết kế chip — nối tiếp xu hướng 'AI thiết kế AI' và tự chủ phần cứng của các lab lớn. Cộng đồng quan tâm tới khả năng AI rút ngắn chu kỳ thiết kế chip và giảm phụ thuộc vào nhà cung cấp ngoài.\nVì sao đang HOT: chủ đề AI tự thiết kế phần cứng chạm tới cả cộng đồng AI lẫn chip. Tác động: nếu AI chứng minh được hiệu quả trong thiết kế chip, chu kỳ phát triển phần cứng AI có thể rút ngắn đáng kể; tăng áp lực cạnh tranh lên các hãng chip truyền thống và các lab AI khác. Lưu ý: chi tiết kỹ thuật và mức độ tự động hóa thực tế cần bài gốc OpenAI để đối chiếu (trang openai.com chặn trích xuất trực tiếp trong lần chạy này).",
+    "tags": [
+      "Hot Trends & Tiêu điểm",
+      "B - Hot Trends"
+    ],
+    "language": "vi",
+    "contentHash": "c9572e64f0662aeecd47dc315b59f608c502d75f68eed541192e92565a162e3f"
+  },
+  {
+    "id": "8c99165dc2a6f58f0790d57712e37b03b35edf0484ec227a8faab6ddd902a7c5",
+    "title": "Snapchat Easy Lens CLI — xây Lens AR bằng Claude Code, Cursor, Codex, không cần viết code",
+    "summary": "Tính năng: Snapchat công bố Easy Lens CLI (02:56 VN 19/11), cho phép nhà sáng tạo mô tả Lens bằng ngôn ngữ tự nhiên và để trợ lý lập trình AI (Claude Code, Cursor, Codex) lo toàn bộ quy trình: dùng hơn 100 khối xây dựng AR và 50 công cụ tạo tài nguyên AI, tạo bản xem trước, sửa lỗi, xuất bản lên Snapchat và theo dõi hiệu quả. Hỗ trợ game Web Lens có bảng xếp hạng, hiệu ứng camera, bộ lọc làm đẹp; chạy trên Mac, Windows, Linux. Điểm mới: đưa việc tạo Lens AR vào quy trình lập trình AI mà developer đã dùng, thay vì công cụ riêng; Snapchat nói có thể đưa một game từ ý tưởng đến Lens đã phát hành trong một ngày. Ứng dụng thực tế: developer đưa game trình duyệt lên Snapchat; creator AI dùng tài nguyên theo phong cách riêng; agency/thương hiệu biến video/ảnh chiến dịch thành trải nghiệm AR nhanh hơn. Hạn chế: cần tài khoản nhà phát triển Snapchat; chất lượng Lens phụ thuộc trợ lý AI; chưa có đánh giá độc lập. Giá: không công bố phí cho CLI; creator trong Lens+ Payouts có thể nhận tiền (Snapchat đã trả 1,8 triệu USD cho cộng đồng sáng tạo Lens+ trong tháng trước). Nguồn: TechCrunch 02:56 ngày 19/11 (dẫn Snap Newsroom). CHỈ 1 NGUỒN CHÍNH.",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3625,
+    "analysis": "Nối tiếp công cụ Easy Lens (tạo Lens từ một prompt trên web/mobile); động thái hạ rào cản sáng tạo AR và đưa Snapchat vào quy trình lập trình AI.\nMở rộng nguồn cung Lens AR, tăng sức hút với developer/game studio/thương hiệu; rủi ro chất lượng Lens tràn lan và cạnh tranh với nền tảng AR khác.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "c431f240b596bcd778dc55844664a897feb9cedd61aad0501d5d569b6aa613f6"
+  },
+  {
+    "id": "0db324499452a7462dca1986fa3b3d6d585c09ffa08c6be6797c75c054be394a",
+    "title": "Kling Image 4.0 — mô hình tạo ảnh 8K native, chữ tới 2.000 ký tự, 10 ảnh đồng bộ từ một prompt",
+    "summary": "Tính năng: Kuaishou/Kling AI ra mắt Kling Image 4.0 (tối 17/11 giờ Trung Quốc = 23:14 ngày 17/11 VN; trước cửa sổ nhưng chưa có ở các số trước): lần đầu tạo ảnh native 8K (không upscale), tạo tới 10 ảnh nhất quán từ một prompt, chữ trong ảnh tới 2.000 ký tự (6 ngôn ngữ: Trung, Anh, Nhật, Hàn, Tây Ban Nha, Bồ Đào Nha), prompt tới 15.000 token, kiến trúc autoregressive thống nhất hiểu + tạo ảnh; dẫn đầu bảng Artificial Analysis ở cả text-to-image và chỉnh sửa ảnh (theo công bố của hãng). Ứng dụng thực tế: quảng cáo, storyboard, trưng bày sản phẩm, trang thương mại điện tử, poster/typography; dùng qua Kling Creative Studio và API. Hạn chế: mọi số liệu đều từ nhà sản xuất, chưa có benchmark độc lập; chữ dày đặc tiếng Trung vẫn lỗi; mô hình đóng (không mở weights); giá chính thức chưa công bố. Giá: chưa có giá chính thức; một trang tổng hợp giá gateway ghi 0,063 USD/ảnh 2K đến 0,157 USD/ảnh 8K (giá của bên trung gian, không phải giá chính thức của Kling). Nguồn: Manila Times/Media OutReach 18/11; trang sản phẩm kling.ai.",
+    "category": "Công nghệ & AI",
+    "section": "D - Công nghệ đáng thử",
+    "region": "Quốc tế",
+    "sourceUrl": "https://www.manilatimes.net/2026/11/18/tmt-newswire/media-outreach-newswire/kling-ai-launches-kling-image-40-with-photographic-realism-and-native-8k-generation/2472379",
+    "imageUrl": "https://manilatimes.net/manilatimes/uploads/images/2026/11/18/1312846.jpg",
+    "imageUrlSource": "sheet",
+    "collectedAt": "2026-11-19T02:30:33.139Z",
+    "sourceRow": 3626,
+    "analysis": "Ra mắt trong tuần các lab AI dồn dập tung sản phẩm mới (Gemini 4 Neon, Genie 4, MAI 7) — cuộc đua model đa phương tiện tiếp tục tăng tốc.\nTạo ảnh 8K native và text dài trong ảnh là hai điểm yếu lâu nay của AI tạo ảnh; nếu đúng như công bố, Kling 4.0 hữu ích cho quảng cáo/thương mại điện tử. Cần chờ benchmark độc lập trước khi kết luận.",
+    "tags": [
+      "Công nghệ & AI",
+      "D - Công nghệ đáng thử"
+    ],
+    "language": "vi",
+    "contentHash": "7c7da8f051b07cf68a919fd92e6ca16d83dfdc768c9caa49d4461457ffd8ae4f"
   }
 ]
