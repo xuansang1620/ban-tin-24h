@@ -1,9 +1,9 @@
 {
-  "lastUpdatedAt": "2026-11-25T09:46:17.375Z",
-  "inputRows": 4459,
-  "validRows": 4453,
+  "lastUpdatedAt": "2026-11-25T22:27:40.969Z",
+  "inputRows": 4524,
+  "validRows": 4518,
   "duplicates": 6,
   "rejectedRows": 0,
-  "outputRows": 4485,
+  "outputRows": 4550,
   "source": "https://docs.google.com/spreadsheets/d/1BKvEFsK-SjtW0CPBylrXOWSNIo7vDEWhEFemPsOs--Y/edit?gid=0#gid=0"
 }
